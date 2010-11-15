@@ -1,0 +1,22 @@
+# Temporary editor files
+*~
+*.swp
+*.orig
+*.dict
+
+# LaTeX work-files
+*.log
+*.aux
+*.toc
+*.lot
+*.bbl
+*.blg
+*.out
+*.bak
+
+# Random Mac thing
+*.DS_Store
+
+# Python Compiled
+*.pyc
+
