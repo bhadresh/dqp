@@ -1,0 +1,3 @@
+Distributed Query Processing (DQP)
+
+Main focus of this project is to implement the user inferface and the dirstibuted query processing component of the Search Engine over multiple Amazon EC2 nodes.
