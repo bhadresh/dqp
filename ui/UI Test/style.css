@@ -1,0 +1,130 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	padding-top: 0px;
+	background-color: #01111d;
+	color: #FFF;
+	font-family: verdana, arial, sans-serif;
+	
+	text-align: left;
+	letter-spacing: 1px;
+}
+a {color: #FFF;font-size: 14px;}
+a:hover {color: #01a9c0;}
+.more{float: left;}
+.clear{clear:both;}
+p{	margin: 20px 0px 20px 0px;line-height: 16px;font-size: 14px;}
+#container {
+	margin: 0px auto;
+	width:873px;
+}
+#menu {
+	background-image:url(images/menu.gif);
+	width:862px;
+	height:90px;
+	position:relative;
+}
+#menu li{
+	position:absolute;
+	top:50px;
+	
+	list-style-type: none;
+}
+#m01 {left:160px;}
+#m02 {left:305px;}
+#m03 {left:450px;}
+#m04 {left:590px;}
+#m05 {left:730px;}
+#menu a{
+	font-family: verdana, arial, sans-serif;
+	font-size: 12px;
+	font-weight:bolder;
+	color:#FFFFFF;
+	text-decoration:none;
+	text-transform: uppercase;
+}
+#menu a:hover {color: #01a9c0;}
+#header {
+	background-image:url(images/header.gif);
+	background-repeat:repeat-y;
+	width:873px;
+}
+#logo {
+	width:240px;
+	height:46px;
+	margin: 0px 0px 0px 80px;
+	float:left;
+	display:inline;
+}
+#dj {
+	background-image:url(images/dj.jpg);
+	width:498px;
+	height:405px;
+	float:right;
+	margin-right:40px;
+	display:inline;
+}
+#welcome {
+	width:210px;
+	margin: 50px 0px 0px 100px;
+	float:left;
+	display:inline;
+}
+#welcome h2{
+	margin: 0px 0px 20px 0px;
+}
+#welcome p{
+	width:200px;
+}
+#welcome img{
+	border: solid 3px #FFFFFF;
+}
+#middle {
+	background-image:url(images/middle.gif);
+	width:873px;
+	height:21px;
+}
+#middle2 {
+	background-image:url(images/middle2.gif);
+	width:873px;
+	height:22px;
+}
+#content {
+	background-image:url(images/content.gif);
+	width:873px;
+}
+#left {
+	float:left;
+	width:435px;
+	margin: 0px 0px 0px 85px;
+	display:inline;
+}
+#right {
+	float:right;
+	width:258px;
+	height:auto;
+	margin: 0px 62px 20px 0px;
+	display:inline;
+}
+#right a img{
+	margin: 8px 8px 8px 0px;
+	border: none 0px #FFFFFF;
+}
+#footer {
+	background-image:url(images/footer.gif);
+	background-repeat:no-repeat;
+	width:873px;
+}
+#footer p{
+	height:58px;
+	width:873px;
+	text-align:center;
+	margin: 0px 0px 0px 0px;
+	padding: 30px 0px 0px 0px;
+	font-size:11px;
+}
+#footer a{
+	font-size:11px;
+}
