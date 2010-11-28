@@ -1,7 +1,7 @@
 """Distributor"""
 import os
+import user
 import Pyro.core
-import Pyro.naming
 from multiprocessing import Pool
 
 __version__ = "1.0"
@@ -14,28 +14,26 @@ def dqp(q):
     
     Run the given query on multiple nodes and return the combined result
     """
-    g = 'dqp' # Group
-    try:
-        ns = Pyro.naming.NameServerLocator().getNS(host='localhost', port=9090)
-        servers = ns.list(g)
-    except:
-        print "Unable to connect to Pyro NameServer. Start the NameServer at localhost:9090 using pyro-ns command"
-        raise SystemExit
-    
-    if len(servers) == 0:
-        print "No server available to process queries."
-        raise SystemExit
+    nodesfile = os.path.realpath(os.path.join(os.path.dirname(__file__), getattr(user, "dqp_nodes_file", "local.nodes")))
+    nodes = open(nodesfile).read().strip().splitlines()
+    args = []
+    for node in nodes:
+        args.append(('PYROLOC://' + node + '/dqp', q))
 
-    pool = Pool(processes=len(servers))
-    args = [(g + '.' + servers[i][0], q) for i in range(len(servers))]
+    pool = Pool(processes=len(nodes))
     result = pool.map(do_search, args)
     return result
-    
+
 def do_search(arg):
     """Call Remote Node and execute Search"""
-    u, q = arg
-    dqp = Pyro.core.getProxyForURI("PYRONAME://" + u)
-    return dqp.search(q)
+    result = []
+    try:
+        uri, q = arg
+        dqp = Pyro.core.getProxyForURI(uri)
+        result = dqp.search(q)
+    except:
+        pass
+    return result
 
 if __name__ == '__main__':
     import optparse
@@ -53,5 +51,5 @@ if __name__ == '__main__':
     _verbose = options.verbose
     result = dqp(args[0])
     for r, d in enumerate(result):
-        print "%d. %s" % (r, d)
+        print "%d. %s" % (r + 1, d)
 
