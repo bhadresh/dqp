@@ -1,5 +1,6 @@
 """Node Server"""
 import os
+import user
 import Pyro.core
 import ip
 import time
