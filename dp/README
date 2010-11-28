@@ -1,0 +1,29 @@
+Distributed Processing
+--------------------------------------------------------------------------------
+
+The main focus of this code is to take query input from user interface,  
+execute search on multiple nodes for the given query, and return the combined
+results to user interface.
+
+server.py:
+    The server program that will be running on each nodes. It creates server and
+listens for incomming connections. The client program will connect to it and
+execute search.
+
+distributor.py:
+    This is a distributor program which will be executed by the user interface.
+It takes the query and execute search on each nodes by connecting them using the
+*.nodes file.
+
+ip.py:
+    It is used by server.py to identify IP address of the system.
+
+local.nodes:
+    This file contains list of IP and port of each nodes where server.py would
+be running. This file is for local testing only.
+    
+cloud.nodes:
+    This file contains list of IP and port of each nodes where server.py would
+be running. This file is for Amazon EC2 environment.
+
+
