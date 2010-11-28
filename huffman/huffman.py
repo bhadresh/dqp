@@ -70,8 +70,6 @@ class HuffmanCoder:
         return bitString
     
     def encodeText(self,inputText):
-        extraBits=8-len(inputText)%8
-    
         encodedText=''
         currentBitString=''
         for ch in inputText:
