@@ -1,0 +1,11 @@
+<!ELEMENT ArrayOfSite (Site+)>
+<!ATTLIST ArrayOfSite xmlns:xsi CDATA #REQUIRED>
+<!ATTLIST ArrayOfSite xmlns:xsd CDATA #REQUIRED>
+
+<!ELEMENT Site (LinksTo?,LinksFrom)>
+<!ATTLIST Site URL CDATA #REQUIRED>
+<!ATTLIST Site ID CDATA #REQUIRED>
+
+<!ELEMENT LinksFrom (ID+)>
+<!ELEMENT LinksTo (ID+)>
+<!ELEMENT ID (#PCDATA)>
