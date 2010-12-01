@@ -20,3 +20,9 @@
 # Python Compiled
 *.pyc
 
+# Pyro
+Pyro_NS_URI
+
+# Work Space
+tmp
+work
