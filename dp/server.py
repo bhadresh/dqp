@@ -16,7 +16,18 @@ class Search(Pyro.core.ObjBase):
     def search(self, q):
         """Search documents for the given query q"""
         log(q)
-        return []
+        import random
+        return [{
+            'docid': '%d' % random.randint(100, 1000),
+            'url': 'http://example.com/page.htm',
+            'pagerank': '%5.3f' % random.random(),
+            'score': '%4.2f' % random.random()
+        }, {
+            'docid': '%d' % random.randint(100, 1000),
+            'url': 'http://example2.com/page.htm',
+            'pagerank': '%5.3f' % random.random(),
+            'score': '%4.2f' % random.random()
+        }]
 
 def log(msg):
     if _verbose:

@@ -22,7 +22,10 @@ def dqp(q):
 
     pool = Pool(processes=len(nodes))
     result = pool.map(do_search, args)
-    return result
+    combined_result = []
+    for r in result:
+        combined_result.extend(r)
+    return combined_result
 
 def do_search(arg):
     """Call Remote Node and execute Search"""
@@ -50,6 +53,8 @@ if __name__ == '__main__':
     
     _verbose = options.verbose
     result = dqp(args[0])
-    for r, d in enumerate(result):
-        print "%d. %s" % (r + 1, d)
-
+    if _verbose:
+        for r, d in enumerate(result):
+            print "%d. %s" % (r + 1, d)
+    else:
+        print result
