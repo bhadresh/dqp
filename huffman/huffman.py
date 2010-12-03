@@ -74,7 +74,7 @@ class HuffmanCoder:
         currentBitString=''
         for ch in inputText:
             currentBitString=currentBitString+self.codeMap[ch]
-            if(len(currentBitString)>8):
+            while(len(currentBitString)>8):
                 tempString=currentBitString[:8]
                 currentBitString=currentBitString[8:]
                 encodedText=encodedText+self.bitStringToChar(tempString)
