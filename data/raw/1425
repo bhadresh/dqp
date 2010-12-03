@@ -1,0 +1,545 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+<script type="text/javascript">serverResponseTimeDelta=window.external&&window.external.pageT?window.external.pageT:-1;pageStartTime=new Date().getTime();</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Folders - Google Docs Help</title>
+<meta name="google-site-verification"
+content="l0nCskQHeO/C11y6qeq7ngDGZ0QVdN1hX7F4SGj3PHg=" />
+<link rel="canonical" href="http://docs.google.com/support/bin/topic.py?hl=en&topic=15154" />
+<link rel="icon" href="//www.google.com/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="http://docs.google.com/support/bin/resource/all.css?v=244_9" />
+<script type="text/javascript">
+var internal = 0;
+var hc_protocol = "http://";
+var hc_page_info = "topic=15154";
+var country = 'US';
+var countryGroup = 'Americas';
+var autoExpand = '';
+var global_error_general = "Sorry, we weren't able to submit your information. Please try again.";
+var hc_urchin = "UA-18500-33";
+var global_hc_bookmark = new Array("add","remove","toggle");
+global_hc_bookmark.add = new Array();
+global_hc_bookmark.remove = new Array();
+global_hc_bookmark.toggle = new Array();
+global_hc_bookmark["add"].url = "";
+global_hc_bookmark["add"].token = "";
+global_hc_bookmark["remove"].url = "";
+global_hc_bookmark["remove"].token = "";
+global_hc_bookmark["toggle"].url = "";
+global_hc_bookmark["toggle"].token = "";
+</script>
+<script
+src="//docs.google.com/support/bin/resource/js_variables.js?v=2&hl=en"
+type="text/javascript"></script>
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script
+src="//docs.google.com/support/bin/resource/search_util.js"
+type="text/javascript"></script>
+<script type="text/javascript">
+enableSearchSuggest("008106700680312029734:rydzxbx71js");
+</script>
+<script
+src="//docs.google.com/support/bin/resource/js_minified.js?v=64"
+type="text/javascript"></script>
+</head>
+<body onload="
+setCookies_default('DSLocale',
+'en','formLoad'); makeRequest('/support/bin/stats?r='+serverResponseTimeDelta+'&l='+(new Date().getTime()-pageStartTime)); 
+"
+dir="ltr"
+class=" topic_page ltr lang_en show_modules show_leftnav other  other  topic_15154 modules_widescreen new-ui ">
+<a href="#content" class="skiplink">Skip to content</a>
+<div class="wrapper" id="baseDiv">
+<div class="one_google">
+<a href="https://www.google.com/accounts/Login?continue=http%3A%2F%2Fdocs.google.com%2Fsupport%2Fbin%2Ftopic.py%3Fhl%3Den%26topic%3D15154&/">Sign in</a>
+</div>
+<div id="hc_error"></div>
+<div class="header_wrapper">
+<table class="header">
+<tr><td class="logo">
+<a href="http://docs.google.com/"
+onclick="track('Header', 'Logo')">
+<img src="//www.google.com/intl/en/images/logos/docs_logo.gif" alt="Google" height="40"  class="logo" />
+</a>
+</td><td class="header_right">
+<form name="search_form"
+id="search_form"
+title="Search Help"
+method="get" action="/support/bin/search.py"
+onsubmit="track('Search Help', document.getElementById('query').value);"
+class="">
+<input type="hidden" name="ctx" value="en:searchbox" />
+<input size="24"
+type="text" name="query"
+class="searchbox"
+autocomplete="off"
+title="Search"
+value=""
+id="query" />
+<input type="submit"
+value="Search Help" />
+</form>
+</td>
+</tr>
+</table>
+</div>
+<div class="header_bar">
+<h1>Docs Help</h1>
+<div class="clear"></div>
+</div>
+<table class="layout" border="0"><tr>
+<td class="left_column">
+<ul class="leftnav">
+<li class="">
+<a href="http://docs.google.com/support/"
+onclick='track("Left Nav", "Help topics");'>Help articles</a>
+</li>
+<li class="leftnav_topics ">
+<a href="/support/bin/topic.py?topic=15114"
+onclick='track("Left Nav", "topic=15114");'>Google Documents</a>
+</li>
+<li class="leftnav_topics nav_link_on">
+<a href="/support/bin/topic.py?topic=15115"
+onclick='track("Left Nav", "topic=15115");'>Google Spreadsheets</a>
+</li>
+<li class="leftnav_topics ">
+<a href="/support/bin/topic.py?topic=15116"
+onclick='track("Left Nav", "topic=15116");'>Google Presentations</a>
+</li>
+<li class="leftnav_topics ">
+<a href="/support/bin/topic.py?topic=28131"
+onclick='track("Left Nav", "topic=28131");'>Google Drawings</a>
+</li>
+<li class="forum">
+<a href="http://www.google.com/support/forum/p/Google+Docs?hl=en&utm_source=HC&utm_medium=leftnav&utm_campaign=docs"
+onclick='track("Left Nav", "u2u");'>Help forum</a>
+</li>
+<li class="LeftNav_Tours first">
+<a href="http://www.google.com/google-d-s/tour1.html"  onclick="track('LeftNav', 'Tours');">Take a Tour</a>
+</li>
+<li class="LeftNav_WorkOrSchool">
+<a href="http://www.google.com/apps/intl/en/business/collaboration.html#utm_medium=et&utm_source=docs-en-hcnav&utm_campaign=crossnav"  onclick="track('LeftNav', 'WorkOrSchool');">For work or school</a>
+</li>
+<li class="LeftNav_Blog">
+<a href="http://googledocs.blogspot.com/"  onclick="track('LeftNav', 'Blog');">Team Blog</a>
+</li>
+<li class="LeftNav_YouTubeChannel">
+<a href="http://www.youtube.com/docs"  onclick="track('LeftNav', 'YouTubeChannel');">Google Docs YouTube channel</a>
+</li>
+<li class="LeftNav_CommChannel">
+<a href="http://www.youtube.com/GoogleDocsCommunity"  onclick="track('LeftNav', 'CommChannel');">Google Docs Community on YouTube</a>
+</li>
+<li class="LeftNav_Sharing">
+<a href="http://docs.google.com/support/bin/request.py?contact_type=feedback"  onclick="track('LeftNav', 'Sharing');">Share your feedback</a>
+</li>
+</td>
+<td class="content new-ui">
+<div class="inner_content">
+<p class="breadcrumbs">
+<a href="http://docs.google.com/">Google Docs</a>
+&rsaquo;
+<a href="http://docs.google.com/support/">Help articles</a>
+&rsaquo;
+<a href="/support/bin/topic.py?topic=15115">Google Spreadsheets</a>
+&rsaquo;
+<a href="/support/bin/topic.py?topic=15145">Organizing your Docs list</a>
+&rsaquo; Folders
+&nbsp;</p>
+<div id="hcError" style="display:none"></div>
+<a name="content"></a>
+<div id="page-content">
+<div id="zippy-dropdown-container"
+class="zippy-dropdown-container-hide"></div>
+<h2>Folders</h2>
+<ul class="topics topics-answers"><ul>
+<li class="topiclist_kb"><a href="/support/bin/answer.py?hl=en&answer=68486"><span class="answer_link">Creating a folder</span></a>
+</li>
+<li class="topiclist_kb"><a href="/support/bin/answer.py?hl=en&answer=158074"><span class="answer_link">Shared folders</span></a>
+</li>
+<li class="topiclist_kb"><a href="/support/bin/answer.py?hl=en&answer=165280"><span class="answer_link">Frequently asked questions about shared folders</span></a>
+</li>
+<li class="topiclist_kb"><a href="/support/bin/answer.py?hl=en&answer=68491"><span class="answer_link">Adding docs to a folder</span></a>
+</li>
+<li class="topiclist_kb"><a href="/support/bin/answer.py?hl=en&answer=86142"><span class="answer_link">Creating subfolders</span></a>
+</li>
+<li class="topiclist_kb"><a href="/support/bin/answer.py?hl=en&answer=68488"><span class="answer_link">Viewing contents of a folder</span></a>
+</li>
+<li class="topiclist_kb"><a href="/support/bin/answer.py?hl=en&answer=92357"><span class="answer_link">Adding colors to folder names</span></a>
+</li>
+<li class="topiclist_kb"><a href="/support/bin/answer.py?hl=en&answer=68487"><span class="answer_link">Deleting a folder</span></a>
+</li>
+</ul></ul>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+</td>
+<td class="right_column">
+<div class="module module_stripes module_u2u_posts">
+<h2>Popular discussions</h2>
+<ul>
+<li >
+<h3><a href="http://www.google.com/support/forum/p/Google+Docs/thread?tid=62b032adccc471df&hl=en"
+onclick="track('Forum Module', 'u2u')">SIX MONTHS without Google Docs offline</a></h3>
+<p class="u2u_replies">
+<strong>Answered</strong> -
+20 replies
+</p>
+</li>
+<li class="alt">
+<h3><a href="http://www.google.com/support/forum/p/Google+Docs/thread?tid=31ca30a715c74abe&hl=en"
+onclick="track('Forum Module', 'u2u')">New mobile editing features are not working on my iPad or iPhone.</a></h3>
+<p class="u2u_replies">
+17 replies
+</p>
+</li>
+<li >
+<h3><a href="http://www.google.com/support/forum/p/Google+Docs/thread?tid=22921a1d1613940b&hl=en"
+onclick="track('Forum Module', 'u2u')">Trying to create a doc from a gmail - comes back with error message - Google Docs has encountered a server error.</a></h3>
+<p class="u2u_replies">
+19 replies
+</p>
+</li>
+<li class="alt">
+<h3><a href="http://www.google.com/support/forum/p/Google+Docs/thread?tid=71d84bed2a991d4d&hl=en"
+onclick="track('Forum Module', 'u2u')">CAN NOT EXPORT TO A EXCEL DOCUMENT...</a></h3>
+<p class="u2u_replies">
+27 replies
+</p>
+</li>
+<li >
+<h3><a href="http://www.google.com/support/forum/p/Google+Docs/thread?tid=62fdd2b1fb79c59b&hl=en"
+onclick="track('Forum Module', 'u2u')">Google Chrome Bookmarks gone</a></h3>
+<p class="u2u_replies">
+<strong>Answered</strong> -
+14 replies
+</p>
+</li>
+</ul>
+<div class="u2u_bottom_links alt">
+<a href="http://www.google.com/support/forum/p/Google+Docs/ask?hl=en"
+onclick="track('Forum Module', 'u2u - Ask')" class="u2u_ask">Ask a question</a>
+<a href="http://www.google.com/support/forum/p/Google+Docs/label?lid=54dab4eefa9f8c1c&hl=en"
+onclick="track('Forum Module', 'u2u - More')"
+class="u2u_more">More discussions &raquo;</a>
+<div class="clear"></div>
+</div>
+</div>
+<div class="module"
+style="">
+<h2>Resources for Google Spreadsheets</h2>
+<div class="">
+<p><p><a href="http://docs.google.com/support/bin/static.py?hl=en&page=guide.cs&guide=20322" onclick="track('GSGmodule','spreadsheets');">Getting Started Guide</a>
+<p>
+<a href="http://docs.google.com/support/bin/static.py?hl=en&page=known_issues.cs">Known Issues</a>
+<p>
+<a href="http://productideas.appspot.com/#15/e=220cb&t=2192c&">Product Ideas for Google Spreadsheets</a>
+<p><a href="http://docs.google.com/support/bin/answer.py?answer=184140"onclick="track('GSGmodule','spreadsheets');">"Welcome to Google Help" rap</a>
+</div>
+</div>
+<div class="module module_alert" id="feed-module-wrapper" style="display:none;">
+<h2>Google Docs Updates/Issues</h2>
+<div id="feed-module">
+<div id="posts"></div>
+<script type="text/javascript">
+function formatDate(d,date_format) {
+d_arr = d.split("T");
+date = d_arr[0];
+date = date.split("-");
+var month_names = ["","January", "February", "March","April", "May", "June","July", "August", "September","October", "November", "December"];
+m_month = stripLeading(date[1]);
+m_day = stripLeading(date[2]);
+m_year = date[0];
+time = d_arr[1];
+time = time.split(":");
+m_hour = time[0];
+m_min = time[1];
+if (m_hour > 12) {
+m_hour = m_hour-12;
+m_ampm = "PM";
+} else {
+m_ampm = "AM";
+}
+switch(date_format) {
+case "dmy":
+dateDisplay = m_day+"/"+m_month+"/"+m_year;
+break;
+case "full":
+dateDisplay = m_month+"/"+m_day+"/"+m_year+" "+time[0]+":"+time[1];
+break;
+default:
+dateDisplay = m_month+"/"+m_day+"/"+m_year;
+}
+return dateDisplay;
+}
+function stripLeading(d) {
+match = d.match(/^(0*)(\d*)/);
+if (match) {
+d = match[2];
+}
+return d;
+}
+function formatSnippet(t,wc,t2) {
+var snippet = t;
+var more_needed = false;
+// Truncate
+if (wc > 0) {
+var snippet_short = '';
+var words = snippet.split(" ");
+if (words.length < wc) {
+wc = words.length;
+}
+for (var i = 0; i <= wc-1; i++) {
+snippet_short = snippet_short + " " + words[i];
+}
+if (!snippet_short.match(/[.!?](\s*)?$/)) {
+//snippet_short = snippet_short + "... ";
+more_needed = true;
+}
+snippet = snippet_short;
+}
+// Reduce to one sentence if set
+var one_sentence = "false";
+if (one_sentence == "true") {
+match = snippet.match(/([^.!?]*)?([.!?])/)
+if (match) {
+snippet = match[1]+match[2]+" ";
+}
+more_needed = true;
+}
+snippet_arr = [snippet,more_needed];
+return snippet_arr;
+}
+function build_posts(json) {
+if (json.feed.entry) {
+if (json.feed.entry.length>0) {
+var hours = 48;
+var date_format = "mdy";
+var text_truncate = 0;
+var container = document.getElementById('posts');
+var list = document.createElement('div');
+list.setAttribute("id","post-list");
+var post = document.createElement('div');
+post.setAttribute("class","post");
+var first = true;
+var today = new Date();
+var show_date = new Date(today-1000*60*60*hours);
+for (var i = 0 ; i < json.feed.entry.length; i++) {
+var item = json.feed.entry[i];
+var raw_date = new Date(formatDate(item.published.$t,"full"));
+var item_date = formatDate(item.published.$t,date_format)
+var item_title = item.title.$t;
+var item_link = '';
+for (var j = 0; j < item.link.length; j++) {
+if (item.link[j].rel == 'alternate') {
+var item_link = item.link[j].href;
+}
+}
+var item_snippet = formatSnippet(item.content.$t,text_truncate,item_title);
+if (raw_date > show_date) {
+if (first) {
+document.getElementById("feed-module-wrapper").style.display = 'block';
+first = false;
+}
+var post = document.createElement('div');
+var timestamp = document.createElement('strong');
+timestamp.appendChild(document.createTextNode(item_date));
+post.appendChild(timestamp);
+post.appendChild(document.createElement('br'));
+var post_content = document.createElement('div');
+post_content.innerHTML = item_snippet[0];
+post.appendChild(post_content);
+list.appendChild(post);
+if (false && item_snippet[1] && item_link) { 
+var link = document.createElement('a');
+link.appendChild(document.createTextNode("Read more"));
+link.href = item_link;
+link.setAttribute("class", "feed-module-more-link");
+if ('true' == 'true') {
+path = '';
+if (path == '') {
+path = '/support/outgoing/status/mod/';
+}
+link.onclick = function() { urchinTracker(path+'en'); }; 
+}
+post.appendChild(link);
+}
+list.appendChild(post);
+}
+}
+container.appendChild(list);
+}
+}
+}
+</script>
+<script type="text/javascript" src="//www.blogger.com/feeds/737331700165493400/posts/default?alt=json-in-script&callback=build_posts&max-results=2&orderby=published"></script>
+</div>
+</div>
+<div class="module">
+<h2>Adding Docs to a Website</h2>
+<center>
+<object type="application/x-shockwave-flash" data="http://www.youtube.com/v/tkTGrOcFiz0&hl=en_US&fs=1&%26enablejsapi=1%26playerapiid=SitesInDocs" width="280"
+height="180" id="SitesInDocs">
+<param name="src" value="http://www.youtube.com/v/tkTGrOcFiz0&hl=en_US&fs=1&%26enablejsapi=1%26playerapiid=SitesInDocs" />
+<param name="wmode" value="transparent" />
+<param name="allowscriptaccess" value="always" />
+<param name="allowFullScreen" value="true" />
+</object>
+<p><a href="http://www.google.com/sites/help/intl/en/overview.html"
+onclick="trackOutgoing('Sites in Docs HC');" 
+target="_blank">
+Sounds great! Tell me more.
+</a></p>
+</center>
+</div>
+</td>
+</tr></table>
+<div style="clear:both"></div>
+<div class="footer-nav">
+<p>
+<a href="http://docs.google.com/"
+onclick="track('Footer', 'Product home')">Google Docs</a>
+-
+<a href="http://documents.google.com/support/bin/request.py?contact_type=contact_policy&ctx=docs&hl=en"
+onclick="track('Footer', 'Contacting us')">Contacting Us</a>
+-
+<a href="http://www.google.com/support/?hl=en"
+onclick="track('Footer', 'Help with other products')">Help with other Google products</a>
+-
+<form method="post" id="changelang" name="changelang"
+action="javascript:
+setCookies_default('DSLocale',
+this.document.changelang.lang.value, 'dropdown');
+track('LanguageDropdown', this.document.changelang.lang.value);"
+class="lang_dropdown">
+<label for="lang">Change Language:</label>
+<select name="lang" id="lang"
+onchange="document.getElementById('changelang').submit();">
+<option value="ar" >العربية</option>
+<option value="bg" >Български</option>
+<option value="id" >Bahasa Indonesia</option>
+<option value="bn" >বাংলা</option>
+<option value="ca" >Català</option>
+<option value="cs" >Česky</option>
+<option value="sr" >Српски</option>
+<option value="da" >Dansk</option>
+<option value="de" >Deutsch</option>
+<option value="en" selected="selected" class="selected">English (US)&lrm;</option>
+<option value="en-uk" >English (GB)&lrm;</option>
+<option value="es" >Español (España)&lrm;</option>
+<option value="fr" >Français</option>
+<option value="it" >Italiano</option>
+<option value="lv" >Latviešu</option>
+<option value="lt" >Lietuvių</option>
+<option value="hu" >Magyar</option>
+<option value="nl" >Nederlands</option>
+<option value="no" >Norsk</option>
+<option value="pl" >Polski</option>
+<option value="pt" >Português (Portugal)&lrm;</option>
+<option value="br" >Português (Brasil)&lrm;</option>
+<option value="ro" >Română</option>
+<option value="sk" >Slovenský</option>
+<option value="sl" >Slovenščina</option>
+<option value="fi" >Suomi</option>
+<option value="sv" >Svenska</option>
+<option value="ru" >Русский</option>
+<option value="th" >ภาษาไทย</option>
+<option value="tr" >Türkçe</option>
+<option value="uk" >Українська</option>
+<option value="el" >Ελληνικά</option>
+<option value="iw" >עברית</option>
+<option value="gu" >ગુજરાતી</option>
+<option value="hi" >हिन्दी</option>
+<option value="kn" >ಕನ್ನಡ</option>
+<option value="ml" >മലയാളം</option>
+<option value="mr" >मराठी</option>
+<option value="or" >Oriya</option>
+<option value="ta" >தமிழ்</option>
+<option value="te" >తెలుగు</option>
+<option value="vi" >Tiếng Việt</option>
+<option value="cn" >中文（简体）&lrm;</option>
+<option value="b5" >中文（繁體）&lrm;</option>
+<option value="jp" >日本語</option>
+<option value="kr" >한국어</option>
+</select>
+</form>
+</p>
+<div><p>
+<span class="footer-copyright">
+&copy;2010 Google
+</span>
+<span>
+-
+<a href="http://www.google.com/intl/en/"
+onclick="track('Footer', 'GoogleHome');
+">Google Home</a>
+</span>
+<span>
+-
+<a href="http://www.google.com/intl/en/privacy.html"
+onclick="track('Footer', 'PrivacyPolicy');
+">Privacy Policy</a>
+</span>
+<span>
+-
+<a href="http://www.google.com/accounts/TOS?hl=en&loc=US"
+onclick="track('Footer', 'Terms');
+">Terms of Service</a>
+</span>
+<span>
+-
+<a href="http://www.google.com/google-d-s/terms.html"
+onclick="track('Footer', 'AddlTerms');
+">Additional Terms</a>
+</span>
+</p></div>
+</div>
+</div>
+<script type="text/javascript">
+googlehelp.Links.initLinks(
+[autoExpand, browser, browserGroup, os, osGroup, country], internal);
+if (googlehelp.initEls) {
+if (autoExpand) {
+googlehelp.initEls([autoExpand], userSettings, userSettingsDropdownText);
+} else {
+googlehelp.initEls([autoExpand, browser, browserGroup, os, osGroup,
+country, countryGroup], userSettings, userSettingsDropdownText);
+}
+}
+</script>
+<script src='//www.google-analytics.com/ga.js'
+type='text/javascript'></script>
+<script type="text/javascript">
+var analytics_async = 0;
+</script>
+<script
+src="//docs.google.com/support/bin/resource/urchin_util.js?v=7"
+type="text/javascript"></script>
+<script type="text/javascript">
+var cookiePathArray = [];
+</script>
+<script type="text/javascript">
+urchinTracker('\x2Fsupport\x2Fbin\x2Ftopic.py?hl=en\x26topic=15154');
+</script>
+<script
+src="//docs.google.com/support/bin/resource/js_validate_static.js?v=16"
+type="text/javascript"></script>
+<script type="text/javascript">
+track('LeftNav',
+'Tours - Impression');
+track('LeftNav',
+'WorkOrSchool - Impression');
+track('LeftNav',
+'Blog - Impression');
+track('LeftNav',
+'YouTubeChannel - Impression');
+track('LeftNav',
+'CommChannel - Impression');
+track('LeftNav',
+'Sharing - Impression');
+track('Videos',
+'SitesInDocs Impressions');
+</script>
+</body>
+</html>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<title>Google Health</title>
+<link charset="utf-8" href="//www.google.com/css/gcs-v2.css" rel="stylesheet">
+<link charset="utf-8" href="../style/health.css" rel="stylesheet">
+<div class="g-doc">
+<div class="g-section header"><a href="http://www.google.com/health/"><img alt="Google Health" src="http://www.google.com/images/logos/health_logo.gif"></a></div>
+<div class="g-section g-tpl-160 content">
+<div class="g-unit g-first nav">
+<ul>
+<li><a href="index.html">About Google Health</a>
+<li><a href="../whatsnew.html">What's New</a>
+<li><a href="userstories.html">User Stories</a>
+<li><a href="ghac.html">Google Health Advisory Council</a>
+<li><a href="../faq.html">Frequently Asked Questions</a>
+<li><a href="partners.html">For Partners</a>
+<li><strong>Google Health Privacy</strong>
+<li class="sub"><a href="../privacy.html">Google Health Privacy Policy</a>
+<li class="sub"><a href="../hipaa.html">Google Health and HIPAA</a>
+<li><a href="http://www.google.com/support/health/">Help Center</a>
+<li><a href="../terms.html">Terms of Service</a>
+<li><a href="http://www.google.com/support/health/"></a></ul></div>
+<div class="g-unit body">
+<h1>Google Health puts you in control of your health records</h1>
+
+<p>We believe that your health information belongs to you, so we put you in control. Want to store your health records online? Here's how we keep your data safe and private.
+
+<ul> 
+  <li>We will never sell your data.
+  <li>Your health information is stored in your secure account and cannot be accessed by others through a search on Google.com.
+  <li>You choose who to share your information with.
+  <li>If you give someone access to your account, you can revoke that access at any time.
+  <li>We have state-of-the-art technology and some of the best information security experts in the world making sure your data is safe in Google Health.
+</ul> 
+
+<h2>Privacy Policies</h2> 
+<p>All of Google's products and services, including Google Health, are governed by our main <a href="http://www.google.com/privacy">Privacy Policy</a>, which explains how we treat personal information. In addition, we've created a policy that describes privacy practices specific to Google Health. Check out the <a href="../privacy.html">Google Health Privacy Policy</a>.
+<p>Online health services that are integrated with Google Health must comply with our <a href="devpp.html">Google Health Developer Policies</a>, which establish strict privacy standards for how they collect, use, and share your information. It's up to you if you want to share your health information with any of these services.
+
+<h2>Google Health Privacy FAQ</h2> 
+<p><strong>How does Google Health protect my privacy?</strong> 
+<p>We'll never sell your health information or make it publicly accessible through searches on Google.com. We also won't share it with others unless you explicitly authorize us to do so, or in the limited circumstances described in the <a href="http://www.google.com/intl/en/privacypolicy.html#informationsharing">Google Privacy Policy</a> (such as when we're required to do so by law). When you first create and save personal health information, you're the only one who can view and edit it. These are some of the things you can do at any time:
+
+<ul> 
+  <li>Delete your data.
+  <li>Share your health information with others you choose.
+  <li>View who can access your account and what edits have been made to your information.
+  <li>Revoke access privileges.
+</ul> 
+
+<p><strong>Will others -- like my employer or my insurance company -- be able to access the information I store in Google Health?</strong> 
+<p>You, and only you, control access to your health information when you use Google Health. It's really up to you to choose who views or adds information to your Google Heath profile, and you can revoke access at any time. We let you view all of the activity on your account, so you can ensure that only the people and services you've granted access can view your profile or add information to it.
+<p>If you choose to sync your Google Health account with your health care provider, pharmacy, or any other online health service, we'll tell you what kind of access the service will have to your account before you authorize it:
+
+<ul> 
+  <li>Write-only access: The service can add information to your profile but not view anything you've stored in it.
+  <li>Read/write access: The service can view your profile and add information to it.
+</ul> 
+
+<p><strong>How does Google Health keep my health information secure?</strong> 
+<p>We use software, hardware, and strict policies to keep your health information safe and private.
+<p>The health information users store with us is protected by state-of-the-art technologies, including Secure Socket Layer (SSL) encryption, firewalls, alarms, and other technology we build ourselves or buy from other experts in the security industry. We have extensive backup systems in place to protect the integrity of this information. Google's servers are protected by strong physical security at our facilities, including pass codes, locks, and security personnel.
+<p>Procedural safeguards are also in place to secure the health information users store with us. Within Google, only the people who are operating and improving Google Health have access to user information, and they are bound by strict policies to not disclose this information to others, either within Google or to the outside world.
+
+<p><strong>Is Google Health covered by HIPAA?</strong> 
+<p>Unlike a doctor or health plan, Google Health is not regulated by the Health Insurance Portability and Accountability Act (HIPAA), a federal law that establishes data confidentiality standards for patient health information. This is because Google does not store data on behalf of health care providers. Instead, our primary relationship is with you, the user. Under HIPAA, you have a right to obtain a copy of your medical records. If you choose to use Google Health, we'll help you store and manage your medical records online.
+<p>Although Google Health is not covered by HIPAA, we are committed to protecting your privacy. Our <a href="../privacy.html">Google Health Privacy Policy</a> governs what information Google Health collects and how we use it, and any violation of that policy can be enforced by the Federal Trade Commission, which takes action against companies that engage in unfair and deceptive trade practices -- including violations of their privacy policies.
+
+<p>Check out more information on <a href="../hipaa.html">Google Health and HIPAA</a>.
+
+<a id="updateSep2010"></a>
+<h2><span class="new">New!</span> Updated Privacy and Developer Policies - September, 2010</h2>
+
+<p><strong>Why are there changes to the Google Health Privacy and Developer Policies?</strong> 
+<p>Since the launch of Google Health in May 2008, the healthcare industry has been very active and the landscape for health information technology has been evolving. Our team has been tracking these changes and learning from our users and business partners. Given new developments in the industry, we have updated our Google Health <a href="../privacy.html">Privacy Policy</a> and <a href="devpp.html">Developer Policies</a> to better protect our users, support our partners, and respond to changes in the industry. 
+
+<p><strong>What are the changes to the the Google Health Privacy Policy?</strong>
+
+<p> There are a few changes to the <a href="../privacy.html">Google Health Privacy Policy</a> we would like to highlight for you. 
+
+<ul> 
+  <li>The first change to the Google Health Privacy Policy is for our integrated partners (e.g., hospitals, doctors, retail pharmacies, third party applications, etc.) who are covered by HIPAA. These partners are already subject to existing privacy standards enforced by HIPAA, so with respect to these obligations, we will hold partners covered by HIPAA to the privacy standards enforced by HIPAA instead of those defined by the <a href="devpp.html">Google Health Developer Policies</a>. All other integrated partners, who are not HIPAA covered entities, will continue to abide by the Google Health Developer Policies. The Google Health Developer Policies require integrated partners to comply with strict privacy standards for how they collect, use, or share information from Google Health users. You will still have access to each partner's privacy policy before agreeing to share your data so you can make informed choices before sharing data. 
+<li>A second change to the Google Health Privacy Policy is around how we handle user requests to delete data from Google Health. If you request your entire personal health profile or account to be deleted from Google Health, we will carry out that deletion immediately. When you request individual data items to be deleted from your Google Health profile, we will continue to initiate those deletion operations right away but it will now take a short time (in some cases 24 hours or more) for the deleted data items to be completely removed from our active systems. Just as before, you will see that the deleted items have been immediately removed from view and access by any users or services. The change in time frame is around completely purging the data from Google Health's active systems.  This change provides Google the technical flexibility to optimize the performance of Google Health and add future features. We do not expect this change to affect our users' experience with deletion.
+</ul> 
+
+<p><strong>What are the changes to the Google Health Developer Policies?</strong>
+
+<p>There are a few changes to the  <a href="devpp.html">Google Health Developer Policies</a> we would like to highlight for you. 
+
+<ul>
+  <li>The first change to the Google Health Developer Policies is that our integrated partners will no longer be required to provide a way to purge/delete data they have retrieved from your linked Google Health profile. As always, you have the choice of whether to link your profiles to a given service, and can choose to unlink from services at any time. You should review the privacy policy of the integrated partner to determine how the partner handles the data they have retrieved and whether they provide the ability to purge or delete the data, so you can make an informed choice of providers.
+<li>The second change to the Google Health Developer Policies require developers to provide test accounts to make it easier for Google to work with partners to test and verify the proper functioning of their integrations and to abide by new policies within a specified time frame.
+<li>The third change to the Google Health Developer Policies is that we're asking our partners to come into compliance with any future changes to the Google Health Developer Policies within 90 days of those changes.
+<li>We've also made additional small changes in text throughout the Google Health Developer Policies to clarify wording and structure. 
+<li>Please note, the Google Health Developer Policies may continue to change from time to time. Google will post new versions of the policies if and when changes occur and all archived versions will be linked from the current version of the document.
+</ul>
+</div>
+<p class="footer">&copy;2010 Google - <a href="http://www.google.com/support/health/">Help Center</a> - <a href="../privacy.html">Google Health Privacy Policy</a> - <a href="../terms.html">Terms of Service</a> - <a href="http://www.google.com/">Google Home</a></div></div><script>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script>
+try {
+    var pageTracker = _gat._getTracker("UA-3651254-1");
+    pageTracker._setCookiePath("/intl/");
+    pageTracker._initData();
+    pageTracker._trackPageview();
+    pageTracker._cookiePathCopy("/health/");
+    } catch(err) {}
+</script>

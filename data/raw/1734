@@ -1,0 +1,733 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>�u�ӻȦ�: HKG:1398 �ѻ��P�s�D���ͪ����i - Google �]�g</title>
+<meta name="Description" content="��o���� �u�ӻȦ� (HKG:1398) ���ԲӰ]�g��T�A�]�A��ɪѲ������B���v�Ϫ�ΰ]�g�s�D�A�ӥB�����K�O�I">
+<link rel="stylesheet" type="text/css" href="/finance/s/3pnFYBIQ7Gk/styles/finance_hk.css">
+<style>#gbar,#guser{font-size:13px;padding-right:8px;padding-top:4px !important}#gbar{padding-left:8px;float:left;height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}#gbs,.gbm{background:#fff;left:0;position:absolute;text-align:left;visibility:hidden;z-index:1000}.gbm{border:1px solid;border-color:#c9d7f1 #36c #36c #a2bae7;z-index:1001}.gb1{margin-right:.5em}.gb1,.gb3{zoom:1}.gb2{display:block;padding:.2em .5em}.gb2,.gb3{text-decoration:none;border-bottom:none}a.gb1,a.gb2,a.gb3,a.gb4{color:#00c !important}.gbi .gb3,.gbi .gb2,.gbi .gb4{color:#dd8e27 !important}.gbf .gb3,.gbf .gb2,.gbf .gb4{color:#900 !important}a.gb2:hover{background:#36c;color:#fff !important}div#gbar{padding-left:0}</style>
+<script>(function(){function i(a,b,d){var c="on"+b;if(a.addEventListener)a.addEventListener(b,d,false);else if(a.attachEvent)a.attachEvent(c,d);else{var f=a[c];a[c]=function(){var g=f.apply(this,arguments),e=d.apply(this,arguments);return g==undefined?e:e==undefined?g:e&&g}}};var j,k,l,m=window.gbar={},n={};function _tvs(a,b){return a||b}function _tvn(a,b){var d=parseInt(a,10);return isNaN(d)?b:d}function _tvf(a,b){var d=parseFloat(a);return isNaN(d)?b:d}function _tvb(a,b){return a=="true"?true:a=="false"?false:b}var o,p,q;function r(a){var b=window.b&&(document.forms[0].f||"").value;if(b)a.href=a.href.replace(/([?&])q=[^&]*|$/,function(d,c){return(c||"&")+"q="+encodeURIComponent(b)})}l=r;
+function s(a,b,d,c,f,g){var e=document.getElementById(a);if(e){var h=e.style;h.left=c?"auto":b+"px";h.right=c?b+"px":"auto";h.top=d+"px";h.visibility=p?"hidden":"visible";if(f&&g){h.width=f+"px";h.height=g+"px"}else{s(o,b,d,c,e.offsetWidth,e.offsetHeight);p=p?"":a}}}
+var w=function(a){a=a||window.event;var b,d=a.target||a.srcElement;a.cancelBubble=true;if(o!=null)t(d);else{b=document.createElement(Array.every||window.createPopup?"iframe":"div");b.frameBorder="0";o=b.id="gbs";b.src="javascript:''";d.parentNode.appendChild(b);i(document,"click",u);t(d);n.a&&n.a(function(){var c=document.getElementById("gbli");if(c){var f=c.parentNode;v(f,c);var g=c.e;f.removeChild(c);n.g(f,g);b.style.height=f.offsetHeight+"px"}})}};
+function t(a){var b=0;if(a.className!="gb3")a=a.parentNode;var d=a.getAttribute("aria-owns")||"gbi",c=a.offsetWidth,f=a.offsetTop>20?46:24;if(document.getElementById("tphdr"))f-=3;var g=false;do b+=a.offsetLeft||0;while(a=a.offsetParent);a=(document.documentElement.clientWidth||document.body.clientWidth)-b-c;var e;c=document.body;var h=document.defaultView;if(h&&h.getComputedStyle){if(c=h.getComputedStyle(c,""))e=c.direction}else e=c.currentStyle?c.currentStyle.direction:c.style.direction;e=e=="rtl";
+if(d=="gbi"){c=document.getElementById("gbi");v(c,document.getElementById("gbli")||c.firstChild);if(e){b=a;g=true}}else if(!e){b=a;g=true}p!=d&&u();s(d,b,f,g)}var u=function(){p&&s(p,0,0)};function v(a,b){for(var d,c=window.d;c&&(d=c.pop());){var f=a,g=d,e=b;if(!q){q="gb2";if(n.a){var h=n.c(f);if(h)q=h}}f.insertBefore(g,e).className=q}}
+var x=function(a,b,d){if((b=document.getElementById(b))&&a){a.className="gb4";var c=document.createElement("span");c.appendChild(a);c.appendChild(document.createTextNode(" | "));c.id=d;b.appendChild(c)}};m.qs=l;m.setContinueCb=k;m.pc=j;m.tg=w;m.close=u;m.addLink=x;})();
+</script>
+<link rel="icon"
+        type="image/vnd.microsoft.icon" href="/finance/favicon.ico">
+<script>(function(){function a(c){this.t={};this.tick=function(e,f,b){b=b?b:(new Date).getTime();this.t[e]=[b,f]};this.tick("start",null,c)}var d=new a;window.jstiming={Timer:a,load:d};try{var g=null;if(window.chrome&&window.chrome.csi)g=Math.floor(window.chrome.csi().pageT);if(g==null)if(window.gtbExternal)g=window.gtbExternal.pageT();if(g==null)if(window.external)g=window.external.pageT;if(g)window.jstiming.pt=g}catch(h){};function i(c){window.jstiming&&window.jstiming.load.tick(c)}window._tck=i;})();
+</script>
+<script type="text/javascript">var google=google||{};var _cleardot = '/finance/s/m4C5KaofCbA/images/cleardot.gif';</script>
+<script type="text/javascript" src="/finance/s/HctJl7DXpjg/js/finance-opt.js?hl=zh-HK&gl=hk"></script>
+<script type="text/javascript">
+(function(){var d=navigator.userAgent.toLowerCase().indexOf("msie")!=-1;function e(){for(var a=document.styleSheets,b=a.length-1;b>=0;--b){var c=a[b].href;if(c)if(c.indexOf("styles/finance_")!=-1||c.indexOf("styles_")!=-1)return a[b]}return null}function f(){var a=e();if(a){a=a.rules;return a.length>0&&a[a.length-1].selectorText==".lastFinanceRule"}return false}
+function g(){if(document.scripts)for(var a=0;a<document.scripts.length;++a){var b=document.scripts[a];if(b&&b.src.indexOf("/js/gen_finance.js")!=-1)return b}return null}function _chkCssJs(){if(d){if(typeof _lastFinanceFn!="function"){var a=g();if(a&&a.src){var b=a.src.indexOf("?")!=-1?"&":"?";a.src+=b+"zx="+Math.random()}}if(!f())if((a=e())&&a.href){b=a.href.indexOf("?")!=-1?"&":"?";a.href+=b+"zx="+Math.random()}}};_chkCssJs();})();
+  
+    _setStickyUrlParams("");
+  </script>
+<style>
+html {
+min-height: 100%; margin-bottom: 0.01em;
+}
+.blogref a:link,.blogref a:active,.blogref a:visited,.blogref {color:#7777CC}
+.lac {text-decoration:underline; color:#00C; cursor:pointer;}
+.lnac {text-decoration:none; color:#A1A1A1; cursor:text;}
+.imgac {cursor:pointer; border:0px;}
+.imgnac {cursor:none; border:0px;}
+.r {
+margin-top:-2px; margin-left:30px; margin-bottom:0px; margin-right:5px;
+padding:7px 10px 10px 10px; line-height:1.3em; position:absolute; display:none; z-index:10;
+border:2px solid #9DDF99; background-color:#FFF;
+}
+</style>
+</head>
+<body>
+<div class=g-doc id=outer-wrapper>
+<div id=body-wrapper>
+<div id=gbar><nobr><a href="http://www.google.com.hk/search?q=HKG:1398&sa=N&hl=zh-tw&tab=ew" onclick=gbar.qs(this) class=gb1>�Ҧ����</a> <a href="http://www.google.com.hk/images?q=HKG:1398&source=og&sa=N&hl=zh-tw&tab=ei" onclick=gbar.qs(this) class=gb1>�Ϥ�</a> <a href="http://www.google.com.hk/search?q=HKG:1398&tbo=u&tbs=vid:1&source=og&sa=N&hl=zh-tw&tab=ev" onclick=gbar.qs(this) class=gb1>�v��</a> <a href="http://maps.google.com.hk/maps?q=HKG:1398&sa=N&hl=zh-tw&tab=el" onclick=gbar.qs(this) class=gb1>�a��</a> <a href="http://www.google.com.hk/search?q=HKG:1398&tbo=u&tbs=nws:1&source=og&sa=N&hl=zh-tw&tab=en" onclick=gbar.qs(this) class=gb1>�s�D</a> <b class=gb1>�]�g</b> <a href="http://mail.google.com/mail/?hl=zh-tw&tab=em" class=gb1>Gmail</a> <a href="http://www.google.com.hk/intl/zh-TW/options/" onclick="this.blur();gbar.tg(event);return !1" aria-haspopup=true class=gb3><u>��h</u> <small>&#9660;</small></a><div class=gbm id=gbi><a href="http://translate.google.com.hk/translate_t?q=HKG:1398&sa=N&hl=zh-tw&tab=eT" onclick=gbar.qs(this) class=gb2>½Ķ</a> <a href="http://www.google.com.hk/search?q=HKG:1398&tbo=u&tbs=blg:1&source=og&sa=N&hl=zh-tw&tab=eb" onclick=gbar.qs(this) class=gb2>��x�j�M</a> <a href="http://www.google.com.hk/search?q=HKG:1398&tbo=u&tbs=mbl:1&source=og&sa=N&hl=zh-tw&tab=eY" onclick=gbar.qs(this) class=gb2>��s</a> <div class=gb2><div class=gbd></div></div><a href="http://www.youtube.com/results?q=HKG:1398&sa=N&hl=zh-tw&tab=e1&gl=HK" onclick=gbar.qs(this) class=gb2>YouTube</a> <a href="http://www.google.com/calendar/render?hl=zh-tw&tab=ec" class=gb2>���</a> <a href="http://picasaweb.google.com.hk/lh/view?q=HKG:1398&sa=N&hl=zh-tw&tab=eq" onclick=gbar.qs(this) class=gb2>�ۤ�</a> <a href="http://docs.google.com/?hl=zh-tw&tab=eo" class=gb2>���</a> <a href="http://www.google.com.hk/reader/view/?hl=zh-tw&tab=ey" class=gb2>�\Ū��</a> <a href="http://sites.google.com/?hl=zh-tw&tab=e3" class=gb2>��@���x</a> <div class=gb2><div class=gbd></div></div><a href="http://www.google.com.hk/intl/zh-TW/options/" class=gb2>��h &raquo;</a> </div></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.com.hk/support/finance?hl=zh-TW" class=gb4>����</a> | <a href="https://www.google.com/accounts/Login?hl=zh-tw&continue=http://www.google.com.hk/finance%3Fq%3DHKG:1398&service=finance" class=gb4>�n�J</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div>
+<script>window.locale={hl:'zh-TW',gl:'hk',locale:'zh-Hant-HK'};</script>
+<div class="g-section g-tpl-75-25 g-split search-header">
+<div class="g-unit g-first">
+<div class=sfe-logo>
+<a  href="/finance">
+<img src="/finance/s/eEbuAnwFuas/images/logo_hk.gif" alt="Google �]�g�C">
+</a>
+</div>
+<div class=sfe-search>
+<form method=GET action="/finance" name=f>
+<input  name=q id=searchbox autocomplete=off size=40 maxlength=2048
+             type=text tabindex=1 title="�ѻ��j�M��J"
+             value="HKG:1398">
+<input type=submit value="�d��" >
+<br>
+<span class="searchExample">�Ҧp &quot;0005&quot;, &quot;����&quot; �� &quot;HSBC&quot;</span>
+</form>
+</div>
+</div>
+<div class="g-unit promo">
+</div>
+</div>
+<div class="g-section g-tpl-nav-main">
+<div class="g-unit g-first" id="left-nav">
+<ul id=navmenu>
+<li class="nav-selected nav-expanded">���q
+<li class=navsub>
+<div>�K�n
+</div>
+<li class=navsub>
+<a  id="nav-cn" 
+  href="/finance/company_news?q=HKG:1398">�s�D
+</a>
+<li class=navsub>
+<a  id="nav-cr" 
+  href="/finance/related?q=HKG:1398">�������q
+</a>
+<li class=navsub>
+<a  id="nav-ch" 
+  href="/finance/historical?q=HKG:1398">�L���ѻ�
+</a>
+<li class=navsub>
+<a  id="nav-cf" 
+  href="/finance?q=HKG:1398&amp;fstype=ii">�]�ȺK�n
+</a>
+<li class=nav-item>
+<a id="nav-m" 
+  href="/finance">
+<div>����</div></a>
+<li class=nav-item>
+<a id="nav-n" 
+  href="/finance/market_news">
+<div>�s�D</div></a>
+<li class=nav-item>
+<a href="https://www.google.com/accounts/ServiceLogin?hl=zh-TW&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com.hk%3A80%2Ffinance%2Fportfolio%3Faction%3Dview" >
+<div>���զX</div></a>
+<li class=nav-item>
+<a id="nav-s" 
+  href="/finance/stockscreener">
+<div>�Ѳ��z�ﾹ</div></a>
+</ul>
+<div id=rq-box>
+<h4>�̪�d��</h4>
+<div id=rq-toggle></div>
+<div id=rq-table></div> <a id=rq-create href="https://www.google.com/accounts/ServiceLogin?hl=zh-TW&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com.hk%2Ffinance%3Fq%3DHKG%3A1398" >�n�J�H�إߧ��զX</a> </div>
+<script>
+setTimeout(
+function() {try{google.finance.renderRecentQuotes();}catch(e){}}, 200);
+</script>
+<form id=new_pform_nav
+      action=/finance/portfolio/create?hash= method=post>
+<input id=new_pform_name type=hidden name=pname />
+<input id=new_pform_cids type=hidden name=pcids />
+<input  id=is_logged_in type=hidden name=is_logged_in
+           value=0 />
+</form>
+<div id=ra-target></div>
+</div>
+<div class="g-unit sfe-break-left" id="rt-content">
+<!-- a -->
+<script>
+(function() {
+if (_finance_chart) {
+var el = document.getElementById('chart_anchor');
+if (el) {
+el.innerHTML = '';
+}
+_finance_chart = null;
+}
+})();
+var _ticker = 'HKG:1398';
+var _slHeight = 221;
+var _companyName = '�u�ӻȦ�';
+var _displayVolume = true;
+var _companyId = 709934;
+_s_Store._numToDisplay = 6;
+_comparison_charts_Store._numToDisplay = 8;
+_comparison_charts_Store._allowMultiTimezoneCompare = true;
+function onCompanyLoad() {
+_external_target = "";
+_emitFlashChartOnLoad(
+"/finance/s/UO7LEA3RSb0/chart9.swf?hl=zh-HK&gl=hk",
+_ticker, "chart_anchor", "market-data-div",
+_chartConfigObject);
+google.finance.onCompanyLoad();
+_initAutoFocus();
+if (google.finance.initTechnicals) {
+google.finance.initTechnicals(true);
+}
+}
+</script>
+<div class=g-wrap>
+<div class="g-section sfe-break-bottom-8">
+<div class="g-tpl-67-33 g-split hdg top" id=companyheader>
+<div class="g-unit g-first"><h3>�u�ӻȦ�&nbsp;</h3>(�W�����q HKG:1398)&nbsp;&nbsp;
+<a href="/finance/portfolio?action=add&amp;addticker=HKG%3A1398" class=norm>�l�ܦ��Ѳ�</a>
+&nbsp;&nbsp;
+</div><div class="g-unit norm">�j�M��h<b><a href="?noIL=1&q=1398" id=searchmore>1398</a></b>���������G
+</div>
+</div>
+</div>
+
+<div id=ra-src class=hide>
+<div id=ra-target></div>
+</div>
+<script>
+google.finance.renderRecentActivities();
+_ac_register(function (input, event) {
+if (input.id == 'add_comparison_symbol') {
+_comparison_charts_Store.baseTicker = "HKG:1398";
+return _comparison_charts_Store;
+}
+});
+var _prefs=_prefs||{};_prefs.hash="";
+_prefs.feeds=_prefs.feeds||{};
+_prefs.ch=_prefs.ch||{};
+_prefs.ch_compare=_prefs.ch_compare||{};
+_eventid = 'h-T2TNjPA4uErAOF9-j0CA';
+var google = google || {};
+google.finance = google.finance || {};
+google.finance.data = {common:{rq:{ct:""},up:"chg",down:"chr",linktargetInternal:"",hash:"",dfp:"http://ad-g.doubleclick.net/adi/com.gf.company/�Ȧ�;fe=hkg;ft=1398;fm=large;sz=300x250;dcopt=ist;myd=ad"},company:{news:{clusters:[{imp:2,idx:0,id:0,ed:"5�p�ɫe",tt:1291227873,lead_story_url:"http://www.hkdailynews.com.hk/finance.php?id=135573",a:[{t:"�l�j�նR�F��24855",u:"http://www.hkdailynews.com.hk/finance.php?id=135573",s:"�s��",d:"5�p�ɫe",tt:1291227873,fid:6433457}],score:4.7942929267883301},{imp:2,idx:1,id:0,ed:"15�p�ɫe",tt:1291192381,lead_story_url:"http://www.finet.hk/mainsite/newscenter/PRNEWSBJ/0/40195.html",a:[{t:"�Ĥ������ꤤ�p���~�a�~�|�b�ʶ����l�}",u:"http://www.finet.hk/mainsite/newscenter/PRNEWSBJ/0/40195.html",s:"�]�غ�",d:"15�p�ɫe",tt:1291192381,fid:6431457}],score:5.2193474769592285},{nrel:1,imp:2,idx:2,id:17593569431103,ed:"15�p�ɫe",tt:1291191178,lead_story_url:"http://chinese.wsj.com/big5/20101201/ASD160801.asp",a:[{t:"1�馬�L���R�GPMI�å�������������~",u:"http://chinese.wsj.com/big5/20101201/ASD160801.asp",s:"�غ�����",d:"15�p�ɫe",tt:1291191178,fid:6432457}],score:6.1302309036254883},{nrel:1,imp:2,idx:3,id:17593569307189,ed:"17�p�ɫe",tt:1291184840,lead_story_url:"http://www.aastocks.com/tc/News/AAF/0/625b275a-8e14-4082-a46a-5841c9bc6708.html",a:[{t:"�i�ȥ��I���jA�Ѥϴ_�_�����C ��Ѹ��H�b��^86�I",u:"http://www.aastocks.com/tc/News/AAF/0/625b275a-8e14-4082-a46a-5841c9bc6708.html",s:"�����F�J�]�g��",d:"17�p�ɫe",tt:1291184840,fid:6429457}],score:5.5242395401000977},{nrel:2,imp:1,idx:4,id:17593569421871,ed:"19�p�ɫe",tt:1291179331,lead_story_url:"http://www.finet.hk/mainsite/newscenter/PRNCN/0/20101201170528f5780exprbgs.html",a:[{t:"�p�a���u�ӻȦ� �U�O�S�\�[����",u:"http://www.finet.hk/mainsite/newscenter/PRNCN/0/20101201170528f5780exprbgs.html",s:"�]�غ�",d:"19�p�ɫe",tt:1291179331,fid:6425457}],score:8.9534883499145508},{imp:2,idx:5,id:0,ed:"20�p�ɫe",tt:1291174879,lead_story_url:"http://www4.881903.com/apps/newsBoss/html/finance/20101201/2010120111350240400.htm",a:[{t:"��ȱN�u�ӻȦ�ǤJ���I���˦W��",u:"http://www4.881903.com/apps/newsBoss/html/finance/20101201/2010120111350240400.htm",s:"�ӷ~�q�x",d:"20�p�ɫe",tt:1291174879,fid:6427457}],score:6.5784425735473633},{imp:2,idx:6,id:0,ed:"22�p�ɫe",tt:1291167378,lead_story_url:"http://www.aastocks.com/tc/news/researchcontent/12/69808/Page1.html",a:[{t:"�����ɳ�",u:"http://www.aastocks.com/tc/news/researchcontent/12/69808/Page1.html",s:"�����F�J�]�g��",d:"22�p�ɫe",tt:1291167378,fid:6424457}],score:5.5336685180664062},{imp:2,idx:7,id:0,ed:"2010�~11��30��",tt:1291077323,lead_story_url:"http://www.finet.hk/mainsite/newscenter/CNFINET/0/380996.html",a:[{t:"�i�Ҩ饫���j���餤��ѥ����`�J�u�ӻȦ�A�Ѱt�ѤW���y�q",u:"http://www.finet.hk/mainsite/newscenter/CNFINET/0/380996.html",s:"�]�غ�",d:"2010�~11��30��",tt:1291077323,fid:6420457}],score:8.2140884399414062},{nrel:2,imp:1,idx:8,id:17593569150744,ed:"2010�~11��29��",tt:1291053942,lead_story_url:"http://chinese.wsj.com/big5/20101129/BCH001236.asp",a:[{t:"�u�ӻȦ�޲z�H�h�R�w�p�~���ꥻ�R���v�N�F12%",u:"http://chinese.wsj.com/big5/20101129/BCH001236.asp",s:"�غ�����",d:"2010�~11��29��",tt:1291053942,fid:6415457},{t:"�s�ڶ뺸�n�D �u��5�~�i�F��",u:"http://www.hkdailynews.com.hk/finance.php?id=135225",s:"�s��"}],score:11.278731346130371},{nrel:3,imp:2,idx:9,id:17593569105371,ed:"2010�~11��29��",tt:1290993612,lead_story_url:"http://www.finet.hk/mainsite/newscenter/CNFINET/380771.html",a:[{t:"�i�Ҩ�s�D�j�خL�ѻP�u��ئ�t���S���},���Ȱ�����O���ѮM�{5����",u:"http://www.finet.hk/mainsite/newscenter/CNFINET/380771.html",s:"�]�غ�",d:"2010�~11��29��",tt:1290993612,fid:6411457},{t:"���Ȱ�����ئ�u��O����",u:"http://big5.xinhuanet.com/gate/big5/news.xinhuanet.com/fortune/2010-11/29/c_12826119.htm",s:"�s�غ�"}],score:6.4953737258911133},{idx:10,id:-1}],result_start_num:1,result_end_num:0,result_total_articles:21},related:{cols:[0,4,31,32,10,5,21,34,2,33,1,3],rows:[{id:709934,values:["1398","5.99","-0.83","","0.54","2.02�U��","53.72","chr","HKG","709934","�u�ӻȦ�","1398"]},{id:701428,values:["0939","7.02","0.14","","0.63","1.76�U��","51.17","chg","HKG","701428","�س]�Ȧ�","0939"]},{id:699136,values:["3328","8.20","1.11","","0.82","4613.29��","46.95","chg","HKG","699136","��q�Ȧ�","3328"]},{id:709485,values:["3968","20.50","1.99","","1.41","4423.20��","42.83","chg","HKG","709485","�۰ӻȦ�","3968"]},{id:706023,values:["3988","4.21","1.20","","0.43","1.18�U��","48.01","chg","HKG","706023","����Ȧ�","3988"]},{id:715431,values:["0998","5.46","0.74","","0.61","2131.22��","46.61","chg","HKG","715431","���H�Ȧ�","0998"]},{id:15757850,values:["1988","6.91","0.00","","0.74","2131.17��","","chb","HKG","15757850","���ͻȦ�","1988"]},{id:11691844,values:["1288","4.13","1.98","","","1.34�U��","","chg","HKG","11691844","�A�~�Ȧ�","1288"]},{id:695819,values:["2318","90.90","1.45","","2.69","6948.53��","13.03","chg","HKG","695819","���ꥭ�w","2318"]},{id:689029,values:["2628","33.75","1.20","","1.41","9539.34��","12.10","chg","HKG","689029","����H��","2628"]},{id:673033,values:["0302","103.10","1.18","","4.88","304.19��","50.26","chg","HKG","673033","�æ�Ȧ�","0302"]}],visible_cols:[0,4,31,32,10,5,21]},related_str:"709934,701428,699136,709485,706023,715431,15757850,11691844,695819,689029,673033",perf:[{u:"/finance?q=INDEXHANGSENG:.HSI",name:"�ڥͫ���",cp:"1.05",p:"23,249.80",cid:13414271},{u:"/finance?q=INDEXHANGSENG:.HSCE",name:"�ڥͰ������",cp:"1.03",p:"12,949.85",cid:7937997},{u:"/finance?catid=hk-SHKFD:BK",name:"�Ȧ�",cp:"0.49",cid:0},{u:"/finance?q=HKG:1398",name:"�u�ӻȦ�",cp:"-0.83",p:"5.99",cid:709934}]},stickyUrlArgs:"",chart:{_5d:"EXCHANGE%3DHKG\nMARKET_OPEN_MINUTE=600\nMARKET_CLOSE_MINUTE=960\nINTERVAL=120\nCOLUMNS=DATE,CLOSE,VOLUME\nDATA_SESSIONS=[MORNING,600,750],[AFTERNOON,870,960]\nDATA=\nTIMEZONE_OFFSET=480\na1290650400,5.96,16000\n1,6,4969000\n2,6,1264000\n3,5.97,3506000\n4,5.99,2792000\n5,5.98,3526000\n6,5.98,1698000\n7,5.99,1623000\n8,5.99,527000\n9,6,251000\n10,6.01,1722000\n11,6,1805000\n12,6.01,1646000\n13,6.01,975000\n14,6,396000\n15,6,4426000\n16,6,1717000\n17,6,156000\n18,6.01,827000\n19,6,1332000\n20,6.01,642000\n21,6,628000\n22,6,1261000\n23,5.99,1241000\n24,5.98,2004000\n25,5.98,278000\n26,5.98,99000\n27,5.99,741000\n28,6.01,1324000\n29,6.01,160000\n30,6.01,358000\n31,6.01,345000\n32,6,129000\n33,6.01,169000\n34,6.01,101000\n35,6.01,274000\n36,6.01,219000\n37,6.01,3726000\n38,6.02,430000\n39,6.02,605000\n40,6.02,1265000\n41,6.01,105000\n42,6.01,535000\n43,6.01,93000\n44,6.01,127000\n45,6.02,176000\n46,6.02,426000\n47,6.02,240000\n48,6.01,167000\n49,6.02,609000\n50,6.02,3387000\n51,6.04,3713000\n52,6.04,513000\n53,6.02,3037000\n54,6.02,708000\n55,6.02,2179000\n56,6.02,66000\n57,6.03,498000\n58,6.04,3944000\n59,6.03,1243000\n60,6.03,1240000\n61,6.03,1547000\n62,6.03,533000\n63,6.03,211000\n64,6.03,495000\n65,6.03,220000\n66,6.04,5113000\n67,6.04,2073000\n68,6.04,4666000\n69,6.05,1729000\n70,6.05,475000\n71,6.04,7021000\n72,6.04,638000\n73,6.04,931000\n74,6.04,718000\n75,6.06,6932000\n135,6.06,224000\n136,6.07,4248000\n137,6.06,2850000\n138,6.06,1740000\n139,6.06,3768000\n140,6.07,884000\n141,6.08,1293000\n142,6.07,5134000\n143,6.08,800000\n144,6.07,2584000\n145,6.07,1954000\n146,6.07,2743000\n147,6.07,2063000\n148,6.06,2950000\n149,6.07,1912000\n150,6.06,1343000\n151,6.05,4831000\n152,6.07,1656000\n153,6.06,1400000\n154,6.06,2168000\n155,6.05,1503000\n156,6.06,6345000\n157,6.05,1453000\n158,6.06,510000\n159,6.05,1556000\n160,6.06,2301000\n161,6.06,489000\n162,6.07,1588000\n163,6.07,998000\n164,6.07,1085000\n165,6.07,3005000\n166,6.07,376000\n167,6.07,980000\n168,6.04,8433000\n169,6.05,815000\n170,6.04,1176000\n171,6.04,4556000\n172,6.04,587000\n173,6.04,2866000\n174,6.03,1822000\n175,6.04,1289000\n176,6.04,3163000\n177,6.03,4661000\n178,6.03,4288000\n179,6.03,7327000\n180,6.03,11427000\n715,5.98,2122000\n720,6,107000\n721,6.01,932000\n722,6.01,1343000\n723,6.01,3173000\n724,6.02,781000\n725,6.02,563000\n726,6,1072000\n727,5.99,2104000\n728,5.99,1009000\n729,6,920000\n730,6.01,409000\n731,6.01,1219000\n732,6.01,534000\n733,6,1267000\n734,5.99,2732000\n735,5.98,3138000\n736,5.98,2017000\n737,5.99,1098000\n738,6,551000\n739,6,1047000\n740,6,149000\n741,5.99,796000\n742,6,196000\n743,6.01,2029000\n744,6,598000\n745,6,646000\n746,6,1374000\n747,6,345000\n748,6.01,334000\n749,6,904000\n750,6,559000\n751,6.01,1490000\n752,6.01,483000\n753,6.01,404000\n754,6.01,50000\n755,6.01,179000\n756,6.01,220000\n757,6.01,62000\n758,6,946000\n759,6,1080000\n760,6.01,170000\n761,6,117000\n762,6.02,1259000\n763,6.02,15000\n764,6.01,1065000\n765,6.02,12000\n766,6.01,255000\n767,6.02,197000\n768,6.01,123000\n769,6.01,274000\n770,6.01,152000\n771,6.01,103000\n772,6.01,135000\n773,6.01,216000\n774,6.01,199000\n775,6,117000\n776,6.01,243000\n777,6.01,130000\n778,6.02,202000\n779,6.01,468000\n780,6.01,40000\n781,6.01,74000\n782,6.01,1037000\n783,6.01,304000\n784,6.01,122000\n785,6.01,113000\n786,6.01,209000\n787,6,84000\n788,6.01,139000\n789,6.01,173000\n790,6.01,218000\n791,6.01,201000\n792,6.01,126000\n793,6.01,217000\n794,6.01,111000\n795,6.01,1276000\n855,6,2910000\n856,5.98,5171000\n857,5.98,224000\n858,5.97,3333000\n859,5.97,4342000\n860,5.97,2080000\n861,5.94,3195000\n862,5.95,2484000\n863,5.95,3619000\n864,5.93,4409000\n865,5.95,2060000\n866,5.92,3585000\n867,5.95,2209000\n868,5.95,559000\n869,5.94,2161000\n870,5.93,5113000\n871,5.94,1413000\n872,5.94,351000\n873,5.94,1726000\n874,5.94,386000\n875,5.94,552000\n876,5.93,1940000\n877,5.94,1128000\n878,5.94,1933000\n879,5.94,2869000\n880,5.94,841000\n881,5.95,1469000\n882,5.95,679000\n883,5.94,752000\n884,5.95,2003000\n885,5.96,176000\n886,5.96,4246000\n887,5.96,565000\n888,5.96,464000\n889,5.96,357000\n890,5.95,3031000\n891,5.94,6925000\n892,5.92,4352000\n893,5.92,1653000\n894,5.93,3737000\n895,5.93,2110000\n896,5.93,4241000\n897,5.92,4648000\n898,5.92,5888000\n899,5.93,4310000\n900,5.93,17182000\na1290995520,5.9,3220000\n5,5.91,2798000\n6,5.89,3585000\n7,5.92,3447000\n8,5.92,1479000\n9,5.9,1789000\n10,5.9,2623000\n11,5.91,2529000\n12,5.9,294000\n13,5.9,2495000\n14,5.9,405000\n15,5.89,2725000\n16,5.89,700000\n17,5.89,593000\n18,5.9,1064000\n19,5.9,448000\n20,5.91,2260000\n21,5.92,426000\n22,5.92,1397000\n23,5.92,715000\n24,5.93,2442000\n25,5.92,2280000\n26,5.91,1300000\n27,5.91,125000\n28,5.9,879000\n29,5.9,123000\n30,5.91,199000\n31,5.91,204000\n32,5.91,433000\n33,5.91,1048000\n34,5.9,290000\n35,5.91,452000\n36,5.9,143000\n37,5.91,324000\n38,5.91,363000\n39,5.91,920000\n40,5.91,352000\n41,5.92,1030000\n42,5.92,67000\n43,5.91,251000\n44,5.91,183000\n45,5.91,138000\n46,5.91,186000\n47,5.91,2205000\n48,5.92,435000\n49,5.91,634000\n50,5.92,211000\n51,5.92,827000\n52,5.92,1449000\n53,5.93,2295000\n54,5.93,1569000\n55,5.94,418000\n56,5.94,343000\n57,5.94,1704000\n58,5.94,502000\n59,5.94,193000\n60,5.95,1481000\n61,5.96,2534000\n62,5.96,232000\n63,5.96,507000\n64,5.96,365000\n65,5.95,2205000\n66,5.94,928000\n67,5.94,193000\n68,5.93,234000\n69,5.94,214000\n70,5.94,172000\n71,5.94,184000\n72,5.94,466000\n73,5.94,224000\n74,5.94,159000\n75,5.93,557000\n76,5.92,813000\n77,5.93,309000\n78,5.92,946000\n79,5.92,798000\n140,5.93,2528000\n141,5.93,306000\n142,5.93,547000\n143,5.93,257000\n144,5.93,698000\n145,5.91,1193000\n146,5.92,415000\n147,5.91,580000\n148,5.91,1441000\n149,5.91,179000\n150,5.91,346000\n151,5.91,542000\n152,5.91,382000\n153,5.91,497000\n154,5.9,835000\n155,5.92,4310000\n156,5.92,177000\n157,5.91,1458000\n158,5.91,1030000\n159,5.91,908000\n160,5.92,872000\n161,5.92,511000\n162,5.91,659000\n163,5.92,3257000\n164,5.92,1775000\n165,5.94,3167000\n166,5.94,1128000\n167,5.94,712000\n168,5.94,3017000\n169,5.93,179000\n170,5.94,1643000\n171,5.95,2686000\n172,5.95,645000\n173,5.95,1591000\n174,5.93,1355000\n175,5.93,266000\n176,5.96,2734000\n177,5.95,1924000\n178,5.96,1585000\n179,5.96,378000\n180,5.96,2270000\n181,5.96,4035000\n182,5.95,9589000\n183,5.97,5581000\n184,5.94,18450000\n719,5.93,3072000\n725,5.93,2342000\n726,5.95,1120000\n727,5.96,3279000\n728,5.97,486000\n729,5.97,2895000\n730,5.96,2565000\n731,5.96,303000\n732,5.94,2023000\n733,5.94,1586000\n734,5.94,1858000\n735,5.95,1679000\n736,5.94,254000\n737,5.92,2171000\n738,5.93,1531000\n739,5.94,1398000\n740,5.94,299000\n741,5.94,412000\n742,5.94,962000\n743,5.93,661000\n744,5.93,1128000\n745,5.92,2274000\n746,5.92,3449000\n747,5.91,606000\n748,5.89,8068000\n749,5.9,1918000\n750,5.9,741000\n751,5.9,788000\n752,5.91,84000\n753,5.9,2510000\n754,5.9,689000\n755,5.9,255000\n756,5.89,3724000\n757,5.9,260000\n758,5.9,4706000\n759,5.89,1204000\n760,5.89,693000\n761,5.9,533000\n762,5.9,2107000\n763,5.89,2246000\n764,5.9,237000\n765,5.9,1272000\n766,5.9,630000\n767,5.89,1198000\n768,5.89,601000\n769,5.89,1428000\n770,5.89,1036000\n771,5.89,347000\n772,5.89,1218000\n773,5.89,569000\n774,5.89,410000\n775,5.89,1509000\n776,5.89,4135000\n777,5.89,3656000\n778,5.88,711000\n779,5.9,2349000\n780,5.89,642000\n781,5.89,2042000\n782,5.9,1079000\n783,5.89,1557000\n784,5.89,294000\n785,5.89,2211000\n786,5.89,264000\n787,5.89,292000\n788,5.89,914000\n789,5.89,290000\n790,5.89,985000\n791,5.89,990000\n792,5.89,1085000\n793,5.89,625000\n794,5.89,1239000\n795,5.89,1999000\n796,5.89,428000\n797,5.89,446000\n798,5.89,1263000\n799,5.88,6335000\n860,5.89,992000\n861,5.89,1292000\n862,5.9,3649000\n863,5.92,2358000\n864,5.91,3195000\n865,5.91,1088000\n866,5.9,914000\n867,5.9,3534000\n868,5.9,527000\n869,5.9,237000\n870,5.9,249000\n871,5.9,409000\n872,5.9,1925000\n873,5.9,1191000\n874,5.9,2272000\n875,5.9,1588000\n876,5.91,1503000\n877,5.91,3544000\n878,5.92,3185000\n879,5.91,3090000\n880,5.91,4039000\n881,5.91,1638000\n882,5.9,3135000\n883,5.9,1311000\n884,5.92,2948000\n885,5.93,1976000\n886,5.94,2141000\n887,5.93,5246000\n888,5.92,3200000\n889,5.92,2171000\n890,5.91,5895000\n891,5.91,1143000\n892,5.92,2223000\n893,5.93,925000\n894,5.92,2812000\n895,5.92,4455000\n896,5.91,400000\n897,5.92,1355000\n898,5.93,2885000\n899,5.94,2921000\n900,5.94,5163000\n901,5.97,7103000\n902,5.95,5876000\n903,5.96,9026000\n904,6.04,94297000\na1291168200,5.96,5194000\n5,5.97,50000\n6,5.96,11249000\n7,5.98,4062000\n8,5.97,4139000\n9,5.97,4639000\n10,5.96,841000\n11,5.95,2043000\n12,5.96,2591000\n13,5.96,1661000\n14,5.96,3474000\n15,5.97,3587000\n16,5.98,1737000\n17,5.96,1434000\n18,5.97,2943000\n19,5.98,1954000\n20,5.99,5603000\n21,5.99,956000\n22,5.97,1310000\n23,5.97,792000\n24,5.98,3410000\n25,6,1033000\n26,5.99,2945000\n27,5.99,1110000\n28,5.98,2171000\n29,5.98,1501000\n30,5.98,929000\n31,5.98,98000\n32,5.98,387000\n33,5.98,2567000\n34,5.97,1094000\n35,5.98,1683000\n36,5.98,251000\n37,5.98,299000\n38,5.98,148000\n39,5.98,883000\n40,5.97,45000\n41,5.97,548000\n42,5.96,2244000\n43,5.94,3044000\n44,5.95,1829000\n45,5.94,3446000\n46,5.95,267000\n47,5.96,2678000\n48,5.95,711000\n49,5.95,116000\n50,5.93,2498000\n51,5.93,2417000\n52,5.95,788000\n53,5.93,1366000\n54,5.93,1277000\n55,5.92,4861000\n56,5.92,4851000\n57,5.91,4897000\n58,5.92,4963000\n59,5.94,3386000\n60,5.93,3013000\n61,5.94,997000\n62,5.93,1299000\n63,5.93,542000\n64,5.93,1589000\n65,5.93,2213000\n66,5.94,3893000\n67,5.94,1528000\n68,5.94,1043000\n69,5.94,987000\n70,5.94,1163000\n71,5.93,797000\n72,5.94,814000\n73,5.93,3056000\n74,5.93,1875000\n75,5.93,1092000\n76,5.93,406000\n77,5.92,1509000\n78,5.92,1392000\n79,5.91,3960000\n80,5.92,2431000\n140,5.93,400000\n141,5.95,7298000\n142,5.94,2972000\n143,5.93,1427000\n144,5.94,1029000\n145,5.93,1100000\n146,5.93,1336000\n147,5.93,1025000\n148,5.93,1782000\n149,5.94,3271000\n150,5.93,745000\n151,5.94,768000\n152,5.93,1695000\n153,5.95,2653000\n154,5.95,2753000\n155,5.94,2599000\n156,5.95,2161000\n157,5.94,3474000\n158,5.95,5097000\n159,5.94,960000\n160,5.93,1127000\n161,5.93,986000\n162,5.93,2172000\n163,5.94,746000\n164,5.94,1443000\n165,5.94,2165000\n166,5.95,1811000\n167,5.96,1429000\n168,5.97,5047000\n169,5.98,9454000\n170,5.99,4541000\n171,5.99,2960000\n172,5.98,4315000\n173,5.99,2376000\n174,5.98,1737000\n175,5.99,1070000\n176,6,4557000\n177,5.99,1794000\n178,6.01,6043000\n179,6.02,3505000\n180,6.01,2358000\n181,6,6390000\n182,6,2850000\n183,6,4725000\n184,6,6988000\n185,5.99,18366000\n",_5Y:"EXCHANGE%3DHKG\nMARKET_OPEN_MINUTE=600\nMARKET_CLOSE_MINUTE=960\nINTERVAL=604800\nCOLUMNS=DATE,CLOSE,VOLUME,CDAYS\nDATA_SESSIONS=[MORNING,600,750],[AFTERNOON,870,960]\nDATA=\nTIMEZONE_OFFSET=480\na1161936000,3.52,10630622026,5\n1,3.58,5802785989,4\n2,3.65,3856946354,5\n3,4.01,5464617930,5\n4,4.08,2403041083,5\n5,3.89,2724265946,5\n6,4.02,1959753981,5\n7,4.15,1911373095,5\n8,4.4,2547981090,5\n9,4.85,2726607076,3\n10,4.94,3457380028,4\n11,4.61,3105445342,5\n12,4.6,1861441263,5\n13,4.6,1651098489,5\n14,4.52,1591221258,5\n15,4.68,1773557338,5\n16,4.65,1020024066,5\n17,4.57,446273306,4\n18,4.18,2592186340,5\n19,4.41,3030234989,5\n20,4.24,1660441283,5\n21,4.39,964735996,5\n22,4.38,922246594,5\na1175673600,4.31,984614157,5\na1176451200,4.29,1331475717,5\n1,4.33,1872934018,5\n2,4.34,1710887965,5\n3,4.29,1093811285,4\n4,4.21,1297219428,5\n5,4.26,1347312063,5\n6,4.12,1059925173,4\n7,4.1,1335789101,5\n8,4.03,1018689786,5\n9,4.26,2012665855,5\n10,4.37,2585890272,4\n11,4.33,1568250153,5\n12,4.61,2141264526,4\n13,4.77,3997254029,5\n14,4.92,2398485164,5\n15,4.69,2368160051,5\n16,4.74,2303852333,5\n17,4.6,2516786844,5\n18,4.25,2857721783,5\n19,4.91,3849601525,5\n20,5.1,3479793592,5\n21,5.13,2200976484,5\n22,5.07,1584795622,5\n23,5.39,2475300263,5\n24,5.43,2036098315,4\n25,5.99,2915963049,4\n26,6.66,3591256526,5\na1192694400,6.81,2188378478,5\na1193385600,7.16,3502453763,5\n1,6.82,2774901403,5\n2,6.4,2239121550,5\n3,6.06,2893073465,5\n4,5.94,1989224791,5\n5,6.18,1866026995,5\n6,6.21,1696097232,5\n7,5.73,2037768330,5\n8,5.71,1378577082,5\n9,5.55,758846092,3\n10,5.32,1482542308,4\n11,5.32,2544538408,5\n12,5.29,2736131573,5\n13,5.2,4374347916,5\n14,5.1,2565574110,5\na1202284800,4.87,1290058776,6\na1203062400,5.27,1980928007,6\n1,5.19,1579213944,5\n2,5.54,1884443187,5\n3,5.08,2044271312,5\n4,4.92,2039025500,5\na1206000000,4.82,2289891786,5\na1206691200,5.56,2337353617,5\na1207209600,5.87,1982588121,5\na1207900800,6.16,2252998749,5\n1,5.85,1893947684,5\n2,6.16,1772684660,5\n3,6.27,1263999894,4\n4,5.9,1670278300,5\n5,6.1,1027407382,4\n6,5.82,1036908242,5\n7,5.83,1022795187,5\n8,5.87,1173344057,5\n9,5.38,1352673870,4\n10,5.43,1115726828,5\n11,5.36,1258438259,5\n12,5.11,1708008700,4\n13,5.57,2180747925,5\n14,5.55,1640464462,5\n15,5.78,2201562188,5\n16,5.9,1586573689,5\n17,5.73,1211154492,5\n18,5.2,2162901213,5\n19,5.12,1068313003,5\n20,5.41,1792829424,5\n21,5.09,1730438084,5\n22,4.8,2902988368,5\n23,4.67,5478883833,4\n24,4.74,2279461122,5\n25,4.36,1809665045,4\n26,3.75,2882019870,4\n27,3.61,4323880872,5\n28,3.15,3022837256,5\n29,3.54,4749521822,5\n30,3.72,2865880383,5\n31,3.75,2457960992,5\n32,3.35,2520817404,5\n33,3.8,2669020311,5\n34,4.07,1856900326,5\n35,4.27,2330150396,5\n36,4.38,1548585289,5\na1230105600,4.14,500007705,3\na1230883200,4.3,662641603,4\n1,3.65,2599089413,5\n2,3.44,2777324555,5\n3,3.24,1780367562,5\n4,3.35,847860829,2\n5,3.65,1523824659,5\n6,3.57,1009252289,5\n7,3.26,1492060455,5\n8,3.18,1745061262,5\n9,3.1,2280675572,5\n10,3.35,1959800604,5\n11,3.31,1970614914,5\n12,4.2,3817114395,5\n13,4.06,2704399412,5\na1239264000,4.35,2292882637,5\na1239955200,4.47,1880173992,5\n1,4.28,2389581108,5\na1241078400,4.48,2959781823,4\na1241769600,4.8,2742382136,6\n1,4.65,2659296319,5\n2,4.78,1490363505,5\n3,4.86,1748990481,4\n4,4.93,2978322690,5\n5,5.21,2841814922,5\n6,5.22,2177673116,5\n7,5.45,2001988322,5\n8,5.34,1129633945,4\n9,5.06,1374002052,5\n10,5.2,1604789564,5\n11,5.41,1697487098,5\n12,5.58,1947953956,5\n13,5.11,2675201088,5\n14,5.41,1870831302,5\n15,5.25,2131448371,5\n16,5.25,1431793799,5\n17,5.63,2478427764,5\n18,5.96,2180836914,5\n19,6.12,1709469141,5\n20,5.92,1187462017,5\n21,5.68,1079114699,4\n22,6.12,1191622994,6\n23,6.15,1454992353,5\n24,6.51,1562110408,5\n25,6.29,1448184319,4\n26,6.47,1188068958,5\n27,6.81,1285811927,5\n28,6.75,1349096187,5\n29,6.25,2281191755,5\n30,6.74,1484036150,5\n31,6.45,1348625399,5\n32,6.2,1201414916,5\na1261641600,6.41,644804882,4\n1,6.44,604141882,5\na1262937600,6.36,1092921387,5\n1,5.84,3226254138,5\n2,5.84,1717689258,5\n3,5.7,1768156007,5\n4,5.51,1611227800,5\n5,5.58,1517694552,5\n6,5.48,648396933,3\n7,5.49,1348503684,5\n8,5.76,1853358502,5\n9,5.85,1376760611,5\n10,5.91,1056654683,5\n11,5.7,1472512055,5\na1270108800,6.04,1178807355,4\na1270800000,6.3,1387144163,3\n1,6.04,1222479577,5\n2,5.84,1416080086,5\n3,5.77,1329411323,5\n4,5.56,1547121481,5\n5,5.72,1173922879,5\na1274342400,5.46,1070021205,4\na1275033600,5.76,2028812865,5\n1,5.69,907484810,5\n2,5.7,915388265,5\n3,5.82,737567385,4\n4,5.87,1351211328,5\n5,5.62,1019908978,4\n6,5.72,1107846119,5\n7,5.72,1258637723,5\n8,5.89,855712785,5\n9,5.94,905530020,5\n10,5.98,1017036975,5\n11,5.7,1195994430,5\n12,5.65,762456269,5\n13,5.65,596739376,5\n14,5.77,957709442,5\n15,5.79,995855085,5\n16,5.98,1632685877,5\n17,5.9,624186105,4\na1285833600,5.78,650115729,5\na1286524800,5.95,2211517495,5\n1,6.38,3074519707,5\n2,6.27,2208625607,5\n3,6.24,1358350217,5\n4,6.74,2387207246,5\n5,6.61,1818645287,5\n6,6.22,1961697517,5\n7,5.93,1435702776,5\n",corp_actions:"[{\"_quote\":\"HKG:1398\",\"_type\":\"dividend\",\"_date\":\"1181700000\",\"_amount\":\"0.016\",\"_amount_currency\":\"CNY\",\"_payable_date\":\"1182996000\"},{\"_quote\":\"HKG:1398\",\"_type\":\"dividend\",\"_date\":\"1213063200\",\"_amount\":\"0.133\",\"_amount_currency\":\"CNY\",\"_payable_date\":\"1214445600\"},{\"_quote\":\"HKG:1398\",\"_type\":\"dividend\",\"_date\":\"1243303200\",\"_amount\":\"0.165\",\"_amount_currency\":\"CNY\",\"_payable_date\":\"1246327200\"},{\"_quote\":\"HKG:1398\",\"_type\":\"dividend\",\"_date\":\"1274234400\",\"_amount\":\"0.17\",\"_amount_currency\":\"CNY\",\"_payable_date\":\"1277431200\"}]",related_items:[{ticker:"INDEXHANGSENG:.HSI",name:"�ڥͫ���",timezone_offset:28800,is_index:true,different_market_session:false},{ticker:"INDEXHANGSENG:.HSCE",name:"�ڥͰ������",timezone_offset:28800,is_index:true,different_market_session:false},{ticker:"HKG:0939",name:"�س]�Ȧ�",timezone_offset:28800,is_index:false},{ticker:"HKG:3328",name:"��q�Ȧ�",timezone_offset:28800,is_index:false},{ticker:"HKG:3968",name:"�۰ӻȦ�",timezone_offset:28800,is_index:false},{ticker:"HKG:3988",name:"����Ȧ�",timezone_offset:28800,is_index:false},{ticker:"HKG:0998",name:"���H�Ȧ�",timezone_offset:28800,is_index:false},{ticker:"HKG:1988",name:"���ͻȦ�",timezone_offset:28800,is_index:false},{ticker:"HKG:1288",name:"�A�~�Ȧ�",timezone_offset:28800,is_index:false}]}};
+google.finance.data.numberFormat = [{'threshold':10000, 'symbol':'\u842c'}, {'threshold':100000000,'symbol':'\u5104'}, {'threshold':1000000000000,'symbol':'\u842c\u5104'}] ;
+if (_s_Store) {
+_s_Store._allowMatchAdvancedSearch = true;
+var _fieldToDisplayNameMap = {GrossMargin:"�`�B���� (%)",Return1Week:"1 �g�^���v",Return156Week:"156 �g�^���v",NextYearEPS:"�U�@�~�C�ѬէQ",LTDebtToAssetsYear:"�����Ű�/�겣 (��~) (%)",RevenueGrowthRate5Years:"5 �~�էQ�W���v",EarningsAfterTaxes:"�|��էQ",DividendPerShare:"�C�ѪѮ�",MarketCap:"�`����",NetProfitMarginPercent:"�§Q��v (%)",Float:"�y�q�Ѽƶq",EarningsBeforeTaxes:"�|�e�էQ",QuotePercChange:"�Ѳ��ܰ� (%)",TotalDebtToEquityYear:"�Ű�/�ѥ��`�B (��~) (%)",TotalDebtToCapitalQuarter:"�Ű�/�ꥻ�`�B (��u��) (%)",LTDebtToCapitalQuarter:"�����Ű�/�ꥻ (��u��) (%)",EPSGrowthRate10Years:"10 �~�C�ѬէQ�W���v",Beta:"�ॴ�t��",ReturnOnAssetsPTM:"�겣�^���v (�L�h 12 �Ӥ�) (%)",CapitalGain:"�ꥻ�ɶ^",BetaDown:"RAS ���ॴ�t�ƤU�^",IncomeDividend:"���J�Ѯ�",RevenueGrowthRate10Years:"10 �~�էQ�W���v",MarketCapShareBasis:"�C���`����",IAD:"�Ѯ��v��ܦ~��",Return4Week:"4 �g�^���v",Price150DayAverage:"150 �ѥ�������",EPSGrowthRate5Years:"5 �~�C�ѬէQ�W���v",ReturnOnAssetsTTM:"�겣�^���v (�L�h 12 �Ӥ�) (%)",TotalDebtToAssetsYear:"�Ű�/�겣�`�B (��~) (%)",Volume:"����q",DividendRecentQuarter:"�W�u�Ѯ�",CurrentRatioYear:"�y�ʤ�v",Low52Week:"52 �g�̧C",ExpenseRatio:"�}���v",Price13WeekPercChange:"13 �g����ɶ^�T (%)",Price1DayPercChange:"1 �ѻ���ɶ^�T (%)",ReturnOnEquity5Years:"�ѥ��^���v (5 �~����) (%)",TotalDebtToCapitalYear:"�Ű�/�ꥻ�`�B (��~) (%)",TotalDebtToAssetsQuarter:"�Ű�/�겣�`�B (��u��) (%)",NavChange:"�겣��Ȥɶ^",OperatingMargin:"��B���� (%)",DPSRecentYear:"�C�ѪѮ� (��~)",ANI:"�|��էQ (��~)",AverageVolume:"�����q",High52Week:"52 �g�̰���",Return13Week:"13 �g�^���v",PriceToCashFlowPerShare:"�U�Ѳ{���y����",ATAXRATE:"�|�v (��~)",Price26WeekPercChange:"26 �g����ɶ^�T (%)",QuoteChange:"�ѻ��ɶ^",NetIncomeChangePerc:"�b���q�ܰ� (%)",ReturnOnInvestment5Years:"���^���v (5 �~����) (%)",PE:"���ղv",ReturnOnInvestmentYear:"���^���v (��~) (%)",Price200DayAverage:"200 �ѥ�������",DividendNextQuarter:"�U�u�Ѯ�",EBITD:"��&#31246;�����u�P�e�Q��",PriceYTDPercChange:"�Ѧ~��ܤ��������ܰ� (%)",ReturnOnInvestmentTTM:"���^���v (�L�h 12 �Ӥ�) (%)",NavChangePercent:"�겣�b�Ȥɶ^ (%)",EBITDMargin:"��&#31246;�����u�P�e�Q�� (%)",LTDebtToEquityQuarter:"�����Ű�/�ѥ� (��u��) (%)",BetaRAS:"RAS ���ॴ�t��",PriceSales:"�P��ѻ�",NetAssets:"�b�겣",ReturnOnEquityTTM:"�ѥ��^���v (�L�h 12 �Ӥ�) (%)",CashPerShareYear:"�{��/�ѥ�",ReturnOnAssets5Years:"�겣�^���v (5 �~����) (%)",ReturnDay:"1 �Ѧ^���v",Return52Week:"52 �g�^���v",ForwardPE1Year:"1 �~�������楫�ղv",NetIncomeGrowthRate5Years:"5 �~�b�Q�W���v",DividendYield:"�Ѯ��^�� (%)",Dividend:"�{���Ѯ�",BetaUp:"RAS ���ॴ�t�ƤW��",LTDebtToCapitalYear:"�����Ű�/�ꥻ (��~) (%)",nprice:"�Ӧ� RAS ������",Return260Week:"260 �g�^���v",ReturnOnEquityQuarter:"�ѥ��^���v (��u��) (%)",ACOGS:"��X�f������",LTDebtToAssetsQuarter:"�����Ű�/�ꥻ (��u��) (%)",PriceToBook:"���b�v",LTDebtToEquityYear:"�����Ű�/�ѥ� (��~) (%)",ReturnYTD:"�~��ܤ��^���v",ReturnOnEquityYear:"�ѥ��^���v (��~) (%)",ReturnOnAssetsQuarter:"�겣�^���v (��u��) (%)",TotalDebtToEquityQuarter:"�Ű�/�ѥ��`�B (��u��) (%)",NavPrior:"��e�겣���",AINTCOV:"�Q�q�d��",EPS:"�C�ѬէQ",ReturnOnInvestmentQuarter:"���^���v (��u��) (%)",QuoteLast:"�̷s����",Price50DayAverage:"50 �ѥ�������",Price4WeekPercChange:"4 �g����ɶ^�T (%)",ReturnOnAssetsYear:"�겣�^���v (��~) (%)",MarketCapRAS:"RAS ���`����",Price52WeekPercChange:"52 �g����ɶ^�T (%)",ShortInterestRatioPercent:"�u���Q�v (%)",InstitutionalPercentHeld:"���c���Ѳv",BookValuePerShareYear:"�b����/�ѥ�",ReturnOnEquityPTM:"�ѥ��^���v (�L�h 12 �Ӥ�) (%)"};
+_s_Store._asStore._addStrings(_fieldToDisplayNameMap);
+}
+if (_s_Store) {
+_s_Store._allowMultipleInBox = true;
+}
+_regOnLoad(onCompanyLoad);
+google.finance.renderRecentQuotes();
+</script>
+<script>
+title = "1398: {LAST} {CHANGE} ({CHANGE_PCT}%) - �u�ӻȦ�";_aQ("HKG:1398", "709934",title);_aQ("HKG:1398","709934");_aQ("HKG:0939","701428");_aQ("HKG:3328","699136");_aQ("HKG:3968","709485");_aQ("HKG:3988","706023");_aQ("HKG:0998","715431");_aQ("HKG:1988","15757850");_aQ("HKG:1288","11691844");_aQ("HKG:2318","695819");_aQ("HKG:2628","689029");_aQ("HKG:0302","673033");
+</script>
+<script>
+_chartConfigObject.expandButtonEnabled = true;
+</script>
+<div class="g-section g-tpl-right-1">
+<div class="g-unit g-first">
+<div class=g-c>
+<div id=r-perf class="g-section g-tpl-67-33 g-split nwp">
+<div id=r-perf-quotes class="g-unit g-first"></div>
+<div id=r-perf-charts class=g-unit></div>
+</div>
+<script>google.finance.renderRelativePerformance();</script>
+</div>
+</div>
+<div class=g-unit>
+<div id=market-data-div style="display:none" class="nwp g-floatfix">
+<div id=price-panel style="float:left">
+<div>
+<span class="pr">
+<span id="ref_709934_l">5.99</span>
+</span>
+<div id=price-change class=nwp>
+<span class="ch bld"><span class="chr" id="ref_709934_c">-0.05</span>
+<span class="chr" id="ref_709934_cp">(-0.83%)</span>
+</span>
+</div>
+</div>
+<div>
+<span class=nwp>
+12��1�� - ����
+</span>
+<div class=mdata-dis>
+<span class=dis-large><nobr>HKG ����Ʃ���F 15 ���� - <a href=
+  "http://www.google.com.hk/help/stock_disclaimer.html#realtime"
+  class=dis-large>�K�d�n��</a> </nobr></span>
+</div>
+</div>
+</div>
+<div id=snap-panel
+       class=goog-inline-block style="overflow:hidden;height:82px">
+<ol id=snap-data class=id-snap-data>
+<li>
+<span class="goog-inline-block key" data-snapfield="range">�d��</span>
+<span class="goog-inline-block val">5.91 - 6.02</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="range_52week">52 �g</span>
+<span class="goog-inline-block val">5.38 - 6.90</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="open">�}����</span>
+<span class="goog-inline-block val">5.96</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="vol_and_avg">����q</span>
+<span class="goog-inline-block val">3.84��</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="market_cap">�`����</span>
+<span class="goog-inline-block val">2.02�U��</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="pe_ratio">���ղv</span>
+<span class="goog-inline-block val">11.15</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="latest_dividend-dividend_yield">�Ѯ�/���q</span>
+<span class="goog-inline-block val">&nbsp;&nbsp;&nbsp;&nbsp;-/3.18</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="eps">�C�ѬէQ</span>
+<span class="goog-inline-block val">0.54</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="shares">�ѥ�</span>
+<span class="goog-inline-block val">3377.56��</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="beta">�ॴ�t��</span>
+<span class="goog-inline-block val">&nbsp;&nbsp;&nbsp;&nbsp;-</span>
+</ol>
+</div>
+</div>
+<script>google.finance.renderMarketData();</script>
+</div>
+</div>
+<div class="g-section g-tpl-right-1 sfe-break-top-5">
+<div class="g-unit g-first">
+<div class=g-c><div>
+<div id=newstabsgroup>
+<div id=news-tabs class=hide>
+<div class="goog-tab goog-tab-selected"><a id=news_tab_title class=t> <b class=t><b class=t>�s�D</b></b></a></div>
+<div class=goog-tab><a id=blogs_tab_title class=t> <b class=t><b class=t>��x</b></b></a></div>
+<div class=goog-tab><a id=plot_feeds_title class=t> <b class=t><b class=t>��T����</b></b></a></div>
+</div>
+<div id=tabs-clear class=goog-tab-bar-clear class=hide></div>
+<div id=news_div_cont style="display:none"></div>
+<div id=blogs_div_cont style="display:none"></div>
+<div id=plot_feed_div_cont style="display:none"></div>
+</div>
+<div class="sfe-section clf" id=news-footer>
+<div id=news-sidebar-footer class="g-section g-tpl-67-33 g-split">
+<div class="g-unit g-first"> <a href="/finance/company_news?q=HKG:1398" >���� �u�ӻȦ� ���Ҧ��s�D &raquo;</a> </div><div class=g-unit> <a href="/finance/company_news?q=HKG:1398&output=rss">�q�\</a> <a href="/finance/company_news?q=HKG:1398&output=rss"><img class=SP_subscribe src="/finance/s/m4C5KaofCbA/images/cleardot.gif" alt="�q�\�C" id=rss
+        width=15 height=15 /></a>
+</div>
+</div>
+</div>
+</div>
+<div id=ad class="sfe-break-top sfe-break-bottom-16">
+<div id=ad-label class=invisible>�s�i</div>
+<div id=ad-target class=ads-300-250></div>
+</div>
+<div class="g-section g-tpl-25-75 g-split hdg">
+<div class="g-unit g-first">
+<h3>�ƥ�</h3>
+</div>
+<div class="g-unit">
+<div class=sfe-break-right-em> <img src="/finance/s/m4C5KaofCbA/images/cleardot.gif" width=16 height=16 class=SP_calendar id=calendar alt=""> <a onclick="_GF_click('', 'add_ical', '1398', '')" href="http://www.google.com/calendar/render?hl=zh-TW&cid=http://www.google.com.hk:80%2Ffinance%2Fevents%3Fq%3DHKG%3A1398%26output%3Dical" >�N 1398 �s�W�ܧڪ���ƾ�</a> </div>
+</div>
+</div>
+<div class="events sfe-section">
+<div class=event>
+<div class="bld date">2010�~10��28��</div>
+<div>�ĤT�u�~�Z/�Ѯ�
+</div>
+</div>
+<div class=event>
+<div class="bld date">2010�~10��28��</div>
+<div>2010�u�׷~�Z���G
+</div>
+</div>
+<div class=event>
+<div class="bld date">2010�~9��21��</div>
+<div>�ѪF�S�O�j�|
+</div>
+</div>
+<table><tr>
+<td>
+&nbsp;&nbsp;<nobr>
+</td>
+</tr></table>
+</div>
+<div class=hdg><h3>����έp�ƾڻP��v</h3></div>
+<div class=sfe-section>
+<table class="quotes rgt nwp" width="100%">
+<thead><tr>
+<td width=50%>
+<td class=colHeader>2010�~ 9��
+<td class=colHeader>2009�~
+</tr></thead>
+<tr>
+<td class="lft name">�b�Q��v
+<td class=period>43.99%
+<td class=period>41.55%
+<tr>
+<td class="lft name">��~�Q��v
+<td class=period>57.22%
+<td class=period>53.72%
+<tr>
+<td class="lft name">��&#31246;���«e�Q��
+<td class=period>-
+<td class=period>-
+<tr>
+<td class="lft name">�����겣�^���v
+<td class=period>1.30%
+<td class=period>1.20%
+<tr>
+<td class="lft name">�����ѥ��^���v
+<td class=period>23.44%
+<td class=period>20.15%
+<tr>
+<td class="lft name">���u
+<td class=period>388,032
+<td class=period>-
+<tr>
+<td class="lft name">�Ҵ��S�ŧO
+<td class=period>-
+<td class=period>
+<a id=m-cdi href=https://www.cdproject.net/en-US/Results/Pages/Company-Responses.aspx?company=2423>21/100</a>
+</table>
+<div class=sfe-break-top>
+<a id="similar" href="/finance/similar?q=HKG:1398" >�z���������Ъ��Ѳ� &raquo;</a></div>
+</div>
+<div class=hdg><h3>�a�}</h3></div>
+<div class=sfe-section><br/>(852) 3510-8822 (�q��)<br>(852) 2521-3394 (�ǯu)<br>
+</div>
+<div class=hdg><h3>����s��</h3></div>
+<div class=sfe-section><div class=item>���q����G<br>
+<a id=fs-chome href="http://www.icbc-ltd.com" >
+http://www.icbc-ltd.com
+</a>
+</div>
+<div class=item><a id=fs- href="http://www.icbc-ltd.com/icbcltd/about%20us/news/" >News Releases</a></div>
+<div class=item><a id=fs- href="http://www.icbc-ltd.com/icbcltd/investor%20relations/" >Investor Relations</a></div>
+<div class=item><a id=fs- href="http://www.icbc-ltd.com/icbcltd/investor%20relations/financial%20information/financial%20reports/" >Financial Information</a></div>
+<div class=item><a id=fs- href="http://www.icbc-ltd.com/icbcltd/about%20us/introduction/" >Corporate History/Profile</a></div>
+<div class=item><a id=fs- href="http://www.icbc-ltd.com/icbcltd/corporate%20governance/senior%20management/" >Executives</a></div>
+<div class=item><a id=fs- href="http://www.icbc-ltd.com/icbcltd/products%20%20services/personal%20banking/" >Products/Services</a></div>
+<div class=item><a id=fs- href="http://www.icbc-ltd.com/icbcltd/career/hr%20strategy/" >Employment Opportunities</a></div>
+</div>
+<div class=hdg><h3>�~���s��</h3></div>
+<div class=sfe-section>
+</div>
+</div>
+</div>
+<div class=g-unit>
+<div id=top-section class="g-c sfe-break-right">
+<div id=chart-section>
+<div>
+<div id=compare-bar-wrapper>
+<div id=compare-bar class="id-compare-bar g-section">
+</div>
+</div>
+<div id=chart_anchor class=id-chart_anchor>
+<script>
+var _minZoomDays = 1;
+var _timeZoneOffset = '28800';
+_chartConfigObject.hasVolume = _displayVolume;
+_chartConfigObject.hasNews = true;
+_chartConfigObject.hasExtendedHours = false;
+_chartConfigObject.hasDefaultZoomSetting = true;
+_chartConfigObject.hasVerticalScaleSetting = true;
+_chartConfigObject.displayVolume = 'true';
+_chartConfigObject.displayNewsPins = 'true';
+_chartConfigObject.displayDividends = 'true';
+_chartConfigObject.displaySplits = 'true';
+_chartConfigObject.displayExtendedHours = 'false';
+_chartConfigObject.enableCustomDateEntry = true
+_chartConfigObject.defaultZoomDays = '3';
+_chartConfigObject.snapping = false;
+_chartConfigObject.verticalScaling = 'maximized';
+_chartConfigObject.sparklineType = 'dynamic';
+// set _minZoomDays and _minZoomDaysNoIntraDay in each page before emit the
+// chart to passing the value to chart, otherwise default value will be use.
+_chartConfigObject.minZoomDaysNormal = _minZoomDays;
+_chartConfigObject.minZoomDaysNoIntraDay = _minZoomDaysNoIntraDay;
+_chartConfigObject.displayName = '�u�ӻȦ�';
+_chartConfigObject.enableIndicator = true;
+_chartConfigObject.companyId = '709934';
+_chartConfigObject.enableRealtimeChart = true;
+_chartConfigObject.isMarketOpenState = 0;
+_chartConfigObject.stateRemainingMinutes = 107;
+_chartConfigObject.delayedMinutes = 0;
+_chartConfigObject.delayedMinutes = Math.max(
+_chartConfigObject.delayedMinutes,
+15);
+_chartConfigObject.enableChartTypeSetting = true;
+_chartConfigObject.lineStyle = 'IntervalBasedLine';
+_chartConfigObject.defaultInterval = '86400';
+_chartConfigObject.enableIndicatorSetting = true;
+_chartConfigObject.biasSetting = '';
+_chartConfigObject.emaSetting = '';
+_chartConfigObject.kdjSetting = '';
+_chartConfigObject.macdSetting = '';
+_chartConfigObject.rsiSetting = '';
+_chartConfigObject.smaSetting = '';
+_chartConfigObject.vmaSetting = '';
+_chartConfigObject.cciSetting = '';
+_chartConfigObject.williamsPercentRSetting = '';
+_chartConfigObject.bollingerBandsSetting = '';
+_chartConfigObject.fastStochasticSetting = '';
+_chartConfigObject.slowStochasticSetting = '';
+_chartConfigObject.companyCurrency = 'HKD';
+_chartConfigObject.displayDividendsUnits = 'false';
+var configStringFromCookie = '{}';
+var configString = unescape(configStringFromCookie);
+var obj = eval('(' + configString + ')');
+for (var attribute in obj) {
+_chartConfigObject[attribute] = obj[attribute];
+}
+_external_target = "";
+_emitFlashChart(
+"/finance/s/UO7LEA3RSb0/chart9.swf?hl=zh-HK&gl=hk",
+_ticker, _chartConfigObject,"http:\x2F\x2Fwww.google.com.hk:80");
+</script>
+<noscript>
+<div id=image_chart style="display:block;">
+<table>
+<tr><td class=itxt align=left>
+</td></tr>
+<tr><td>
+<img alt="�Ϫ�C" src="/finance/getchart?q=1398&x=HKG&p=3d&i=240" width="500" height="322">
+</td></tr>
+</table>
+</div>
+</noscript>
+</div>
+<div class="g-section g-tpl-67-33 g-split sfe-break-bottom-8"
+      style="padding-top:1px">
+<div id="chart-footer-links" class="g-unit g-first id-chart-footer-links">
+<a id="settings-link" class="chart-footer-link"
+            href="javascript:google.finance.clickSettingsLink();">
+�]�w</a>
+<span>|</span>
+<a id="plot-feeds-link" class="chart-footer-link"
+            href="javascript:google.finance.clickPlotFeedsLink();">
+ø�s�ƾڹϪ�</a>
+<span>|</span>
+<a id="technicals-link" class="chart-footer-link"
+            href="javascript:google.finance.clickTechnicalsLink();">
+�޳N����</a>
+<span>|</span>
+<span style="white-space:nowrap;">
+<img width="16" hight="9" alt="�s���ܹϪ�ϥܡC"
+            id="link-to-chart-img" class="SP_link"
+            src="/finance/s/m4C5KaofCbA/images/cleardot.gif" />
+<a id="link-to-chart-link" class="chart-footer-link"
+            href="javascript:google.finance.clickLinkToChartLink();">
+�s���ܦ��Ϫ�</a>
+</span>
+</div>
+<div class="g-unit">
+<span class="chart-dis">����w�i��F���V�վ�C
+</span>
+</div>
+</div>
+<div id=settings-panel-wrapper>
+<div id=settings-panel class=sfe-section style="display:none"></div>
+</div>
+<div style="height:1em;"></div>
+</div>
+</div>
+</div>
+<div class="g-c sfe-break-right">
+<div id=related class=hide>
+<div class="hdg">
+<div class="g-section g-tpl-50-50 g-split gf-control">
+<div class="g-unit g-first"><h3>�������q</h3>&nbsp;��ܡG <select id=related-select>
+<option  value=mrq > �W�u </option>
+<option  value=mra selected> �W�~�� </option>
+</select>
+</div>
+<div class=g-unit>
+<span id=related-edit-col class=linkbtn>�s�W�β����C</span>
+<button id=related-save style="display:none">�x�s�ܧ�</button>
+<button id=related-cancel style="display:none">����</button>
+</div>
+</div>
+</div>
+<div id=related-table class=gf-table-scroll-x style="padding-bottom:15px;">
+</div>
+<div class=sfe-section>����: <a id=sector href="?catid=hk-SHKFD:BK" >�Ȧ�</a> &gt; ��~: <a href="?catid=hk-SHKFD:BKLI" >�Ȧ�</a>
+</div>
+</div>
+<div id=reorder><div class=mid-reorder>
+<div id=blogs-section
+>
+<div id=blogs>
+<div class=hdg><div class=float>
+<h3>�b��x�W�Q�ת��u�ӻȦ�</h3></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class="sfe-section news">
+<div class=item>
+<a id="b-p-3" href="http://tw.nextmedia.com/applenews/article/art_id/33002612/IssueID/20101201" rel="nofollow" >The E-books Are Coming! �q�l�ѮɥN���{�I | ��ڷs�D| ī�G��� ...</a>
+<span class=src>- ��ī�G���</span>
+- 2010�~11��30��
+</div>
+<div class=item>
+<a id="b-p-3" href="http://centralblogger.blogspot.com/2010/12/blog-post.html" rel="nofollow" >��R����l���O�j</a>
+<span class=src>- ꮤ���</span>
+<span class=src>- ����ի�Central Blogger</span>
+- 2010�~11��30��
+</div>
+<div class=item>
+<a id="b-p-3" href="http://www.flickr.com/photos/81808599@N00/5183942758/" rel="nofollow" >crochet + felted lacing beads | Flickr - Photo Sharing!</a>
+<span class=src>- nobody@flickr.com (mama_anna)</span>
+<span class=src>- Uploads from mama_anna</span>
+- 2010�~11��17��
+</div>
+<div class=sfe-break-top> <a id="b-m-" href="http://www.google.com.hk/blogsearch?hl=zh-TW&q=%22%E5%B7%A5%E5%95%86%E9%8A%80%E8%A1%8C%22" >��h����u�ӻȦ檺��x�峹 &raquo; </a> </div>
+</div>
+</div>
+</div>
+<div id=discussions-section
+>
+</div><script>_tck('aft');</script>
+<div id=summary-section
+>
+<div id=summary>
+<div class=hdg><div class=float>
+<h3>²��</h3></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class=sfe-section>
+<div class=companySummary>
+�D�n�~�Ȭ����ѻȦ�ά������ĪA�ȡC
+</div>
+</div>
+</div>
+</div>
+<div id=mgmt-section
+>
+<div id=management style="margin-bottom:1.5em;">
+<div class=hdg><div class=float>
+<h3>���Ƨ�</h3></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class=sfe-section>
+<table id=mgmt-table width=100%><tbody>
+<tr  >
+<td class="p linkbtn">���زM
+<td class=i>
+<td class=t>�D�u�ݰ��渳��
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+�~�֡G56<br>
+<tr  class=grey-top>
+<td class="p linkbtn">���ͥ�
+<td class=i>
+<td class=t>�`��ݰƥD�u�ݰ��渳��
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+�~�֡G60<br>
+<tr  class=grey-top>
+<td class="p linkbtn">�����P
+<td class=i>
+<td class=t>���渳�ƭݰ��`��
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+�~�֡G51<br>
+<tr  class=grey-top>
+<td class="p linkbtn">����Z
+<td class=i>
+<td class=t>�D���渳��
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+�~�֡G56<br>
+<tr  class=grey-top>
+<td class="p linkbtn">���´�
+<td class=i>
+<td class=t>�D���渳��
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+�~�֡G54<br>
+<tr  class=grey-top>
+<td class="p linkbtn">�Q���
+<td class=i>
+<td class=t>�D���渳��
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+�~�֡G54<br>
+<tr  class=grey-top>
+<td class="p linkbtn">���C�i
+<td class=i>
+<td class=t>�D���渳��
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+�~�֡G45<br>
+<tr  class=grey-top>
+<td class="p linkbtn">���x
+<td class=i>
+<td class=t>�D���渳��
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+�~�֡G50<br>
+<tr  class=grey-top>
+<td class="p linkbtn">Ű����
+<td class=i>
+<td class=t>�D���渳��
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+�~�֡G61<br>
+<tr  class=grey-top>
+<td class="p linkbtn">���A�Q
+<td class=i>
+<td class=t>�W�߫D���渳��
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+�~�֡G57<br>
+</table>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+<!-- b -->
+</div>
+</div>
+<div id=footer>
+<center>
+<div class=footerBorder>
+<div class=editions>Google �]�g���ժ����ѤU�C�����G
+<a href="http://www.google.com.hk/finance" >���䪩 (Hong Kong)</a>&nbsp;-
+<a href="http://www.google.ca/finance?hl=en" >Canada</a>&nbsp;-
+<a href="http://www.google.com/finance?hl=en" >U.S.</a>&nbsp;-
+<a href="http://www.google.com.hk/finance?gl=cn&amp;hl=zh-CN" >&#31616;�^���� (China)</a>&nbsp;-
+<a href="http://www.google.co.uk/finance?hl=en" >U.K.</a>
+</div>
+<div class=footerDisclaimer>
+��T����˴��ѡA�ȨѰѦҡA���y�Ω����γ~�Χ@����ĳ�A�ӥB�H���i�঳����C<br/> �Y�n�d�ݩҦ�����ҩ���ɶ��A�аѾ\<a href=
+    "http://www.google.com.hk/intl/zh-TW/help/stock_disclaimer.html"
+  style="color:#7777cc">�K�d�n��</a>�C
+<br><br>
+</div>
+<div class=footerLinks> &copy;2010 Google &nbsp;&nbsp; <a href="http://www.google.com.hk" class=q>Google ����</a>
+- <a href="http://googlefinanceblog.blogspot.com/">��x</a>
+- <a href=
+  "http://www.google.com.hk/support/finance?hl=zh-TW"
+ class=q>����</a>
+- <a href="http://www.google.com.hk/intl/zh-TW/privacy.html" class=q>�p���v�F��</a> - <a href="http://www.google.com.hk/accounts/TOS?loc=hk" class=q>�A�ȱ���</a><br><br><br> </div>
+</div>
+</center>
+</div>
+</div>
+</div>
+</body>
+</html>

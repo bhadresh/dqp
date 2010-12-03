@@ -1,0 +1,1042 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>���y�B�� - Google �]�g</title>
+<meta name="Description" content="�H Google �]�g��o��ɪѻ��B�Ϫ�B�]�g�s�D�Υ~�קI���A�ΰl�ܱz�����զX�C">
+<link rel="stylesheet" type="text/css" href="/finance/s/3pnFYBIQ7Gk/styles/finance_hk.css">
+<style>#gbar,#guser{font-size:13px;padding-right:8px;padding-top:4px !important}#gbar{padding-left:8px;float:left;height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}#gbs,.gbm{background:#fff;left:0;position:absolute;text-align:left;visibility:hidden;z-index:1000}.gbm{border:1px solid;border-color:#c9d7f1 #36c #36c #a2bae7;z-index:1001}.gb1{margin-right:.5em}.gb1,.gb3{zoom:1}.gb2{display:block;padding:.2em .5em}.gb2,.gb3{text-decoration:none;border-bottom:none}a.gb1,a.gb2,a.gb3,a.gb4{color:#00c !important}.gbi .gb3,.gbi .gb2,.gbi .gb4{color:#dd8e27 !important}.gbf .gb3,.gbf .gb2,.gbf .gb4{color:#900 !important}a.gb2:hover{background:#36c;color:#fff !important}div#gbar{padding-left:0}</style>
+<script>(function(){function i(a,b,d){var c="on"+b;if(a.addEventListener)a.addEventListener(b,d,false);else if(a.attachEvent)a.attachEvent(c,d);else{var f=a[c];a[c]=function(){var g=f.apply(this,arguments),e=d.apply(this,arguments);return g==undefined?e:e==undefined?g:e&&g}}};var j,k,l,m=window.gbar={},n={};function _tvs(a,b){return a||b}function _tvn(a,b){var d=parseInt(a,10);return isNaN(d)?b:d}function _tvf(a,b){var d=parseFloat(a);return isNaN(d)?b:d}function _tvb(a,b){return a=="true"?true:a=="false"?false:b}var o,p,q;function r(a){var b=window.b&&(document.forms[0].f||"").value;if(b)a.href=a.href.replace(/([?&])q=[^&]*|$/,function(d,c){return(c||"&")+"q="+encodeURIComponent(b)})}l=r;
+function s(a,b,d,c,f,g){var e=document.getElementById(a);if(e){var h=e.style;h.left=c?"auto":b+"px";h.right=c?b+"px":"auto";h.top=d+"px";h.visibility=p?"hidden":"visible";if(f&&g){h.width=f+"px";h.height=g+"px"}else{s(o,b,d,c,e.offsetWidth,e.offsetHeight);p=p?"":a}}}
+var w=function(a){a=a||window.event;var b,d=a.target||a.srcElement;a.cancelBubble=true;if(o!=null)t(d);else{b=document.createElement(Array.every||window.createPopup?"iframe":"div");b.frameBorder="0";o=b.id="gbs";b.src="javascript:''";d.parentNode.appendChild(b);i(document,"click",u);t(d);n.a&&n.a(function(){var c=document.getElementById("gbli");if(c){var f=c.parentNode;v(f,c);var g=c.e;f.removeChild(c);n.g(f,g);b.style.height=f.offsetHeight+"px"}})}};
+function t(a){var b=0;if(a.className!="gb3")a=a.parentNode;var d=a.getAttribute("aria-owns")||"gbi",c=a.offsetWidth,f=a.offsetTop>20?46:24;if(document.getElementById("tphdr"))f-=3;var g=false;do b+=a.offsetLeft||0;while(a=a.offsetParent);a=(document.documentElement.clientWidth||document.body.clientWidth)-b-c;var e;c=document.body;var h=document.defaultView;if(h&&h.getComputedStyle){if(c=h.getComputedStyle(c,""))e=c.direction}else e=c.currentStyle?c.currentStyle.direction:c.style.direction;e=e=="rtl";
+if(d=="gbi"){c=document.getElementById("gbi");v(c,document.getElementById("gbli")||c.firstChild);if(e){b=a;g=true}}else if(!e){b=a;g=true}p!=d&&u();s(d,b,f,g)}var u=function(){p&&s(p,0,0)};function v(a,b){for(var d,c=window.d;c&&(d=c.pop());){var f=a,g=d,e=b;if(!q){q="gb2";if(n.a){var h=n.c(f);if(h)q=h}}f.insertBefore(g,e).className=q}}
+var x=function(a,b,d){if((b=document.getElementById(b))&&a){a.className="gb4";var c=document.createElement("span");c.appendChild(a);c.appendChild(document.createTextNode(" | "));c.id=d;b.appendChild(c)}};m.qs=l;m.setContinueCb=k;m.pc=j;m.tg=w;m.close=u;m.addLink=x;})();
+</script>
+<link rel="icon"
+        type="image/vnd.microsoft.icon" href="/finance/favicon.ico">
+<style>
+tr.hdg {background-color:#E5ECF9; padding: 2px 0 2px 2px;}
+tr.hdgr td {background-color:#E5ECF9; padding: 2px 0 2px 2px;}
+.highlightWhite td { background-color:#FFFFFF; }
+.highlightGrey td { background-color:#EFEFEF; }
+.highlightGreyRelated td { background-color:#EFEFEF; }
+.highlight1 { background-color:#FFFFFF; }
+.highlight2 { background-color:#EFEFEF; }
+.selected1 { background-color:#FEFED7; }
+.selected2 { background-color:#F6F6D1; }
+.bld {font-weight:bold;}
+.chg {color:#008000;}
+.chr {color:#AA0033;}
+.chb {color:#000000;}
+.chrSectorDark { background-color:#B73B3B }
+.chrSectorLight { background-color:#FFCEBE }
+.chgSectorDark { background-color:#2CC42C }
+.chgSectorLight { background-color:#ACF4AC }
+.ndiv {
+padding: 1px 0 1px 0;
+white-space: normal;
+}
+.related {
+margin-top:-2px; margin-left:30px; margin-bottom:0px; margin-right:5px;
+padding:7px 10px 10px 10px; line-height:1.3em;
+border:2px solid #9DDF99; width:100%;
+display:none; position:absolute; z-index:2; background-color:#FFFFFF;
+}
+.rg {color:#008000; padding:0 5px 0 5px;}
+.rl {color:#000; padding:0 5px 0 5px;background-color:#9DDF99;text-decoration:none;}
+</style>
+</head>
+<body>
+<div class=g-doc>
+<div id=gbar><nobr><a href="http://www.google.com.hk/webhp?hl=zh-tw&tab=ew" onclick=gbar.qs(this) class=gb1>�Ҧ����</a> <a href="http://www.google.com.hk/imghp?hl=zh-tw&tab=ei" onclick=gbar.qs(this) class=gb1>�Ϥ�</a> <a href="http://video.google.com.hk/?hl=zh-tw&tab=ev" onclick=gbar.qs(this) class=gb1>�v��</a> <a href="http://maps.google.com.hk/maps?hl=zh-tw&tab=el" onclick=gbar.qs(this) class=gb1>�a��</a> <a href="http://news.google.com.hk/nwshp?hl=zh-tw&tab=en" onclick=gbar.qs(this) class=gb1>�s�D</a> <b class=gb1>�]�g</b> <a href="http://mail.google.com/mail/?hl=zh-tw&tab=em" class=gb1>Gmail</a> <a href="http://www.google.com.hk/intl/zh-TW/options/" onclick="this.blur();gbar.tg(event);return !1" aria-haspopup=true class=gb3><u>��h</u> <small>&#9660;</small></a><div class=gbm id=gbi><a href="http://translate.google.com.hk/?hl=zh-tw&tab=eT" onclick=gbar.qs(this) class=gb2>½Ķ</a> <a href="http://blogsearch.google.com.hk/?hl=zh-tw&tab=eb" onclick=gbar.qs(this) class=gb2>��x�j�M</a> <a href="http://www.google.com.hk/realtime?hl=zh-tw&tab=eY" onclick=gbar.qs(this) class=gb2>��s</a> <div class=gb2><div class=gbd></div></div><a href="http://www.youtube.com/?hl=zh-tw&tab=e1&gl=HK" onclick=gbar.qs(this) class=gb2>YouTube</a> <a href="http://www.google.com/calendar/render?hl=zh-tw&tab=ec" class=gb2>���</a> <a href="http://picasaweb.google.com.hk/home?hl=zh-tw&tab=eq" onclick=gbar.qs(this) class=gb2>�ۤ�</a> <a href="http://docs.google.com/?hl=zh-tw&tab=eo" class=gb2>���</a> <a href="http://www.google.com.hk/reader/?hl=zh-tw&tab=ey" class=gb2>�\Ū��</a> <a href="http://sites.google.com/?hl=zh-tw&tab=e3" class=gb2>��@���x</a> <div class=gb2><div class=gbd></div></div><a href="http://www.google.com.hk/intl/zh-TW/options/" class=gb2>��h &raquo;</a> </div></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.com.hk/support/finance?hl=zh-TW" class=gb4>����</a> | <a href="https://www.google.com/accounts/Login?hl=zh-tw&continue=http://www.google.com.hk/finance%3Fcatid%3DSHKFD:LT&service=finance" class=gb4>�n�J</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div>
+<script>window.locale={hl:'zh-TW',gl:'hk',locale:'zh-Hant-HK'};</script>
+<div class="g-section g-tpl-75-25 g-split search-header">
+<div class="g-unit g-first">
+<div class=sfe-logo>
+<a  href="/finance">
+<img src="/finance/s/eEbuAnwFuas/images/logo_hk.gif" alt="Google �]�g�C">
+</a>
+</div>
+<div class=sfe-search>
+<form method=GET action="/finance" name=f>
+<input  name=q id=searchbox autocomplete=off size=40 maxlength=2048
+             type=text tabindex=1 title="�ѻ��j�M��J"
+             value="">
+<input type=submit value="�d��" >
+<br>
+<span class="searchExample">�Ҧp &quot;0005&quot;, &quot;����&quot; �� &quot;HSBC&quot;</span>
+</form>
+</div>
+</div>
+<div class="g-unit promo">
+</div>
+</div>
+<div class="g-section g-tpl-nav-main">
+<div class="g-unit g-first" id="left-nav">
+<ul id=navmenu>
+<li class="nav-selected nav-expanded">����
+<li class=navsub>
+<div>�K�n
+</div>
+<li class=navsub>
+<a  id="nav-ctn" 
+  href="/finance/category_news?catid=SHKFD:LT">�s�D
+</a>
+<li class=nav-item>
+<a id="nav-m" 
+  href="/finance">
+<div>����</div></a>
+<li class=nav-item>
+<a id="nav-n" 
+  href="/finance/market_news">
+<div>�s�D</div></a>
+<li class=nav-item>
+<a href="https://www.google.com/accounts/ServiceLogin?hl=zh-TW&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com.hk%3A80%2Ffinance%2Fportfolio%3Faction%3Dview" >
+<div>���զX</div></a>
+<li class=nav-item>
+<a id="nav-s" 
+  href="/finance/stockscreener">
+<div>�Ѳ��z�ﾹ</div></a>
+</ul>
+<div id=rq-box>
+<h4>�̪�d��</h4>
+<div id=rq-toggle></div>
+<div id=rq-table></div> <a id=rq-create href="https://www.google.com/accounts/ServiceLogin?hl=zh-TW&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com.hk%2Ffinance%3Fcatid%3DSHKFD%3ALT" >�n�J�H�إߧ��զX</a> </div>
+<script>
+setTimeout(
+function() {try{google.finance.renderRecentQuotes();}catch(e){}}, 200);
+</script>
+<form id=new_pform_nav
+      action=/finance/portfolio/create?hash= method=post>
+<input id=new_pform_name type=hidden name=pname />
+<input id=new_pform_cids type=hidden name=pcids />
+<input  id=is_logged_in type=hidden name=is_logged_in
+           value=0 />
+</form>
+<div id=ra-target></div>
+</div>
+<div class="g-unit sfe-break-left" id="rt-content">
+<!-- a -->
+<div class="g-section sfe-break-bottom-13">
+<div class="hdg top"><h3>
+���y�B��
+</h3></div>
+</div>
+<div class="g-section g-tpl-right-1">
+<div class="g-unit g-first">
+<div class=g-c>
+<div class=hdg><h3>�s�D</h3></div>
+<div id=category-news class="news sfe-section">
+<div class=title>
+<a title="�ߪk�|�C�D�J���K�����ҵ{�ǥͭ����u�f" href="http://www.info.gov.hk/gia/general/201012/01/P201012010104.htm" rel=nofollow  id=n-s- >�ߪk�|�C�D�J���K�����ҵ{�ǥͭ����u�f
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>����F����T���� -</span>
+<span class=date>16�p�ɫe</span>
+</div>
+<div class=title>
+<a title="�m�~����I�n��H�G�հ����K�էQ�w���A�ؼл������O��������" href="http://www.etnet.com.hk/www/tc/news/categorized_news_detail.php?category=research&newsid=ETN201201559" rel=nofollow  id=n-s- >�m�~����I�n��H�G�հ����K�էQ�w���A�ؼл������O����...
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>�g�ٳq -</span>
+<span class=date>17�p�ɫe</span>
+</div>
+<div class=title>
+<a title="�ӵ����M�R�l�P�����K" href="http://paper.wenweipo.com/2010/12/01/EN1012010024.htm" rel=nofollow  id=n-s- >�ӵ����M�R�l�P�����K
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>�����׳� -</span>
+<span class=date>2010�~11��30��</span>
+</div>
+<div class=title>
+<a title="���K�ݯe���u��D�D�[��" href="http://www.hkcd.com.hk/content/2010-11/30/content_2643791.htm" rel=nofollow  id=n-s- >���K�ݯe���u��D�D�[��
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>����ӳ� -</span>
+<span class=date>2010�~11��30��</span>
+</div>
+<div class=title>
+<a title="DJ �s�{�s��R�N�V�����o�i�X��8����o���M�`���B���H����19����" href="http://www.aastocks.com/tc/News/DJ_COS/0/COS_e-20101129DN003357a3.html" rel=nofollow  id=n-s- >DJ �s�{�s��R�N�V�����o�i�X��8����o���M�`���B���H����1...
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>�����F�J�]�g�� -</span>
+<span class=date>2010�~11��29��</span>
+</div>
+<div class=title>
+<a title="�H�����&lt;03378.HK&gt;�V�X��H�����ɼW�� �A����5141�U�H����겣" href="http://www.aastocks.com/chi/News/newstext.asp?item=NOW.416276&source=AAFN" rel=nofollow  id=n-s- >�H�����&lt;03378.HK&gt;�V�X��H�����ɼW�� �A����5141�U�H��...
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>�����F�J�]�g�� -</span>
+<span class=date>2010�~11��29��</span>
+</div>
+<div class=title>
+<a title="�f�A�����K�uí�w�v���Ůi��" href="http://www.hkcd.com.hk/content/2010-11/27/content_2642354.htm" rel=nofollow  id=n-s- >�f�A�����K�uí�w�v���Ůi��
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>����ӳ� -</span>
+<span class=date>2010�~11��27��</span>
+</div>
+<div class=title>
+<a title="���K�`�`4���u���~���}�q" href="http://www.hkcd.com.hk/content/2010-11/27/content_2642353.htm" rel=nofollow  id=n-s- >���K�`�`4���u���~���}�q
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>����ӳ� -</span>
+<span class=date>2010�~11��27��</span>
+</div>
+<div class=title>
+<a title="�����˭����K���g" href="http://paper.wenweipo.com/2010/11/26/FI1011260004.htm" rel=nofollow  id=n-s- >�����˭����K���g
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>�����׳� -</span>
+<span class=date>2010�~11��25��</span>
+</div>
+<div class=title>
+<a title="���װ��(01308)�q�y4�����˽c���" href="http://www.hkej.com/template/onews/jsp/detail.jsp?title_id=42519" rel=nofollow  id=n-s- >���װ��(01308)�q�y4�����˽c���
+</a>
+</div>
+<div class=sfe-break-bottom-8>
+<span class=src>�H���]�g�s�D -</span>
+<span class=date>2010�~11��24��</span>
+</div>
+<div>
+<a href="/finance/category_news?catid=SHKFD:LT" >�������y�B�骺�Ҧ��s�D &raquo;</a>
+</div>
+</div>
+<div style=padding-bottom:1.5em;>
+<table id=subcategory cellpadding=0 cellspacing=0 width=100%>
+<tr><td>
+<div class=hdg>&nbsp;<h3>�l���O</h3></div>
+<div class=sfe-section>
+<div class=sfe-break-bottom-4>
+<a href="?catid=hk-SHKFD:LTPT">���ιB��</a></div>
+<div class=sfe-break-bottom-4>
+<a href="?catid=hk-SHKFD:LTMC">���B�γf�d�A��</a></div>
+<div class=sfe-break-bottom-4>
+<a href="?catid=hk-SHKFD:LTMT">�f�d�ή���B��u��</a></div>
+<div class=sfe-break-bottom-4>
+<a href="?catid=hk-SHKFD:LTLW">���y�έܶ��A��</a></div>
+<div class=sfe-break-bottom-4>
+<a href="?catid=hk-SHKFD:LTNA">��L���y�ܶ�</a></div>
+</div>
+</table>
+</div>
+</div>
+</div>
+<div class=g-unit>
+<div class="g-c sfe-break-right">
+<table width=100% id=category_chart class="category_chart_table" cellpadding=0 cellspacing=0>
+<tr valign="top" width=100%>
+<td align=center colspan=2 width=100% bgcolor=white>
+<div id=market-data-div class=category_market_data_nojs width=100%></div>
+<div id=chart_anchor class=category_chart_anchor_nojs>
+</div>
+<tr>
+<td><img alt="" id=cleardot src="/finance/s/m4C5KaofCbA/images/cleardot.gif" width="360" height="1"/>
+</table>
+<div id=topmovers_header>
+<div class="hdg"><div class="g-section g-tpl-50-50 g-split">
+<div class="g-unit g-first"><h3>�̬��D�Ѳ�</h3></div>
+<div class="g-unit">��s�� <b>15�p�ɫe</b> </div>
+</div></div>
+</div>
+<div class="sfe-break-bottom">
+<table class="topmovers" cellpadding=0 cellspacing=0 width=95% valign="top">
+<tr  >
+<td style="text-align:left" colspan=2><b>�W�ɪ� (����ɶ^�T)</b>
+<td width=15%>�̷s���� <td width=20%>�ɶ^ <td width=15%>
+�`����
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:0317" >�s�{�s���ڪѥ�</a>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:0317" >0317</a>
+<td>16.96
+<td width=20%>
+<span class=chg>+0.62</span>
+<span class=chg>(3.79%)</span>
+<td>83.90��
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:1138" >�����o�i�ѥ�</a>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:1138" >1138</a>
+<td>11.02
+<td width=20%>
+<span class=chg>+0.24</span>
+<span class=chg>(2.23%)</span>
+<td>375.18��
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:8217" >���w���ͪ��y</a>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:8217" >8217</a>
+<td>6.89
+<td width=20%>
+<span class=chg>+0.14</span>
+<span class=chg>(2.07%)</span>
+<td>11.17��
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:0316" >�F����~���</a>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:0316" >0316</a>
+<td>76.90
+<td width=20%>
+<span class=chg>+1.55</span>
+<span class=chg>(2.06%)</span>
+<td>481.24��
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:2866" >�������B</a>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:2866" >2866</a>
+<td>3.13
+<td width=20%>
+<span class=chg>+0.03</span>
+<span class=chg>(0.97%)</span>
+<td>365.68��
+<tr  class=beginsec>
+<td style="text-align:left" colspan=2><b>�U�^�� (����ɶ^�T)</b>
+<td colspan=3>
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:0137" >��������</a>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:0137" >0137</a>
+<td>2.88
+<td width=20%>
+<span class=chr>-0.07</span>
+<span class=chr>(-2.37%)</span>
+<td>15.27��
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:0237" >�w���f��</a>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:0237" >0237</a>
+<td>5.62
+<td width=20%>
+<span class=chr>-0.08</span>
+<span class=chr>(-1.40%)</span>
+<td>7.59��
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:0598" >����~�B</a>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:0598" >0598</a>
+<td>2.31
+<td width=20%>
+<span class=chr>-0.03</span>
+<span class=chr>(-1.28%)</span>
+<td>98.15��
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:1919" >���껷�v</a>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:1919" >1919</a>
+<td>8.45
+<td width=20%>
+<span class=chr>-0.04</span>
+<span class=chr>(-0.47%)</span>
+<td>863.28��
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:0062" >���q</a>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:0062" >0062</a>
+<td>25.40
+<td width=20%>
+<span class=chr>-0.05</span>
+<span class=chr>(-0.20%)</span>
+<td>102.51��
+<tr  class=beginsec>
+<td style="text-align:left" colspan=2><b>������ (������B)</b>
+<td colspan=3>
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:0144" >�۰ӧ����</a>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:0144" >0144</a>
+<td>30.65
+<td width=20%>
+<span class=chb>+0.00</span>
+<span class=chb>(0.00%)</span>
+<td>745.83��
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:1919" >���껷�v</a>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:1919" >1919</a>
+<td>8.45
+<td width=20%>
+<span class=chr>-0.04</span>
+<span class=chr>(-0.47%)</span>
+<td>863.28��
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:2866" >�������B</a>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:2866" >2866</a>
+<td>3.13
+<td width=20%>
+<span class=chg>+0.03</span>
+<span class=chg>(0.97%)</span>
+<td>365.68��
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:1138" >�����o�i�ѥ�</a>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:1138" >1138</a>
+<td>11.02
+<td width=20%>
+<span class=chg>+0.24</span>
+<span class=chg>(2.23%)</span>
+<td>375.18��
+<tr>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:0716" >�ӷ�f�d</a>
+<td style="text-align:left;">
+<a href="/finance?q=HKG:0716" >0716</a>
+<td>2.41
+<td width=20%>
+<span class=chg>+0.01</span>
+<span class=chg>(0.42%)</span>
+<td>58.05��
+</table>
+</div>
+</div>
+</div>
+</div>
+<table id=main width="100%" cellpadding="0" cellspacing="0" border="0" class=results>
+<tr>
+<td colspan=8 style="text-align:left;"> <b>���y�B��</b> ������ <b>1 - 20</b> �����q�A�@�� <b>32</b> �����q&nbsp;
+<tr class="hdg">
+<td class="hdg" style="text-align:left">
+<a href="?catid=SHKFD:LT&amp;sort=a#link_���q" name="link_���q">
+<b>���q</b></a>
+<img alt="" width=14 height=1 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<a href="?catid=SHKFD:LT&amp;sort=QUOTE_LAST#link_����" name="link_����"><b><nobr>����</b></a>
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<a href="?catid=SHKFD:LT&amp;sort=QUOTE_CHANGE#link_�ɶ^" name="link_�ɶ^"><b><nobr>�ɶ^</b></a>
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/nDKCztIaHVI/images/sort_down.gif">
+<a href="?catid=SHKFD:LT&amp;sort=QUOTE_PERC_CHANGE&amp;desc#link_�ɶ^�T" name="link_�ɶ^�T"><b><nobr>�ɶ^�T</b></a>
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<a href="?catid=SHKFD:LT&amp;sort=MARKET_CAP#link_�`����" name="link_�`����"><b><nobr>�`����</b></a>
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<a href="?catid=SHKFD:LT&amp;sort=PE_RATIO#link_���ղv (�L�h 12 �Ӥ�)" name="link_���ղv (�L�h 12 �Ӥ�)"><b><nobr>���ղv (�L�h 12 �Ӥ�)</b></a>
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<a href="?catid=SHKFD:LT&amp;sort=AREV#link_�~���q" name="link_�~���q"><b><nobr>�~���q</b></a>
+<td class="hdg" style="text-align:right">
+<img alt="" width=14 height=12 src="/finance/s/m4C5KaofCbA/images/cleardot.gif">
+<a href="?catid=SHKFD:LT&amp;sort=ANIAC#link_�~�b�Q" name="link_�~�b�Q"><b><nobr>�~�b�Q</b></a>
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:8233" >�����ش�f</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+0.081
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.004</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chg"> 5.19</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+9478.19�U
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+6.98
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-0.77
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:0632" >�F����]�з~</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+1.31
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.05</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chg"> 3.97</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+21.51��
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+25.20
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-73.05
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:0317" >�s�{�s���ڪѥ�</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+16.96
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.62</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chg"> 3.79</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+83.90��
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+11.71
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+985.36
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+77.43
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:0152" >�`�`���</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+0.640
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.020</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chg"> 3.23</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+90.61��
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+8.70
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+525.94
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+111.59
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:8022" >�m�T����</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+0.355
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.010</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chg"> 2.90</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+2.33��
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+2.85
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-49.83
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:1138" >�����o�i�ѥ�</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+11.02
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.24</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chg"> 2.23</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+375.18��
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+22.50
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+1312.62
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+160.10
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:8217" >���w���ͪ��y</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+6.89
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.14</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chg"> 2.07</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+11.17��
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+5.64
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+343.53
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+19.58
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:0316" >�F����~���</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+76.90
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +1.55</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chg"> 2.06</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+481.24��
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+50.53
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+4350.20
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+-377.79
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:0066" >���K���q</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+29.15
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.50</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chg"> 1.75</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+1681.13��
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+14.19
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+2422.50
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+1242.24
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:8348" >�خ����F���y</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+1.92
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.03</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chg"> 1.59</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+6.80��
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+6.04
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+401.64
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+7.68
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:0306" >�a���ڤh����</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+1.76
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.02</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chg"> 1.15</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+6.95��
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+8.72
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+240.11
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+9.78
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:0217" >����۳q�o�i����</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+0.475
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.005</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chg"> 1.06</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+19.82��
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+19.86
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+0.71
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+7.99
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:2866" >�������B</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+3.13
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.03</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chg"> 0.97</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+365.68��
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+2968.11
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-975.68
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:2343" >�ӥ��v��B</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+5.29
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.04</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chg"> 0.76</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+102.16��
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+15.05
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+950.48
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+110.28
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:0716" >�ӷ�f�d</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+2.41
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.01</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chg"> 0.42</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+58.05��
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+274.65
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+-51.91
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:0368" >���~�B��B</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+2.98
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.01</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chg"> 0.34</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+118.96��
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+15.20
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+229.11
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+106.39
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:1199" >�����ӥ��v</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+12.34
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chg"> +0.04</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chg"> 0.33</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+334.60��
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+22.58
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+349.42
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+146.90
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:2880" >�j�s��</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+3.42
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chg"> +0.01</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chg"> 0.29</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+100.07��
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+12.94
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+252.31
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+91.61
+<tr>
+<td align="right" class="highlight1"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:3378" >�H�����</a>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+1.52
+<td style="padding:2px" class="highlight1" align=right>
+<span class="chb"> 0.00</span>
+<td style="padding:2px" class="selected1" align=right>
+<span class="chb"> 0.00</span>
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+41.44��
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+14.44
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+310.62
+<td align=right class="highlight1"
+              style="padding:2px;text-align:right;">
+30.84
+<tr>
+<td align="right" class="highlight2"
+              style="padding:2px;text-align:left;">
+<a href="/finance?q=HKG:0144" >�۰ӧ����</a>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+30.65
+<td style="padding:2px" class="highlight2" align=right>
+<span class="chb"> 0.00</span>
+<td style="padding:2px" class="selected2" align=right>
+<span class="chb"> 0.00</span>
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+745.83��
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+21.75
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+462.41
+<td align=right class="highlight2"
+              style="padding:2px;text-align:right;">
+353.90
+</table>
+<br>
+<br>
+<center style="padding:0 0.5em 1.5em 0.5em;">
+<div id=navbar>
+<table width="1%" cellspacing=0 cellpadding=0>
+<tr valign="top" align="center" style="text-align:center;">
+<td nowrap><div id=nav_nf></div></td>
+<td nowrap>
+<div id=nav_nc></div><span class=nav_i>1</span>
+</td>
+<td nowrap>
+<a href="http://www.google.com.hk/finance?catid=SHKFD:LT&amp;start=20&amp;num=20">
+<div class=nav_nr></div>2</a>
+</td>
+<td class=nav_b nowrap>
+<a href="http://www.google.com.hk/finance?catid=SHKFD:LT&amp;start=20&amp;num=20"><div id=nav_nn></div>�U�@��</a> </td>
+</tr>
+</table>
+</div>
+</center>
+<!-- b -->
+</div>
+</div>
+<script type="text/javascript">var google=google||{};var _cleardot = '/finance/s/m4C5KaofCbA/images/cleardot.gif';</script>
+<script type="text/javascript" src="/finance/s/HctJl7DXpjg/js/finance-opt.js?hl=zh-HK&gl=hk"></script>
+<script type="text/javascript">
+(function(){var d=navigator.userAgent.toLowerCase().indexOf("msie")!=-1;function e(){for(var a=document.styleSheets,b=a.length-1;b>=0;--b){var c=a[b].href;if(c)if(c.indexOf("styles/finance_")!=-1||c.indexOf("styles_")!=-1)return a[b]}return null}function f(){var a=e();if(a){a=a.rules;return a.length>0&&a[a.length-1].selectorText==".lastFinanceRule"}return false}
+function g(){if(document.scripts)for(var a=0;a<document.scripts.length;++a){var b=document.scripts[a];if(b&&b.src.indexOf("/js/gen_finance.js")!=-1)return b}return null}function _chkCssJs(){if(d){if(typeof _lastFinanceFn!="function"){var a=g();if(a&&a.src){var b=a.src.indexOf("?")!=-1?"&":"?";a.src+=b+"zx="+Math.random()}}if(!f())if((a=e())&&a.href){b=a.href.indexOf("?")!=-1?"&":"?";a.href+=b+"zx="+Math.random()}}};_chkCssJs();})();
+  
+    _setStickyUrlParams("");
+  </script>
+<!-- js-a -->
+<script>
+var _ticker = 'INDEXCATHK:catid-SHKFD:LT:hk';
+var _timeZoneOffset = '0';
+var _categoryName = '���y�B��';
+var _displayVolume = false;
+var _companyId = 0;
+_s_Store._numToDisplay = 3;
+_ac_register(function (input, event) {
+if (input.id == 'add_comparison_symbol') {
+_comparison_charts_Store.baseTicker = "INDEXCATHK:catid-SHKFD:LT:hk";
+return _comparison_charts_Store;
+}
+});
+google.finance.data = null;
+function _visibleChartRangeChanged(startTime, endTime, numdays) {
+}
+var headings = new Array("tm_price","tm_mcap","tm_wmcap");
+var link_names = new Array("l_tm_price","l_tm_mcap","l_tm_wmcap");
+function show_tab(name) {
+for (var i = 0; i < headings.length; i++) {
+        var mylink = document.getElementById(link_names[i]);
+        var mydiv = document.getElementById(headings[i]);
+        if (mydiv) {
+          if (headings[i] == name) {
+            mydiv.style.display = "block";
+            if (mylink) {
+              mylink.className = "ac";
+            }
+          } else {
+            mydiv.style.display = "none";
+            if (mylink) {
+              mylink.className = "nac";
+            }
+          }
+        }
+      }
+    }
+
+    function initCategoryPage() {
+      _chartConfigObject.displayName = _categoryName;
+      _minZoomDays = 3;
+
+      _chartConfigObject = {};
+      _chartConfigObject.minZoomDaysNormal = _minZoomDays;
+      _chartConfigObject.volume = _displayVolume;
+      _chartConfigObject.defaultZoomDays = 3;
+      _chartConfigObject.displayName = _categoryName;
+      _chartConfigObject.hasExtendedHours = 'false';
+
+      _chartConfigObject.compareTo = 'INDEXHANGSENG:.HSI\x3BINDEXHANGSENG:.HSCE';
+      _chartConfigObject.compareToDisplayName = '�ڥͫ���\x3B�ڥͤ�����~����';
+
+      
+      _external_target = "";
+      _emitFlashChart("/finance/s/UO7LEA3RSb0/chart9.swf?hl=zh-HK&gl=hk",
+          _ticker,_chartConfigObject,"http:\x2F\x2Fwww.google.com.hk:80","chart_anchor");
+      _initAutoFocus();
+    }
+  </script>
+<script>
+_eventid = 'm-T2TL2zGYbkqQOXt6GhAg';
+var google = google || {};
+google.finance = google.finance || {};
+google.finance.data = {common:{rq:{ct:""},up:"chg",down:"chr",linktargetInternal:"",hash:""},stickyUrlArgs:"",chart:{_5d:"EXCHANGE%3DINDEXCATHK\nMARKET_OPEN_MINUTE=600\nMARKET_CLOSE_MINUTE=960\nINTERVAL=120\nCOLUMNS=DATE,CLOSE,VOLUME\nDATA_SESSIONS=[MORNING,600,750],[AFTERNOON,870,960]\nDATA=\nTIMEZONE_OFFSET=480\na1290650400,41139.551,0\n1,41110.575,0\n2,41140.6449,0\n3,41192.844,0\n4,41226.325,0\n5,41172.096,0\n6,41100.228,0\n7,41067.022,0\n8,41081.305,0\n9,41057.353,0\n10,41087.112,0\n11,41069.8779,0\n12,41060.919,0\n13,41085.269,0\n14,41052.2699,0\n15,41039.8,0\n16,41004.702,0\n17,41045.203,0\n18,41039.68,0\n19,41031.161,0\n20,41042.85,0\n21,41017.166,0\n22,40994.361,0\n23,40952.24,0\n24,40925.607,0\n25,40917.416,0\n26,40912.309,0\n27,40932.122,0\n28,40945.349,0\n29,40962.355,0\n30,40986.61,0\n31,41015.1809,0\n32,41019.709,0\n33,41004.987,0\n34,40988.391,0\n35,41008.186,0\n36,41052.3039,0\n37,41035.279,0\n38,41117.129,0\n39,41161.674,0\n40,41188.991,0\n41,41195.671,0\n42,41176.372,0\n43,41198.326,0\n44,41189.814,0\n45,41208.511,0\n46,41202.48,0\n47,41216.697,0\n48,41228.6979,0\n49,41193.307,0\n50,41201.375,0\n51,41232.0539,0\n52,41250.294,0\n53,41227.387,0\n54,41225.009,0\n55,41217.941,0\n56,41218.407,0\n57,41229.4,0\n58,41213.063,0\n59,41221.61,0\n60,41200.873,0\n61,41205.257,0\n62,41208.1449,0\n63,41222.791,0\n64,41246.82,0\n65,41241.394,0\n66,41314.874,0\n67,41310.566,0\n68,41325.021,0\n69,41365.45,0\n70,41358.147,0\n71,41357.4119,0\n72,41315.778,0\n73,41322.571,0\n74,41343.252,0\n135,41329.46,0\n136,41329.612,0\n137,41284.229,0\n138,41292.3949,0\n139,41273.8059,0\n140,41288.203,0\n141,41303.299,0\n142,41314.811,0\n143,41306.581,0\n144,41275.095,0\n145,41308.512,0\n146,41219.9309,0\n147,41215.1979,0\n148,41185.363,0\n149,41179.985,0\n150,41207.483,0\n151,41191.291,0\n152,41187.824,0\n153,41171.235,0\n154,41142.558,0\n155,41136.311,0\n156,41140.229,0\n157,41123.657,0\n158,41130.669,0\n159,41115.848,0\n160,41089.8039,0\n161,41099.242,0\n162,41066.608,0\n163,41066.059,0\n164,41102.57,0\n165,41112.154,0\n166,41120.042,0\n167,41079.974,0\n168,41064.154,0\n169,41072.504,0\n170,41101.2149,0\n171,41098.493,0\n172,41080.855,0\n173,41080.12,0\n174,40987.886,0\n175,41025.309,0\n176,41003.428,0\n177,41017.252,0\n178,40973.199,0\n179,41005.616,0\n180,41063.4289,0\n720,40948.134,0\n721,41033.004,0\n722,41003.375,0\n723,41032.687,0\n724,41005.689,0\n725,40957.514,0\n726,40889.8059,0\n727,40872.558,0\n728,40847.042,0\n729,40897.063,0\n730,40880.559,0\n731,40911.438,0\n732,40895.864,0\n733,40823.4289,0\n734,40767.144,0\n735,40654.867,0\n736,40671.202,0\n737,40709.798,0\n738,40728.733,0\n739,40773.113,0\n740,40789.021,0\n741,40800.8059,0\n742,40806.731,0\n743,40808.61,0\n744,40819.3929,0\n745,40844.409,0\n746,40844.316,0\n747,40819.748,0\n748,40867.353,0\n749,40866.647,0\n750,40914.985,0\n751,40959.87,0\n752,40941.594,0\n753,40955.344,0\n754,40976.477,0\n755,40955.5559,0\n756,41015.675,0\n757,40985.025,0\n758,40964.146,0\n759,41000.801,0\n760,40986.788,0\n761,40977.286,0\n762,40998.925,0\n763,41012.648,0\n764,41026.348,0\n765,41007.846,0\n766,41000,0\n767,40997.355,0\n768,41001.211,0\n769,40983.706,0\n770,40996.002,0\n771,40986.082,0\n772,40986.226,0\n773,40974.684,0\n774,40989.795,0\n775,40988.601,0\n776,40989.298,0\n777,41005.386,0\n778,41001.511,0\n779,41000.032,0\n780,40984.531,0\n781,41000.87,0\n782,40988.703,0\n783,40976.909,0\n784,40985.377,0\n785,40968.634,0\n786,40975.089,0\n787,40964.742,0\n788,40976.295,0\n789,41001.097,0\n790,40988.446,0\n791,40978.618,0\n792,40991.0729,0\n793,40972.036,0\n794,40971.263,0\n855,40901.404,0\n856,40757.755,0\n857,40757.811,0\n858,40764.799,0\n859,40638.492,0\n860,40633.029,0\n861,40540.789,0\n862,40547.5539,0\n863,40539.166,0\n864,40540.37,0\n865,40544.964,0\n866,40530.969,0\n867,40581.746,0\n868,40579.017,0\n869,40563.721,0\n870,40580.8039,0\n871,40569.595,0\n872,40602.104,0\n873,40616.552,0\n874,40638.028,0\n875,40655.261,0\n876,40612.176,0\n877,40644.317,0\n878,40610.257,0\n879,40637.93,0\n880,40650.793,0\n881,40660.004,0\n882,40668.259,0\n883,40631.773,0\n884,40633.124,0\n885,40694.674,0\n886,40695.993,0\n887,40727.248,0\n888,40728.608,0\n889,40687.716,0\n890,40707.576,0\n891,40690.57,0\n892,40685.659,0\n893,40746.991,0\n894,40722.097,0\n895,40705.862,0\n896,40690.972,0\n897,40712.96,0\n898,40690.886,0\n899,40711.152,0\n900,40711.152,0\na1290996000,40732.391,0\n1,40699.1619,0\n2,40687.658,0\n3,40737.193,0\n4,40738.407,0\n5,40751.926,0\n6,40716.932,0\n7,40685.634,0\n8,40754.351,0\n9,40719.453,0\n10,40664.2509,0\n11,40670.733,0\n12,40680.949,0\n13,40664.791,0\n14,40682.805,0\n15,40608.333,0\n16,40650.843,0\n17,40659.307,0\n18,40745.552,0\n19,40744.061,0\n20,40768.1,0\n21,40817.722,0\n22,40831.981,0\n23,40807.315,0\n24,40803.191,0\n25,40749.24,0\n26,40741.659,0\n27,40726.361,0\n28,40755.881,0\n29,40755.614,0\n30,40744.671,0\n31,40777.527,0\n32,40796.237,0\n33,40762.649,0\n34,40761.648,0\n35,40738.87,0\n36,40754.861,0\n37,40809.391,0\n38,40812.798,0\n39,40796.732,0\n40,40780.6089,0\n41,40786.832,0\n42,40788.758,0\n43,40788.328,0\n44,40790.471,0\n45,40818.432,0\n46,40808.447,0\n47,40820.0029,0\n48,40791.086,0\n49,40812.373,0\n50,40856.997,0\n51,40873.7,0\n52,40902.42,0\n53,40951.8059,0\n54,41036.606,0\n55,41045.332,0\n56,41045.295,0\n57,41038.047,0\n58,41019.469,0\n59,41076.71,0\n60,41045.508,0\n61,41045.028,0\n62,41029.232,0\n63,41026.814,0\n64,40993.722,0\n65,40961.7869,0\n66,40957.295,0\n67,40950.598,0\n68,40878.24,0\n69,40844.029,0\n70,40896.886,0\n71,40852.039,0\n72,40877.007,0\n73,40884.087,0\n74,40814.94,0\n135,40844.074,0\n136,40834.664,0\n137,40843.011,0\n138,40865.344,0\n139,40881.844,0\n140,40825.546,0\n141,40830.826,0\n142,40793.872,0\n143,40811.516,0\n144,40833.646,0\n145,40792.668,0\n146,40821.101,0\n147,40838.329,0\n148,40861.4309,0\n149,40870.994,0\n150,40865.457,0\n151,40869.081,0\n152,40842.373,0\n153,40846.315,0\n154,40843.8229,0\n155,40829.528,0\n156,40808.43,0\n157,40820.007,0\n158,40857.538,0\n159,40851.3419,0\n160,40897.196,0\n161,40914.231,0\n162,40898.935,0\n163,40928.326,0\n164,41021.368,0\n165,41044.0009,0\n166,41227.8759,0\n167,41134.644,0\n168,41141.749,0\n169,41135.74,0\n170,41109.444,0\n171,41104.063,0\n172,41149.391,0\n173,41213.522,0\n174,41237.849,0\n175,41262.312,0\n176,41299.731,0\n177,41279.408,0\n178,41248.539,0\n179,41272.043,0\n180,41373.2,0\n720,41140.492,0\n721,41266.992,0\n722,41285.127,0\n723,41336.0539,0\n724,41383.263,0\n725,41358.96,0\n726,41347.08,0\n727,41260.964,0\n728,41207.946,0\n729,41175.9669,0\n730,41157.025,0\n731,41180.796,0\n732,41106.888,0\n733,41078.8039,0\n734,41082.517,0\n735,41076.111,0\n736,41060.724,0\n737,41090.617,0\n738,41070.888,0\n739,41066.038,0\n740,41036.832,0\n741,41014.473,0\n742,41011.322,0\n743,40905.542,0\n744,40830.785,0\n745,40844.424,0\n746,40837.07,0\n747,40879.496,0\n748,40872.8229,0\n749,40829.571,0\n750,40823.239,0\n751,40821.269,0\n752,40753.261,0\n753,40754.481,0\n754,40805.188,0\n755,40806.239,0\n756,40845.617,0\n757,40815.847,0\n758,40768.29,0\n759,40757.125,0\n760,40792.3039,0\n761,40791.773,0\n762,40731.6,0\n763,40750.254,0\n764,40767.601,0\n765,40745.959,0\n766,40763.652,0\n767,40752.367,0\n768,40757.049,0\n769,40733.117,0\n770,40696.524,0\n771,40640.593,0\n772,40629.792,0\n773,40664.541,0\n774,40701.2149,0\n775,40702.141,0\n776,40724.438,0\n777,40745.699,0\n778,40727.039,0\n779,40731.566,0\n780,40705.0369,0\n781,40734.188,0\n782,40734.544,0\n783,40733.26,0\n784,40750.661,0\n785,40717.72,0\n786,40712.539,0\n787,40698.439,0\n788,40704.934,0\n789,40702.497,0\n790,40719.551,0\n791,40761.776,0\n792,40744.781,0\n793,40777.879,0\n794,40763.428,0\n855,40780.419,0\n856,40827.6,0\n857,40909.218,0\n858,40971.38,0\n859,41063.638,0\n860,41067.089,0\n861,41079.483,0\n862,41089.5729,0\n863,41082.509,0\n864,41039.415,0\n865,41006.13,0\n866,41051.361,0\n867,41050.999,0\n868,41041.231,0\n869,41081.813,0\n870,41086.169,0\n871,41101.899,0\n872,41099.854,0\n873,41088.139,0\n874,41162.738,0\n875,41168.267,0\n876,41104.525,0\n877,41069.221,0\n878,41041.8,0\n879,41065.05,0\n880,41076.733,0\n881,41143.973,0\n882,41205.668,0\n883,41226.312,0\n884,41181.121,0\n885,41139.07,0\n886,41143.487,0\n887,41121.703,0\n888,41124.172,0\n889,41125.719,0\n890,41101.51,0\n891,41099.739,0\n892,41075.213,0\n893,41093.74,0\n894,41075.289,0\n895,41086.764,0\n896,41100.631,0\n897,41091.411,0\n898,41103.169,0\n899,40976.528,0\n900,40976.528,0\na1291168800,40939.1429,0\n1,40921.358,0\n2,40726.344,0\n3,40771.071,0\n4,40714.73,0\n5,40605.231,0\n6,40609.782,0\n7,40606.201,0\n8,40635.674,0\n9,40654.3779,0\n10,40619.773,0\n11,40633.786,0\n12,40658.846,0\n13,40691.046,0\n14,40724.138,0\n15,40700.91,0\n16,40683.023,0\n17,40644.913,0\n18,40671.616,0\n19,40715.038,0\n20,40754.864,0\n21,40756.133,0\n22,40724.936,0\n23,40745.674,0\n24,40711.44,0\n25,40749.831,0\n26,40703.749,0\n27,40716.06,0\n28,40681.943,0\n29,40687.6789,0\n30,40675.615,0\n31,40702.106,0\n32,40730.927,0\n33,40727.901,0\n34,40729.998,0\n35,40748.837,0\n36,40740.259,0\n37,40692.168,0\n38,40693.65,0\n39,40703.098,0\n40,40724.678,0\n41,40724.574,0\n42,40718.194,0\n43,40698.642,0\n44,40669.846,0\n45,40664.667,0\n46,40666.357,0\n47,40667.408,0\n48,40656.9,0\n49,40666.4479,0\n50,40675.891,0\n51,40699.417,0\n52,40716.614,0\n53,40778.813,0\n54,40823.982,0\n55,40855.417,0\n56,40854.622,0\n57,40871.668,0\n58,40851.317,0\n59,40799.051,0\n60,40795.754,0\n61,40829.943,0\n62,40761.197,0\n63,40756.507,0\n64,40793.811,0\n65,40811.405,0\n66,40838.962,0\n67,40818.036,0\n68,40843.338,0\n69,40848.178,0\n70,40828.313,0\n71,40833.655,0\n72,40829.664,0\n73,40828.762,0\n74,40808.637,0\n135,40918.142,0\n136,40831.297,0\n137,40888.463,0\n138,40904.097,0\n139,40907.418,0\n140,40862.635,0\n141,40907.6619,0\n142,40861.76,0\n143,40861.482,0\n144,40840.963,0\n145,40878.159,0\n146,40874.136,0\n147,40904.509,0\n148,40904.1809,0\n149,40995.959,0\n150,41048.772,0\n151,41029.222,0\n152,41007.386,0\n153,41067.852,0\n154,41041.982,0\n155,41043.357,0\n156,41027.48,0\n157,41012.798,0\n158,40988.1979,0\n159,40998.348,0\n160,41019.213,0\n161,41076.156,0\n162,41106.021,0\n163,41221.727,0\n164,41214.466,0\n165,41275.122,0\n166,41252.953,0\n167,41217.146,0\n168,41242.175,0\n169,41206.487,0\n170,41205.92,0\n171,41173.487,0\n172,41199.971,0\n173,41252.577,0\n174,41255.163,0\n175,41231.705,0\n176,41267.748,0\n177,41257.985,0\n178,41280.22,0\n179,41262.803,0\n180,41262.803,0\n",_5Y:"EXCHANGE%3DINDEXCATHK\nMARKET_OPEN_MINUTE=600\nMARKET_CLOSE_MINUTE=960\nINTERVAL=604800\nCOLUMNS=DATE,CLOSE,VOLUME,CDAYS\nDATA_SESSIONS=[MORNING,600,750],[AFTERNOON,870,960]\nDATA=\nTIMEZONE_OFFSET=480\na1235721600,17834.488,0,5\n1,17977.919,0,5\n2,19048.6,0,5\n3,19798.211,0,5\n4,23507.83,0,5\n5,24527.7239,0,5\n6,23971.711,0,5\n7,26494.005,0,5\n8,25471.057,0,5\n9,24781.603,0,5\n10,30534.487,0,5\n11,28430.63,0,5\n12,30105.48,0,5\n13,35103.587,0,5\n14,35998.803,0,5\n15,34958.096,0,5\n16,31822.575,0,5\n17,32592.896,0,5\n18,31604.194,0,5\n19,29796.813,0,5\n20,33445.095,0,5\n21,35967.374,0,5\n22,38032.151,0,5\n23,38625.619,0,5\n24,39170.827,0,5\n25,36651.443,0,5\n26,36115.595,0,5\n27,37031.071,0,5\n28,37825.754,0,5\n29,36866.738,0,5\n30,35713.183,0,5\n31,33915.383,0,5\n32,36815.274,0,5\n33,37055.756,0,5\n34,38118.5919,0,5\n35,35625.12,0,5\n36,35982.922,0,5\n37,37760.528,0,5\n38,37323.478,0,5\n39,34196.985,0,5\n40,36759.919,0,5\n41,35448.749,0,5\n42,33452.016,0,5\n43,34565.612,0,5\n44,35105.203,0,5\n45,38350.173,0,5\n46,40699.782,0,5\n47,40392.527,0,5\n48,37846.401,0,5\n49,37400.697,0,5\n50,38397.106,0,5\n51,37776.095,0,5\n52,39801.487,0,5\n53,42229.563,0,5\n54,42384.447,0,5\n55,42132.5899,0,5\n56,41456.875,0,5\n57,42129.1789,0,5\n58,42563.562,0,5\n59,42011.209,0,5\n60,40690.446,0,5\n61,40191.764,0,5\n62,35898.286,0,5\n63,37429.361,0,5\n64,32822.538,0,5\n65,35162.88,0,5\n66,34457.004,0,5\n67,33678.318,0,5\n68,35211.855,0,5\n69,36172.404,0,5\n70,34465.3759,0,5\n71,35637.374,0,5\n72,35514.782,0,5\n73,37993.316,0,5\n74,38444.723,0,5\n75,39007.8039,0,5\n76,37852.154,0,5\n77,38113.439,0,5\n78,36574.561,0,5\n79,37337.269,0,5\n80,38409.869,0,5\n81,39464.411,0,5\n82,39476.8399,0,5\n83,39150.402,0,5\n84,40381.439,0,5\n85,40789.509,0,5\n86,40279.706,0,5\n87,40167.917,0,5\n88,44108.033,0,5\n89,42745.419,0,5\n90,41480.074,0,5\n91,40711.152,0,5\n"}};
+google.finance.data.numberFormat = [{'threshold':10000, 'symbol':'\u842c'}, {'threshold':100000000,'symbol':'\u5104'}, {'threshold':1000000000000,'symbol':'\u842c\u5104'}] ;
+if (_s_Store) {
+_s_Store._allowMatchAdvancedSearch = true;
+var _fieldToDisplayNameMap = {GrossMargin:"�`�B���� (%)",Return1Week:"1 �g�^���v",Return156Week:"156 �g�^���v",NextYearEPS:"�U�@�~�C�ѬէQ",LTDebtToAssetsYear:"�����Ű�/�겣 (��~) (%)",RevenueGrowthRate5Years:"5 �~�էQ�W���v",EarningsAfterTaxes:"�|��էQ",DividendPerShare:"�C�ѪѮ�",MarketCap:"�`����",NetProfitMarginPercent:"�§Q��v (%)",Float:"�y�q�Ѽƶq",EarningsBeforeTaxes:"�|�e�էQ",QuotePercChange:"�Ѳ��ܰ� (%)",TotalDebtToEquityYear:"�Ű�/�ѥ��`�B (��~) (%)",TotalDebtToCapitalQuarter:"�Ű�/�ꥻ�`�B (��u��) (%)",LTDebtToCapitalQuarter:"�����Ű�/�ꥻ (��u��) (%)",EPSGrowthRate10Years:"10 �~�C�ѬէQ�W���v",Beta:"�ॴ�t��",ReturnOnAssetsPTM:"�겣�^���v (�L�h 12 �Ӥ�) (%)",CapitalGain:"�ꥻ�ɶ^",BetaDown:"RAS ���ॴ�t�ƤU�^",IncomeDividend:"���J�Ѯ�",RevenueGrowthRate10Years:"10 �~�էQ�W���v",MarketCapShareBasis:"�C���`����",IAD:"�Ѯ��v��ܦ~��",Return4Week:"4 �g�^���v",Price150DayAverage:"150 �ѥ�������",EPSGrowthRate5Years:"5 �~�C�ѬէQ�W���v",ReturnOnAssetsTTM:"�겣�^���v (�L�h 12 �Ӥ�) (%)",TotalDebtToAssetsYear:"�Ű�/�겣�`�B (��~) (%)",Volume:"����q",DividendRecentQuarter:"�W�u�Ѯ�",CurrentRatioYear:"�y�ʤ�v",Low52Week:"52 �g�̧C",ExpenseRatio:"�}���v",Price13WeekPercChange:"13 �g����ɶ^�T (%)",Price1DayPercChange:"1 �ѻ���ɶ^�T (%)",ReturnOnEquity5Years:"�ѥ��^���v (5 �~����) (%)",TotalDebtToCapitalYear:"�Ű�/�ꥻ�`�B (��~) (%)",TotalDebtToAssetsQuarter:"�Ű�/�겣�`�B (��u��) (%)",NavChange:"�겣��Ȥɶ^",OperatingMargin:"��B���� (%)",DPSRecentYear:"�C�ѪѮ� (��~)",ANI:"�|��էQ (��~)",AverageVolume:"�����q",High52Week:"52 �g�̰���",Return13Week:"13 �g�^���v",PriceToCashFlowPerShare:"�U�Ѳ{���y����",ATAXRATE:"�|�v (��~)",Price26WeekPercChange:"26 �g����ɶ^�T (%)",QuoteChange:"�ѻ��ɶ^",NetIncomeChangePerc:"�b���q�ܰ� (%)",ReturnOnInvestment5Years:"���^���v (5 �~����) (%)",PE:"���ղv",ReturnOnInvestmentYear:"���^���v (��~) (%)",Price200DayAverage:"200 �ѥ�������",DividendNextQuarter:"�U�u�Ѯ�",EBITD:"��&#31246;�����u�P�e�Q��",PriceYTDPercChange:"�Ѧ~��ܤ��������ܰ� (%)",ReturnOnInvestmentTTM:"���^���v (�L�h 12 �Ӥ�) (%)",NavChangePercent:"�겣�b�Ȥɶ^ (%)",EBITDMargin:"��&#31246;�����u�P�e�Q�� (%)",LTDebtToEquityQuarter:"�����Ű�/�ѥ� (��u��) (%)",BetaRAS:"RAS ���ॴ�t��",PriceSales:"�P��ѻ�",NetAssets:"�b�겣",ReturnOnEquityTTM:"�ѥ��^���v (�L�h 12 �Ӥ�) (%)",CashPerShareYear:"�{��/�ѥ�",ReturnOnAssets5Years:"�겣�^���v (5 �~����) (%)",ReturnDay:"1 �Ѧ^���v",Return52Week:"52 �g�^���v",ForwardPE1Year:"1 �~�������楫�ղv",NetIncomeGrowthRate5Years:"5 �~�b�Q�W���v",DividendYield:"�Ѯ��^�� (%)",Dividend:"�{���Ѯ�",BetaUp:"RAS ���ॴ�t�ƤW��",LTDebtToCapitalYear:"�����Ű�/�ꥻ (��~) (%)",nprice:"�Ӧ� RAS ������",Return260Week:"260 �g�^���v",ReturnOnEquityQuarter:"�ѥ��^���v (��u��) (%)",ACOGS:"��X�f������",LTDebtToAssetsQuarter:"�����Ű�/�ꥻ (��u��) (%)",PriceToBook:"���b�v",LTDebtToEquityYear:"�����Ű�/�ѥ� (��~) (%)",ReturnYTD:"�~��ܤ��^���v",ReturnOnEquityYear:"�ѥ��^���v (��~) (%)",ReturnOnAssetsQuarter:"�겣�^���v (��u��) (%)",TotalDebtToEquityQuarter:"�Ű�/�ѥ��`�B (��u��) (%)",NavPrior:"��e�겣���",AINTCOV:"�Q�q�d��",EPS:"�C�ѬէQ",ReturnOnInvestmentQuarter:"���^���v (��u��) (%)",QuoteLast:"�̷s����",Price50DayAverage:"50 �ѥ�������",Price4WeekPercChange:"4 �g����ɶ^�T (%)",ReturnOnAssetsYear:"�겣�^���v (��~) (%)",MarketCapRAS:"RAS ���`����",Price52WeekPercChange:"52 �g����ɶ^�T (%)",ShortInterestRatioPercent:"�u���Q�v (%)",InstitutionalPercentHeld:"���c���Ѳv",BookValuePerShareYear:"�b����/�ѥ�",ReturnOnEquityPTM:"�ѥ��^���v (�L�h 12 �Ӥ�) (%)"};
+_s_Store._asStore._addStrings(_fieldToDisplayNameMap);
+}
+if (_s_Store) {
+_s_Store._allowMultipleInBox = true;
+}
+_regOnLoad(initCategoryPage);
+</script><!-- js-b -->
+<div id=footer>
+<center>
+<div class=footerBorder>
+<div class=editions>Google �]�g���ժ����ѤU�C�����G
+<a href="http://www.google.com.hk/finance" >���䪩 (Hong Kong)</a>&nbsp;-
+<a href="http://www.google.ca/finance?hl=en" >Canada</a>&nbsp;-
+<a href="http://www.google.com/finance?hl=en" >U.S.</a>&nbsp;-
+<a href="http://www.google.com.hk/finance?gl=cn&amp;hl=zh-CN" >&#31616;�^���� (China)</a>&nbsp;-
+<a href="http://www.google.co.uk/finance?hl=en" >U.K.</a>
+</div>
+<div class=footerDisclaimer>
+��T����˴��ѡA�ȨѰѦҡA���y�Ω����γ~�Χ@����ĳ�A�ӥB�H���i�঳����C<br/> �Y�n�d�ݩҦ�����ҩ���ɶ��A�аѾ\<a href=
+    "http://www.google.com.hk/intl/zh-TW/help/stock_disclaimer.html"
+  style="color:#7777cc">�K�d�n��</a>�C
+<br><br>
+</div>
+<div class=footerLinks> &copy;2010 Google &nbsp;&nbsp; <a href="http://www.google.com.hk" class=q>Google ����</a>
+- <a href="http://googlefinanceblog.blogspot.com/">��x</a>
+- <a href=
+  "http://www.google.com.hk/support/finance?hl=zh-TW"
+ class=q>����</a>
+- <a href="http://www.google.com.hk/intl/zh-TW/privacy.html" class=q>�p���v�F��</a> - <a href="http://www.google.com.hk/accounts/TOS?loc=hk" class=q>�A�ȱ���</a><br><br><br> </div>
+</div>
+</center>
+</div>
+</div>
+</body>
+</html>

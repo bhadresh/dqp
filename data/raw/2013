@@ -1,0 +1,540 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>ProShares UltraShort DJ-UBS Crude Oi ETF: NYSE:SCO quotes & news - Google Finance</title>
+<meta name="Description" content="Get detailed financial information on ProShares UltraShort DJ-UBS Crude Oi ETF (NYSE:SCO) including real-time stock quotes, historical charts & financial news, all for free!">
+<link rel="stylesheet" type="text/css" href="/finance/s/i3gpPu9Jou8/styles/finance_us.css">
+<style>#gbar,#guser{font-size:13px;padding-right:8px;padding-top:4px !important}#gbar{padding-left:8px;float:left;height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}#gbs,.gbm{background:#fff;left:0;position:absolute;text-align:left;visibility:hidden;z-index:1000}.gbm{border:1px solid;border-color:#c9d7f1 #36c #36c #a2bae7;z-index:1001}.gb1{margin-right:.5em}.gb1,.gb3{zoom:1}.gb2{display:block;padding:.2em .5em}.gb2,.gb3{text-decoration:none;border-bottom:none}a.gb1,a.gb2,a.gb3,a.gb4{color:#00c !important}.gbi .gb3,.gbi .gb2,.gbi .gb4{color:#dd8e27 !important}.gbf .gb3,.gbf .gb2,.gbf .gb4{color:#900 !important}a.gb2:hover{background:#36c;color:#fff !important}div#gbar{padding-left:0}</style>
+<script>(function(){function i(a,b,d){var c="on"+b;if(a.addEventListener)a.addEventListener(b,d,false);else if(a.attachEvent)a.attachEvent(c,d);else{var f=a[c];a[c]=function(){var g=f.apply(this,arguments),e=d.apply(this,arguments);return g==undefined?e:e==undefined?g:e&&g}}};var j,k,l,m=window.gbar={},n={};function _tvs(a,b){return a||b}function _tvn(a,b){var d=parseInt(a,10);return isNaN(d)?b:d}function _tvf(a,b){var d=parseFloat(a);return isNaN(d)?b:d}function _tvb(a,b){return a=="true"?true:a=="false"?false:b}var o,p,q;function r(a){var b=window.b&&(document.forms[0].f||"").value;if(b)a.href=a.href.replace(/([?&])q=[^&]*|$/,function(d,c){return(c||"&")+"q="+encodeURIComponent(b)})}l=r;
+function s(a,b,d,c,f,g){var e=document.getElementById(a);if(e){var h=e.style;h.left=c?"auto":b+"px";h.right=c?b+"px":"auto";h.top=d+"px";h.visibility=p?"hidden":"visible";if(f&&g){h.width=f+"px";h.height=g+"px"}else{s(o,b,d,c,e.offsetWidth,e.offsetHeight);p=p?"":a}}}
+var w=function(a){a=a||window.event;var b,d=a.target||a.srcElement;a.cancelBubble=true;if(o!=null)t(d);else{b=document.createElement(Array.every||window.createPopup?"iframe":"div");b.frameBorder="0";o=b.id="gbs";b.src="javascript:''";d.parentNode.appendChild(b);i(document,"click",u);t(d);n.a&&n.a(function(){var c=document.getElementById("gbli");if(c){var f=c.parentNode;v(f,c);var g=c.e;f.removeChild(c);n.g(f,g);b.style.height=f.offsetHeight+"px"}})}};
+function t(a){var b=0;if(a.className!="gb3")a=a.parentNode;var d=a.getAttribute("aria-owns")||"gbi",c=a.offsetWidth,f=a.offsetTop>20?46:24;if(document.getElementById("tphdr"))f-=3;var g=false;do b+=a.offsetLeft||0;while(a=a.offsetParent);a=(document.documentElement.clientWidth||document.body.clientWidth)-b-c;var e;c=document.body;var h=document.defaultView;if(h&&h.getComputedStyle){if(c=h.getComputedStyle(c,""))e=c.direction}else e=c.currentStyle?c.currentStyle.direction:c.style.direction;e=e=="rtl";
+if(d=="gbi"){c=document.getElementById("gbi");v(c,document.getElementById("gbli")||c.firstChild);if(e){b=a;g=true}}else if(!e){b=a;g=true}p!=d&&u();s(d,b,f,g)}var u=function(){p&&s(p,0,0)};function v(a,b){for(var d,c=window.d;c&&(d=c.pop());){var f=a,g=d,e=b;if(!q){q="gb2";if(n.a){var h=n.c(f);if(h)q=h}}f.insertBefore(g,e).className=q}}
+var x=function(a,b,d){if((b=document.getElementById(b))&&a){a.className="gb4";var c=document.createElement("span");c.appendChild(a);c.appendChild(document.createTextNode(" | "));c.id=d;b.appendChild(c)}};m.qs=l;m.setContinueCb=k;m.pc=j;m.tg=w;m.close=u;m.addLink=x;})();
+</script>
+<link rel="icon"
+        type="image/vnd.microsoft.icon" href="/finance/favicon.ico">
+<script>(function(){function a(c){this.t={};this.tick=function(e,f,b){b=b?b:(new Date).getTime();this.t[e]=[b,f]};this.tick("start",null,c)}var d=new a;window.jstiming={Timer:a,load:d};try{var g=null;if(window.chrome&&window.chrome.csi)g=Math.floor(window.chrome.csi().pageT);if(g==null)if(window.gtbExternal)g=window.gtbExternal.pageT();if(g==null)if(window.external)g=window.external.pageT;if(g)window.jstiming.pt=g}catch(h){};function i(c){window.jstiming&&window.jstiming.load.tick(c)}window._tck=i;})();
+</script>
+<script type="text/javascript">var google=google||{};var _cleardot = '/finance/s/m4C5KaofCbA/images/cleardot.gif';</script>
+<script type="text/javascript" src="/finance/s/HctJl7DXpjg/js/finance-opt.js?hl=en&gl=us"></script>
+<script type="text/javascript">
+(function(){var d=navigator.userAgent.toLowerCase().indexOf("msie")!=-1;function e(){for(var a=document.styleSheets,b=a.length-1;b>=0;--b){var c=a[b].href;if(c)if(c.indexOf("styles/finance_")!=-1||c.indexOf("styles_")!=-1)return a[b]}return null}function f(){var a=e();if(a){a=a.rules;return a.length>0&&a[a.length-1].selectorText==".lastFinanceRule"}return false}
+function g(){if(document.scripts)for(var a=0;a<document.scripts.length;++a){var b=document.scripts[a];if(b&&b.src.indexOf("/js/gen_finance.js")!=-1)return b}return null}function _chkCssJs(){if(d){if(typeof _lastFinanceFn!="function"){var a=g();if(a&&a.src){var b=a.src.indexOf("?")!=-1?"&":"?";a.src+=b+"zx="+Math.random()}}if(!f())if((a=e())&&a.href){b=a.href.indexOf("?")!=-1?"&":"?";a.href+=b+"zx="+Math.random()}}};_chkCssJs();})();
+  
+    _setStickyUrlParams("");
+  </script>
+<style>
+html {
+min-height: 100%; margin-bottom: 0.01em;
+}
+.blogref a:link,.blogref a:active,.blogref a:visited,.blogref {color:#7777CC}
+.lac {text-decoration:underline; color:#00C; cursor:pointer;}
+.lnac {text-decoration:none; color:#A1A1A1; cursor:text;}
+.imgac {cursor:pointer; border:0px;}
+.imgnac {cursor:none; border:0px;}
+.r {
+margin-top:-2px; margin-left:30px; margin-bottom:0px; margin-right:5px;
+padding:7px 10px 10px 10px; line-height:1.3em; position:absolute; display:none; z-index:10;
+border:2px solid #9DDF99; background-color:#FFF;
+}
+</style>
+</head>
+<body>
+<div class=g-doc id=outer-wrapper>
+<div id=body-wrapper>
+<div id=gbar><nobr><a href="http://www.google.com/search?q=NYSE:SCO&sa=N&hl=en&tab=ew" onclick=gbar.qs(this) class=gb1>Web</a> <a href="http://www.google.com/images?q=NYSE:SCO&source=og&sa=N&hl=en&tab=ei" onclick=gbar.qs(this) class=gb1>Images</a> <a href="http://www.google.com/search?q=NYSE:SCO&tbo=u&tbs=vid:1&source=og&sa=N&hl=en&tab=ev" onclick=gbar.qs(this) class=gb1>Videos</a> <a href="http://maps.google.com/maps?q=NYSE:SCO&sa=N&hl=en&tab=el" onclick=gbar.qs(this) class=gb1>Maps</a> <a href="http://www.google.com/search?q=NYSE:SCO&tbo=u&tbs=nws:1&source=og&sa=N&hl=en&tab=en" onclick=gbar.qs(this) class=gb1>News</a> <a href="http://www.google.com/search?q=NYSE:SCO&tbo=u&tbs=shop:1&source=og&sa=N&hl=en&tab=ef" onclick=gbar.qs(this) class=gb1>Shopping</a> <a href="http://mail.google.com/mail/?hl=en&tab=em" class=gb1>Gmail</a> <a href="http://www.google.com/intl/en/options/" onclick="this.blur();gbar.tg(event);return !1" aria-haspopup=true class=gb3><u>more</u> <small>&#9660;</small></a><div class=gbm id=gbi><a href="http://www.google.com/search?q=NYSE:SCO&tbo=u&tbs=bks:1&source=og&sa=N&hl=en&tab=ep" onclick=gbar.qs(this) class=gb2>Books</a> <b class=gb2>Finance</b> <a href="http://translate.google.com/translate_t?q=NYSE:SCO&sa=N&hl=en&tab=eT" onclick=gbar.qs(this) class=gb2>Translate</a> <a href="http://scholar.google.com/scholar?q=NYSE:SCO&sa=N&hl=en&tab=es" onclick=gbar.qs(this) class=gb2>Scholar</a> <a href="http://www.google.com/search?q=NYSE:SCO&tbo=u&tbs=blg:1&source=og&sa=N&hl=en&tab=eb" onclick=gbar.qs(this) class=gb2>Blogs</a> <a href="http://www.google.com/search?q=NYSE:SCO&tbo=u&tbs=mbl:1&source=og&sa=N&hl=en&tab=eY" onclick=gbar.qs(this) class=gb2>Updates</a> <div class=gb2><div class=gbd></div></div><a href="http://www.youtube.com/results?q=NYSE:SCO&sa=N&hl=en&tab=e1" onclick=gbar.qs(this) class=gb2>YouTube</a> <a href="http://www.google.com/calendar/render?hl=en&tab=ec" class=gb2>Calendar</a> <a href="http://picasaweb.google.com/lh/view?q=NYSE:SCO&sa=N&hl=en&tab=eq" onclick=gbar.qs(this) class=gb2>Photos</a> <a href="http://docs.google.com/?hl=en&tab=eo" class=gb2>Documents</a> <a href="http://www.google.com/reader/view/?hl=en&tab=ey" class=gb2>Reader</a> <a href="http://sites.google.com/?hl=en&tab=e3" class=gb2>Sites</a> <a href="http://groups.google.com/groups?q=NYSE:SCO&sa=N&hl=en&tab=eg" onclick=gbar.qs(this) class=gb2>Groups</a> <div class=gb2><div class=gbd></div></div><a href="http://www.google.com/intl/en/options/" class=gb2>even more &raquo;</a> </div></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.com/support/finance?hl=en-US" class=gb4>Help</a> | <a href="https://www.google.com/accounts/Login?hl=en&continue=http://www.google.com/finance%3Fq%3DNYSE:SCO&service=finance" class=gb4>Sign in</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div>
+<script>window.locale={hl:'en',gl:'us',locale:'en-US'};</script>
+<div class="g-section g-tpl-75-25 g-split search-header">
+<div class="g-unit g-first">
+<div class=sfe-logo>
+<a href="/finance">
+<img src="/finance/s/M4XFgDr56u4/images/logo_us.gif" alt="Google Finance.">
+</a>
+</div>
+<div class=sfe-search>
+<form method=GET action="/finance" name=f>
+<input name=q id=searchbox autocomplete=off size=40 maxlength=2048
+             type=text tabindex=1 title="Quote search input"
+             value="NYSE:SCO">
+<input type=submit value="Get quotes" >
+<br>
+<span class="searchExample">
+Example: "CSCO" or "Google"</span>
+</form>
+</div>
+</div>
+<div class="g-unit promo">
+</div>
+</div>
+<div class="g-section g-tpl-nav-main">
+<div class="g-unit g-first" id="left-nav">
+<ul id=navmenu>
+<li class="nav-selected nav-expanded">Company
+<li class=navsub>
+<div>Summary
+</div>
+<li class=navsub>
+<a id="nav-cn" 
+  href="/finance/company_news?q=NYSE:SCO">News
+</a>
+<li class=navsub>
+<a id="nav-co" 
+  href="/finance/option_chain?q=NYSE:SCO">Option chain
+</a>
+<li class=navsub>
+<a id="nav-cr" 
+  href="/finance/related?q=NYSE:SCO">Related companies
+</a>
+<li class=navsub>
+<a id="nav-ch" 
+  href="/finance/historical?q=NYSE:SCO">Historical prices
+</a>
+<li class=nav-item>
+<a id="nav-m" 
+  href="/finance">
+<div>Markets</div></a>
+<li class=nav-item>
+<a id="nav-n" 
+  href="/finance/market_news">
+<div>News</div></a>
+<li class=nav-item>
+<a href="https://www.google.com/accounts/ServiceLogin?hl=en&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com%3A80%2Ffinance%2Fportfolio%3Faction%3Dview" >
+<div>Portfolios</div></a>
+<li class=nav-item>
+<a id="nav-s" 
+  href="/finance/stockscreener">
+<div>Stock screener</div></a>
+<li class=nav-item>
+<a id="nav-q" 
+  href="/finance/domestic_trends">
+<div>Google Domestic Trends</div></a>
+</ul>
+<div id=rq-box>
+<h4>Recent quotes</h4>
+<div id=rq-toggle></div>
+<div id=rq-table></div>
+<a id=rq-create href="https://www.google.com/accounts/ServiceLogin?hl=en&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com%2Ffinance%3Fq%3DNYSE%3ASCO" >Sign in to create portfolio</a>
+</div>
+<script>
+setTimeout(
+function() {try{google.finance.renderRecentQuotes();}catch(e){}}, 200);
+</script>
+<form id=new_pform_nav
+      action=/finance/portfolio/create?hash= method=post>
+<input id=new_pform_name type=hidden name=pname />
+<input id=new_pform_cids type=hidden name=pcids />
+<input id=is_logged_in type=hidden name=is_logged_in
+           value=0 />
+</form>
+<div id=ra-target></div>
+</div>
+<div class="g-unit sfe-break-left" id="rt-content">
+<!-- a -->
+<script>
+(function() {
+if (_finance_chart) {
+var el = document.getElementById('chart_anchor');
+if (el) {
+el.innerHTML = '';
+}
+_finance_chart = null;
+}
+})();
+var _ticker = 'NYSE:SCO';
+var _slHeight = 221;
+var _companyName = 'ProShares UltraShort DJ-UBS Crude Oi ETF';
+var _displayVolume = true;
+var _companyId = 4310767;
+_s_Store._numToDisplay = 6;
+_comparison_charts_Store._numToDisplay = 8;
+_comparison_charts_Store._allowMultiTimezoneCompare = true;
+function onCompanyLoad() {
+_external_target = "";
+_emitFlashChartOnLoad(
+"/finance/s/OFspRxwQDQg/chart9.swf?hl=en&gl=us",
+_ticker, "chart_anchor", "market-data-div",
+_chartConfigObject);
+google.finance.onCompanyLoad();
+_initAutoFocus();
+if (google.finance.initTechnicals) {
+google.finance.initTechnicals(true);
+}
+}
+</script>
+<div class=g-wrap>
+<div class="g-section sfe-break-bottom-8">
+<div class="g-tpl-67-33 g-split hdg top" id=companyheader>
+<div class="g-unit g-first"><h3>ProShares UltraShort DJ-UBS Crude Oi ETF&nbsp;</h3>(Public, NYSE:SCO)&nbsp;&nbsp;
+<a href="/finance/portfolio?action=add&amp;addticker=NYSE%3ASCO" class=norm>Watch this stock</a>
+&nbsp;&nbsp;
+</div><div class="g-unit norm">Find more results for<b>
+<a href="?noIL=1&q=SCO" id=searchmore>SCO</a></b>
+</div>
+</div>
+</div>
+
+<div id=ra-src class=hide>
+<div id=ra-target></div>
+</div>
+<script>
+google.finance.renderRecentActivities();
+_ac_register(function (input, event) {
+if (input.id == 'add_comparison_symbol') {
+_comparison_charts_Store.baseTicker = "NYSE:SCO";
+return _comparison_charts_Store;
+}
+});
+var _prefs=_prefs||{};_prefs.hash="";
+_prefs.feeds=_prefs.feeds||{};
+_prefs.ch=_prefs.ch||{};
+_prefs.ch_compare=_prefs.ch_compare||{};
+_eventid = 'luT2TImpJ4nSrgPVz9T8BA';
+var google = google || {};
+google.finance = google.finance || {};
+google.finance.data = {common:{rq:{ct:""},up:"chg",down:"chr",linktargetInternal:"",hash:"",dfp:"http://ad-g.doubleclick.net/adi/com.gf.company/financial;fe=nyse;ft=sco;fm=large;sz=300x250;dcopt=ist;myd=ad"},company:{news:{clusters:[{nrel:1,imp:2,idx:0,id:17593825249479,ed:"9 hours ago",tt:1291215974,lead_story_url:"http://www.benzinga.com/press-releases/10/12/c657240/nyse-amex-nasdaq-micro-caps-money-volume-leaders",a:[{t:"NYSE-AMEX-NASDAQ Micro Caps: Money Volume Leaders",u:"http://www.benzinga.com/press-releases/10/12/c657240/nyse-amex-nasdaq-micro-caps-money-volume-leaders",s:"Benzinga",d:"9 hours ago",tt:1291215974,fid:105457}],score:8.8927097320556641},{nrel:2,imp:3,idx:1,id:17593824448638,ed:"Nov 29, 2010",tt:1291018378,lead_story_url:"http://www.thefirstreporter.com/press-releases/bestofotccom-stocks-eye-de-fro-ire-sco-open-faz/",a:[{t:"BestOfOTC.com Stocks to Eye on for (DE, FRO, IRE, SCO, OPEN, FAZ)",u:"http://www.thefirstreporter.com/press-releases/bestofotccom-stocks-eye-de-fro-ire-sco-open-faz/",s:"The First Reporter",d:"Nov 29, 2010",tt:1291018378,fid:103457}],score:5.023655891418457},{nrel:0,imp:3,idx:2,id:17593822723024,ed:"Nov 24, 2010",tt:1290635393,lead_story_url:"http://www.benzinga.com/etfs/emerging-market-etfs/10/11/642267/benzingas-top-etf-decliners-soxs-edz-tza-sco",a:[{t:"Benzinga\x26#39;s Top ETF Decliners (SOXS, EDZ, TZA, SCO)",u:"http://www.benzinga.com/etfs/emerging-market-etfs/10/11/642267/benzingas-top-etf-decliners-soxs-edz-tza-sco",s:"Benzinga",d:"Nov 24, 2010",tt:1290635393,fid:101457}],score:5.7207927703857422},{nrel:0,imp:1,idx:3,id:17593821928139,ed:"Nov 22, 2010",tt:1290459866,lead_story_url:"http://www.tradingmarkets.com/news/press-release/efu_umx_xpp_rom_sco_sh_sjh_sds_ubt_uco_ust_proshares-announces-zero-capital-gain-distributions-for-etfs-1324799.html",a:[{t:"ProShares Announces Zero Capital Gain Distributions for ETFs",u:"http://www.tradingmarkets.com/news/press-release/efu_umx_xpp_rom_sco_sh_sjh_sds_ubt_uco_ust_proshares-announces-zero-capital-gain-distributions-for-etfs-1324799.html",s:"Trading Markets",d:"Nov 22, 2010",tt:1290459866,fid:99457}],score:12.839249610900879},{nrel:0,imp:3,idx:4,id:17593821830336,ed:"Nov 22, 2010",tt:1290450236,lead_story_url:"http://etfdailynews.com/blog/2010/11/22/those-damned-speculators-uso-oil-dbo-uco-dbe-usl-dto-sco-dno-olo-bno-szo-uhn-oih/",a:[{t:"Those Damned Speculators! (USO, OIL, DBO, UCO, DBE, USL, DTO, SCO, DNO, OLO, BNO, SZO, UHN, OIH)",u:"http://etfdailynews.com/blog/2010/11/22/those-damned-speculators-uso-oil-dbo-uco-dbe-usl-dto-sco-dno-olo-bno-szo-uhn-oih/",s:"ETF Daily News",d:"Nov 22, 2010",tt:1290450236,fid:98457}],score:3.9119524955749512},{nrel:0,imp:3,idx:5,id:17593820010393,ed:"Nov 16, 2010",tt:1289922780,lead_story_url:"http://www.benzinga.com/press-releases/10/11/c615370/nyse-amex-nasdaq-micro-caps-money-volume-leaders",a:[{t:"NYSE-AMEX-NASDAQ Micro Caps: Money Volume Leaders",u:"http://www.benzinga.com/press-releases/10/11/c615370/nyse-amex-nasdaq-micro-caps-money-volume-leaders",s:"Benzinga",d:"Nov 16, 2010",tt:1289922780,fid:97457}],score:5.7296943664550781},{nrel:0,imp:2,idx:6,id:17593819706066,ed:"Nov 15, 2010",tt:1289820951,lead_story_url:"http://chartpoppers.com/nyse-stock%E2%80%99s-positive-trend-%E2%80%93-aib-sco-fbc-hls-dyn-2478",a:[{t:"NYSE Stock\x26#39;s Positive Trend � AIB, SCO, FBC, HLS, DYN",u:"http://chartpoppers.com/nyse-stock%E2%80%99s-positive-trend-%E2%80%93-aib-sco-fbc-hls-dyn-2478",s:"Chart Poppers",d:"Nov 15, 2010",tt:1289820951,fid:96457}],score:8.0176239013671875},{nrel:0,imp:3,idx:7,id:8797614573740,ed:"Nov 6, 2010",tt:1289079236,lead_story_url:"http://etfdailynews.com/blog/2010/11/06/swimming-in-crude-oil-record-high-inventory-will-continue-to-build-uso-oil-dbo-uco-dbe-usl-dto-sco-dno-olo-bno-szo-uhn-oih/",a:[{t:"Swimming In Crude Oil? Record High Inventory Will Continue To Build (USO, OIL, DBO, UCO, DBE, USL, DTO, SCO, DNO, OLO, BNO, SZO, UHN, OIH)",u:"http://etfdailynews.com/blog/2010/11/06/swimming-in-crude-oil-record-high-inventory-will-continue-to-build-uso-oil-dbo-uco-dbe-usl-dto-sco-dno-olo-bno-szo-uhn-oih/",s:"ETF Daily News",d:"Nov 6, 2010",tt:1289079236,fid:93457}],score:4.7433333396911621},{nrel:0,imp:3,idx:8,id:8797613935830,ed:"Nov 5, 2010",tt:1288953747,lead_story_url:"http://www.benzinga.com/press-releases/10/11/c583333/nyse-amex-nasdaq-micro-caps-money-volume-leaders",a:[{t:"NYSE-AMEX-NASDAQ Micro Caps: Money Volume Leaders",u:"http://www.benzinga.com/press-releases/10/11/c583333/nyse-amex-nasdaq-micro-caps-money-volume-leaders",s:"Benzinga",d:"Nov 5, 2010",tt:1288953747,fid:92457}],score:5.7296943664550781},{nrel:0,imp:3,idx:9,id:8797609496637,ed:"Oct 26, 2010",tt:1288077626,lead_story_url:"http://www.thefirstreporter.com/press-releases/percentage-losers-review-nyse-psl-vxx-sco-pag-mir-dal/",a:[{t:"Percentage Losers in Review at NYSE from PSL are VXX, SCO, PAG, MIR and DAL",u:"http://www.thefirstreporter.com/press-releases/percentage-losers-review-nyse-psl-vxx-sco-pag-mir-dal/",s:"The First Reporter",d:"Oct 26, 2010",tt:1288077626,fid:91457}],score:7.1264867782592773},{idx:10,id:-1}],result_start_num:1,result_end_num:0,result_total_articles:12},related:{cols:[0,1,4,30,34,31,32,5,2,33,3],rows:[{id:4310767,values:["SCO","ProShares UltraShort DJ-UBS Crude Oi ETF","11.34","-0.74","chr","-6.13","","13.68B","NYSE","4310767","SCO"]},{id:710382,values:["DWM","WisdomTree DEFA (ETF)","45.41","+1.30","chg","2.95","","399.20M","NYSE","710382","DWM"]},{id:710380,values:["DND","WisdomTree Pacific ex-Japan Ttl Div(ETF)","64.15","+1.65","chg","2.64","","84.38M","NYSE","710380","DND"]},{id:710379,values:["DXJ","WisdomTree Japan Total Dividend Fd (ETF)","37.50","+0.84","chg","2.29","","93.48M","NYSE","710379","DXJ"]},{id:710377,values:["DLS","WisdomTree Intl. SmallCap Div Fd. (ETF)","48.19","+1.09","chg","2.31","","433.32M","NYSE","710377","DLS"]},{id:710375,values:["DLN","WisdomTree LargeCap Dividend Fund (ETF)","44.57","+0.83","chg","1.90","","503.01M","NYSE","710375","DLN"]},{id:710374,values:["DIM","WisdomTree Intl. MidCap Dividend F (ETF)","49.46","+1.31","chg","2.71","","142.06M","NYSE","710374","DIM"]},{id:710372,values:["DHS","WisdomTree Equity Income Fund (ETF)","38.00","+0.57","chg","1.52","","174.05M","NYSE","710372","DHS"]},{id:710370,values:["DFJ","WisdomTree Japan SmallCap Div Fd (ETF)","41.07","+0.68","chg","1.68","","115.11M","NYSE","710370","DFJ"]},{id:710369,values:["DFE","WisdomTree Europe SmallCap Div Fd (ETF)","39.20","+1.18","chg","3.10","","26.61M","NYSE","710369","DFE"]},{id:710368,values:["DEW","WisdomTree Global Equity Income Fd (ETF)","40.81","+0.73","chg","1.82","","66.13M","NYSE","710368","DEW"]}],visible_cols:[0,1,4,30,34,31,32,5]},related_str:"4310767,710382,710380,710379,710377,710375,710374,710372,710370,710369,710368",perf:[{u:"/finance?q=INDEXDJX:.DJI",name:"Dow Jones",cp:"2.27",p:"11,255.78",cid:983582},{u:"/finance?q=INDEXSP:.INX",name:"S\x26P 500",cp:"2.16",p:"1,206.07",cid:626307},{u:"/finance?catid=us-58211593",name:"Financial",cp:"2.16",cid:0},{u:"/finance?q=NYSE:SCO",name:"SCO",cp:"-6.13",p:"11.34",cid:4310767}]},stickyUrlArgs:"",chart:{_5d:"EXCHANGE%3DNYSE\nMARKET_OPEN_MINUTE=570\nMARKET_CLOSE_MINUTE=960\nINTERVAL=120\nCOLUMNS=DATE,CLOSE,VOLUME\nDATA=\nTIMEZONE_OFFSET=-300\na1290609120,12.84,42951\n1,12.83,38296\n2,12.86,10600\n3,12.8896,6600\n4,12.88,4900\n5,12.88,600\n6,12.9,1250\n7,12.88,200\n8,12.87,100\n9,12.92,900\n10,12.9,4800\n11,12.88,47700\n12,12.86,43700\n13,12.86,55200\n15,12.86,40400\n16,12.86,3530\n17,12.8599,500\n18,12.85,400\n19,12.861,16300\n20,12.86,16600\n21,12.88,227400\n22,12.85,25400\n23,12.85,6200\n24,12.85,47200\n25,12.8501,15000\n26,12.86,73798\n27,12.86,76030\n28,12.81,74610\n29,12.92,161726\n30,12.82,100222\n31,12.75,34702\n32,12.74,74000\n33,12.71,67848\n34,12.71,14561\n35,12.62,54883\n36,12.65,46400\n37,12.64,69690\n38,12.66,50300\n39,12.6599,44200\n40,12.6899,82144\n41,12.68,21700\n42,12.62,104100\n43,12.62,45937\n44,12.47,256459\n45,12.47,129217\n46,12.5,69300\n47,12.47,74520\n48,12.4099,82542\n49,12.44,24000\n50,12.43,64100\n51,12.43,10235\n52,12.44,24700\n53,12.44,23590\n54,12.43,12230\n55,12.44,300\n56,12.43,86400\n57,12.45,19700\n58,12.4599,22400\n59,12.4,32100\n60,12.4099,60200\n61,12.4099,4520\n62,12.39,3400\n63,12.33,175976\n64,12.33,12200\n65,12.33,18827\n66,12.3499,3800\n67,12.33,2600\n68,12.37,300\n69,12.37,4609\n70,12.39,112699\n71,12.38,36600\n72,12.35,7900\n73,12.33,5400\n74,12.31,24962\n75,12.33,18800\n76,12.315,31450\n77,12.32,4100\n78,12.315,300\n79,12.3,4400\n80,12.32,3760\n81,12.32,200\n82,12.24,85567\n83,12.22,72179\n84,12.23,8905\n85,12.21,13800\n86,12.22,10715\n87,12.22,7500\n88,12.21,10510\n89,12.25,14200\n90,12.25,10500\n91,12.28,7400\n92,12.28,6030\n93,12.27,40202\n94,12.25,1502\n95,12.24,10665\n96,12.27,2323\n97,12.25,5500\n98,12.25,14700\n99,12.25,700\n100,12.24,1100\n101,12.23,17700\n102,12.2199,1412\n103,12.22,4500\n104,12.23,400\n105,12.22,3337\n106,12.24,5800\n107,12.25,1000\n108,12.24,4473\n109,12.23,10000\n110,12.23,300\n111,12.2299,1700\n112,12.22,400\n113,12.22,2500\n114,12.24,6000\n115,12.229,5980\n116,12.25,2700\n117,12.278,8800\n118,12.28,4500\n119,12.29,20693\n120,12.32,4900\n121,12.3,3800\n122,12.27,23555\n123,12.26,1200\n124,12.26,400\n125,12.26,100\n126,12.25,500\n127,12.28,300\n128,12.28,11400\n129,12.27,1800\n130,12.27,400\n131,12.28,300\n132,12.26,5200\n133,12.26,500\n134,12.25,1800\n135,12.26,3700\n136,12.27,400\n137,12.3,7800\n138,12.31,700\n139,12.3,3015\n140,12.28,11300\n141,12.2699,14300\n142,12.28,1900\n143,12.29,1200\n144,12.2701,5600\n145,12.25,2157\n146,12.1984,15270\n147,12.18,14410\n148,12.17,17847\n149,12.16,11226\n150,12.15,3125\n151,12.15,1400\n152,12.14,2100\n153,12.1499,3935\n154,12.15,5900\n155,12.15,7000\n156,12.15,1700\n157,12.15,16000\n158,12.15,8190\n159,12.15,3900\n160,12.15,11600\n161,12.15,14600\n162,12.16,1626\n163,12.16,14300\n164,12.16,400\n165,12.15,1000\n166,12.15,4300\n167,12.14,10400\n168,12.13,565\n169,12.14,200\n170,12.14,1600\n171,12.14,12100\n172,12.14,11674\n173,12.14,200\n174,12.13,400\n175,12.135,200\n176,12.12,20571\n177,12.119,25800\n178,12.1175,1800\n179,12.11,3726\n180,12.12,2250\n181,12.11,300\n182,12.11,23199\n183,12.1,550\n184,12.11,5300\n185,12.1199,7300\n186,12.11,1300\n187,12.115,1000\n188,12.111,10989\n189,12.12,6005\n190,12.12,6700\n191,12.1099,15879\n192,12.11,12368\n193,12.1,6820\n194,12.1,17509\n195,12.11,913\na1290781800,12.29,1600\n1,12.3,4300\n2,12.31,16600\n3,12.2901,5850\n4,12.25,5500\n5,12.2601,1170\n6,12.28,800\n7,12.24,800\n8,12.23,500\n9,12.211,2000\n10,12.19,4800\n11,12.19,9440\n12,12.1901,794\n13,12.2089,2050\n14,12.22,11800\n15,12.22,600\n16,12.2,200\n17,12.25,1650\n18,12.3,3000\n19,12.29,3000\n20,12.28,13200\n21,12.26,4700\n22,12.24,500\n23,12.25,3780\n24,12.25,980\n25,12.2599,3800\n26,12.25,100\n27,12.24,100\n28,12.23,100\n29,12.23,200\n30,12.2399,1800\n31,12.23,2900\n32,12.25,3200\n33,12.25,2100\n34,12.23,1400\n35,12.23,200\n36,12.21,19800\n37,12.21,300\n38,12.21,6400\n39,12.22,200\n40,12.2296,1300\n41,12.23,100\n42,12.24,1900\n43,12.2604,4000\n44,12.26,100\n45,12.26,11700\n46,12.26,700\n47,12.26,1200\n48,12.26,200\n49,12.25,657\n50,12.2,25400\n51,12.22,2500\n52,12.21,8600\n53,12.2,200\n54,12.22,800\n55,12.2,300\n56,12.2,200\n57,12.2,1200\n58,12.22,1400\n59,12.24,700\n60,12.26,200\n61,12.28,1800\n62,12.3,12865\n63,12.2904,4400\n64,12.31,543\n65,12.3,9900\n66,12.32,1300\n67,12.31,2800\n68,12.28,4700\n69,12.26,1400\n70,12.27,2300\n71,12.2699,1300\n72,12.29,1400\n73,12.29,400\n74,12.29,6700\n75,12.28,1300\n76,12.28,900\n77,12.29,2500\n78,12.27,6100\n79,12.26,8785\n80,12.24,17282\n81,12.24,8800\n82,12.23,800\n83,12.23,1400\n84,12.22,700\n85,12.2,1500\n86,12.21,300\n87,12.2,200\n88,12.2189,1900\n89,12.2,1900\n90,12.21,100\n91,12.21,300\n92,12.21,200\n94,12.2,1300\n95,12.21,300\n96,12.2,400\n98,12.21,300\n99,12.18,10928\n100,12.19,3400\n101,12.2,400\n102,12.19,37600\n103,12.1701,7700\n104,12.17,7425\n105,12.16,19388\n113,12.22,200\n115,12.22,200\na1291041000,12,600\n1,12.04,27801\n2,12.03,14775\n3,12.05,4775\n4,12.14,44745\n5,12.15,28500\n6,12.14,100\n7,12.11,1700\n8,12.08,600\n9,12.09,7400\n10,12.11,400\n11,12.12,5382\n12,12.12,400\n13,12.18,26449\n15,12.18,2000\n16,12.24,15894\n17,12.19,13400\n18,12.1999,12600\n19,12.16,39000\n20,12.14,12000\n21,12.16,7000\n22,12.15,8700\n23,12.1,17880\n24,12.0905,5450\n25,12.09,1850\n26,12.1,2600\n27,12.06,9400\n28,12.07,21832\n29,12.07,11800\n30,12.0599,14300\n31,12.02,2652\n32,11.94,18919\n33,11.93,25556\n34,11.95,75466\n35,11.95,3700\n36,11.95,7100\n37,11.95,29800\n38,11.96,1970\n39,11.97,800\n40,11.97,3600\n41,11.94,7400\n42,11.94,8600\n43,11.94,3700\n44,11.96,16400\n45,11.96,4200\n46,11.96,13600\n47,11.99,16000\n48,12,400\n49,11.97,7980\n50,11.97,7900\n51,11.98,2900\n52,11.9,40159\n53,11.9,6800\n54,11.91,9200\n55,11.91,2100\n56,11.9,7200\n57,11.93,200\n58,11.92,4600\n59,11.81,65792\n60,11.81,85477\n61,11.82,23847\n62,11.84,3120\n63,11.85,7700\n64,11.8301,15800\n65,11.85,12800\n66,11.83,10825\n67,11.87,7700\n68,11.87,2686\n69,11.88,10200\n70,11.87,3900\n71,11.84,22715\n72,11.8401,14477\n73,11.84,6870\n74,11.83,5000\n75,11.81,27600\n76,11.8196,54100\n77,11.84,600\n78,11.81,36438\n79,11.8001,1300\n80,11.77,11210\n81,11.77,4890\n82,11.72,30133\n83,11.728,25000\n84,11.72,29183\n85,11.72,5301\n86,11.72,9358\n87,11.71,26048\n89,11.74,10700\n90,11.74,800\n91,11.75,17200\n92,11.76,2300\n93,11.76,7400\n94,11.73,8500\n95,11.75,24900\n96,11.74,2650\n97,11.76,5400\n98,11.77,1900\n99,11.77,800\n100,11.75,7600\n101,11.7399,2600\n102,11.74,1117\n103,11.73,9900\n104,11.74,5100\n105,11.74,7100\n106,11.74,450\n107,11.75,1500\n108,11.7435,1080\n109,11.74,2250\n110,11.75,2645\n111,11.75,10100\n112,11.7272,2000\n113,11.73,1100\n115,11.73,2000\n116,11.77,6800\n117,11.78,9700\n118,11.78,600\n119,11.77,11662\n120,11.78,900\n121,11.78,400\n122,11.7701,5800\n123,11.7789,500\n124,11.779,2500\n125,11.77,4400\n126,11.73,4050\n127,11.71,9380\n128,11.71,2500\n129,11.7,15800\n130,11.7,4400\n131,11.702,13200\n132,11.7,7600\n133,11.71,2440\n134,11.68,1721\n135,11.72,4200\n136,11.7,16300\n137,11.71,100\n138,11.7091,1000\n139,11.7,1200\n140,11.6699,19950\n141,11.6675,8825\n142,11.67,5100\n143,11.66,500\n144,11.6489,12300\n145,11.68,12000\n146,11.7,23700\n147,11.68,2800\n148,11.66,4240\n149,11.63,2320\n150,11.615,15949\n151,11.62,8973\n152,11.62,1700\n153,11.62,1400\n154,11.62,2300\n155,11.61,4600\n156,11.61,8646\n157,11.61,1100\n158,11.62,7865\n159,11.6299,1200\n160,11.6299,265\n161,11.63,600\n162,11.63,1100\n163,11.64,800\n164,11.64,400\n165,11.64,1400\n166,11.64,1500\n167,11.64,3900\n168,11.655,8884\n169,11.6599,9800\n170,11.66,200\n171,11.67,13296\n172,11.66,4430\n173,11.67,2500\n174,11.6605,180\n175,11.65,1200\n176,11.66,1725\n177,11.67,1040\n178,11.67,26000\n179,11.68,14900\n180,11.66,600\n181,11.6699,2700\n182,11.67,1200\n183,11.67,2900\n184,11.64,4400\n185,11.62,3000\n186,11.62,800\n187,11.62,52700\n188,11.62,4900\n189,11.61,13000\n190,11.62,9250\n191,11.63,5400\n192,11.63,7145\n193,11.62,8250\n194,11.6199,8888\n195,11.63,12373\n721,11.89,13382\n722,11.8899,6350\n723,11.8701,11100\n724,11.87,30050\n725,11.84,9300\n726,11.86,2400\n727,11.8093,5695\n728,11.78,16840\n729,11.74,3755\n730,11.76,11000\n731,11.78,43150\n732,11.8,38831\n733,11.8,2100\n734,11.78,4500\n735,11.7538,1850\n736,11.72,7630\n737,11.73,13700\n738,11.75,18000\n739,11.8,5400\n740,11.788,4300\n741,11.77,4800\n742,11.78,17300\n743,11.78,9608\n744,11.7499,21200\n745,11.73,18500\n746,11.739,6412\n747,11.74,8248\n748,11.69,17498\n749,11.68,3250\n750,11.6701,5500\n751,11.71,200\n752,11.72,2500\n753,11.7196,5000\n754,11.7205,3205\n755,11.75,1030\n756,11.741,2000\n757,11.74,66500\n758,11.72,71260\n759,11.72,2100\n760,11.7399,5230\n761,11.75,3000\n762,11.75,3570\n763,11.74,400\n764,11.74,1600\n765,11.74,1600\n766,11.71,4100\n767,11.7,2730\n768,11.71,100\n769,11.73,200\n770,11.72,1600\n771,11.74,2100\n772,11.7399,500\n773,11.79,23700\n774,11.79,5300\n775,11.78,600\n776,11.75,1700\n777,11.75,2400\n778,11.7677,5300\n779,11.78,800\n780,11.82,13112\n781,11.8204,9931\n782,11.81,7678\n783,11.81,1500\n784,11.8,100\n785,11.78,9000\n786,11.79,2622\n787,11.81,1100\n788,11.82,2000\n790,11.82,300\n791,11.8299,5645\n792,11.84,138788\n793,11.8599,6827\n794,11.83,1000\n795,11.81,7700\n796,11.79,5200\n797,11.8,100\n798,11.782,760\n799,11.79,100\n800,11.79,1825\n801,11.78,700\n803,11.8,300\n804,11.79,200\n805,11.81,100\n806,11.78,500\n807,11.77,100\n808,11.78,400\n809,11.76,17400\n810,11.78,200\n811,11.78,400\n812,11.79,1910\n813,11.79,400\n814,11.8,2000\n815,11.7899,600\n817,11.789,1222\n819,11.78,100\n820,11.78,1300\n821,11.7899,1275\n822,11.77,600\n823,11.77,800\n825,11.7398,6469\n827,11.73,1300\n829,11.74,725\n830,11.74,200\n833,11.74,300\n834,11.73,700\n835,11.728,481\n836,11.7022,3358\n837,11.71,200\n839,11.71,1200\n840,11.74,700\n841,11.75,28100\n842,11.74,500\n843,11.75,100\n844,11.735,100\n847,11.79,800\n848,11.8,1646\n849,11.83,6500\n850,11.82,100\n851,11.82,4000\n852,11.83,300\n853,11.82,3000\n854,11.841,8056\n855,11.82,7708\n856,11.8,400\n857,11.81,700\n858,11.82,300\n859,11.85,36560\n860,11.88,113962\n861,11.9,170365\n862,11.9201,94159\n863,11.97,89600\n864,11.97,105398\n865,11.93,40200\n866,11.94,6600\n867,11.92,5200\n868,11.97,4300\n869,12.02,6006\n870,12.06,13867\n871,12.03,8800\n872,12.0528,8850\n873,12.06,9252\n874,12.05,2954\n875,12.06,6400\n877,12.06,1300\n878,12.06,2100\n879,12.041,1000\n880,12.04,1700\n881,12.0499,21700\n883,12.02,13400\n884,12,9000\n886,12.03,2200\n887,12.0199,400\n888,12,1200\n889,12.01,2250\n890,12.01,600\n899,12.03,1100\n900,12.039,1500\n901,12.02,1800\n903,12.03,9900\n905,12.0201,2600\n906,12.0301,1300\n907,12.0595,4300\n908,12.0531,1750\n909,12.06,800\n910,12.07,300\n911,12.08,100\n912,12.0672,3300\n913,12.07,1100\n914,12.08,1606\n915,12.08,69627\na1291213920,11.65,27072\n1,11.62,4185\n2,11.63,3770\n3,11.6401,6100\n4,11.63,6600\n5,11.63,100\n7,11.6,24902\n8,11.6,14000\n9,11.59,6300\n10,11.61,2469\n11,11.6,2250\n12,11.58,2400\n13,11.58,7500\n14,11.57,2358\n15,11.59,7750\n16,11.57,26000\n17,11.58,26000\n18,11.58,200\n19,11.6001,1840\n21,11.6172,2800\n22,11.599,7000\n23,11.6,1200\n24,11.61,1450\n25,11.63,15000\n26,11.6399,7600\n27,11.6299,14800\n28,11.61,9650\n29,11.69,41820\n30,11.68,102787\n31,11.67,5700\n32,11.63,29300\n33,11.64,1000\n34,11.64,3160\n35,11.61,101245\n36,11.64,5300\n37,11.64,400\n38,11.6301,2500\n39,11.58,9097\n40,11.6,135100\n41,11.64,268950\n42,11.61,135950\n43,11.62,3650\n44,11.64,4990\n45,11.64,2250\n46,11.64,100\n47,11.651,1900\n48,11.64,3600\n49,11.62,27600\n50,11.62,46900\n51,11.6201,15300\n52,11.648,1200\n53,11.6701,16300\n54,11.68,7000\n55,11.68,3200\n56,11.65,3900\n57,11.66,33400\n58,11.6599,2300\n59,11.682,2700\n60,11.67,14267\n61,11.67,1750\n62,11.662,4020\n63,11.65,3220\n64,11.6401,6100\n66,11.6,92355\n67,11.59,212078\n68,11.589,51345\n69,11.56,81050\n70,11.52,114932\n71,11.5199,82875\n72,11.5,140130\n73,11.48,149135\n74,11.48,19000\n75,11.465,8800\n76,11.46,9274\n77,11.4699,27203\n78,11.46,2600\n79,11.45,15709\n80,11.45,47550\n81,11.47,2853\n82,11.478,211025\n83,11.49,228500\n84,11.43,168400\n85,11.41,330957\n86,11.43,370403\n87,11.44,9700\n88,11.44,200\n89,11.45,1200\n90,11.43,15413\n91,11.41,3200\n92,11.41,300\n93,11.43,1240\n94,11.442,41815\n95,11.44,27775\n96,11.439,3800\n97,11.44,7800\n98,11.42,36100\n99,11.4197,5600\n100,11.41,12210\n101,11.418,9200\n102,11.4,5850\n103,11.41,27600\n104,11.41,7700\n105,11.41,800\n106,11.4189,12000\n107,11.3999,8875\n108,11.39,32144\n109,11.37,3500\n110,11.37,14400\n111,11.37,13900\n112,11.35,9950\n113,11.36,2500\n114,11.39,16600\n115,11.4099,6557\n116,11.39,21000\n117,11.42,14500\n118,11.43,31400\n119,11.42,400\n120,11.41,17885\n121,11.43,2100\n122,11.42,1000\n123,11.4,3050\n124,11.38,7400\n125,11.38,4780\n126,11.37,3885\n127,11.36,2450\n128,11.3299,64070\n129,11.3599,12785\n130,11.37,3900\n131,11.35,6200\n132,11.35,7300\n133,11.34,60500\n134,11.358,350\n135,11.368,2690\n136,11.36,100\n137,11.3,66490\n139,11.33,46000\n141,11.33,2100\n142,11.32,45910\n143,11.3099,54600\n144,11.29,35818\n145,11.28,13734\n146,11.2699,63304\n147,11.29,91600\n148,11.3,30500\n149,11.32,12300\n150,11.33,12300\n151,11.34,11100\n152,11.34,2700\n153,11.34,50844\n154,11.33,4751\n155,11.33,700\n156,11.3399,100\n157,11.35,500\n158,11.35,4750\n159,11.35,200\n160,11.3599,1950\n161,11.35,25400\n162,11.34,4200\n163,11.35,100\n164,11.35,1500\n165,11.359,2500\n166,11.35,2680\n168,11.34,2273\n169,11.34,1270\n170,11.33,1700\n171,11.33,900\n172,11.33,1300\n173,11.3377,3400\n174,11.3372,1000\n175,11.34,12600\n176,11.3389,3810\n177,11.3389,3700\n178,11.33,1700\n179,11.33,6735\n180,11.33,300\n181,11.33,23580\n182,11.33,3370\n183,11.33,28194\n184,11.32,18994\n185,11.3199,5700\n186,11.318,1200\n187,11.32,46515\n188,11.3272,44725\n189,11.33,9900\n190,11.32,43300\n191,11.3201,27502\n192,11.34,29800\n193,11.33,19297\n194,11.34,21508\n",_5Y:"EXCHANGE%3DNYSE\nMARKET_OPEN_MINUTE=570\nMARKET_CLOSE_MINUTE=960\nINTERVAL=604800\nCOLUMNS=DATE,CLOSE,VOLUME,CDAYS\nDATA=\nTIMEZONE_OFFSET=-240\na1152302400,2.18,40100,4\n13,2.431,132400,5\n14,2.52,381600,5\n15,2.45,93500,5\n16,2.48,196400,5\nTIMEZONE_OFFSET=-300\na1162587600,2.56,350100,5\n1,2.77,457800,5\n2,2.94,939700,5\na1164391200,2.9,688300,4\na1165006800,2.81,626000,5\n1,2.83,247200,5\n2,2.88,200400,5\n3,2.9,260000,5\n4,2.97,466400,4\n5,2.99,305600,3\n6,2.94,565000,5\n7,2.91,614400,4\n8,2.7,235000,5\n9,2.8,222700,5\n10,2.82,198300,5\n11,2.77,161900,5\n12,2.77,265700,4\n13,2.47,397800,5\n14,2.58,344300,5\nTIMEZONE_OFFSET=-240\na1174075200,2.51,248800,5\n1,2.69,330300,5\n2,2.71,468600,5\na1175803200,2.88,458100,5\na1176494400,2.99,377600,5\n1,2.94,194100,5\n2,2.9,229050,5\n3,2.9,326300,5\n4,2.74,298100,5\n5,2.75,539700,5\n6,2.84,747280,5\n7,2.71,635500,4\n8,2.64,476900,5\n9,2.61,326800,5\nTIMEZONE_OFFSET=-300\na1227895200,26.74,24100,4\na1228510800,39.18,206870,5\n1,28.95,481940,5\n2,37,434263,5\n3,44.9,583507,4\n4,27.2,2186460,4\n5,31.03,5294678,5\n6,35.78,5265715,5\n7,29.76,5000936,4\n8,35.15,6443222,5\n9,37.4,8639433,5\n10,47.27,10201116,5\n11,51.85,7783342,4\n12,41.41,8883701,5\n13,36.98,6318507,5\nTIMEZONE_OFFSET=-240\na1236974400,37.12,6281555,5\n1,29.2,6748598,5\n2,28.83,5663011,5\n3,27.2913,5707427,5\na1239307200,27.42,3453378,4\na1239998400,29.95,3679498,5\n1,31.45,3398801,5\n2,29.57,4358652,5\n3,24.28,5299417,5\n4,26.05,4937309,5\n5,22.2,4220437,5\n6,18.97,5379694,4\n7,17.69,8956009,5\n8,15.95,7958264,5\n9,17.08,7314100,5\n10,17.32,10415033,5\na1246564800,18.48,11550956,4\na1247256000,22.65,14977978,5\n1,20.08,11668895,5\n2,17.914,8306788,5\n3,16.92,11900484,5\n4,16.03,12954459,5\n5,17.31,7491107,5\n6,15.58,10731499,5\n7,16.02,9795249,5\n8,18.43,9018936,5\n9,17.51,7544817,4\n10,16.25,6700458,5\n11,19.094,9790979,5\n12,16.95,9621918,5\n13,15.77,12121991,5\n14,13.29,13830397,5\n15,12.83,11452895,5\n16,13.75,12150970,5\nTIMEZONE_OFFSET=-300\na1257541200,13.41,10697745,5\n1,13.77,8047193,5\n2,13.49,8985900,5\na1259344800,14.02,6223672,4\na1259960400,14.11,8419240,5\n1,16.32,10127469,5\n2,15.62,7684743,5\na1261677600,14.45,4400534,4\na1262293200,13.65,4880987,4\na1262984400,12.53,10240269,5\n1,14.17,12310948,5\n2,15.76,8507624,4\n3,16.35,9118712,5\n4,16.49,11933524,5\n5,15.42,7631908,5\n6,13.3,9826044,4\n7,13.418,15189667,5\n8,12.72,15560846,5\n9,12.91,12267195,5\nTIMEZONE_OFFSET=-240\na1269028800,13.02,12872666,5\n1,13.28,12626715,5\na1270152000,11.72,18018729,4\na1270843200,11.72,12877875,5\n1,11.88,11120494,5\n2,11.57,15013888,5\n3,11.27,13099066,5\n4,13.93,24164792,5\n5,14.96,12686853,5\n6,17.33,23105969,5\n7,15.36,13459996,5\n8,16.53,8605236,4\n9,14.94,7883303,5\n10,14.04,6390741,5\n11,13.85,6032637,5\n12,16.51,7739803,5\n13,14.77,5554439,4\n14,14.87,7295795,5\n15,13.77,12648565,5\n16,13.81,12085792,5\n17,13.04,13877002,5\n18,14.865,12668345,5\n19,15.62,5929212,5\n20,14.84,6968206,5\n21,15.04,6481438,5\n22,14.39,6099179,4\n23,15.34,7227174,5\n24,14.62,6616066,5\n25,12.78,9941634,5\n26,12.39,14369181,5\n27,12.83,9945973,5\n28,12.68,12780118,5\n29,12.88,9069686,5\n30,11.26,18049452,5\nTIMEZONE_OFFSET=-300\na1289595600,11.94,18063175,5\n1,12.76,18083738,5\n2,12.22,7782288,4\n",corp_actions:"[{\"_quote\":\"NYSE:SCO\",\"_type\":\"dividend\",\"_date\":\"865431000\",\"_amount\":\"1.448\",\"_payable_date\":\"867245400\"},{\"_quote\":\"NYSE:SCO\",\"_type\":\"dividend\",\"_date\":\"896707800\",\"_amount\":\"1.423\",\"_payable_date\":\"898695000\"},{\"_quote\":\"NYSE:SCO\",\"_type\":\"dividend\",\"_date\":\"927898200\",\"_amount\":\"1.490\",\"_payable_date\":\"930144600\"},{\"_quote\":\"NYSE:SCO\",\"_type\":\"dividend\",\"_date\":\"960211800\",\"_amount\":\"1.380\",\"_payable_date\":\"962199000\"},{\"_quote\":\"NYSE:SCO\",\"_type\":\"dividend\",\"_date\":\"988637400\",\"_amount\":\"1.283\",\"_payable_date\":\"990624600\"},{\"_quote\":\"NYSE:SCO\",\"_type\":\"dividend\",\"_date\":\"1020173400\",\"_amount\":\"0.2294\",\"_payable_date\":\"1023802200\"},{\"_quote\":\"NYSE:SCO\",\"_type\":\"dividend\",\"_date\":\"1040999400\",\"_amount\":\"5.171\",\"_payable_date\":\"1040913000\"},{\"_quote\":\"NYSE:SCO\",\"_type\":\"dividend\",\"_date\":\"1072276200\",\"_amount\":\"0.9849\",\"_payable_date\":\"1073658600\"},{\"_quote\":\"NYSE:SCO\",\"_type\":\"dividend\",\"_date\":\"1117805400\",\"_amount\":\"0.03111\",\"_payable_date\":\"1120570200\"},{\"_quote\":\"NYSE:SCO\",\"_type\":\"dividend\",\"_date\":\"1147786200\",\"_amount\":\"0.05049\",\"_payable_date\":\"1150378200\"},{\"_quote\":\"NYSE:SCO\",\"_type\":\"dividend\",\"_date\":\"1164983400\",\"_amount\":\"0.1409\",\"_payable_date\":\"1165588200\"},{\"_quote\":\"NYSE:SCO\",\"_type\":\"dividend\",\"_date\":\"1180531800\",\"_amount\":\"0.1076\",\"_amount_currency\":\"USD\",\"_payable_date\":\"1182432600\"}]",related_items:[{ticker:"INDEXDJX:.DJI",name:"Dow Jones",timezone_offset:-18000,is_index:true,different_market_session:false},{ticker:"INDEXSP:.INX",name:"S\x26P 500",timezone_offset:-18000,is_index:true,different_market_session:false},{ticker:"NYSE:DWM",name:"DWM",timezone_offset:-18000,is_index:false},{ticker:"NYSE:DND",name:"DND",timezone_offset:-18000,is_index:false},{ticker:"NYSE:DXJ",name:"DXJ",timezone_offset:-18000,is_index:false},{ticker:"NYSE:DLS",name:"DLS",timezone_offset:-18000,is_index:false},{ticker:"NYSE:DLN",name:"DLN",timezone_offset:-18000,is_index:false},{ticker:"NYSE:DIM",name:"DIM",timezone_offset:-18000,is_index:false},{ticker:"NYSE:DHS",name:"DHS",timezone_offset:-18000,is_index:false}]}};
+google.finance.data.numberFormat = [{'threshold':1000000, 'symbol':'M'}, {'threshold':1000000000,'symbol':'B'}, {'threshold':1000000000000,'symbol':'T'}] ;
+if (_s_Store) {
+_s_Store._allowMatchAdvancedSearch = true;
+var _fieldToDisplayNameMap = {GrossMargin:"Gross margin&nbsp;(%)",Return1Week:"1w return",Return156Week:"156w return",NextYearEPS:"Next year EPS",LTDebtToAssetsYear:"LT debt/assets (Recent&nbsp;yr)&nbsp;(%)",RevenueGrowthRate5Years:"5y revenue growth rate",EarningsAfterTaxes:"Earnings after taxes",DividendPerShare:"Div per share",MarketCap:"Market cap",NetProfitMarginPercent:"Net profit margin&nbsp;(%)",Float:"Float",EarningsBeforeTaxes:"Earnings before taxes",QuotePercChange:"Quote change&nbsp;(%)",TotalDebtToEquityYear:"Total debt/equity (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToCapitalQuarter:"Total debt/capital (Recent&nbsp;qtr)&nbsp;(%)",LTDebtToCapitalQuarter:"LT debt/capital (Recent&nbsp;qtr)&nbsp;(%)",EPSGrowthRate10Years:"10y EPS growth rate",Beta:"Beta",ReturnOnAssetsPTM:"Return on assets (PTM)&nbsp;(%)",CapitalGain:"Capital gain",BetaDown:"Beta down from RAS",IncomeDividend:"Income dividend",RevenueGrowthRate10Years:"10y revenue growth rate",MarketCapShareBasis:"Market cap share basis",IAD:"Div rate indicated annual",Return4Week:"4w return",Price150DayAverage:"150d avg price",EPSGrowthRate5Years:"5y EPS growth rate",ReturnOnAssetsTTM:"Return on assets (TTM)&nbsp;(%)",TotalDebtToAssetsYear:"Total debt/assets (Recent&nbsp;yr)&nbsp;(%)",Volume:"Volume",DividendRecentQuarter:"Div recent quarter",CurrentRatioYear:"Current ratio",Low52Week:"52w low",ExpenseRatio:"Expense ratio",Price13WeekPercChange:"13w&nbsp;price change&nbsp;(%)",Price1DayPercChange:"1d&nbsp;price change&nbsp;(%)",ReturnOnEquity5Years:"Return on equity (5&nbsp;yr&nbsp;avg)&nbsp;(%)",TotalDebtToCapitalYear:"Total debt/capital (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToAssetsQuarter:"Total debt/assets (Recent&nbsp;qtr)&nbsp;(%)",NavChange:"Nav change",OperatingMargin:"Operating margin&nbsp;(%)",DPSRecentYear:"Div per share (Recent&nbsp;yr)",ANI:"Earnings after taxes (Recent&nbsp;yr)",AverageVolume:"Average volume",High52Week:"52w high",Return13Week:"13w return",PriceToCashFlowPerShare:"Price to cash flow per share",ATAXRATE:"Tax rate (Recent&nbsp;yr)",Price26WeekPercChange:"26w&nbsp;price change&nbsp;(%)",QuoteChange:"Quote change",NetIncomeChangePerc:"Net income change&nbsp;(%)",ReturnOnInvestment5Years:"Return on investment (5&nbsp;yr&nbsp;avg)&nbsp;(%)",PE:"P/E ratio",ReturnOnInvestmentYear:"Return on investment (Recent&nbsp;yr)&nbsp;(%)",Price200DayAverage:"200d avg price",DividendNextQuarter:"Div next quarter",EBITD:"EBITDA",PriceYTDPercChange:"YTD&nbsp;price change&nbsp;(%)",ReturnOnInvestmentTTM:"Return on investment (TTM)&nbsp;(%)",NavChangePercent:"Nav change&nbsp;(%)",EBITDMargin:"EBITDA margin&nbsp;(%)",LTDebtToEquityQuarter:"LT debt/equity (Recent&nbsp;qtr)&nbsp;(%)",BetaRAS:"Beta from RAS",PriceSales:"Price to sales",NetAssets:"Net assets",ReturnOnEquityTTM:"Return on equity (TTM)&nbsp;(%)",CashPerShareYear:"Cash/share",ReturnOnAssets5Years:"Return on assets (5&nbsp;yr&nbsp;avg)&nbsp;(%)",ReturnDay:"1d return",Return52Week:"52w return",ForwardPE1Year:"1y fwd P/E",NetIncomeGrowthRate5Years:"5y net income growth rate",DividendYield:"Div yield&nbsp;(%)",Dividend:"Div from cash flow",BetaUp:"Beta up from RAS",LTDebtToCapitalYear:"LT debt/capital (Recent&nbsp;yr)&nbsp;(%)",nprice:"Price from RAS",Return260Week:"260w return",ReturnOnEquityQuarter:"Return on equity (Recent&nbsp;qtr)&nbsp;(%)",ACOGS:"Cost of goods sold",LTDebtToAssetsQuarter:"LT debt/assets (Recent&nbsp;qtr)&nbsp;(%)",PriceToBook:"Price to book",LTDebtToEquityYear:"LT debt/equity (Recent&nbsp;yr)&nbsp;(%)",ReturnYTD:"Return YTD",ReturnOnEquityYear:"Return on equity (Recent&nbsp;yr)&nbsp;(%)",ReturnOnAssetsQuarter:"Return on assets (Recent&nbsp;qtr)&nbsp;(%)",TotalDebtToEquityQuarter:"Total debt/equity (Recent&nbsp;qtr)&nbsp;(%)",NavPrior:"Nav prior",AINTCOV:"Interest coverage",EPS:"EPS",ReturnOnInvestmentQuarter:"Return on investment (Recent&nbsp;qtr)&nbsp;(%)",QuoteLast:"Last price",Price50DayAverage:"50d avg price",Price4WeekPercChange:"4w&nbsp;price change&nbsp;(%)",ReturnOnAssetsYear:"Return on assets (Recent&nbsp;yr)&nbsp;(%)",MarketCapRAS:"Mkt cap from RAS",Price52WeekPercChange:"52w&nbsp;price change&nbsp;(%)",ShortInterestRatioPercent:"Short interest ratio&nbsp;(%)",InstitutionalPercentHeld:"Institutional percent held",BookValuePerShareYear:"Book value/share",ReturnOnEquityPTM:"Return on equity (PTM)&nbsp;(%)"};
+_s_Store._asStore._addStrings(_fieldToDisplayNameMap);
+}
+if (_s_Store) {
+_s_Store._allowMultipleInBox = true;
+}
+_regOnLoad(onCompanyLoad);
+google.finance.renderRecentQuotes();
+</script>
+<script>
+title = "SCO: {LAST} {CHANGE} ({CHANGE_PCT}%) - ProShares UltraShort DJ-UBS Crude Oi ETF";_aQ("NYSE:SCO", "4310767",title);_aQ("NYSE:SCO","4310767");_aQ("NYSE:DWM","710382");_aQ("NYSE:DND","710380");_aQ("NYSE:DXJ","710379");_aQ("NYSE:DLS","710377");_aQ("NYSE:DLN","710375");_aQ("NYSE:DIM","710374");_aQ("NYSE:DHS","710372");_aQ("NYSE:DFJ","710370");_aQ("NYSE:DFE","710369");_aQ("NYSE:DEW","710368");
+</script>
+<script>
+_chartConfigObject.expandButtonEnabled = true;
+</script>
+<div class="g-section g-tpl-right-1">
+<div class="g-unit g-first">
+<div class=g-c>
+<div id=r-perf class="g-section g-tpl-67-33 g-split nwp">
+<div id=r-perf-quotes class="g-unit g-first"></div>
+<div id=r-perf-charts class=g-unit></div>
+</div>
+<script>google.finance.renderRelativePerformance();</script>
+</div>
+</div>
+<div class=g-unit>
+<div id=market-data-div style="display:none" class="nwp g-floatfix">
+<div id=price-panel style="float:left">
+<div>
+<span class="pr">
+<span id="ref_4310767_l">11.34</span>
+</span>
+<div id=price-change class=nwp>
+<span class="ch bld"><span class="chr" id="ref_4310767_c">-0.74</span>
+<span class="chr" id="ref_4310767_cp">(-6.13%)</span>
+</span>
+</div>
+</div>
+<div>After Hours:&nbsp;<span class=bld id="ref_4310767_el">11.35</span>
+<span id="ref_4310767_ec" class="chg">+0.01</span>
+<span id="ref_4310767_ecp" class="chg">(0.09%)</span>
+<div id="ref_4310767_elt">Dec 1, 6:17PM EST&nbsp;&nbsp;<div class=mdata-dis>
+<span class=dis-large><nobr>NYSE real-time data -
+<a href=
+  "http://www.google.com/help/stock_disclaimer.html#realtime"
+  class=dis-large>Disclaimer</a>
+</nobr></span>
+<div>Currency in USD</div>
+</div>
+</div>
+</div>
+</div>
+<div id=snap-panel
+       class=goog-inline-block style="overflow:hidden;height:82px">
+<ol id=snap-data class=id-snap-data>
+<li>
+<span class="goog-inline-block key" data-snapfield="range">Range</span>
+<span class="goog-inline-block val">11.27 - 11.74</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="range_52week">52 week</span>
+<span class="goog-inline-block val">10.79 - 18.74</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="open">Open</span>
+<span class="goog-inline-block val">11.66</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="vol_and_avg">Vol / Avg.</span>
+<span class="goog-inline-block val">6.05M/3.01M</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="market_cap">Mkt cap</span>
+<span class="goog-inline-block val">13.68B</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="pe_ratio">P/E</span>
+<span class="goog-inline-block val">&nbsp;&nbsp;&nbsp;&nbsp;-</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="latest_dividend-dividend_yield">Div/yield</span>
+<span class="goog-inline-block val">&nbsp;&nbsp;&nbsp;&nbsp;-</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="eps">EPS</span>
+<span class="goog-inline-block val">&nbsp;&nbsp;&nbsp;&nbsp;-</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="shares">Shares</span>
+<span class="goog-inline-block val">1.21B</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="beta">Beta</span>
+<span class="goog-inline-block val">&nbsp;&nbsp;&nbsp;&nbsp;-</span>
+</ol>
+</div>
+</div>
+<script>google.finance.renderMarketData();</script>
+</div>
+</div>
+<div class="g-section g-tpl-right-1 sfe-break-top-5">
+<div class="g-unit g-first">
+<div class=g-c><div>
+<div id=newstabsgroup>
+<div id=news-tabs class=hide>
+<div class="goog-tab goog-tab-selected"><a id=news_tab_title class=t>
+<b class=t><b class=t>News</b></b></a></div>
+<div class=goog-tab><a id=blogs_tab_title class=t>
+<b class=t><b class=t>Blogs</b></b></a></div>
+<div class=goog-tab><a id=plot_feeds_title class=t>
+<b class=t><b class=t>Feeds</b></b></a></div>
+</div>
+<div id=tabs-clear class=goog-tab-bar-clear class=hide></div>
+<div id=news_div_cont style="display:none"></div>
+<div id=blogs_div_cont style="display:none"></div>
+<div id=plot_feed_div_cont style="display:none"></div>
+</div>
+<div class="sfe-section clf" id=news-footer>
+<div id=news-sidebar-footer class="g-section g-tpl-67-33 g-split">
+<div class="g-unit g-first">
+<a href="/finance/company_news?q=NYSE:SCO" >All news for ProShares UltraShort DJ-UBS Crude Oi ETF &raquo;</a>
+</div><div class=g-unit>
+<a href="/finance/company_news?q=NYSE:SCO&output=rss">Subscribe</a>
+<a href="/finance/company_news?q=NYSE:SCO&output=rss"><img class=SP_subscribe src="/finance/s/m4C5KaofCbA/images/cleardot.gif" alt="Subscribe." id=rss
+        width=15 height=15 /></a>
+</div>
+</div>
+</div>
+</div>
+<div id=ad class="sfe-break-top sfe-break-bottom-16">
+<div id=ad-label class=invisible>Advertisement</div>
+<div id=ad-target class=ads-300-250></div>
+</div>
+<div class=hdg><h3>Address</h3></div>
+<div class=sfe-section>7501 Wisconsin Avenue Suite 1000 - East Tower<br/>Bethesda, MD 20814<br/>United States
+- <a href="http://maps.google.com/maps?q=7501+Wisconsin+Avenue+Suite+1000+-+East+Tower+Bethesda+20814+United+States%20(ProShares+UltraShort+DJ-UBS+Crude+Oi+ETF)" >Map</a><br/>+1-240-4976400 (Phone)<br>
+</div>
+<div class=hdg><h3>External links</h3></div>
+<div class=sfe-section>
+<div class=item><a id=m-analyst
+                 href=http://www.marketwatch.com/tools/quotes/snapshot.asp?symb=SCO&pg=analyst >Analyst Estimates</a> - <font color="#6F6F6F">MarketWatch</font></div>
+<div class=item><a id=m-sec
+                 href=http://google.brand.edgar-online.com?sym=SCO >SEC Filings</a> - <font color="#6F6F6F">EDGAR Online</font></div>
+<div class=item><a id=m-hold
+                 href=http://moneycentral.msn.com/investor/invsub/ownership/ownership.asp?Symbol=SCO >Major Holders</a> - <font color="#6F6F6F">MSN Money</font></div>
+<div class=item><a id=m-research
+                 href=http://finance.yahoo.com/q/rr?s=SCO >Research Reports</a> - <font color="#6F6F6F">Yahoo Finance</font></div>
+<div class=item><a href="//groups.google.com/groups/finance?cid=4310767&hl=en" >Discussion Group</a> - <font color="#6F6F6F">Google Finance</font></div>
+</div>
+</div>
+</div>
+<div class=g-unit>
+<div id=top-section class="g-c sfe-break-right">
+<div id=chart-section>
+<div>
+<div id=compare-bar-wrapper>
+<div id=compare-bar class="id-compare-bar g-section">
+</div>
+</div>
+<div id=chart_anchor class=id-chart_anchor>
+<script>
+var _minZoomDays = 1;
+var _timeZoneOffset = '-18000';
+_chartConfigObject.hasVolume = _displayVolume;
+_chartConfigObject.hasNews = true;
+_chartConfigObject.hasExtendedHours = true;
+_chartConfigObject.hasDefaultZoomSetting = true;
+_chartConfigObject.hasVerticalScaleSetting = true;
+_chartConfigObject.displayVolume = 'true';
+_chartConfigObject.displayNewsPins = 'true';
+_chartConfigObject.displayDividends = 'true';
+_chartConfigObject.displaySplits = 'true';
+_chartConfigObject.displayExtendedHours = 'false';
+_chartConfigObject.enableCustomDateEntry = true
+_chartConfigObject.defaultZoomDays = '3';
+_chartConfigObject.snapping = false;
+_chartConfigObject.verticalScaling = 'maximized';
+_chartConfigObject.sparklineType = 'dynamic';
+// set _minZoomDays and _minZoomDaysNoIntraDay in each page before emit the
+// chart to passing the value to chart, otherwise default value will be use.
+_chartConfigObject.minZoomDaysNormal = _minZoomDays;
+_chartConfigObject.minZoomDaysNoIntraDay = _minZoomDaysNoIntraDay;
+_chartConfigObject.enableIndicator = true;
+_chartConfigObject.companyId = '4310767';
+_chartConfigObject.enableRealtimeChart = true;
+_chartConfigObject.isMarketOpenState = 0;
+_chartConfigObject.stateRemainingMinutes = 857;
+_chartConfigObject.delayedMinutes = 0;
+_chartConfigObject.delayedMinutes = Math.max(
+_chartConfigObject.delayedMinutes,
+15);
+_chartConfigObject.enableChartTypeSetting = true;
+_chartConfigObject.lineStyle = 'IntervalBasedLine';
+_chartConfigObject.defaultInterval = '86400';
+_chartConfigObject.enableIndicatorSetting = true;
+_chartConfigObject.biasSetting = '';
+_chartConfigObject.emaSetting = '';
+_chartConfigObject.kdjSetting = '';
+_chartConfigObject.macdSetting = '';
+_chartConfigObject.rsiSetting = '';
+_chartConfigObject.smaSetting = '';
+_chartConfigObject.vmaSetting = '';
+_chartConfigObject.cciSetting = '';
+_chartConfigObject.williamsPercentRSetting = '';
+_chartConfigObject.bollingerBandsSetting = '';
+_chartConfigObject.fastStochasticSetting = '';
+_chartConfigObject.slowStochasticSetting = '';
+_chartConfigObject.companyCurrency = 'USD';
+_chartConfigObject.displayDividendsUnits = 'true';
+var configStringFromCookie = '{}';
+var configString = unescape(configStringFromCookie);
+var obj = eval('(' + configString + ')');
+for (var attribute in obj) {
+_chartConfigObject[attribute] = obj[attribute];
+}
+_external_target = "";
+_emitFlashChart(
+"/finance/s/OFspRxwQDQg/chart9.swf?hl=en&gl=us",
+_ticker, _chartConfigObject,"http:\x2F\x2Fwww.google.com:80");
+</script>
+<noscript>
+<div id=image_chart style="display:block;">
+<table>
+<tr><td class=itxt align=left>
+</td></tr>
+<tr><td>
+<img alt="Chart." src="/finance/getchart?q=SCO&x=NYSE&p=3d&i=240" width="500" height="322">
+</td></tr>
+</table>
+</div>
+</noscript>
+</div>
+<div class="g-section g-tpl-67-33 g-split sfe-break-bottom-8"
+      style="padding-top:1px">
+<div id="chart-footer-links" class="g-unit g-first id-chart-footer-links">
+<a id="settings-link" class="chart-footer-link"
+            href="javascript:google.finance.clickSettingsLink();">
+Settings</a>
+<span>|</span>
+<a id="plot-feeds-link" class="chart-footer-link"
+            href="javascript:google.finance.clickPlotFeedsLink();">
+Plot&nbsp;feeds</a>
+<span>|</span>
+<a id="technicals-link" class="chart-footer-link"
+            href="javascript:google.finance.clickTechnicalsLink();">
+Technicals</a>
+<span>|</span>
+<span style="white-space:nowrap;">
+<img width="16" hight="9" alt="Link to chart icon."
+            id="link-to-chart-img" class="SP_link"
+            src="/finance/s/m4C5KaofCbA/images/cleardot.gif" />
+<a id="link-to-chart-link" class="chart-footer-link"
+            href="javascript:google.finance.clickLinkToChartLink();">
+Link&nbsp;to&nbsp;this&nbsp;chart</a>
+</span>
+</div>
+<div class="g-unit">
+<span class="chart-dis">Volume delayed by 15 mins.
+</span>
+</div>
+</div>
+<div id=settings-panel-wrapper>
+<div id=settings-panel class=sfe-section style="display:none"></div>
+</div>
+<div style="height:1em;"></div>
+</div>
+</div>
+</div>
+<div class="g-c sfe-break-right">
+<div id=related class=hide>
+<div class="hdg">
+<div class="g-section g-tpl-50-50 g-split gf-control">
+<div class="g-unit g-first"><h3>Related companies</h3>&nbsp;Show:
+<select id=related-select>
+<option value=mrq >
+Most Recent Quarter
+</option>
+<option value=mra selected>
+Most Recent Annual
+</option>
+</select>
+</div>
+<div class=g-unit>
+<span id=related-edit-col class=linkbtn>Add or remove columns</span>
+<button id=related-save style="display:none">Save changes</button>
+<button id=related-cancel style="display:none">Cancel</button>
+</div>
+</div>
+</div>
+<div id=related-table class=gf-table-scroll-x style="padding-bottom:15px;">
+</div>
+<div class=sfe-section>Sector: <a id=sector href="?catid=us-58211593" >Financial</a> &gt; Industry: <a href="?catid=us-64965887" >Misc. Financial Services</a>
+</div>
+</div>
+<div id=reorder><div class=mid-reorder>
+<div id=blogs-section
+>
+</div>
+<div id=discussions-section
+>
+</div><script>_tck('aft');</script>
+<div id=summary-section
+>
+</div>
+<div id=mgmt-section
+>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+<!-- b -->
+</div>
+</div>
+<div id=footer>
+<center>
+<div class=footerBorder>
+<div class=editions>Google Finance Beta available in:
+<a href="http://www.google.com.hk/finance?hl=zh-TW" >&#39321;&#28207;&#29256; (Hong Kong)</a>&nbsp;-
+<a href="http://www.google.ca/finance" >Canada</a>&nbsp;-
+<a href="http://www.google.com/finance" >U.S.</a>&nbsp;-
+<a href="http://www.google.com/finance?gl=cn&amp;hl=zh-CN" >&#31616;&#20307;&#20013;&#25991; (China)</a>&nbsp;-
+<a href="http://www.google.co.uk/finance" >U.K.</a>
+</div>
+<div class=footerDisclaimer>
+Information is provided 'as is' and solely for informational purposes, not
+for trading purposes or advice, and may be delayed.<br/>
+To see all exchange delays, please
+<a href=
+    "http://www.google.com/intl/en-US/help/stock_disclaimer.html"
+  style="color:#7777cc">see disclaimer</a>.
+<br><br>
+</div>
+<div class=footerLinks>
+&copy;2010 Google &nbsp;&nbsp;
+<a href="http://www.google.com" class=q>Google Home</a>
+- <a href="http://googlefinanceblog.blogspot.com/">Blog</a>
+- <a href=
+  "http://www.google.com/support/finance?hl=en-US"
+ class=q>Help</a>
+- <a href="http://www.google.com/intl/en-US/privacy.html" class=q>Privacy Policy</a>
+- <a href="http://www.google.com/accounts/TOS?loc=us" class=q>Terms of Service</a><br><br><br>
+</div>
+</div>
+</center>
+</div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,650 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+<script type="text/javascript">serverResponseTimeDelta=window.external&&window.external.pageT?window.external.pageT:-1;pageStartTime=new Date().getTime();</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Google Docs Known Issues - Google Docs Help</title>
+<meta name="google-site-verification"
+content="l0nCskQHeO/C11y6qeq7ngDGZ0QVdN1hX7F4SGj3PHg=" />
+<link rel="icon" href="//www.google.com/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="http://docs.google.com/support/bin/resource/all.css?v=244_9" />
+<script type="text/javascript">
+var internal = 0;
+var hc_protocol = "http://";
+var hc_page_info = " static";
+var country = 'US';
+var countryGroup = 'Americas';
+var autoExpand = '';
+var global_error_general = "Sorry, we weren't able to submit your information. Please try again.";
+var hc_urchin = "UA-18500-33";
+var global_hc_bookmark = new Array("add","remove","toggle");
+global_hc_bookmark.add = new Array();
+global_hc_bookmark.remove = new Array();
+global_hc_bookmark.toggle = new Array();
+global_hc_bookmark["add"].url = "";
+global_hc_bookmark["add"].token = "";
+global_hc_bookmark["remove"].url = "";
+global_hc_bookmark["remove"].token = "";
+global_hc_bookmark["toggle"].url = "";
+global_hc_bookmark["toggle"].token = "";
+</script>
+<script
+src="//docs.google.com/support/bin/resource/js_variables.js?v=2&hl=en"
+type="text/javascript"></script>
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script
+src="//docs.google.com/support/bin/resource/search_util.js"
+type="text/javascript"></script>
+<script type="text/javascript">
+enableSearchSuggest("008106700680312029734:rydzxbx71js");
+</script>
+<script
+src="//docs.google.com/support/bin/resource/js_minified.js?v=64"
+type="text/javascript"></script>
+</head>
+<body onload="
+setCookies_default('DSLocale',
+'en','formLoad'); makeRequest('/support/bin/stats?r='+serverResponseTimeDelta+'&l='+(new Date().getTime()-pageStartTime)); 
+"
+dir="ltr"
+class=" static_page ltr lang_en show_leftnav other  other  modules_widescreen new-ui ">
+<a href="#content" class="skiplink">Skip to content</a>
+<div class="wrapper" id="baseDiv">
+<div class="one_google">
+<a href="https://www.google.com/accounts/Login?continue=http%3A%2F%2Fdocs.google.com%2Fsupport%2Fbin%2Fstatic.py%3Fhl%3Den%26page%3Dknown_issues.cs&/">Sign in</a>
+</div>
+<div id="hc_error"></div>
+<div class="header_wrapper">
+<table class="header">
+<tr><td class="logo">
+<a href="http://docs.google.com/"
+onclick="track('Header', 'Logo')">
+<img src="//www.google.com/intl/en/images/logos/docs_logo.gif" alt="Google" height="40"  class="logo" />
+</a>
+</td><td class="header_right">
+<form name="search_form"
+id="search_form"
+title="Search Help"
+method="get" action="/support/bin/search.py"
+onsubmit="track('Search Help', document.getElementById('query').value);"
+class="">
+<input type="hidden" name="ctx" value="en:searchbox" />
+<input size="24"
+type="text" name="query"
+class="searchbox"
+autocomplete="off"
+title="Search"
+value=""
+id="query" />
+<input type="submit"
+value="Search Help" />
+</form>
+</td>
+</tr>
+</table>
+</div>
+<div class="header_bar">
+<h1>Docs Help</h1>
+<div class="clear"></div>
+</div>
+<table class="layout" border="0"><tr>
+<td class="left_column">
+<ul class="leftnav">
+<li class="">
+<a href="http://docs.google.com/support/"
+onclick='track("Left Nav", "Help topics");'>Help articles</a>
+</li>
+<li class="forum">
+<a href="http://www.google.com/support/forum/p/Google+Docs?hl=en&utm_source=HC&utm_medium=leftnav&utm_campaign=docs"
+onclick='track("Left Nav", "u2u");'>Help forum</a>
+</li>
+<li class="LeftNav_Tours first">
+<a href="http://www.google.com/google-d-s/tour1.html"  onclick="track('LeftNav', 'Tours');">Take a Tour</a>
+</li>
+<li class="LeftNav_WorkOrSchool">
+<a href="http://www.google.com/apps/intl/en/business/collaboration.html#utm_medium=et&utm_source=docs-en-hcnav&utm_campaign=crossnav"  onclick="track('LeftNav', 'WorkOrSchool');">For work or school</a>
+</li>
+<li class="LeftNav_Blog">
+<a href="http://googledocs.blogspot.com/"  onclick="track('LeftNav', 'Blog');">Team Blog</a>
+</li>
+<li class="LeftNav_YouTubeChannel">
+<a href="http://www.youtube.com/docs"  onclick="track('LeftNav', 'YouTubeChannel');">Google Docs YouTube channel</a>
+</li>
+<li class="LeftNav_CommChannel">
+<a href="http://www.youtube.com/GoogleDocsCommunity"  onclick="track('LeftNav', 'CommChannel');">Google Docs Community on YouTube</a>
+</li>
+<li class="LeftNav_Sharing">
+<a href="http://docs.google.com/support/bin/request.py?contact_type=feedback"  onclick="track('LeftNav', 'Sharing');">Share your feedback</a>
+</li>
+</td>
+<td class="content new-ui">
+<div class="inner_content">
+<p class="breadcrumbs">
+<a href="http://docs.google.com/">Google Docs</a>
+&rsaquo;
+<a href="http://docs.google.com/support/">Help articles</a>
+&rsaquo; Google Docs Known Issues
+&nbsp;</p>
+<div id="hcError" style="display:none"></div>
+<a name="content"></a>
+<div id="page-content">
+<div id="zippy-dropdown-container"
+class="zippy-dropdown-container-hide"></div>
+<h2 class="ki">
+Google Docs Known Issues
+</h2>
+<div style="margin-bottom:1em;">
+<p class="ki_container">
+<p>If your problem is listed below, we're aware of the issue and are working to fix it as soon as possible. To see more information on an issue, just click on it. Clicking the "Report" button will ensure that we're notified about your issue.</p>
+<p>Although this page was originally written in English, you can use Google's website translator to instantly and automatically translate this page:</p>
+<p><div id="google_translate_element"></div><script>
+function googleTranslateElementInit() {
+new google.translate.TranslateElement({
+pageLanguage: 'en',
+includedLanguages: 'zh-CN,zh-TW,nl,en,fr,de,it,ja,ko,pl,pt,ru,es,tr'
+}, 'google_translate_element');
+}
+</script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script></p></p>
+</p>
+</div>
+<h3 class="ki">
+<a href="javascript:toggleLayer('14827');toggleZippy('a14827');displayOptions();" id="a14827" class="expand">Commonly reported issues in Google Documents:
+</a>
+</h3>
+<div id="14827" class="issues">
+<ul>
+<li class="ki-section dark">
+<div class="ki-section ki-title">
+<a href="javascript:toggleLayer('14827a187563');expandCollapse('b14827s187563');">
+<div id="b14827s187563" class="collapse">
+Images with dimensions greater than 2000 pixels cannot be uploaded
+</div>
+</a>
+</div>
+<div style="clear:both"></div>
+<div class="ki-summary" id="14827a187563" style="display:none;">
+We're aware of this issue. In the meantime, one workaround is to resize images before you upload them.
+<p>
+<strong>Having this issue?</strong> &nbsp;
+<input type="button" onclick="reportIssue('187563', '14827', 'r187563');" value="Report"  />
+&nbsp;
+</p>
+</div>
+</li>
+</ul>
+<ul>
+<li class="ki-section ">
+<div class="ki-section ki-title">
+<a href="javascript:toggleLayer('14827a187177');expandCollapse('b14827s187177');">
+<div id="b14827s187177" class="collapse">
+Certain keyboard shortcuts in Safari don't work
+</div>
+</a>
+</div>
+<div style="clear:both"></div>
+<div class="ki-summary" id="14827a187177" style="display:none;">
+The keyboard shortcuts for bolding and italicizing text do not work in documents when using Safari. This issue requires a <a href="https://bugs.webkit.org/show_bug.cgi?id=24943">fix in Safari</a>. The fix has been submitted but won’t roll out until the next Safari update. In the meantime, you can use a different browser or a <a href="http://nightly.webkit.org/">nightly version of Safari</a>.
+<p>
+<strong>Having this issue?</strong> &nbsp;
+<input type="button" onclick="reportIssue('187177', '14827', 'r187177');" value="Report"  />
+&nbsp;
+</p>
+</div>
+</li>
+</ul>
+<ul>
+<li class="ki-section dark">
+<div class="ki-section ki-title">
+<a href="javascript:toggleLayer('14827a1045795');expandCollapse('b14827s1045795');">
+<div id="b14827s1045795" class="collapse">
+Footnotes may not be visible on screen
+</div>
+</a>
+</div>
+<div style="clear:both"></div>
+<div class="ki-summary" id="14827a1045795" style="display:none;">
+Footnotes in Google Documents may be partially or fully off-screen to the left -- without a way to scroll your browser to view them. This can often be corrected by expanding the size of your browser window or adjusting your screen resolution. We understand that this can be a frustrating experience and apologize for the inconvenience.
+<p>
+<strong>Having this issue?</strong> &nbsp;
+<input type="button" onclick="reportIssue('1045795', '14827', 'r1045795');" value="Report"  />
+&nbsp;
+</p>
+</div>
+</li>
+</ul>
+<ul>
+<li class="ki-section ">
+<div class="ki-section ki-title">
+<a href="javascript:toggleLayer('14827a1075573');expandCollapse('b14827s1075573');">
+<div id="b14827s1075573" class="collapse">
+"Create a Document" Gmail lab may not work for Google Apps users
+</div>
+</a>
+</div>
+<div style="clear:both"></div>
+<div class="ki-summary" id="14827a1075573" style="display:none;">
+Google Apps users working with the "Create a Document" Gmail lab may not be able to create a Google document with the lab. The lab, however, should work fine for non-Apps Gmail users. We apologize for the inconvenience.
+<p>
+<strong>Having this issue?</strong> &nbsp;
+<input type="button" onclick="reportIssue('1075573', '14827', 'r1075573');" value="Report"  />
+&nbsp;
+</p>
+</div>
+</li>
+</ul>
+</div>
+<h3 class="ki">
+<a href="javascript:toggleLayer('14828');toggleZippy('a14828');displayOptions();" id="a14828" class="expand">Commonly reported issues in Google Spreadsheets:
+</a>
+</h3>
+<div id="14828" class="issues">
+<ul>
+<li class="ki-section dark">
+<div class="ki-section ki-title">
+<a href="javascript:toggleLayer('14828a187181');expandCollapse('b14828s187181');">
+<div id="b14828s187181" class="collapse">
+More than one form editing window open overwrites changes saved
+</div>
+</a>
+</div>
+<div style="clear:both"></div>
+<div class="ki-summary" id="14828a187181" style="display:none;">
+We're aware of a problem that occurs when someone has more than one form editing window open for the same form. The workaround to avoid edits from one form editing window overwriting edits from another is to ensure that you only have one form editing window open. This is the window that opens when you select <b>Form > Edit form</b>.
+<p>
+<strong>Having this issue?</strong> &nbsp;
+<input type="button" onclick="reportIssue('187181', '14828', 'r187181');" value="Report"  />
+&nbsp;
+</p>
+</div>
+</li>
+</ul>
+<ul>
+<li class="ki-section ">
+<div class="ki-section ki-title">
+<a href="javascript:toggleLayer('14828a187182');expandCollapse('b14828s187182');">
+<div id="b14828s187182" class="collapse">
+Insert Date/Insert Time shortcuts don't work in Chrome
+</div>
+</a>
+</div>
+<div style="clear:both"></div>
+<div class="ki-summary" id="14828a187182" style="display:none;">
+We're actively working on fixing this issue. Thanks for your patience.
+<p>
+<strong>Having this issue?</strong> &nbsp;
+<input type="button" onclick="reportIssue('187182', '14828', 'r187182');" value="Report"  />
+&nbsp;
+</p>
+</div>
+</li>
+</ul>
+<ul>
+<li class="ki-section dark">
+<div class="ki-section ki-title">
+<a href="javascript:toggleLayer('14828a1067627');expandCollapse('b14828s1067627');">
+<div id="b14828s1067627" class="collapse">
+Small number of snippets from publishing charts are broken
+</div>
+</a>
+</div>
+<div style="clear:both"></div>
+<div class="ki-summary" id="14828a1067627" style="display:none;">
+A small number of scripts produced soon after we launched the new version of Charts in Google spreadsheets may be broken. There is an easy resolution if one of your published charts now appears broken. Under the Chart menu in the upper left of the chart, select 'Publish chart.' Copy and paste the new script to publish your chart to a webpage.
+<p>
+<strong>Having this issue?</strong> &nbsp;
+<input type="button" onclick="reportIssue('1067627', '14828', 'r1067627');" value="Report"  />
+&nbsp;
+</p>
+</div>
+</li>
+</ul>
+<ul>
+<li class="ki-section ">
+<div class="ki-section ki-title">
+<a href="javascript:toggleLayer('14828a1076425');expandCollapse('b14828s1076425');">
+<div id="b14828s1076425" class="collapse">
+Sheet protection is not allowing users to set protection to multiple collaborators
+</div>
+</a>
+</div>
+<div style="clear:both"></div>
+<div class="ki-summary" id="14828a1076425" style="display:none;">
+If you are setting sheet protection for certain sheets in your spreadsheet, it will only allow you to set the 'Only me' option for the sheet. We are actively working on a fix to allow you to give access to a particular sheet to specified collaborators using the 'Me, and the collaborators selected below' option.
+<p>
+<strong>Having this issue?</strong> &nbsp;
+<input type="button" onclick="reportIssue('1076425', '14828', 'r1076425');" value="Report"  />
+&nbsp;
+</p>
+</div>
+</li>
+</ul>
+</div>
+<h3 class="ki">
+<a href="javascript:toggleLayer('14830');toggleZippy('a14830');displayOptions();" id="a14830" class="expand">Commonly reported issues in the Docs List and across Docs:
+</a>
+</h3>
+<div id="14830" class="issues">
+<ul>
+<li class="ki-section dark">
+<div class="ki-section ki-title">
+<a href="javascript:toggleLayer('14830a1069697');expandCollapse('b14830s1069697');">
+<div id="b14830s1069697" class="collapse">
+Google Docs Viewer has limited functionality in Internet Explorer
+</div>
+</a>
+</div>
+<div style="clear:both"></div>
+<div class="ki-summary" id="14830a1069697" style="display:none;">
+The File and View menus on the Google Docs Viewer are not currently available in Internet Explorer
+<p>
+<strong>Having this issue?</strong> &nbsp;
+<input type="button" onclick="reportIssue('1069697', '14830', 'r1069697');" value="Report"  />
+&nbsp;
+</p>
+</div>
+</li>
+</ul>
+<ul>
+<li class="ki-section ">
+<div class="ki-section ki-title">
+<a href="javascript:toggleLayer('14830a187185');expandCollapse('b14830s187185');">
+<div id="b14830s187185" class="collapse">
+Sharing folders with "anyone with the link"
+</div>
+</a>
+</div>
+<div style="clear:both"></div>
+<div class="ki-summary" id="14830a187185" style="display:none;">
+<p>We have temporarily disabled the ability to share folders with the visibility setting "Anyone with the Link". You'll notice it is now grayed out in the sharing settings dialogue.</p>
+<p>When folders are shared under this visibility setting, the included files in the folders are not given the same access rights. So if the files within the folder are set to "private", users who are shared the folder via the link will not be able to access the documents within. A workaround is to either set the folder to public if the contents are not sensitive, or if the contents are sensitive, share the folder with each person who needs access individually.</p>
+<p>
+<strong>Having this issue?</strong> &nbsp;
+<input type="button" onclick="reportIssue('187185', '14830', 'r187185');" value="Report"  />
+&nbsp;
+</p>
+</div>
+</li>
+</ul>
+<ul>
+<li class="ki-section dark">
+<div class="ki-section ki-title">
+<a href="javascript:toggleLayer('14830a188350');expandCollapse('b14830s188350');">
+<div id="b14830s188350" class="collapse">
+Cannot delete items in bulk from the trash
+</div>
+</a>
+</div>
+<div style="clear:both"></div>
+<div class="ki-summary" id="14830a188350" style="display:none;">
+At the moment, you cannot bulk delete your trashed items if your trash contains a large number of items. In the meantime, you can select about 50 at a time and empty those from your trash.
+<p>
+<strong>Having this issue?</strong> &nbsp;
+<input type="button" onclick="reportIssue('188350', '14830', 'r188350');" value="Report"  />
+&nbsp;
+</p>
+</div>
+</li>
+</ul>
+</div>
+<h3 class="ki">
+<a href="javascript:toggleLayer('29863');toggleZippy('a29863');displayOptions();" id="a29863" class="expand">Commonly reported issues in Google Drawings:
+</a>
+</h3>
+<div id="29863" class="issues">
+<ul>
+<li class="ki-section dark">
+<div class="ki-section ki-title">
+<a href="javascript:toggleLayer('29863a83885');expandCollapse('b29863s83885');">
+<div id="b29863s83885" class="collapse">
+No connectors in Google drawings
+</div>
+</a>
+</div>
+<div style="clear:both"></div>
+<div class="ki-summary" id="29863a83885" style="display:none;">
+We know that the ability to join objects via a straight or bent line is a top feature request and are working on it.
+<p>
+<strong>Having this issue?</strong> &nbsp;
+<input type="button" onclick="reportIssue('83885', '29863', 'r83885');" value="Report"  />
+&nbsp;
+</p>
+</div>
+</li>
+</ul>
+</div>
+<div class="clear" id="options">
+<h4>Don't see your issue listed above?</h4>
+<p>Report it on our <a href="http://www.google.com/support/forum/p/Google+Docs?hl=en" onClick="javascript:urchinTracker('/support/outgoing/targetedcontact/knownissustoforum/en');">Help Forum</a>.</p>
+</div>
+</td><td class="right_column">
+<div class="module" style="float:right;margin:0 0 2em 1em;width:230px;">
+<h2>Recent fixes</h2>
+<ul class="recentfixes">
+<li>
+Google Docs Viewer has limited functionality in Internet Explorer
+</li>
+<li>
+Footnote numbers are subscripted rather than superscripted when a doc is exported to pdf
+</li>
+<li>
+Redirect error when accessing docs
+</li>
+<li>
+Edit Your Response feature temporarily turned off in Google forms
+</li>
+<li>
+Display error for some docs embedded in sites
+</li>
+<li>
+Print and print preview may display incorrect formatting
+</li>
+<li>
+Docs disappearing and reappearing in Docs List
+</li>
+<li>
+Circular dependency errors for SUMIF formulas
+</li>
+<li>
+RTL language settings cause spreadsheets to go blank
+</li>
+<li>
+Slow performance in Google spreadsheets
+</li>
+<li>
+A published document with several images displays the first image instead of subsequent images
+</li>
+<li>
+Documents redirect to “Clearing cache and cookies” page
+</li>
+<li>
+Sorting in your Docs List
+</li>
+</ul>
+</div>
+<script type="text/javascript">
+function reportIssue(issue, folder, cookiename) {
+setCookies_default(cookiename, "1", "", "31");
+var newLocation = "/support/bin/static.py?page=known_issues.cs&ki_topic=14826&issue=" + issue + "&bucket=" + folder + "&hl=en";
+var newLocation = newLocation + "&action=report";
+window.location.href = newLocation;
+}
+function emailIssue(issue, folder, cookiename) {
+var data = 'email=&ctx=submitted&subject=Notify-Me-about-' + issue + '&extra.origin=knownissues&extra.Language=en&Action.Send=Send&extra.topic=' + issue;
+setCookies_default(cookiename, "1", "", "31");
+postUrl('/support/bin/request.py', data, function(){});
+var newLocation = "/support/bin/static.py?page=known_issues.cs&ki_topic=14826&issue=" + issue + "&bucket=" + folder;
+newLocation = newLocation + "&action=notify";
+window.location.href = newLocation;
+}
+function expandCollapse(id) {
+var i = document.getElementById(id);
+if (i.className == "expand") {
+i.className = "collapse";
+} else {
+i.className = "expand";
+}
+}
+function displayOptions() {
+var i = document.getElementById('options');
+if (i.style.display == "none") {
+i.style.display = "block";
+}
+}
+</script>
+</div>
+<div class="clear"></div>
+</div>
+</td>
+</tr></table>
+<div style="clear:both"></div>
+<div class="footer-nav">
+<p>
+<a href="http://docs.google.com/"
+onclick="track('Footer', 'Product home')">Google Docs</a>
+-
+<a href="http://documents.google.com/support/bin/request.py?contact_type=contact_policy&ctx=docs&hl=en"
+onclick="track('Footer', 'Contacting us')">Contacting Us</a>
+-
+<a href="http://www.google.com/support/?hl=en"
+onclick="track('Footer', 'Help with other products')">Help with other Google products</a>
+-
+<form method="post" id="changelang" name="changelang"
+action="javascript:
+setCookies_default('DSLocale',
+this.document.changelang.lang.value, 'dropdown');
+track('LanguageDropdown', this.document.changelang.lang.value);"
+class="lang_dropdown">
+<label for="lang">Change Language:</label>
+<select name="lang" id="lang"
+onchange="document.getElementById('changelang').submit();">
+<option value="ar" >العربية</option>
+<option value="bg" >Български</option>
+<option value="id" >Bahasa Indonesia</option>
+<option value="bn" >বাংলা</option>
+<option value="ca" >Català</option>
+<option value="cs" >Česky</option>
+<option value="sr" >Српски</option>
+<option value="da" >Dansk</option>
+<option value="de" >Deutsch</option>
+<option value="en" selected="selected" class="selected">English (US)&lrm;</option>
+<option value="en-uk" >English (GB)&lrm;</option>
+<option value="es" >Español (España)&lrm;</option>
+<option value="fr" >Français</option>
+<option value="it" >Italiano</option>
+<option value="lv" >Latviešu</option>
+<option value="lt" >Lietuvių</option>
+<option value="hu" >Magyar</option>
+<option value="nl" >Nederlands</option>
+<option value="no" >Norsk</option>
+<option value="pl" >Polski</option>
+<option value="pt" >Português (Portugal)&lrm;</option>
+<option value="br" >Português (Brasil)&lrm;</option>
+<option value="ro" >Română</option>
+<option value="sk" >Slovenský</option>
+<option value="sl" >Slovenščina</option>
+<option value="fi" >Suomi</option>
+<option value="sv" >Svenska</option>
+<option value="ru" >Русский</option>
+<option value="th" >ภาษาไทย</option>
+<option value="tr" >Türkçe</option>
+<option value="uk" >Українська</option>
+<option value="el" >Ελληνικά</option>
+<option value="iw" >עברית</option>
+<option value="gu" >ગુજરાતી</option>
+<option value="hi" >हिन्दी</option>
+<option value="kn" >ಕನ್ನಡ</option>
+<option value="ml" >മലയാളം</option>
+<option value="mr" >मराठी</option>
+<option value="or" >Oriya</option>
+<option value="ta" >தமிழ்</option>
+<option value="te" >తెలుగు</option>
+<option value="vi" >Tiếng Việt</option>
+<option value="cn" >中文（简体）&lrm;</option>
+<option value="b5" >中文（繁體）&lrm;</option>
+<option value="jp" >日本語</option>
+<option value="kr" >한국어</option>
+</select>
+</form>
+</p>
+<div><p>
+<span class="footer-copyright">
+&copy;2010 Google
+</span>
+<span>
+-
+<a href="http://www.google.com/intl/en/"
+onclick="track('Footer', 'GoogleHome');
+">Google Home</a>
+</span>
+<span>
+-
+<a href="http://www.google.com/intl/en/privacy.html"
+onclick="track('Footer', 'PrivacyPolicy');
+">Privacy Policy</a>
+</span>
+<span>
+-
+<a href="http://www.google.com/accounts/TOS?hl=en&loc=US"
+onclick="track('Footer', 'Terms');
+">Terms of Service</a>
+</span>
+<span>
+-
+<a href="http://www.google.com/google-d-s/terms.html"
+onclick="track('Footer', 'AddlTerms');
+">Additional Terms</a>
+</span>
+</p></div>
+</div>
+</div>
+<script type="text/javascript">
+googlehelp.Links.initLinks(
+[autoExpand, browser, browserGroup, os, osGroup, country], internal);
+if (googlehelp.initEls) {
+if (autoExpand) {
+googlehelp.initEls([autoExpand], userSettings, userSettingsDropdownText);
+} else {
+googlehelp.initEls([autoExpand, browser, browserGroup, os, osGroup,
+country, countryGroup], userSettings, userSettingsDropdownText);
+}
+}
+</script>
+<script src='//www.google-analytics.com/ga.js'
+type='text/javascript'></script>
+<script type="text/javascript">
+var analytics_async = 0;
+</script>
+<script
+src="//docs.google.com/support/bin/resource/urchin_util.js?v=7"
+type="text/javascript"></script>
+<script type="text/javascript">
+var cookiePathArray = [];
+</script>
+<script type="text/javascript">
+urchinTracker('\x2Fsupport\x2Fbin\x2Fstatic.py?hl=en\x26page=known_issues.cs');
+</script>
+<script
+src="//docs.google.com/support/bin/resource/js_validate_static.js?v=16"
+type="text/javascript"></script>
+<script type="text/javascript">
+track('LeftNav',
+'Tours - Impression');
+track('LeftNav',
+'WorkOrSchool - Impression');
+track('LeftNav',
+'Blog - Impression');
+track('LeftNav',
+'YouTubeChannel - Impression');
+track('LeftNav',
+'CommChannel - Impression');
+track('LeftNav',
+'Sharing - Impression');
+</script>
+<script src="//www.google.com/sidewiki/static/sidebar_element/sidebar-element-compiled.js"></script>
+<script defer="defer">
+var sidebarElement = new google.elements.sidewiki.SidebarElement(
+window.location.href,false);
+sidebarElement.bindToElement("sidewiki-open-ui-button");
+</script>
+</body>
+</html>

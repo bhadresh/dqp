@@ -1,0 +1,804 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Banco Bilbao Vizcaya Argentaria SA (ADR): NYSE:BBVA quotes & news - Google Finance</title>
+<meta name="Description" content="Get detailed financial information on Banco Bilbao Vizcaya Argentaria SA (ADR) (NYSE:BBVA) including real-time stock quotes, historical charts & financial news, all for free!">
+<link rel="stylesheet" type="text/css" href="/finance/s/i3gpPu9Jou8/styles/finance_us.css">
+<style>#gbar,#guser{font-size:13px;padding-right:8px;padding-top:4px !important}#gbar{padding-left:8px;float:left;height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}#gbs,.gbm{background:#fff;left:0;position:absolute;text-align:left;visibility:hidden;z-index:1000}.gbm{border:1px solid;border-color:#c9d7f1 #36c #36c #a2bae7;z-index:1001}.gb1{margin-right:.5em}.gb1,.gb3{zoom:1}.gb2{display:block;padding:.2em .5em}.gb2,.gb3{text-decoration:none;border-bottom:none}a.gb1,a.gb2,a.gb3,a.gb4{color:#00c !important}.gbi .gb3,.gbi .gb2,.gbi .gb4{color:#dd8e27 !important}.gbf .gb3,.gbf .gb2,.gbf .gb4{color:#900 !important}a.gb2:hover{background:#36c;color:#fff !important}div#gbar{padding-left:0}</style>
+<script>(function(){function i(a,b,d){var c="on"+b;if(a.addEventListener)a.addEventListener(b,d,false);else if(a.attachEvent)a.attachEvent(c,d);else{var f=a[c];a[c]=function(){var g=f.apply(this,arguments),e=d.apply(this,arguments);return g==undefined?e:e==undefined?g:e&&g}}};var j,k,l,m=window.gbar={},n={};function _tvs(a,b){return a||b}function _tvn(a,b){var d=parseInt(a,10);return isNaN(d)?b:d}function _tvf(a,b){var d=parseFloat(a);return isNaN(d)?b:d}function _tvb(a,b){return a=="true"?true:a=="false"?false:b}var o,p,q;function r(a){var b=window.b&&(document.forms[0].f||"").value;if(b)a.href=a.href.replace(/([?&])q=[^&]*|$/,function(d,c){return(c||"&")+"q="+encodeURIComponent(b)})}l=r;
+function s(a,b,d,c,f,g){var e=document.getElementById(a);if(e){var h=e.style;h.left=c?"auto":b+"px";h.right=c?b+"px":"auto";h.top=d+"px";h.visibility=p?"hidden":"visible";if(f&&g){h.width=f+"px";h.height=g+"px"}else{s(o,b,d,c,e.offsetWidth,e.offsetHeight);p=p?"":a}}}
+var w=function(a){a=a||window.event;var b,d=a.target||a.srcElement;a.cancelBubble=true;if(o!=null)t(d);else{b=document.createElement(Array.every||window.createPopup?"iframe":"div");b.frameBorder="0";o=b.id="gbs";b.src="javascript:''";d.parentNode.appendChild(b);i(document,"click",u);t(d);n.a&&n.a(function(){var c=document.getElementById("gbli");if(c){var f=c.parentNode;v(f,c);var g=c.e;f.removeChild(c);n.g(f,g);b.style.height=f.offsetHeight+"px"}})}};
+function t(a){var b=0;if(a.className!="gb3")a=a.parentNode;var d=a.getAttribute("aria-owns")||"gbi",c=a.offsetWidth,f=a.offsetTop>20?46:24;if(document.getElementById("tphdr"))f-=3;var g=false;do b+=a.offsetLeft||0;while(a=a.offsetParent);a=(document.documentElement.clientWidth||document.body.clientWidth)-b-c;var e;c=document.body;var h=document.defaultView;if(h&&h.getComputedStyle){if(c=h.getComputedStyle(c,""))e=c.direction}else e=c.currentStyle?c.currentStyle.direction:c.style.direction;e=e=="rtl";
+if(d=="gbi"){c=document.getElementById("gbi");v(c,document.getElementById("gbli")||c.firstChild);if(e){b=a;g=true}}else if(!e){b=a;g=true}p!=d&&u();s(d,b,f,g)}var u=function(){p&&s(p,0,0)};function v(a,b){for(var d,c=window.d;c&&(d=c.pop());){var f=a,g=d,e=b;if(!q){q="gb2";if(n.a){var h=n.c(f);if(h)q=h}}f.insertBefore(g,e).className=q}}
+var x=function(a,b,d){if((b=document.getElementById(b))&&a){a.className="gb4";var c=document.createElement("span");c.appendChild(a);c.appendChild(document.createTextNode(" | "));c.id=d;b.appendChild(c)}};m.qs=l;m.setContinueCb=k;m.pc=j;m.tg=w;m.close=u;m.addLink=x;})();
+</script>
+<link rel="icon"
+        type="image/vnd.microsoft.icon" href="/finance/favicon.ico">
+<script>(function(){function a(c){this.t={};this.tick=function(e,f,b){b=b?b:(new Date).getTime();this.t[e]=[b,f]};this.tick("start",null,c)}var d=new a;window.jstiming={Timer:a,load:d};try{var g=null;if(window.chrome&&window.chrome.csi)g=Math.floor(window.chrome.csi().pageT);if(g==null)if(window.gtbExternal)g=window.gtbExternal.pageT();if(g==null)if(window.external)g=window.external.pageT;if(g)window.jstiming.pt=g}catch(h){};function i(c){window.jstiming&&window.jstiming.load.tick(c)}window._tck=i;})();
+</script>
+<script type="text/javascript">var google=google||{};var _cleardot = '/finance/s/m4C5KaofCbA/images/cleardot.gif';</script>
+<script type="text/javascript" src="/finance/s/HctJl7DXpjg/js/finance-opt.js?hl=en&gl=us"></script>
+<script type="text/javascript">
+(function(){var d=navigator.userAgent.toLowerCase().indexOf("msie")!=-1;function e(){for(var a=document.styleSheets,b=a.length-1;b>=0;--b){var c=a[b].href;if(c)if(c.indexOf("styles/finance_")!=-1||c.indexOf("styles_")!=-1)return a[b]}return null}function f(){var a=e();if(a){a=a.rules;return a.length>0&&a[a.length-1].selectorText==".lastFinanceRule"}return false}
+function g(){if(document.scripts)for(var a=0;a<document.scripts.length;++a){var b=document.scripts[a];if(b&&b.src.indexOf("/js/gen_finance.js")!=-1)return b}return null}function _chkCssJs(){if(d){if(typeof _lastFinanceFn!="function"){var a=g();if(a&&a.src){var b=a.src.indexOf("?")!=-1?"&":"?";a.src+=b+"zx="+Math.random()}}if(!f())if((a=e())&&a.href){b=a.href.indexOf("?")!=-1?"&":"?";a.href+=b+"zx="+Math.random()}}};_chkCssJs();})();
+  
+    _setStickyUrlParams("");
+  </script>
+<style>
+html {
+min-height: 100%; margin-bottom: 0.01em;
+}
+.blogref a:link,.blogref a:active,.blogref a:visited,.blogref {color:#7777CC}
+.lac {text-decoration:underline; color:#00C; cursor:pointer;}
+.lnac {text-decoration:none; color:#A1A1A1; cursor:text;}
+.imgac {cursor:pointer; border:0px;}
+.imgnac {cursor:none; border:0px;}
+.r {
+margin-top:-2px; margin-left:30px; margin-bottom:0px; margin-right:5px;
+padding:7px 10px 10px 10px; line-height:1.3em; position:absolute; display:none; z-index:10;
+border:2px solid #9DDF99; background-color:#FFF;
+}
+</style>
+</head>
+<body>
+<div class=g-doc id=outer-wrapper>
+<div id=body-wrapper>
+<div id=gbar><nobr><a href="http://www.google.com/search?q=NYSE:BBVA&sa=N&hl=en&tab=ew" onclick=gbar.qs(this) class=gb1>Web</a> <a href="http://www.google.com/images?q=NYSE:BBVA&source=og&sa=N&hl=en&tab=ei" onclick=gbar.qs(this) class=gb1>Images</a> <a href="http://www.google.com/search?q=NYSE:BBVA&tbo=u&tbs=vid:1&source=og&sa=N&hl=en&tab=ev" onclick=gbar.qs(this) class=gb1>Videos</a> <a href="http://maps.google.com/maps?q=NYSE:BBVA&sa=N&hl=en&tab=el" onclick=gbar.qs(this) class=gb1>Maps</a> <a href="http://www.google.com/search?q=NYSE:BBVA&tbo=u&tbs=nws:1&source=og&sa=N&hl=en&tab=en" onclick=gbar.qs(this) class=gb1>News</a> <a href="http://www.google.com/search?q=NYSE:BBVA&tbo=u&tbs=shop:1&source=og&sa=N&hl=en&tab=ef" onclick=gbar.qs(this) class=gb1>Shopping</a> <a href="http://mail.google.com/mail/?hl=en&tab=em" class=gb1>Gmail</a> <a href="http://www.google.com/intl/en/options/" onclick="this.blur();gbar.tg(event);return !1" aria-haspopup=true class=gb3><u>more</u> <small>&#9660;</small></a><div class=gbm id=gbi><a href="http://www.google.com/search?q=NYSE:BBVA&tbo=u&tbs=bks:1&source=og&sa=N&hl=en&tab=ep" onclick=gbar.qs(this) class=gb2>Books</a> <b class=gb2>Finance</b> <a href="http://translate.google.com/translate_t?q=NYSE:BBVA&sa=N&hl=en&tab=eT" onclick=gbar.qs(this) class=gb2>Translate</a> <a href="http://scholar.google.com/scholar?q=NYSE:BBVA&sa=N&hl=en&tab=es" onclick=gbar.qs(this) class=gb2>Scholar</a> <a href="http://www.google.com/search?q=NYSE:BBVA&tbo=u&tbs=blg:1&source=og&sa=N&hl=en&tab=eb" onclick=gbar.qs(this) class=gb2>Blogs</a> <a href="http://www.google.com/search?q=NYSE:BBVA&tbo=u&tbs=mbl:1&source=og&sa=N&hl=en&tab=eY" onclick=gbar.qs(this) class=gb2>Updates</a> <div class=gb2><div class=gbd></div></div><a href="http://www.youtube.com/results?q=NYSE:BBVA&sa=N&hl=en&tab=e1" onclick=gbar.qs(this) class=gb2>YouTube</a> <a href="http://www.google.com/calendar/render?hl=en&tab=ec" class=gb2>Calendar</a> <a href="http://picasaweb.google.com/lh/view?q=NYSE:BBVA&sa=N&hl=en&tab=eq" onclick=gbar.qs(this) class=gb2>Photos</a> <a href="http://docs.google.com/?hl=en&tab=eo" class=gb2>Documents</a> <a href="http://www.google.com/reader/view/?hl=en&tab=ey" class=gb2>Reader</a> <a href="http://sites.google.com/?hl=en&tab=e3" class=gb2>Sites</a> <a href="http://groups.google.com/groups?q=NYSE:BBVA&sa=N&hl=en&tab=eg" onclick=gbar.qs(this) class=gb2>Groups</a> <div class=gb2><div class=gbd></div></div><a href="http://www.google.com/intl/en/options/" class=gb2>even more &raquo;</a> </div></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.com/support/finance?hl=en-US" class=gb4>Help</a> | <a href="https://www.google.com/accounts/Login?hl=en&continue=http://www.google.com/finance%3Fq%3DNYSE:BBVA&service=finance" class=gb4>Sign in</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div>
+<script>window.locale={hl:'en',gl:'us',locale:'en-US'};</script>
+<div class="g-section g-tpl-75-25 g-split search-header">
+<div class="g-unit g-first">
+<div class=sfe-logo>
+<a href="/finance">
+<img src="/finance/s/M4XFgDr56u4/images/logo_us.gif" alt="Google Finance.">
+</a>
+</div>
+<div class=sfe-search>
+<form method=GET action="/finance" name=f>
+<input name=q id=searchbox autocomplete=off size=40 maxlength=2048
+             type=text tabindex=1 title="Quote search input"
+             value="NYSE:BBVA">
+<input type=submit value="Get quotes" >
+<br>
+<span class="searchExample">
+Example: "CSCO" or "Google"</span>
+</form>
+</div>
+</div>
+<div class="g-unit promo">
+</div>
+</div>
+<div class="g-section g-tpl-nav-main">
+<div class="g-unit g-first" id="left-nav">
+<ul id=navmenu>
+<li class="nav-selected nav-expanded">Company
+<li class=navsub>
+<div>Summary
+</div>
+<li class=navsub>
+<a id="nav-cn" 
+  href="/finance/company_news?q=NYSE:BBVA">News
+</a>
+<li class=navsub>
+<a id="nav-co" 
+  href="/finance/option_chain?q=NYSE:BBVA">Option chain
+</a>
+<li class=navsub>
+<a id="nav-cr" 
+  href="/finance/related?q=NYSE:BBVA">Related companies
+</a>
+<li class=navsub>
+<a id="nav-ch" 
+  href="/finance/historical?q=NYSE:BBVA">Historical prices
+</a>
+<li class=navsub>
+<a id="nav-cf" 
+  href="/finance?q=NYSE:BBVA&amp;fstype=ii">Financials
+</a>
+<li class=nav-item>
+<a id="nav-m" 
+  href="/finance">
+<div>Markets</div></a>
+<li class=nav-item>
+<a id="nav-n" 
+  href="/finance/market_news">
+<div>News</div></a>
+<li class=nav-item>
+<a href="https://www.google.com/accounts/ServiceLogin?hl=en&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com%3A80%2Ffinance%2Fportfolio%3Faction%3Dview" >
+<div>Portfolios</div></a>
+<li class=nav-item>
+<a id="nav-s" 
+  href="/finance/stockscreener">
+<div>Stock screener</div></a>
+<li class=nav-item>
+<a id="nav-q" 
+  href="/finance/domestic_trends">
+<div>Google Domestic Trends</div></a>
+</ul>
+<div id=rq-box>
+<h4>Recent quotes</h4>
+<div id=rq-toggle></div>
+<div id=rq-table></div>
+<a id=rq-create href="https://www.google.com/accounts/ServiceLogin?hl=en&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com%2Ffinance%3Fq%3DNYSE%3ABBVA" >Sign in to create portfolio</a>
+</div>
+<script>
+setTimeout(
+function() {try{google.finance.renderRecentQuotes();}catch(e){}}, 200);
+</script>
+<form id=new_pform_nav
+      action=/finance/portfolio/create?hash= method=post>
+<input id=new_pform_name type=hidden name=pname />
+<input id=new_pform_cids type=hidden name=pcids />
+<input id=is_logged_in type=hidden name=is_logged_in
+           value=0 />
+</form>
+<div id=ra-target></div>
+</div>
+<div class="g-unit sfe-break-left" id="rt-content">
+<!-- a -->
+<script>
+(function() {
+if (_finance_chart) {
+var el = document.getElementById('chart_anchor');
+if (el) {
+el.innerHTML = '';
+}
+_finance_chart = null;
+}
+})();
+var _ticker = 'NYSE:BBVA';
+var _slHeight = 221;
+var _companyName = 'Banco Bilbao Vizcaya Argentaria SA (ADR)';
+var _displayVolume = true;
+var _companyId = 656530;
+_s_Store._numToDisplay = 6;
+_comparison_charts_Store._numToDisplay = 8;
+_comparison_charts_Store._allowMultiTimezoneCompare = true;
+function onCompanyLoad() {
+_external_target = "";
+_emitFlashChartOnLoad(
+"/finance/s/OFspRxwQDQg/chart9.swf?hl=en&gl=us",
+_ticker, "chart_anchor", "market-data-div",
+_chartConfigObject);
+google.finance.onCompanyLoad();
+_initAutoFocus();
+if (google.finance.initTechnicals) {
+google.finance.initTechnicals(true);
+}
+}
+</script>
+<div class=g-wrap>
+<div class="g-section sfe-break-bottom-8">
+<div class="g-tpl-67-33 g-split hdg top" id=companyheader>
+<div class="g-unit g-first"><h3>Banco Bilbao Vizcaya Argentaria SA (ADR)&nbsp;</h3>(Public, NYSE:BBVA)&nbsp;&nbsp;
+<a href="/finance/portfolio?action=add&amp;addticker=NYSE%3ABBVA" class=norm>Watch this stock</a>
+&nbsp;&nbsp;
+</div><div class="g-unit norm">Find more results for<b>
+<a href="?noIL=1&q=BBVA" id=searchmore>BBVA</a></b>
+</div>
+</div>
+</div>
+
+<div id=ra-src class=hide>
+<div id=ra-target></div>
+</div>
+<script>
+google.finance.renderRecentActivities();
+_ac_register(function (input, event) {
+if (input.id == 'add_comparison_symbol') {
+_comparison_charts_Store.baseTicker = "NYSE:BBVA";
+return _comparison_charts_Store;
+}
+});
+var _prefs=_prefs||{};_prefs.hash="";
+_prefs.feeds=_prefs.feeds||{};
+_prefs.ch=_prefs.ch||{};
+_prefs.ch_compare=_prefs.ch_compare||{};
+_eventid = 'kuT2TP7SB6DcqwO6pqDfCA';
+var google = google || {};
+google.finance = google.finance || {};
+google.finance.data = {common:{rq:{ct:""},up:"chg",down:"chr",linktargetInternal:"",hash:"",dfp:"http://ad-g.doubleclick.net/adi/com.gf.company/financial;fe=nyse;ft=bbva;fm=large;sz=300x250;dcopt=ist;myd=ad"},company:{news:{clusters:[{nrel:4,imp:2,idx:0,id:17593825248117,ed:"8 hours ago",tt:1291217437,lead_story_url:"http://www.benzinga.com/market-update/10/12/657482/top-performing-industries-for-december-1-std-nav-bbva-hog",a:[{t:"Top Performing Industries For December 1 (STD, NAV, BBVA, HOG)",u:"http://www.benzinga.com/market-update/10/12/657482/top-performing-industries-for-december-1-std-nav-bbva-hog",s:"Benzinga",d:"8 hours ago",tt:1291217437,fid:1008457},{t:"Financial Stocks Opens Higher (Bank of Ireland, STD, NBG, BBVA)",u:"http://www.efreepressrelease.com/2010/127/financial-stocks-opens-higher-bank-of-ireland-std-nbg-bbva/",s:"EFPR"},{t:"5 Top Gainers of NYSE in Financial Sector (NBG, BBVA, STD, ING, NCT)",u:"http://www.tech24.org/194215-top-gainers-of-nyse-in-financial-sector-nbg-bbva-std-ing-nct.html",s:"Tech24"}],score:13.460172653198242},{nrel:2,imp:2,idx:1,id:17593825054354,ed:"19 hours ago",tt:1291179686,lead_story_url:"http://www.cranedata.com/archives/news/2010/12/",a:[{t:"Crane 100 Money Fund Index",u:"http://www.cranedata.com/archives/news/2010/12/",s:"Crane Data LLC",d:"19 hours ago",tt:1291179686,fid:1005457}],score:11.587972640991211},{nrel:2,imp:2,idx:2,id:17593825066925,ed:"22 hours ago",tt:1291166211,lead_story_url:"http://www.marketwatch.com/story/bailout-worries-pull-us-listed-spain-banks-lower-2010-11-30?reflink=MW_news_stmp",a:[{t:"Bailout worries pull U.S.-listed Spain banks lower",u:"http://www.marketwatch.com/story/bailout-worries-pull-us-listed-spain-banks-lower-2010-11-30?reflink=MW_news_stmp",s:"MarketWatch",d:"22 hours ago",tt:1291166211,fid:1004457},{t:"BANCO BILBAO VIZCAYA ARGENTARIA SET TO POSSIBLY REBOUND AFTER YESTERDAY\x26#39;S SELLOFF OF 3.96% (BBVA)",u:"http://www.zacks.com/research/get_news.php?id=335l6968",s:"Zacks.com"}],score:11.649321556091309},{imp:2,idx:3,id:0,ed:"Nov 30, 2010",tt:1291153674,lead_story_url:"http://online.wsj.com/article/BT-CO-20101130-714228.html",a:[{t:"ADR Report: Shares Fall On Continued Sovereign Debt Fears",u:"http://online.wsj.com/article/BT-CO-20101130-714228.html",s:"Wall Street Journal",d:"Nov 30, 2010",tt:1291153674,fid:1003457}],score:11.883123397827148},{nrel:2,imp:2,idx:4,id:17593825329233,ed:"Nov 30, 2010",tt:1291147585,lead_story_url:"http://www.bloomberg.com/news/2010-11-30/criteria-caixacorp-faes-red-electrica-iberian-equity-preview.html",a:[{t:"Spanish Stocks: BBVA, Santander, Faes Farma, OHL, Gas Natural",u:"http://www.bloomberg.com/news/2010-11-30/criteria-caixacorp-faes-red-electrica-iberian-equity-preview.html",s:"Bloomberg",d:"Nov 30, 2010",tt:1291147585,fid:1006457}],score:11.499588966369629},{idx:5,id:2032881,tt:1291055160,lead_story_url:"http://stocks.us.reuters.com/stocks/keyDevelopments.asp?rpc=66\x26symbol=BBVA.K\x26timestamp=20101129182600",a:[{t:"Banco Bilbao Vizcaya Argentina SA Announces Registration Of Capital Increase On Vizcaya Commercial Registry",u:"http://stocks.us.reuters.com/stocks/keyDevelopments.asp?rpc=66\x26symbol=BBVA.K\x26timestamp=20101129182600",s:"Reuters Key Development",d:"Nov 29, 2010",tt:1291055160}],score:2},{nrel:2,imp:3,idx:6,id:17593824599255,ed:"Nov 29, 2010",tt:1291052244,lead_story_url:"http://www.epicstockpicks.com/201011291912/newsreleases/top-nyse-losers-ceu-bbva-swc/",a:[{t:"Top NYSE Losers (CEU, BBVA, SWC)",u:"http://www.epicstockpicks.com/201011291912/newsreleases/top-nyse-losers-ceu-bbva-swc/",s:"Epic Stock Picks",d:"Nov 29, 2010",tt:1291052244,fid:996457},{t:"Top NYSE Losers by EpicStockPicks: CEU, BBVA, SWC",u:"http://www.thefirstreporter.com/press-releases/top-nyse-losers-epicstockpicks-ceu-bbva-swc/",s:"The First Reporter"}],score:10.512224197387695},{nrel:2,imp:2,idx:7,id:17593824528090,ed:"Nov 29, 2010",tt:1291050765,lead_story_url:"http://www.businessweek.com/news/2010-11-29/spanish-stocks-acs-gamesa-bbva-colonial-shares-move.html",a:[{t:"Spanish Stocks: ACS, Gamesa, BBVA, Colonial Shares Move",u:"http://www.businessweek.com/news/2010-11-29/spanish-stocks-acs-gamesa-bbva-colonial-shares-move.html",s:"BusinessWeek",d:"Nov 29, 2010",tt:1291050765,fid:995457}],score:11.694397926330566},{nrel:3,imp:2,idx:8,id:17593824854040,ed:"Nov 29, 2010",tt:1291037039,lead_story_url:"http://www.zacks.com/research/get_news.php?id=334l6776",a:[{t:"SELLERS ABANDONING SHARES OF BANCO BILBAO VIZCAYA ARGENTARIA ON 1.3X ABOVE-AVERAGE VOLUME (BBVA)",u:"http://www.zacks.com/research/get_news.php?id=334l6776",s:"Zacks.com",d:"Nov 29, 2010",tt:1291037039,fid:1002457}],score:12.50521183013916},{imp:3,idx:9,id:0,ed:"Nov 29, 2010",tt:1291021617,lead_story_url:"http://www.tradingmarkets.com/news/stock-alert/bbvgf_bbva-says-venezuela-unit-not-for-sale-1333539.html",a:[{t:"BBVA says Venezuela unit not for sale",u:"http://www.tradingmarkets.com/news/stock-alert/bbvgf_bbva-says-venezuela-unit-not-for-sale-1333539.html",s:"Trading Markets",d:"Nov 29, 2010",tt:1291021617,fid:990457}],score:10.082259178161621},{idx:10,id:-1}],result_start_num:1,result_end_num:0,result_total_articles:15},related:{cols:[0,1,2,37,4,30,34,31,10,11,5,14,27,7,8,21,22,33,3],rows:[{id:656530,values:["BBVA","Banco Bilbao Vizcaya Argentaria SA (ADR)","NYSE","USD","10.13","+0.92","chg","9.99","1.46","6.95","37.97B","0.56","23.76","0.77","11.10","21.88","17.55","656530","BBVA"]},{id:656347,values:["STD","Banco Santander, S.A. (ADR)","NYSE","USD","10.37","+0.75","chg","7.80","1.25","8.29","85.33B","0.79","21.91","0.87","14.12","","21.93","656347","STD"]},{id:662658,values:["BFR","BBVA Banco Frances S.A. (ADR)","NYSE","USD","11.79","+0.50","chg","4.43","2.10","5.60","2.11B","0.67","0.00","2.81","41.17","27.61","18.32","662658","BFR"]},{id:675597,values:["BBD","Banco Bradesco SA (ADR)","NYSE","USD","20.67","+0.61","chg","3.04","1.36","15.14","73.74B","0.46","33.64","1.98","31.81","21.07","14.26","675597","BBD"]},{id:669402,values:["BCH","Banco de Chile (ADR)","NYSE","USD","86.73","+1.57","chg","1.84","4.60","18.86","11.93B","2.93","22.78","1.43","19.00","27.77","24.07","669402","BCH"]},{id:661970,values:["RY","Royal Bank of Canada (USA)","NYSE","USD","55.36","+1.77","chg","3.30","3.81","14.51","78.82B","1.96","1.10","0.64","10.56","18.99","13.60","661970","RY"]},{id:680960,values:["BNS","The Bank of Nova Scotia (USA)","NYSE","USD","53.27","+1.32","chg","2.54","3.64","14.62","55.30B","1.92","8.66","0.73","14.99","33.16","25.32","680960","BNS"]},{id:662744,values:["BAC","Bank of America Corp.","NYSE","USD","11.29","+0.35","chg","3.20","-0.77","","113.86B","0.04","36.30","0.31","-1.32","3.64","5.25","662744","BAC"]},{id:686875,values:["GGAL","Grupo Financiero Galicia S.A. (ADR)","NASDAQ","USD","16.01","+0.64","chg","4.16","2.00","8.01","1.99B","0.00","5.03","1.05","39.52","10.87","6.94","686875","GGAL"]},{id:656344,values:["BCS","Barclays PLC (ADR)","NYSE","USD","16.88","+0.74","chg","4.58","1.68","10.05","50.84B","0.16","55.41","0.20","6.26","15.84","12.13","656344","BCS"]},{id:667351,values:["BBVA","Banco Bilbao Vizcaya Argentaria S.A.","MCE","","","","","","","","","0.33","9.48","0.85","15.32","25.46","20.39","667351","BBVA"]}],visible_cols:[0,1,2,37,4,30,34,31,10,11,5,14,27,7,8,21,22]},related_str:"656530,667351,656347,662658,675597,669402,661970,680960,662744,686875,656344",perf:[{u:"/finance?q=INDEXDJX:.DJI",name:"Dow Jones",cp:"2.27",p:"11,255.78",cid:983582},{u:"/finance?q=INDEXSP:.INX",name:"S\x26P 500",cp:"2.16",p:"1,206.07",cid:626307},{u:"/finance?catid=us-58211593",name:"Financial",cp:"2.16",cid:0},{u:"/finance?q=NYSE:BBVA",name:"BBVA",cp:"9.99",p:"10.13",cid:656530}]},stickyUrlArgs:"",chart:{_5d:"EXCHANGE%3DNYSE\nMARKET_OPEN_MINUTE=570\nMARKET_CLOSE_MINUTE=960\nINTERVAL=120\nCOLUMNS=DATE,CLOSE,VOLUME\nDATA=\nTIMEZONE_OFFSET=-300\na1290609120,10.67,14420\n1,10.6881,17945\n2,10.6685,7840\n3,10.66,900\n4,10.66,4900\n5,10.65,300\n6,10.6425,200\n7,10.66,5200\n8,10.675,80891\n9,10.67,46347\n10,10.68,14480\n11,10.6799,11535\n12,10.7,43600\n13,10.71,25840\n14,10.72,2480\n15,10.68,11120\n16,10.67,25000\n17,10.67,12501\n18,10.66,29187\n19,10.68,80300\n20,10.67,13036\n21,10.66,24860\n22,10.66,8215\n23,10.67,4100\n24,10.7,61200\n25,10.72,66200\n26,10.72,25400\n27,10.72,103648\n28,10.72,140750\n29,10.72,1300\n30,10.715,72994\n31,10.74,9040\n32,10.74,600\n33,10.75,18124\n34,10.75,11100\n35,10.7399,2300\n36,10.735,2600\n37,10.75,7200\n38,10.72,19290\n39,10.71,1200\n40,10.695,1404\n41,10.67,26683\n42,10.6705,1301\n43,10.67,18300\n44,10.6699,8500\n45,10.66,5000\n46,10.62,57800\n47,10.64,70200\n48,10.66,18200\n49,10.66,1880\n50,10.66,3439\n51,10.65,920\n52,10.64,8780\n53,10.65,1700\n54,10.65,76546\n55,10.65,15280\n56,10.65,200\n57,10.64,7200\n58,10.64,7800\n59,10.64,2080\n60,10.658,1735\n61,10.64,7934\n63,10.6401,2700\n64,10.65,3411\n65,10.65,5190\n66,10.65,10600\n67,10.66,560\n68,10.64,3800\n69,10.62,5800\n70,10.63,800\n71,10.61,1600\n72,10.62,1740\n73,10.6101,685\n74,10.62,7130\n75,10.62,34880\n76,10.6399,11740\n77,10.64,5300\n78,10.6499,4100\n79,10.6599,5500\n80,10.65,100\n81,10.6581,3618\n82,10.66,580\n83,10.66,9290\n84,10.669,5000\n85,10.67,500\n86,10.661,2028\n87,10.6699,600\n89,10.6519,18313\n90,10.66,2080\n91,10.66,3600\n92,10.67,4000\n93,10.67,3834\n94,10.664,1150\n95,10.67,900\n96,10.67,900\n97,10.67,100\n98,10.6699,150\n99,10.67,100\n100,10.6619,1175\n101,10.6699,1403\n102,10.67,600\n103,10.67,1600\n104,10.67,300\n105,10.67,500\n106,10.67,2840\n107,10.67,900\n109,10.667,805\n110,10.67,5100\n111,10.67,1146\n112,10.66,5400\n113,10.65,100\n114,10.65,200\n115,10.6619,4747\n117,10.66,2500\n118,10.66,977\n119,10.66,6110\n120,10.66,4808\n121,10.66,1055\n122,10.66,1800\n123,10.66,900\n124,10.66,500\n125,10.65,9030\n126,10.65,1000\n127,10.65,300\n128,10.65,1200\n129,10.65,400\n130,10.65,400\n131,10.65,1410\n132,10.66,6000\n134,10.66,1238\n135,10.66,9900\n136,10.64,1867\n137,10.64,1300\n138,10.65,22954\n139,10.65,2500\n140,10.64,7571\n141,10.62,9041\n142,10.62,1423\n143,10.63,200\n144,10.63,10140\n145,10.63,100\n146,10.63,600\n147,10.6365,181\n149,10.64,1100\n150,10.6475,3241\n153,10.65,300\n154,10.645,200\n156,10.6351,8578\n157,10.63,400\n158,10.63,173\n159,10.64,300\n160,10.639,500\n161,10.63,492\n162,10.63,200\n163,10.64,600\n165,10.635,436\n166,10.64,1200\n167,10.65,10700\n168,10.65,316\n169,10.65,300\n170,10.65,1100\n171,10.65,4523\n172,10.6401,989\n174,10.65,11300\n175,10.65,6326\n176,10.67,9244\n177,10.67,700\n178,10.67,300\n179,10.67,1000\n180,10.66,2900\n181,10.66,4400\n182,10.66,4500\n183,10.66,17200\n184,10.64,13629\n185,10.65,6800\n186,10.65,2600\n187,10.64,3470\n188,10.65,2263\n189,10.65,3708\n190,10.6401,3100\n191,10.65,11686\n192,10.65,27274\n193,10.66,30207\n194,10.66,34402\n195,10.66,3273\na1290781800,10.29,600\n1,10.27,19317\n2,10.26,29544\n3,10.27,42836\n4,10.29,40481\n5,10.28,22734\n6,10.29,60171\n7,10.31,5500\n8,10.3,18200\n9,10.3,25080\n10,10.3,29700\n11,10.37,72880\n12,10.36,19680\n13,10.3404,34980\n14,10.34,49292\n15,10.33,69741\n16,10.38,31360\n17,10.37,20660\n18,10.34,93340\n19,10.33,53320\n20,10.33,35560\n21,10.38,117290\n22,10.35,55790\n23,10.36,176475\n24,10.39,127260\n25,10.39,82248\n26,10.4155,57149\n27,10.44,97180\n28,10.44,73355\n29,10.42,18057\n30,10.4,85580\n31,10.37,11042\n32,10.38,22800\n33,10.38,1100\n34,10.4,1300\n35,10.39,10230\n36,10.39,11076\n37,10.39,5260\n38,10.37,19252\n39,10.36,34260\n40,10.34,27100\n41,10.34,11280\n42,10.32,22160\n43,10.31,11038\n44,10.33,7280\n45,10.33,4611\n46,10.33,2500\n47,10.35,4800\n48,10.34,14500\n49,10.34,7501\n50,10.35,24498\n51,10.34,5620\n52,10.33,1800\n53,10.35,10429\n54,10.34,7856\n55,10.35,2200\n56,10.35,4320\n57,10.3501,4906\n58,10.35,300\n59,10.35,58568\n60,10.36,10687\n61,10.36,3300\n62,10.36,1500\n63,10.35,2380\n64,10.34,500\n66,10.34,1200\n67,10.335,2500\n68,10.33,15400\n69,10.33,662\n70,10.34,11800\n71,10.3452,900\n73,10.34,1000\n74,10.33,680\n75,10.3463,6998\n76,10.35,12416\n77,10.33,4400\n78,10.36,8680\n79,10.36,1300\n80,10.36,5542\n81,10.36,7756\n82,10.36,9810\n83,10.36,4200\n84,10.36,2612\n85,10.36,6700\n86,10.36,4900\n87,10.36,4166\n88,10.355,34100\n89,10.365,6210\n90,10.36,5800\n91,10.36,2300\n92,10.37,9650\n93,10.36,60168\n94,10.36,15326\n95,10.37,3888\n96,10.36,3003\n97,10.365,9000\n98,10.36,7400\n99,10.355,18600\n100,10.35,18051\n101,10.35,9700\n102,10.35,10440\n103,10.35,20394\n104,10.34,20430\n105,10.32,65494\n107,10.32,59600\na1291041000,9.6,5422\n1,9.58,75848\n2,9.57,13160\n3,9.59,45589\n4,9.59,41940\n5,9.58,11160\n6,9.6,4950\n7,9.66,4700\n8,9.64,13400\n9,9.64,34320\n10,9.59,78093\n11,9.58,42100\n12,9.57,31317\n13,9.53,45030\n14,9.5598,1900\n15,9.55,5600\n16,9.52,26480\n17,9.52,18600\n18,9.51,55629\n19,9.5,37150\n20,9.5096,19653\n21,9.51,32146\n22,9.52,3600\n23,9.5395,15371\n24,9.54,22136\n25,9.52,18000\n26,9.5281,1500\n27,9.52,44558\n28,9.5,20376\n29,9.51,49555\n30,9.48,17140\n31,9.52,51700\n32,9.57,14150\n33,9.56,3600\n34,9.57,400\n35,9.5796,9225\n36,9.59,31900\n37,9.59,50600\n38,9.57,6800\n39,9.569,2300\n40,9.54,13523\n41,9.53,23027\n42,9.53,18019\n43,9.48,30826\n44,9.49,18800\n45,9.49,16602\n46,9.5,7900\n47,9.5,3916\n48,9.515,15600\n49,9.5281,9400\n50,9.54,18820\n51,9.52,5415\n52,9.53,7127\n53,9.54,7590\n54,9.54,39744\n55,9.52,5200\n56,9.51,6040\n57,9.49,18500\n58,9.46,49052\n59,9.5,22300\n60,9.5,4700\n61,9.4836,8410\n62,9.47,20965\n63,9.45,12550\n64,9.46,11200\n65,9.45,11300\n66,9.45,6997\n67,9.44,24852\n68,9.44,19125\n69,9.41,58400\n70,9.41,112910\n71,9.39,90825\n72,9.4,81900\n73,9.39,64500\n74,9.4,15500\n75,9.41,33400\n76,9.415,12000\n77,9.4,10720\n78,9.41,8200\n79,9.4299,12797\n80,9.43,6900\n81,9.43,36269\n82,9.44,11600\n83,9.43,11929\n84,9.435,8300\n85,9.44,11800\n86,9.45,7900\n87,9.4585,8900\n88,9.45,8000\n89,9.445,2700\n90,9.44,20800\n91,9.42,26300\n92,9.41,86091\n93,9.41,1900\n94,9.4281,32900\n95,9.42,13000\n96,9.43,3546\n97,9.4399,6900\n98,9.43,24150\n99,9.42,1400\n100,9.4236,4470\n101,9.42,9590\n102,9.41,10600\n103,9.42,16000\n104,9.41,92050\n105,9.43,31520\n106,9.42,4500\n107,9.427,6742\n108,9.44,3855\n109,9.41,6100\n110,9.41,19800\n112,9.42,9900\n113,9.426,154\n114,9.429,11000\n115,9.43,5478\n116,9.435,4568\n117,9.43,16778\n118,9.4268,2992\n119,9.41,4800\n120,9.415,2600\n121,9.4105,4135\n122,9.41,600\n123,9.414,5812\n124,9.41,6159\n125,9.4,11600\n126,9.41,52505\n127,9.42,21590\n128,9.412,1421\n129,9.42,10300\n130,9.43,22500\n131,9.4399,4000\n132,9.44,2200\n133,9.43,335\n134,9.42,15545\n135,9.42,1500\n136,9.4381,63560\n137,9.4399,319\n138,9.435,2000\n139,9.435,800\n140,9.435,1166\n141,9.43,14900\n142,9.44,32073\n143,9.437,6623\n144,9.44,30423\n145,9.4405,503\n146,9.44,4900\n147,9.44,8600\n148,9.45,3300\n149,9.45,5350\n150,9.47,35400\n151,9.49,1484\n152,9.48,10900\n153,9.48,56037\n154,9.5,36046\n155,9.49,33790\n156,9.51,101350\n157,9.51,21557\n158,9.51,5424\n159,9.507,5900\n160,9.51,6005\n161,9.51,21500\n162,9.51,23730\n163,9.5125,23573\n164,9.52,32100\n165,9.53,15839\n166,9.53,3969\n167,9.54,29956\n168,9.55,15650\n169,9.55,14200\n170,9.545,19600\n171,9.54,62080\n172,9.545,38995\n173,9.53,5927\n174,9.54,33670\n175,9.57,72265\n176,9.57,20100\n177,9.58,10600\n178,9.58,50900\n179,9.5799,3224\n180,9.579,3491\n181,9.569,78574\n182,9.57,80867\n183,9.57,10700\n184,9.5674,15500\n185,9.57,8226\n186,9.579,23420\n187,9.58,17500\n188,9.58,7200\n189,9.59,24391\n190,9.5898,22289\n191,9.59,7600\n192,9.59,15794\n193,9.59,109536\n194,9.58,26590\n195,9.59,68189\n196,9.59,16121\n721,9.15,21018\n722,9.1601,37701\n723,9.18,21630\n724,9.16,35150\n725,9.14,20691\n726,9.13,4700\n727,9.18,700\n728,9.17,13300\n729,9.2019,34000\n730,9.21,12333\n731,9.19,22350\n732,9.19,5800\n733,9.18,11350\n734,9.23,42100\n735,9.24,8263\n736,9.27,47031\n737,9.26,44400\n738,9.21,18400\n739,9.22,21248\n740,9.195,18675\n741,9.1901,27500\n742,9.188,7106\n743,9.2,8200\n744,9.23,21415\n745,9.23,8500\n746,9.2499,54897\n747,9.2515,13061\n748,9.284,16301\n749,9.34,15900\n750,9.32,5931\n751,9.31,11600\n752,9.32,22652\n753,9.2899,22500\n754,9.28,15300\n755,9.27,14050\n756,9.26,20800\n757,9.27,30778\n758,9.26,25706\n759,9.2,71032\n760,9.23,49500\n761,9.18,34015\n762,9.19,45426\n763,9.2,19900\n764,9.2,17700\n765,9.19,73900\n766,9.2,23400\n767,9.21,10800\n768,9.21,9600\n769,9.221,7790\n770,9.239,9294\n771,9.23,1900\n772,9.205,10050\n773,9.16,49000\n774,9.18,16800\n775,9.21,59600\n776,9.23,13000\n777,9.22,6370\n778,9.23,21050\n779,9.225,4600\n780,9.24,17298\n781,9.26,70224\n782,9.26,3300\n783,9.22,22352\n784,9.22,27354\n785,9.24,35560\n786,9.23,15700\n787,9.225,56823\n788,9.21,94257\n789,9.22,15300\n790,9.22,2400\n791,9.21,11700\n792,9.21,1500\n793,9.2081,6535\n794,9.23,6500\n795,9.2295,16608\n796,9.23,400\n797,9.23,3195\n798,9.24,9700\n799,9.24,200\n800,9.24,8900\n801,9.24,3200\n802,9.24,5500\n803,9.239,600\n804,9.22,5280\n805,9.21,2500\n806,9.21,500\n807,9.22,19743\n808,9.22,2100\n809,9.21,3758\n810,9.21,9983\n811,9.219,5000\n813,9.21,300\n814,9.2,9000\n815,9.21,14631\n816,9.2,2100\n817,9.22,10840\n818,9.23,7744\n819,9.24,39470\n820,9.24,7200\n821,9.25,9000\n822,9.252,29378\n823,9.27,18369\n824,9.27,18600\n825,9.27,79250\n826,9.27,18900\n827,9.29,31500\n828,9.29,12250\n829,9.29,9175\n830,9.28,8400\n831,9.29,18100\n832,9.27,41096\n833,9.259,105092\n834,9.27,15020\n835,9.28,19504\n836,9.29,6700\n837,9.27,75020\n838,9.28,52691\n839,9.28,7900\n840,9.27,8800\n841,9.28,10850\n842,9.27,33100\n843,9.28,40401\n844,9.29,7500\n845,9.3,8500\n846,9.29,75438\n847,9.28,7470\n848,9.26,19200\n849,9.26,12950\n850,9.27,38844\n851,9.26,9600\n852,9.27,11636\n853,9.28,17100\n854,9.27,17500\n855,9.28,8600\n856,9.29,19600\n857,9.28,75900\n858,9.29,31085\n859,9.3,17144\n860,9.3,11326\n861,9.3,43050\n862,9.3,26700\n863,9.29,19627\n864,9.28,13900\n865,9.29,19727\n866,9.29,12900\n867,9.275,18284\n868,9.275,8000\n869,9.28,34500\n870,9.26,25600\n871,9.27,16400\n872,9.27,8800\n873,9.26,20800\n874,9.27,17600\n875,9.27,12598\n876,9.27,43810\n877,9.27,19300\n878,9.28,11359\n879,9.29,16800\n880,9.29,15100\n881,9.29,14186\n882,9.29,11040\n883,9.3,25223\n884,9.31,20500\n885,9.3,13900\n886,9.3,22700\n887,9.3,9581\n888,9.31,34300\n889,9.31,11025\n890,9.31,13900\n899,9.3,24925\n900,9.3,17536\n901,9.31,22500\n902,9.3,43676\n903,9.28,59305\n904,9.27,31900\n905,9.28,29800\n906,9.27,48305\n907,9.27,27925\n908,9.27,32985\n909,9.27,30503\n910,9.26,62963\n911,9.24,67672\n912,9.25,75532\n913,9.25,52200\n914,9.24,1300\n915,9.21,171458\n916,9.21,13252\na1291213800,9.93,200\n1,9.91,77222\n2,9.91,25100\n3,9.9299,72650\n4,9.93,32550\n5,9.93,15200\n6,9.91,13831\n7,9.93,13500\n8,9.95,66184\n9,9.93,136824\n10,9.91,95860\n11,9.92,13000\n12,9.91,45001\n13,9.94,54111\n14,9.94,12226\n15,9.95,3600\n16,9.93,19004\n17,9.93,641250\n18,9.94,114302\n19,9.92,108500\n20,9.92,54700\n21,9.92,100400\n22,9.9,25500\n23,9.92,17800\n24,9.93,19729\n25,9.9318,33190\n26,9.91,51248\n27,9.9,23475\n28,9.88,142956\n29,9.85,50604\n30,9.83,11700\n31,9.82,24800\n32,9.84,31050\n33,9.83,42756\n34,9.83,12300\n35,9.84,22500\n36,9.86,20501\n37,9.86,11400\n38,9.885,7700\n39,9.87,31360\n40,9.8699,10000\n41,9.86,9400\n42,9.85,31250\n43,9.86,49900\n44,9.88,9500\n45,9.88,37700\n46,9.87,23000\n47,9.86,27050\n48,9.86,4647\n49,9.86,16601\n50,9.85,20700\n51,9.89,43000\n52,9.9,57700\n53,9.88,40218\n54,9.87,47700\n55,9.92,93095\n56,9.915,31919\n57,9.95,80590\n58,9.95,5200\n59,9.95,19630\n60,9.96,26660\n61,9.95,33200\n62,9.95,10610\n63,9.94,59800\n64,9.938,100\n65,9.94,5056\n66,9.94,3100\n67,9.9348,3120\n68,9.935,3108\n69,9.93,2100\n70,9.93,3400\n71,9.98,15210\n72,9.99,6660\n73,10.03,40975\n74,10.06,91850\n75,10.07,43600\n76,10.075,25100\n77,10.076,4050\n78,10.078,540\n79,10.06,36050\n80,10.07,8000\n81,10.078,16607\n82,10.076,10676\n83,10.06,27100\n84,10.055,1100\n85,10.06,9000\n86,10.06,11229\n88,10.06,7820\n89,10.06,14799\n90,10.06,31800\n91,10.066,17330\n92,10.085,38090\n93,10.09,15000\n94,10.088,6786\n95,10.07,12770\n96,10.0601,5618\n97,10.07,7600\n98,10.065,900\n99,10.07,6650\n100,10.07,6510\n101,10.0761,25650\n102,10.08,550\n103,10.09,13503\n104,10.07,13400\n105,10.08,900\n106,10.08,9306\n107,10.08,2900\n108,10.08,35700\n109,10.086,4500\n110,10.0835,200\n111,10.1,17300\n112,10.1,3300\n113,10.1,66300\n114,10.1,44700\n115,10.06,22300\n116,10.055,52210\n117,10.04,32950\n118,10.04,30192\n119,10.04,8425\n120,10.0425,3246\n121,10.04,33748\n122,10.03,13255\n123,10.04,13000\n124,10.04,4188\n125,10.03,47320\n126,10.03,43600\n127,10.03,7143\n128,10.04,18565\n129,10.031,3200\n130,10.05,6500\n131,10.05,3300\n132,10.0498,1200\n133,10.05,5239\n134,10.05,10169\n135,10.06,14500\n136,10.07,7510\n137,10.08,5102\n138,10.08,14500\n140,10.07,400\n142,10.08,11169\n143,10.075,4033\n144,10.08,3298\n145,10.09,16761\n146,10.085,10079\n147,10.1,41253\n148,10.1,4900\n149,10.1,12000\n150,10.1,7100\n151,10.09,9500\n152,10.1,7502\n153,10.1,5537\n154,10.1,11211\n155,10.1,48057\n156,10.11,13839\n157,10.11,49485\n158,10.11,13500\n159,10.1,5262\n160,10.12,192129\n161,10.12,13100\n162,10.11,17650\n163,10.13,42010\n164,10.14,124488\n165,10.135,41020\n166,10.12,29677\n167,10.11,19375\n168,10.13,17125\n169,10.12,17816\n170,10.11,25300\n171,10.11,4700\n172,10.12,17300\n173,10.14,98246\n174,10.13,156353\n175,10.13,20340\n176,10.13,9537\n177,10.14,34310\n178,10.13,42030\n179,10.13,16579\n180,10.13,66359\n181,10.14,48790\n182,10.14,86774\n183,10.14,50592\n184,10.13,40280\n185,10.14,158466\n186,10.14,28378\n187,10.15,65384\n188,10.15,105584\n189,10.14,93981\n190,10.13,40175\n191,10.13,48012\n192,10.1275,114464\n193,10.13,184046\n194,10.12,124309\n195,10.12,69139\n196,10.13,32883\n",_5Y:"EXCHANGE%3DNYSE\nMARKET_OPEN_MINUTE=570\nMARKET_CLOSE_MINUTE=960\nINTERVAL=604800\nCOLUMNS=DATE,CLOSE,VOLUME,CDAYS\nDATA=\nTIMEZONE_OFFSET=-240\na1254513600,17.84,11873973,5\nTIMEZONE_OFFSET=-300\na1257541200,18.14,6863881,5\n1,19.17,5478742,5\n2,18.93,4184863,5\na1259344800,18.9,2883939,4\na1259960400,19.27,4585649,5\n1,17.77,5154833,5\n2,17.69,1772687,5\na1261677600,18.31,1234721,4\na1262293200,18.04,1441515,4\na1262984400,18.96,2391058,5\n1,18.39,2127285,5\n2,16.72,3441626,4\n3,15.19,14717904,5\n4,13.32,7213405,5\n5,13.63,7554453,5\n6,13.81,4338897,4\n7,12.95,12895191,5\n8,14.22,5716183,5\n9,14.43,4178281,5\nTIMEZONE_OFFSET=-240\na1269028800,13.91,4571147,5\n1,13.9,5700087,5\na1270152000,14.12,4203143,4\na1270843200,14.93,5606203,5\n1,14.95,6907959,5\n2,14.22,7010098,5\n3,13.13,15418632,5\n4,10.32,25802130,5\n5,10.83,21133691,5\n6,11.01,18834798,5\n7,10.4,21181395,5\n8,9.01,13465770,4\n9,10.28,20182124,5\n10,11.5,14521561,5\n11,10.99,15535837,5\n12,10.62,11833916,5\n13,12.21,10099269,4\n14,12.02,7456841,5\n15,12.78,10590767,5\n16,13.45,10912079,5\n17,14.08,5621895,5\n18,12.52,7785612,5\n19,12.4,20914711,5\n20,12.26,13910153,5\n21,12.91,7587359,5\n22,12.72,5441291,4\n23,13.13,5817870,5\n24,13.93,11901298,5\n25,13.48,6321537,5\n26,13.69,10081713,5\n27,13.7,6382873,5\n28,13.62,5384779,5\n29,13.15,10723441,5\n30,12.27,21662447,5\nTIMEZONE_OFFSET=-300\na1289595600,11.68,12877966,5\n1,11.69,7770829,5\n2,10.32,7067421,4\n",corp_actions:"[{\"_quote\":\"NYSE:BBVA\",\"_type\":\"dividend\",\"_date\":\"1261492200\",\"_amount\":\"0.1293\",\"_amount_currency\":\"USD\",\"_payable_date\":\"1262961000\"},{\"_quote\":\"NYSE:BBVA\",\"_type\":\"dividend\",\"_date\":\"1270647000\",\"_amount\":\"0.2032\",\"_amount_currency\":\"USD\",\"_payable_date\":\"1271943000\"},{\"_quote\":\"NYSE:BBVA\",\"_type\":\"dividend\",\"_date\":\"1278509400\",\"_amount\":\"0.1116\",\"_amount_currency\":\"USD\",\"_payable_date\":\"1279805400\"},{\"_quote\":\"NYSE:BBVA\",\"_type\":\"dividend\",\"_date\":\"1286371800\",\"_amount\":\"0.1244\",\"_amount_currency\":\"USD\",\"_payable_date\":\"1287754200\"},{\"_quote\":\"NYSE:BBVA\",\"_type\":\"dividend\",\"_date\":\"1291041000\",\"_amount\":\"0.3669\",\"_amount_currency\":\"USD\",\"_payable_date\":\"1291386600\"}]",related_items:[{ticker:"INDEXDJX:.DJI",name:"Dow Jones",timezone_offset:-18000,is_index:true,different_market_session:false},{ticker:"INDEXSP:.INX",name:"S\x26P 500",timezone_offset:-18000,is_index:true,different_market_session:false},{ticker:"NYSE:STD",name:"STD",timezone_offset:-18000,is_index:false},{ticker:"NYSE:BFR",name:"BFR",timezone_offset:-18000,is_index:false},{ticker:"NYSE:BBD",name:"BBD",timezone_offset:-18000,is_index:false},{ticker:"NYSE:BCH",name:"BCH",timezone_offset:-18000,is_index:false},{ticker:"NYSE:RY",name:"RY",timezone_offset:-18000,is_index:false},{ticker:"NYSE:BNS",name:"BNS",timezone_offset:-18000,is_index:false},{ticker:"NYSE:BAC",name:"BAC",timezone_offset:-18000,is_index:false}]}};
+google.finance.data.numberFormat = [{'threshold':1000000, 'symbol':'M'}, {'threshold':1000000000,'symbol':'B'}, {'threshold':1000000000000,'symbol':'T'}] ;
+if (_s_Store) {
+_s_Store._allowMatchAdvancedSearch = true;
+var _fieldToDisplayNameMap = {GrossMargin:"Gross margin&nbsp;(%)",Return1Week:"1w return",Return156Week:"156w return",NextYearEPS:"Next year EPS",LTDebtToAssetsYear:"LT debt/assets (Recent&nbsp;yr)&nbsp;(%)",RevenueGrowthRate5Years:"5y revenue growth rate",EarningsAfterTaxes:"Earnings after taxes",DividendPerShare:"Div per share",MarketCap:"Market cap",NetProfitMarginPercent:"Net profit margin&nbsp;(%)",Float:"Float",EarningsBeforeTaxes:"Earnings before taxes",QuotePercChange:"Quote change&nbsp;(%)",TotalDebtToEquityYear:"Total debt/equity (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToCapitalQuarter:"Total debt/capital (Recent&nbsp;qtr)&nbsp;(%)",LTDebtToCapitalQuarter:"LT debt/capital (Recent&nbsp;qtr)&nbsp;(%)",EPSGrowthRate10Years:"10y EPS growth rate",Beta:"Beta",ReturnOnAssetsPTM:"Return on assets (PTM)&nbsp;(%)",CapitalGain:"Capital gain",BetaDown:"Beta down from RAS",IncomeDividend:"Income dividend",RevenueGrowthRate10Years:"10y revenue growth rate",MarketCapShareBasis:"Market cap share basis",IAD:"Div rate indicated annual",Return4Week:"4w return",Price150DayAverage:"150d avg price",EPSGrowthRate5Years:"5y EPS growth rate",ReturnOnAssetsTTM:"Return on assets (TTM)&nbsp;(%)",TotalDebtToAssetsYear:"Total debt/assets (Recent&nbsp;yr)&nbsp;(%)",Volume:"Volume",DividendRecentQuarter:"Div recent quarter",CurrentRatioYear:"Current ratio",Low52Week:"52w low",ExpenseRatio:"Expense ratio",Price13WeekPercChange:"13w&nbsp;price change&nbsp;(%)",Price1DayPercChange:"1d&nbsp;price change&nbsp;(%)",ReturnOnEquity5Years:"Return on equity (5&nbsp;yr&nbsp;avg)&nbsp;(%)",TotalDebtToCapitalYear:"Total debt/capital (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToAssetsQuarter:"Total debt/assets (Recent&nbsp;qtr)&nbsp;(%)",NavChange:"Nav change",OperatingMargin:"Operating margin&nbsp;(%)",DPSRecentYear:"Div per share (Recent&nbsp;yr)",ANI:"Earnings after taxes (Recent&nbsp;yr)",AverageVolume:"Average volume",High52Week:"52w high",Return13Week:"13w return",PriceToCashFlowPerShare:"Price to cash flow per share",ATAXRATE:"Tax rate (Recent&nbsp;yr)",Price26WeekPercChange:"26w&nbsp;price change&nbsp;(%)",QuoteChange:"Quote change",NetIncomeChangePerc:"Net income change&nbsp;(%)",ReturnOnInvestment5Years:"Return on investment (5&nbsp;yr&nbsp;avg)&nbsp;(%)",PE:"P/E ratio",ReturnOnInvestmentYear:"Return on investment (Recent&nbsp;yr)&nbsp;(%)",Price200DayAverage:"200d avg price",DividendNextQuarter:"Div next quarter",EBITD:"EBITDA",PriceYTDPercChange:"YTD&nbsp;price change&nbsp;(%)",ReturnOnInvestmentTTM:"Return on investment (TTM)&nbsp;(%)",NavChangePercent:"Nav change&nbsp;(%)",EBITDMargin:"EBITDA margin&nbsp;(%)",LTDebtToEquityQuarter:"LT debt/equity (Recent&nbsp;qtr)&nbsp;(%)",BetaRAS:"Beta from RAS",PriceSales:"Price to sales",NetAssets:"Net assets",ReturnOnEquityTTM:"Return on equity (TTM)&nbsp;(%)",CashPerShareYear:"Cash/share",ReturnOnAssets5Years:"Return on assets (5&nbsp;yr&nbsp;avg)&nbsp;(%)",ReturnDay:"1d return",Return52Week:"52w return",ForwardPE1Year:"1y fwd P/E",NetIncomeGrowthRate5Years:"5y net income growth rate",DividendYield:"Div yield&nbsp;(%)",Dividend:"Div from cash flow",BetaUp:"Beta up from RAS",LTDebtToCapitalYear:"LT debt/capital (Recent&nbsp;yr)&nbsp;(%)",nprice:"Price from RAS",Return260Week:"260w return",ReturnOnEquityQuarter:"Return on equity (Recent&nbsp;qtr)&nbsp;(%)",ACOGS:"Cost of goods sold",LTDebtToAssetsQuarter:"LT debt/assets (Recent&nbsp;qtr)&nbsp;(%)",PriceToBook:"Price to book",LTDebtToEquityYear:"LT debt/equity (Recent&nbsp;yr)&nbsp;(%)",ReturnYTD:"Return YTD",ReturnOnEquityYear:"Return on equity (Recent&nbsp;yr)&nbsp;(%)",ReturnOnAssetsQuarter:"Return on assets (Recent&nbsp;qtr)&nbsp;(%)",TotalDebtToEquityQuarter:"Total debt/equity (Recent&nbsp;qtr)&nbsp;(%)",NavPrior:"Nav prior",AINTCOV:"Interest coverage",EPS:"EPS",ReturnOnInvestmentQuarter:"Return on investment (Recent&nbsp;qtr)&nbsp;(%)",QuoteLast:"Last price",Price50DayAverage:"50d avg price",Price4WeekPercChange:"4w&nbsp;price change&nbsp;(%)",ReturnOnAssetsYear:"Return on assets (Recent&nbsp;yr)&nbsp;(%)",MarketCapRAS:"Mkt cap from RAS",Price52WeekPercChange:"52w&nbsp;price change&nbsp;(%)",ShortInterestRatioPercent:"Short interest ratio&nbsp;(%)",InstitutionalPercentHeld:"Institutional percent held",BookValuePerShareYear:"Book value/share",ReturnOnEquityPTM:"Return on equity (PTM)&nbsp;(%)"};
+_s_Store._asStore._addStrings(_fieldToDisplayNameMap);
+}
+if (_s_Store) {
+_s_Store._allowMultipleInBox = true;
+}
+_regOnLoad(onCompanyLoad);
+google.finance.renderRecentQuotes();
+</script>
+<script>
+title = "BBVA: {LAST} {CHANGE} ({CHANGE_PCT}%) - Banco Bilbao Vizcaya Argentaria SA (ADR)";_aQ("NYSE:BBVA", "656530",title);_aQ("NYSE:BBVA","656530");_aQ("NYSE:STD","656347");_aQ("NYSE:BFR","662658");_aQ("NYSE:BBD","675597");_aQ("NYSE:BCH","669402");_aQ("NYSE:RY","661970");_aQ("NYSE:BNS","680960");_aQ("NYSE:BAC","662744");_aQ("NASD:GGAL","686875");_aQ("NYSE:BCS","656344");_aQ("MCE:BBVA","667351");
+</script>
+<script>
+_chartConfigObject.expandButtonEnabled = true;
+</script>
+<div class="g-section g-tpl-right-1">
+<div class="g-unit g-first">
+<div class=g-c>
+<div id=r-perf class="g-section g-tpl-67-33 g-split nwp">
+<div id=r-perf-quotes class="g-unit g-first"></div>
+<div id=r-perf-charts class=g-unit></div>
+</div>
+<script>google.finance.renderRelativePerformance();</script>
+</div>
+</div>
+<div class=g-unit>
+<div id=market-data-div style="display:none" class="nwp g-floatfix">
+<div id=price-panel style="float:left">
+<div>
+<span class="pr">
+<span id="ref_656530_l">10.13</span>
+</span>
+<div id=price-change class=nwp>
+<span class="ch bld"><span class="chg" id="ref_656530_c">+0.92</span>
+<span class="chg" id="ref_656530_cp">(9.99%)</span>
+</span>
+</div>
+</div>
+<div>After Hours:&nbsp;<span class=bld id="ref_656530_el">10.26</span>
+<span id="ref_656530_ec" class="chg">+0.13</span>
+<span id="ref_656530_ecp" class="chg">(1.28%)</span>
+<div id="ref_656530_elt">Dec 1, 5:46PM EST&nbsp;&nbsp;<div class=mdata-dis>
+<span class=dis-large><nobr>NYSE real-time data -
+<a href=
+  "http://www.google.com/help/stock_disclaimer.html#realtime"
+  class=dis-large>Disclaimer</a>
+</nobr></span>
+<div>Currency in USD</div>
+</div>
+</div>
+</div>
+</div>
+<div id=snap-panel
+       class=goog-inline-block style="overflow:hidden;height:82px">
+<ol id=snap-data class=id-snap-data>
+<li>
+<span class="goog-inline-block key" data-snapfield="range">Range</span>
+<span class="goog-inline-block val">9.75 - 10.16</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="range_52week">52 week</span>
+<span class="goog-inline-block val">8.65 - 19.63</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="open">Open</span>
+<span class="goog-inline-block val">9.93</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="vol_and_avg">Vol / Avg.</span>
+<span class="goog-inline-block val">9.93M/2.64M</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="market_cap">Mkt cap</span>
+<span class="goog-inline-block val">37.97B</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="pe_ratio">P/E</span>
+<span class="goog-inline-block val">6.95</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="latest_dividend-dividend_yield">Div/yield</span>
+<span class="goog-inline-block val">0.12/4.92</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="eps">EPS</span>
+<span class="goog-inline-block val">1.46</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="shares">Shares</span>
+<span class="goog-inline-block val">3.75B</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="beta">Beta</span>
+<span class="goog-inline-block val">1.83</span>
+</ol>
+</div>
+</div>
+<script>google.finance.renderMarketData();</script>
+</div>
+</div>
+<div class="g-section g-tpl-right-1 sfe-break-top-5">
+<div class="g-unit g-first">
+<div class=g-c><div>
+<div id=newstabsgroup>
+<div id=news-tabs class=hide>
+<div class="goog-tab goog-tab-selected"><a id=news_tab_title class=t>
+<b class=t><b class=t>News</b></b></a></div>
+<div class=goog-tab><a id=blogs_tab_title class=t>
+<b class=t><b class=t>Blogs</b></b></a></div>
+<div class=goog-tab><a id=plot_feeds_title class=t>
+<b class=t><b class=t>Feeds</b></b></a></div>
+</div>
+<div id=tabs-clear class=goog-tab-bar-clear class=hide></div>
+<div id=news_div_cont style="display:none"></div>
+<div id=blogs_div_cont style="display:none"></div>
+<div id=plot_feed_div_cont style="display:none"></div>
+</div>
+<div class="sfe-section clf" id=news-footer>
+<div id=news-sidebar-footer class="g-section g-tpl-67-33 g-split">
+<div class="g-unit g-first">
+<a href="/finance/company_news?q=NYSE:BBVA" >All news for Banco Bilbao Vizcaya Argentaria SA (ADR) &raquo;</a>
+</div><div class=g-unit>
+<a href="/finance/company_news?q=NYSE:BBVA&output=rss">Subscribe</a>
+<a href="/finance/company_news?q=NYSE:BBVA&output=rss"><img class=SP_subscribe src="/finance/s/m4C5KaofCbA/images/cleardot.gif" alt="Subscribe." id=rss
+        width=15 height=15 /></a>
+</div>
+</div>
+</div>
+</div>
+<div id=ad class="sfe-break-top sfe-break-bottom-16">
+<div id=ad-label class=invisible>Advertisement</div>
+<div id=ad-target class=ads-300-250></div>
+</div>
+<div class="g-section g-tpl-25-75 g-split hdg">
+<div class="g-unit g-first">
+<h3>Events</h3>
+</div>
+<div class="g-unit">
+<div class=sfe-break-right-em>
+<img src="/finance/s/m4C5KaofCbA/images/cleardot.gif"
+               width=16 height=16 class=SP_calendar id=calendar alt="">
+<a onclick="_GF_click('', 'add_ical', 'BBVA', '')" href="http://www.google.com/calendar/render?hl=en&cid=http://www.google.com:80%2Ffinance%2Fevents%3Fq%3DNYSE%3ABBVA%26output%3Dical" >Add BBVA to my calendars</a>
+</div>
+</div>
+</div>
+<div class="events sfe-section">
+<div class=event>
+<div class="bld date">Feb 2, 2011</div>
+<div>Full Year 2010 Earnings Release
+<a onclick="_GF_click('', 'add_cal_evnt', 'BBVA', '')" href= "http://www.google.com/calendar/event?hl=en&action=TEMPLATE&text=Full+Year+2010+Banco+Bilbao+Vizcaya+Argentaria%2C+S.A.+(BBVA)+Earnings+Release&dates=20110202/20110202&sprop=finance"  class=time>
+<img alt="Add to calendar" src="/finance/s/m4C5KaofCbA/images/cleardot.gif"
+                width=16 height=16 class=SP_calendar id=calendar>
+</a>
+</div>
+</div>
+<div class=event>
+<div class="bld date">Nov 22, 2010</div>
+<div>BNP Paribas, Steinberg and Deloitte&#39;s Spain Investors Conference
+</div>
+</div>
+<div class=event>
+<div class="bld date">Nov 2, 2010</div>
+<div>Garanti Bankasi Stake Acquisition Presentation
+</div>
+</div>
+<div class=event>
+<div class="bld date">Oct 27, 2010</div>
+<div>Q3 2010 Earnings Presentation
+</div>
+</div>
+<div class=event>
+<div class="bld date">Oct 27, 2010</div>
+<div>Q3 2010 Earnings Release
+</div>
+</div>
+<div class=event>
+<div class="bld date">Sep 28, 2010</div>
+<div>Bank of America Merrill Lynch Banking &amp; Insurance Conference
+</div>
+</div>
+<div class=event>
+<div class="bld date">Sep 20, 2010</div>
+<div>Ahorro Corporacion Banking Conference
+</div>
+</div>
+<div class=event>
+<div class="bld date">Sep 16, 2010</div>
+<div>Deutsche Bank Securities Inc. Global Bank Conference - Boston
+</div>
+</div>
+<div class=event>
+<div class="bld date">Sep 15, 2010</div>
+<div>Deutsche Bank Securities Inc. Global Bank Conference - New York
+</div>
+</div>
+<div class=event>
+<div class="bld date">Sep 14, 2010</div>
+<div>Grupo BBVA Iberian Day
+</div>
+</div>
+<table><tr>
+<td>
+<a href="http://www.dailyfinance.com/event/BBVA/usa" >
+More events from DailyFinance &raquo;</a>&nbsp;
+&nbsp;&nbsp;<nobr>
+</td>
+</tr></table>
+</div>
+<div class=hdg><h3>Key stats and ratios</h3></div>
+<div class=sfe-section>
+<table class="quotes rgt nwp" width="100%">
+<thead><tr>
+<td width=50%>
+<td class=colHeader>Q1 (Mar &#39;10)
+<td class=colHeader>2009
+</tr></thead>
+<tr>
+<td class="lft name">Net profit margin
+<td class=period>25.88%
+<td class=period>17.55%
+<tr>
+<td class="lft name">Operating margin
+<td class=period>-
+<td class=period>21.88%
+<tr>
+<td class="lft name">EBITD margin
+<td class=period>-
+<td class=period>-
+<tr>
+<td class="lft name">Return on average assets
+<td class=period>1.00%
+<td class=period>0.77%
+<tr>
+<td class="lft name">Return on average equity
+<td class=period>16.63%
+<td class=period>11.10%
+<tr>
+<td class="lft name">Employees
+<td class=period>103,545
+<td class=period>-
+<tr>
+<td class="lft name">Carbon Disclosure Rating
+<td class=period>-
+<td class=period>
+<a id=m-cdi href=https://www.cdproject.net/en-US/Results/Pages/Company-Responses.aspx?company=927>63/100</a>
+</table>
+<div class=sfe-break-top>
+<a id="similar" href="/finance/similar?q=NYSE:BBVA" >Screen stocks with similar metrics &raquo;</a></div>
+</div>
+<div class=hdg><h3>Address</h3></div>
+<div class=sfe-section>Plaza de San Nicolas 4<br/>Bilbao, VIZ 48005<br/>Spain<br/>+34-94-4876000 (Phone)<br>+34-94-3747730 (Fax)<br>
+</div>
+<div class=hdg><h3>Website links</h3></div>
+<div class=sfe-section><div class=item>Company website:<br>
+<a id=fs-chome href="http://www.bbva.com" >
+http://www.bbva.com
+</a>
+</div>
+<div class=item><a id=fs- href="http://press.bbva.com/" >News Releases</a></div>
+<div class=item><a id=fs- href="http://inversores.bbva.com/TLBB/tlbb/jsp/rii/home/index.jsp" >Investor Relations</a></div>
+<div class=item><a id=fs- href="http://inversores.bbva.com/TLBB/tlbb/jsp/rii/inf_financiera/index.jsp" >Financial Information</a></div>
+<div class=item><a id=fs- href="http://www.bbva.com/TLBB/tlbb/jsp/ing/conozca/index.jsp" >Corporate History/Profile</a></div>
+<div class=item><a id=fs- href="http://inversores.bbva.com/TLBB/tlbb/jsp/rii/Gobierno_corporativo/Composicion_del_Consejo_Administrativo/index.jsp" >Executives</a></div>
+<div class=item><a id=fs- href="http://www.bbva.com/TLBB/tlbb/jsp/ing/inverinsti/index.jsp" >Products/Services</a></div>
+<div class=item><a id=fs- href="http://www.bbva.com/TLBB/tlbb/jsp/ing/empleobbva/index.jsp" >Employment Opportunities</a></div>
+</div>
+<div class=hdg><h3>External links</h3></div>
+<div class=sfe-section>
+<div class=item><a id=m-analyst
+                 href=http://www.marketwatch.com/tools/quotes/snapshot.asp?symb=BBVA&pg=analyst >Analyst Estimates</a> - <font color="#6F6F6F">MarketWatch</font></div>
+<div class=item><a id=m-sec
+                 href=http://google.brand.edgar-online.com?sym=BBVA >SEC Filings</a> - <font color="#6F6F6F">EDGAR Online</font></div>
+<div class=item><a id=m-hold
+                 href=http://moneycentral.msn.com/investor/invsub/ownership/ownership.asp?Symbol=BBVA >Major Holders</a> - <font color="#6F6F6F">MSN Money</font></div>
+<div class=item><a id=m-research
+                 href=http://finance.yahoo.com/q/rr?s=BBVA >Research Reports</a> - <font color="#6F6F6F">Yahoo Finance</font></div>
+<div class=item><a id=m-annualreport
+                 href=http://annualreports.com/partners/Report/20693 >Annual Report (PDF)</a> - <font color="#6F6F6F">AnnualReports.com</font></div>
+<div class=item><a href="//groups.google.com/groups/finance?cid=656530&hl=en" >Discussion Group</a> - <font color="#6F6F6F">Google Finance</font></div>
+</div>
+</div>
+</div>
+<div class=g-unit>
+<div id=top-section class="g-c sfe-break-right">
+<div id=chart-section>
+<div>
+<div id=compare-bar-wrapper>
+<div id=compare-bar class="id-compare-bar g-section">
+</div>
+</div>
+<div id=chart_anchor class=id-chart_anchor>
+<script>
+var _minZoomDays = 1;
+var _timeZoneOffset = '-18000';
+_chartConfigObject.hasVolume = _displayVolume;
+_chartConfigObject.hasNews = true;
+_chartConfigObject.hasExtendedHours = true;
+_chartConfigObject.hasDefaultZoomSetting = true;
+_chartConfigObject.hasVerticalScaleSetting = true;
+_chartConfigObject.displayVolume = 'true';
+_chartConfigObject.displayNewsPins = 'true';
+_chartConfigObject.displayDividends = 'true';
+_chartConfigObject.displaySplits = 'true';
+_chartConfigObject.displayExtendedHours = 'false';
+_chartConfigObject.enableCustomDateEntry = true
+_chartConfigObject.defaultZoomDays = '3';
+_chartConfigObject.snapping = false;
+_chartConfigObject.verticalScaling = 'maximized';
+_chartConfigObject.sparklineType = 'dynamic';
+// set _minZoomDays and _minZoomDaysNoIntraDay in each page before emit the
+// chart to passing the value to chart, otherwise default value will be use.
+_chartConfigObject.minZoomDaysNormal = _minZoomDays;
+_chartConfigObject.minZoomDaysNoIntraDay = _minZoomDaysNoIntraDay;
+_chartConfigObject.enableIndicator = true;
+_chartConfigObject.companyId = '656530';
+_chartConfigObject.enableRealtimeChart = true;
+_chartConfigObject.isMarketOpenState = 0;
+_chartConfigObject.stateRemainingMinutes = 857;
+_chartConfigObject.delayedMinutes = 0;
+_chartConfigObject.delayedMinutes = Math.max(
+_chartConfigObject.delayedMinutes,
+15);
+_chartConfigObject.enableChartTypeSetting = true;
+_chartConfigObject.lineStyle = 'IntervalBasedLine';
+_chartConfigObject.defaultInterval = '86400';
+_chartConfigObject.enableIndicatorSetting = true;
+_chartConfigObject.biasSetting = '';
+_chartConfigObject.emaSetting = '';
+_chartConfigObject.kdjSetting = '';
+_chartConfigObject.macdSetting = '';
+_chartConfigObject.rsiSetting = '';
+_chartConfigObject.smaSetting = '';
+_chartConfigObject.vmaSetting = '';
+_chartConfigObject.cciSetting = '';
+_chartConfigObject.williamsPercentRSetting = '';
+_chartConfigObject.bollingerBandsSetting = '';
+_chartConfigObject.fastStochasticSetting = '';
+_chartConfigObject.slowStochasticSetting = '';
+_chartConfigObject.companyCurrency = 'USD';
+_chartConfigObject.displayDividendsUnits = 'true';
+var configStringFromCookie = '{}';
+var configString = unescape(configStringFromCookie);
+var obj = eval('(' + configString + ')');
+for (var attribute in obj) {
+_chartConfigObject[attribute] = obj[attribute];
+}
+_external_target = "";
+_emitFlashChart(
+"/finance/s/OFspRxwQDQg/chart9.swf?hl=en&gl=us",
+_ticker, _chartConfigObject,"http:\x2F\x2Fwww.google.com:80");
+</script>
+<noscript>
+<div id=image_chart style="display:block;">
+<table>
+<tr><td class=itxt align=left>
+</td></tr>
+<tr><td>
+<img alt="Chart." src="/finance/getchart?q=BBVA&x=NYSE&p=3d&i=240" width="500" height="322">
+</td></tr>
+</table>
+</div>
+</noscript>
+</div>
+<div class="g-section g-tpl-67-33 g-split sfe-break-bottom-8"
+      style="padding-top:1px">
+<div id="chart-footer-links" class="g-unit g-first id-chart-footer-links">
+<a id="settings-link" class="chart-footer-link"
+            href="javascript:google.finance.clickSettingsLink();">
+Settings</a>
+<span>|</span>
+<a id="plot-feeds-link" class="chart-footer-link"
+            href="javascript:google.finance.clickPlotFeedsLink();">
+Plot&nbsp;feeds</a>
+<span>|</span>
+<a id="technicals-link" class="chart-footer-link"
+            href="javascript:google.finance.clickTechnicalsLink();">
+Technicals</a>
+<span>|</span>
+<span style="white-space:nowrap;">
+<img width="16" hight="9" alt="Link to chart icon."
+            id="link-to-chart-img" class="SP_link"
+            src="/finance/s/m4C5KaofCbA/images/cleardot.gif" />
+<a id="link-to-chart-link" class="chart-footer-link"
+            href="javascript:google.finance.clickLinkToChartLink();">
+Link&nbsp;to&nbsp;this&nbsp;chart</a>
+</span>
+</div>
+<div class="g-unit">
+<span class="chart-dis">Volume delayed by 15 mins.
+</span>
+</div>
+</div>
+<div id=settings-panel-wrapper>
+<div id=settings-panel class=sfe-section style="display:none"></div>
+</div>
+<div style="height:1em;"></div>
+</div>
+</div>
+</div>
+<div class="g-c sfe-break-right">
+<div id=related class=hide>
+<div class="hdg">
+<div class="g-section g-tpl-50-50 g-split gf-control">
+<div class="g-unit g-first"><h3>Related companies</h3>&nbsp;Show:
+<select id=related-select>
+<option value=mrq >
+Most Recent Quarter
+</option>
+<option value=mra selected>
+Most Recent Annual
+</option>
+</select>
+</div>
+<div class=g-unit>
+<span id=related-edit-col class=linkbtn>Add or remove columns</span>
+<button id=related-save style="display:none">Save changes</button>
+<button id=related-cancel style="display:none">Cancel</button>
+</div>
+</div>
+</div>
+<div id=related-table class=gf-table-scroll-x style="padding-bottom:15px;">
+</div>
+<div class=sfe-section>Sector: <a id=sector href="?catid=us-58211593" >Financial</a> &gt; Industry: <a href="?catid=us-63765713" >Money Center Banks</a>
+</div>
+</div>
+<div id=reorder><div class=mid-reorder>
+<div id=blogs-section
+>
+</div>
+<div id=discussions-section
+>
+</div><script>_tck('aft');</script>
+<div id=summary-section
+>
+<div id=summary>
+<div class=hdg><div class=float>
+<h3>Description</h3></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class=sfe-section>
+<div class=companySummary>
+Banco Bilbao Vizcaya Argentaria, S.A. (BBVA) is a diversified international financial group, with strengths in the traditional banking businesses of retail banking, asset management, private banking and wholesale banking. The Company also has investments in some of Spain�s companies. During the year ended December 31, 2009, BBVA focused its operations on six major business areas: Spain and Portugal, Wholesale Banking and Asset Management, Mexico, The United States, South America and Corporate Activities. On August 21, 2009, through its subsidiary BBVA Compass, BBVA acquired certain assets of Guaranty from the United States Federal Deposit Insurance Corporation (the FDIC). During the year ended December 31, 2009, BBVA launched two products: BBVA Bonos Cash (BBVA Cash Bonds), a money market fund for retail customers, and BBVA Bonos Largo Plazo Gobiernos II (BBVA Long-Term Government Bonds), a public-debt fund.
+<div class=sfe-break-top>
+<a id=m-rprofile href="http://stocks.us.reuters.com/stocks/fullDescription.asp?rpc=66&symbol=BBVA.K" >
+More from Reuters &raquo;
+</a></div>
+</div>
+</div>
+</div>
+</div>
+<div id=mgmt-section
+>
+<div id=management style="margin-bottom:1.5em;">
+<div class=hdg><div class=float>
+<h3>Officers and directors</h3></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class=sfe-section>
+<table id=mgmt-table width=100%><tbody>
+<tr >
+<td class="p linkbtn">Francisco Gonzalez Rodriguez
+<td class=i>
+<td class=t>Chairman of the Board
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 66<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=BBVA.K&officerId=415284" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Angel Cano Fernandez
+<td class=i>
+<td class=t>Chief Executive Officer, Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=BBVA.K&officerId=506962" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Manuel Gonzalez Cid
+<td class=i>
+<td class=t>Finance Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=BBVA.K&officerId=506997" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Ramon Monell Valls
+<td class=i>
+<td class=t>Director of Innovation and Technology
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=BBVA.K&officerId=1442295" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Eduardo Arbizu Lostao
+<td class=i>
+<td class=t>Director of Legal, Tax, Audit and Compliance Services
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=BBVA.K&officerId=506888" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Domingo Armengol Calvo
+<td class=i>
+<td class=t>General Secretary, Executive Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=BBVA.K&officerId=1428489" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Juan Ignacio Apoita Gordo
+<td class=i>
+<td class=t>Director of Human Resources and Services
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=BBVA.K&officerId=1442294" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Jose Maria Garcia Meyer-Dohner
+<td class=i>
+<td class=t>Director of the United States Business Unit
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=BBVA.K&officerId=858077" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Juan Asua Madariaga
+<td class=i>
+<td class=t>Director of the Spain and Portugal Business Unit
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=BBVA.K&officerId=858271" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Jose Barreiro Hernandez
+<td class=i>
+<td class=t>Director of Wholesale Banking &amp; Asset Management
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=BBVA.K&officerId=858281" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+</table>
+<div class=gb>
+<a href="http://stocks.us.reuters.com/stocks/officersDirectors.asp?symbol=BBVA.K&WTmodLOC=C4-Officers-5" >
+Full list on Reuters &raquo;</a></div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+<!-- b -->
+</div>
+</div>
+<div id=footer>
+<center>
+<div class=footerBorder>
+<div class=editions>Google Finance Beta available in:
+<a href="http://www.google.com.hk/finance?hl=zh-TW" >&#39321;&#28207;&#29256; (Hong Kong)</a>&nbsp;-
+<a href="http://www.google.ca/finance" >Canada</a>&nbsp;-
+<a href="http://www.google.com/finance" >U.S.</a>&nbsp;-
+<a href="http://www.google.com/finance?gl=cn&amp;hl=zh-CN" >&#31616;&#20307;&#20013;&#25991; (China)</a>&nbsp;-
+<a href="http://www.google.co.uk/finance" >U.K.</a>
+</div>
+<div class=footerDisclaimer>
+Information is provided 'as is' and solely for informational purposes, not
+for trading purposes or advice, and may be delayed.<br/>
+To see all exchange delays, please
+<a href=
+    "http://www.google.com/intl/en-US/help/stock_disclaimer.html"
+  style="color:#7777cc">see disclaimer</a>.
+<br><br>
+</div>
+<div class=footerLinks>
+&copy;2010 Google &nbsp;&nbsp;
+<a href="http://www.google.com" class=q>Google Home</a>
+- <a href="http://googlefinanceblog.blogspot.com/">Blog</a>
+- <a href=
+  "http://www.google.com/support/finance?hl=en-US"
+ class=q>Help</a>
+- <a href="http://www.google.com/intl/en-US/privacy.html" class=q>Privacy Policy</a>
+- <a href="http://www.google.com/accounts/TOS?loc=us" class=q>Terms of Service</a><br><br><br>
+</div>
+</div>
+</center>
+</div>
+</div>
+</div>
+</body>
+</html>

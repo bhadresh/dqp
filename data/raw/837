@@ -1,0 +1,367 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+ "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+ <noscript><meta http-equiv=refresh content="0; URL=/products?output=nojs"></noscript>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Google Product Search</title>
+ <link type="text/css" rel="stylesheet" href="/products/intl/en_us/css/ps-style.css?v=p54fP_kmf0U">
+ <link type="text/css" rel="stylesheet" href="/products/intl/en_us/css/ps-newstyle.css?v=CXRu2cR8zk4">
+ <link type="text/css" rel="stylesheet" href="/products/intl/en_us/css/ps-center.css?v=Z3Pv1Q-n4_Y">
+ <!--[if lte IE 7]>
+ <style>.rsaquo{margin-top:-2px}.grid .result,.ps-sprite{display:inline;zoom:1}.ps-sprite{font-size:1px}.grid{zoom:1}.grid .result-cont {vertical-align: baseline}</style>
+ <![endif]-->
+ <script type=text/javascript>(function(){function i(a,b,d){var c="on"+b;if(a.addEventListener)a.addEventListener(b,d,false);else if(a.attachEvent)a.attachEvent(c,d);else{var f=a[c];a[c]=function(){var g=f.apply(this,arguments),e=d.apply(this,arguments);return g==undefined?e:e==undefined?g:e&&g}}};var j,k,l,m=window.gbar={},n={};function _tvs(a,b){return a||b}function _tvn(a,b){var d=parseInt(a,10);return isNaN(d)?b:d}function _tvf(a,b){var d=parseFloat(a);return isNaN(d)?b:d}function _tvb(a,b){return a=="true"?true:a=="false"?false:b}var o,p,q;function r(a){var b=window.b&&(document.forms[0].f||"").value;if(b)a.href=a.href.replace(/([?&])q=[^&]*|$/,function(d,c){return(c||"&")+"q="+encodeURIComponent(b)})}l=r;
+function s(a,b,d,c,f,g){var e=document.getElementById(a);if(e){var h=e.style;h.left=c?"auto":b+"px";h.right=c?b+"px":"auto";h.top=d+"px";h.visibility=p?"hidden":"visible";if(f&&g){h.width=f+"px";h.height=g+"px"}else{s(o,b,d,c,e.offsetWidth,e.offsetHeight);p=p?"":a}}}
+var w=function(a){a=a||window.event;var b,d=a.target||a.srcElement;a.cancelBubble=true;if(o!=null)t(d);else{b=document.createElement(Array.every||window.createPopup?"iframe":"div");b.frameBorder="0";o=b.id="gbs";b.src="javascript:''";d.parentNode.appendChild(b);i(document,"click",u);t(d);n.a&&n.a(function(){var c=document.getElementById("gbli");if(c){var f=c.parentNode;v(f,c);var g=c.e;f.removeChild(c);n.g(f,g);b.style.height=f.offsetHeight+"px"}})}};
+function t(a){var b=0;if(a.className!="gb3")a=a.parentNode;var d=a.getAttribute("aria-owns")||"gbi",c=a.offsetWidth,f=a.offsetTop>20?46:24;if(document.getElementById("tphdr"))f-=3;var g=false;do b+=a.offsetLeft||0;while(a=a.offsetParent);a=(document.documentElement.clientWidth||document.body.clientWidth)-b-c;var e;c=document.body;var h=document.defaultView;if(h&&h.getComputedStyle){if(c=h.getComputedStyle(c,""))e=c.direction}else e=c.currentStyle?c.currentStyle.direction:c.style.direction;e=e=="rtl";
+if(d=="gbi"){c=document.getElementById("gbi");v(c,document.getElementById("gbli")||c.firstChild);if(e){b=a;g=true}}else if(!e){b=a;g=true}p!=d&&u();s(d,b,f,g)}var u=function(){p&&s(p,0,0)};function v(a,b){for(var d,c=window.d;c&&(d=c.pop());){var f=a,g=d,e=b;if(!q){q="gb2";if(n.a){var h=n.c(f);if(h)q=h}}f.insertBefore(g,e).className=q}}
+var x=function(a,b,d){if((b=document.getElementById(b))&&a){a.className="gb4";var c=document.createElement("span");c.appendChild(a);c.appendChild(document.createTextNode(" | "));c.id=d;b.appendChild(c)}};m.qs=l;m.setContinueCb=k;m.pc=j;m.tg=w;m.close=u;m.addLink=x;})();
+</script>
+ <style type=text/css>#gbar,#guser{font-size:13px;padding-top:1px !important}#gbar{float:left;height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}#gbs,.gbm{background:#fff;left:0;position:absolute;text-align:left;visibility:hidden;z-index:1000}.gbm{border:1px solid;border-color:#c9d7f1 #36c #36c #a2bae7;z-index:1001}.gb1{margin-right:.5em}.gb1,.gb3{zoom:1}.gb2{display:block;padding:.2em .5em}.gb2,.gb3{text-decoration:none;border-bottom:none}a.gb1,a.gb2,a.gb3,a.gb4{color:#00c !important}.gbi .gb3,.gbi .gb2,.gbi .gb4{color:#dd8e27 !important}.gbf .gb3,.gbf .gb2,.gbf .gb4{color:#900 !important}a.gb2:hover{background:#36c;color:#fff !important}</style>
+<script src="/products/js/ps-suggest.js?v=5xeTcGYmP3w"></script>
+<style>
+.gift {
+ float: left;
+ width: 124px;
+ text-align: center;
+ margin: 16px 16px 16px 0;
+}
+.gift .name {
+ padding-top: 8px;
+}
+.gift:hover .name a {
+ text-decoration: underline;
+}
+.gift img {
+ height: 120px;
+}
+#hp-promo {
+ width: 700px;
+ margin: 0 auto;
+ padding: 16px 0 0 20px;
+}
+#hp-promo .clear {
+ border-top: 1px solid #ddd;
+}
+.section-title {
+ font-size: 124%;
+ font-weight: bold;
+ padding: 16px 0 4px 0;
+ text-align: left;
+}
+#hp-tagline {
+ margin-bottom: 8px;
+}
+</style>
+</head>
+<body onload="document.f.q.focus();">
+ <div id=gbar><nobr><a href="http://www.google.com/webhp?hl=en&tab=fw" onclick=gbar.qs(this) class=gb1>Web</a> <a href="http://www.google.com/imghp?hl=en&tab=fi" onclick=gbar.qs(this) class=gb1>Images</a> <a href="http://video.google.com/?hl=en&tab=fv" onclick=gbar.qs(this) class=gb1>Videos</a> <a href="http://maps.google.com/maps?hl=en&tab=fl" onclick=gbar.qs(this) class=gb1>Maps</a> <a href="http://news.google.com/nwshp?hl=en&tab=fn" onclick=gbar.qs(this) class=gb1>News</a> <b class=gb1>Shopping</b> <a href="http://mail.google.com/mail/?hl=en&tab=fm" class=gb1>Gmail</a> <a href="http://www.google.com/intl/en/options/" onclick="this.blur();gbar.tg(event);return !1" aria-haspopup=true class=gb3><u>more</u> <small>&#9660;</small></a><div class=gbm id=gbi><a href="http://books.google.com/bkshp?hl=en&tab=fp" onclick=gbar.qs(this) class=gb2>Books</a> <a href="http://www.google.com/finance?hl=en&tab=fe" onclick=gbar.qs(this) class=gb2>Finance</a> <a href="http://translate.google.com/?hl=en&tab=fT" onclick=gbar.qs(this) class=gb2>Translate</a> <a href="http://scholar.google.com/schhp?hl=en&tab=fs" onclick=gbar.qs(this) class=gb2>Scholar</a> <a href="http://blogsearch.google.com/?hl=en&tab=fb" onclick=gbar.qs(this) class=gb2>Blogs</a> <a href="http://www.google.com/realtime?hl=en&tab=fY" onclick=gbar.qs(this) class=gb2>Updates</a> <div class=gb2><div class=gbd></div></div><a href="http://www.youtube.com/?hl=en&tab=f1" onclick=gbar.qs(this) class=gb2>YouTube</a> <a href="http://www.google.com/calendar/render?hl=en&tab=fc" class=gb2>Calendar</a> <a href="http://picasaweb.google.com/home?hl=en&tab=fq" onclick=gbar.qs(this) class=gb2>Photos</a> <a href="http://docs.google.com/?hl=en&tab=fo" class=gb2>Documents</a> <a href="http://www.google.com/reader/?hl=en&tab=fy" class=gb2>Reader</a> <a href="http://sites.google.com/?hl=en&tab=f3" class=gb2>Sites</a> <a href="http://groups.google.com/grphp?hl=en&tab=fg" onclick=gbar.qs(this) class=gb2>Groups</a> <div class=gb2><div class=gbd></div></div><a href="http://www.google.com/intl/en/options/" class=gb2>even more &raquo;</a> </div></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe><a href="/shoppinglist?hl=en_US" class=gb4>My Shopping List</a> | </span><a href="http://www.google.com/preferences?hl=en&prev=http://www.google.com/products" class=gb4>Search settings</a> | <a href="https://www.google.com/accounts/Login?hl=en&continue=http://www.google.com/products" class=gb4>Sign in</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div>
+ <div id="body-center">
+<div id="hp-cont">
+ <div id="hhp-header" >
+ <form method="get" action="/products" name="f">
+ <table>
+ <tr>
+ <td>
+ <img alt="Google Product Search" src="http://www.google.com/images/logos/products_logo.gif" id="hhp-logo"/>
+ </td>
+ <td>
+ <table id="search-input" cellspacing="0">
+ <tr>
+ <td class="srchBoxCont" nowrap>
+ <input class="srch_box" maxlength="2048" name="q" size="41"
+ value=""
+ title="Search Products">
+ </td>
+ <td nowrap>
+ <div class="srchButtonRightShadow">
+ <div class="srchButtonBorder">
+ <input class="srch_button" type="submit" value="Search Products" id="srchButton">
+ </div>
+ </div>
+ </td>
+ </tr>
+ <tr>
+ <td colspan="2" class="search_advanced">
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ </form>
+ </div>
+<style>
+#hhp-header {
+ clear: both;
+ padding: 20px 0;
+}
+#hhp-logo {
+ display: block;
+ margin: 4px 8px 0 0;
+}
+#hhp-header #search-input {
+ margin-top: 5px;
+}
+#body-center {
+ width: 979px;
+}
+#selected-tab h2 a {
+ color: #A00;
+}
+#content {
+ border: 1px solid #ccc;
+ text-align: left;
+ margin-left: 200px;
+ padding: 24px;
+ width: 728px;
+ background-image:url('http://www.gstatic.com/productsearch/static/homepage/snow_bg3.png');
+ -moz-background-clip: padding;
+ -webkit-background-clip: padding-box;
+ background-clip: padding-box;
+ background-repeat:no-repeat;
+ background-position:bottom;
+}
+#side-bar {
+ float: left;
+}
+#side-bar .side-bar-tabs {
+ padding: 12px;
+ color: #777;
+ border-bottom: 1px solid #ccc;
+ background: #F4F7FC;
+ width: 176px;
+}
+.tab h2 {
+ font-size: medium;
+ padding-bottom: 4px;
+}
+#content h2 {
+ font-size: large;
+ color: #a00;
+}
+#content li {
+ display: -moz-inline-stack;
+ display: inline-block;
+ vertical-align: top;
+ zoom: 1;
+ *display: inline;
+}
+#content .deal {
+ margin: 24px 24px 0 0;
+ text-align: center;
+}
+#content .deal .main-link a {
+ color: #11C;
+}
+#content .deal img {
+ height: 164px;
+}
+#content .f-last {
+ margin-right: 0;
+}
+#bottom-promos {
+ margin-left:auto;
+ margin-right:auto;
+ text-align:center;
+ width: 100%;
+ margin: 0;
+ padding: 0;
+}
+.tab {
+ text-align: left;
+ border-top: 1px solid #ccc;
+ border-right: 1px solid #ccc;
+ padding: 12px;
+ color: #777;
+ width: 176px;
+ cursor:pointer;
+ cursor:hand;
+ background: #F4F7FC;
+ -moz-background-clip: padding;
+ -webkit-background-clip: padding-box;
+ background-clip: padding-box;
+ height: 40px;
+}
+#selected-tab {
+ background: white;
+ border-right: 0;
+}
+#faketab {
+ cursor:default;
+ background: white;
+ height:auto;
+}
+#content {
+ border-left: 0;
+ height: 550px;
+}
+#content .deal p {
+ padding-top: 4px;
+ text-align: center;
+ width: 164px;
+}
+#content .deal img {
+ width: 164px;
+}
+#nav-table {
+ margin-left:auto;
+ margin-right:auto;
+ text-align:center;
+ border: 1px solid #ccc;
+ margin-bottom: 24px;
+}
+#guide-next {
+ float: right;
+ font-size: 400%;
+}
+#guide-prev {
+ float: left;
+ font-size: 400%;
+}
+.mag-logo-s {
+ position: absolute;
+ top: -20px;
+ right: 0px;
+}
+#featured-item-cont {
+ margin: 40px 0;
+}
+.controls,
+#featured-item {
+ float: left;
+}
+.controls {
+ font-weight: bold;
+ font-size: 120px;
+ width: 40px;
+ height: 220px;
+ text-align: center;
+ line-height: 199px;
+}
+.controls a {
+ text-decoration: none;
+}
+.inactive {
+ color: #ddd;
+}
+.active {
+ color: #36c;
+}
+#guide-container {
+ position:relative;
+}
+#featured-item {
+ width: 616px;
+ margin: 0 16px;
+}
+#featured-item .image {
+ float: left;
+ max-width: 220px;
+ max-height: 220px;
+}
+#featured-item .reviews {
+ padding-top: 4px;
+}
+#featured-item .info {
+ margin-left: 236px;
+}
+#featured-item h3 {
+ font-size: 20px;
+ font-weight: bold
+}
+#featured-item .desc {
+ padding: 12px 0 0;
+}
+#featured-item .button {
+ padding-top: 8px;
+ font-weight: bold;
+}
+#featured-group-items {
+ border-top: 1px solid #eee;
+ overflow: hidden;
+ position: relative;
+ height: 120px;
+}
+#featured-group-slider {
+ position: absolute;
+ top: 8px;
+ left: 0px;
+ width: 3000em;
+}
+#selected-item.f-item {
+ border: 1px solid #36C;
+}
+.f-item {
+ float: left;
+ margin-right: 8px;
+ border: 1px solid #C1D1F0;
+ padding: 1px;
+}
+.f-item img {
+ width: 80px;
+ height: 80px;
+}
+#promos {
+ margin-bottom: 24px;
+}
+#promos .promo {
+ width: 284px;
+ border: 1px solid #ccc;
+ padding: 12px;
+ float: left;
+ text-align: left;
+}
+#promos h3 {
+ color: #a00;
+ font-size: medium;
+}
+#promos .promo-desc {
+ padding: 6px 0;
+}
+#promos #checkout-promo {
+ margin: 0 24px 0 25px;
+}
+#promos img {
+ float: left;
+ margin-right: 10px;
+}
+</style>
+<div id="body-center">
+ <table id="nav-table"></table>
+ <div id="promos">
+ <div id="local-promo" class="promo">
+ <img src="http://www.gstatic.com/productsearch/static/homepage/map_icon.png" />
+ <h3>Find products near you</h3>
+ <p class="promo-desc">Discover what products are available at nearby stores.</p>
+ <p><a href="http://googleblog.blogspot.com/2010/11/improvements-to-product-search-for-this.html" class="fl">Learn more &raquo;</a></p>
+ </div>
+ <div id="checkout-promo" class="promo">
+ <img src="http://www.gstatic.com/productsearch/static/homepage/checkout_icon.png" />
+ <h3>Browse Checkout deals</h3>
+ <p class="promo-desc">Take advantage of the latest Google Checkout deals and sales.</p>
+ <p><a href="http://www.google.com/checkout/deals" class="fl">Save now &raquo;</a></p>
+ </div>
+ <div id="boutiques-promo" class="promo">
+ <img src="http://www.gstatic.com/productsearch/static/homepage/shoe_icon.png" />
+ <h3>Explore Boutiques.com</h3>
+ <p class="promo-desc">Shop styles inspired by celebs, designers, and other fashion icons.</p>
+ <p><a href="http://www.boutiques.com" class="fl">Shop now &raquo;</a></p>
+ </div>
+ <div class="clear"></div>
+</div>
+<script type=text/javascript src="/products/js/ps-homepage.js?v=hwsC1uVSicM"></script>
+<script>initHomepage("/intl/en_us/products/data/json/tabs.json");</script>
+ <p class="bottom-links">
+ <a href="http://www.google.com/" id="gHome">Google&nbsp;Home</a>
+ <a href="http://www.google.com/intl/en_us/products/submit.html" id="merchantinfo">Information&nbsp;for&nbsp;Merchants</a>
+ <a href="http://www.google.com/intl/en_us/privacy.html" id="privacylink">Privacy</a>
+ <a href="/products/intl/en_us/about.html" id="helplink">Help</a>
+ </p>
+ <p class="copyright">&copy;2010 Google</p>
+</div>
+</div>
+</body>
+<script type=text/javascript>install_sugg(document.f,document.f.q,'pr',true,null,true,'en',null,null,'clients1.google.com','us');</script>
+</html>

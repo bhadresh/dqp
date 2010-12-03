@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Santa Monica - US jobs - Google</title>
+<link charset="utf-8" href="http://www.google.com/jobs/css/styles.css" media="all" rel="stylesheet">
+<script charset="utf-8">
+  document.onload = setCookies();
+  function setCookies() {
+    var cookieValue = getQuery('src');
+    if (cookieValue){
+      var today = new Date();
+      var expire = new Date();
+      expire.setTime(today.getTime() + 3600000 * 24 * 14);
+      document.cookie = 'JobsSrc' + '=' + escape(cookieValue) +
+      ';expires=' + expire.toGMTString() + ';path=/';
+    }
+  }
+  function getCookie(cookieName) {
+    if (document.cookie.length > 0) {
+      cookieStart = document.cookie.indexOf(cookieName + '=');
+      if (cookieStart != -1) {
+        cookieStart += cookieName.length + 1;
+        cookieEnd = document.cookie.indexOf(';', cookieStart);
+        if (cookieEnd == -1) cookieEnd = document.cookie.length;
+        return document.cookie.substring(cookieStart, cookieEnd);
+      }
+    } else return '';
+  }
+  function getQuery(queryName) {
+    var queryString = window.location.hash.substring(1);
+    if (queryString.length > 0) {
+      queryStart = queryString.indexOf(queryName + '=');
+      if (queryStart != -1) {
+        queryStart += queryName.length + 1;
+        queryEnd = queryString.indexOf('&', queryStart);
+        if (queryEnd == -1) queryEnd = queryString.length;
+        return queryString.substring(queryStart, queryEnd);
+      }
+    } else return '';
+  }
+</script>
+<script>
+function searchQuery() {
+  var query = document.getElementById('q').value
+  if (query){
+    window.location.href = '/intl/en/jobs/search/index.html#q=' + encodeURI(query);
+  } else {
+  alert('To search jobs, please enter a keyword or phrase.');
+  }
+    }
+</script>
+<style>
+ br.c4 {clear:both;}
+ div.c3 {width:55%;float:right;margin-top:0;}
+ div.c2 {width:45%;float:left;margin-top:0;}
+ h4.c1 {margin-top:0;margin-bottom:0;}
+</style>
+</head>
+<body>
+<h1><a href="/" title="Google"><img alt="Google" id="logo" src="http://www.google.com/images/logo_sm.gif"></a>US jobs</h1>
+<p id="x-breadcrumb"><a href="../../index.html">Jobs</a> &gt; <a href="../../uslocations/index.html">US locations</a> &gt; <strong>California - Santa Monica</strong></p>
+<ul id="nav">
+<li><a href="/intl/en/jobs/index.html">Jobs</a></li>
+<li><a href="/intl/en/jobs/lifeatgoogle/index.html">Life at Google</a></li>
+<li><a href="/intl/en/jobs/locations/index.html">Office locations</a></li>
+<li><a href="/intl/en/jobs/joininggoogle/index.html">Joining Google</a></li>
+<li><a href="http://www.google.com/jobs/students">Student jobs</a></li>
+</ul>
+<form id="x-search" method="post" onsubmit="searchQuery(); return false"><label for="q">Search US openings</label> <input id="q" maxlength="80" name="q" size="15" type="text" value=""><input type="submit" value="Search"></form>
+<div id="aux">
+<div id="right">
+<div class="box">
+<h3>Working at Google Santa&nbsp;Monica</h3>
+<br>
+<object height="141" width="176"><param name="movie" value="http://www.youtube.com/p/97FDFDA42115D1BF&amp;hl=en&amp;fs=1">
+<param name="allowFullScreen" value="true">
+<param name="allowscriptaccess" value="always">
+<embed allowfullscreen="true" allowscriptaccess="always" height="141" src="http://www.youtube.com/p/97FDFDA42115D1BF&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" width="176"></object>
+<p><a href="http://www.youtube.com/view_play_list?p=97FDFDA42115D1BF">Full Playlist</a></p>
+<p><a href="http://www.youtube.com/lifeatgoogle">Life at Google channel</a></p>
+</div>
+<div class="box">
+<h3>Google Santa Monica</h3>
+<p><strong>Santa Monica Engineering</strong><br>
+604 Arizona Avenue<br>
+Santa Monica, CA 90401<br>
+Phone: (310) 460-4000<br>
+Fax: (310) 309-6840<br>
+(<a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;time=&amp;date=&amp;ttype=&amp;q=Google+Santa+Monica&amp;sll=34.019497,-118.494641&amp;sspn=0.009551,0.016887&amp;ie=UTF8&amp;ll=34.020155,-118.494523&amp;spn=0.009551,0.016887&amp;z=16&amp;iwloc=addr&amp;om=0">map</a>)</p>
+<p>1333 2nd Street<br>
+Santa Monica, CA 90401<br>
+Phone (310) 310-6400<br>
+Fax (310) 310-6401<br></p>
+<p><strong>Santa Monica Sales</strong><br>
+820 Broadway<br>
+Santa Monica, CA 90401<br>
+Phone (310) 310-6000<br>
+Fax (310) 310-6001<br></p>
+</div>
+</div>
+<div id="maincontent">
+<h2>Google Santa Monica</h2>
+<p><a href="http://picasaweb.google.com/photos.jobs/SantaMonicaOfficePhotos/photo#5155475136115134722"><img align="left" alt="Google Santa Monica office" border="0" class="leftborder" height="169" src="http://www.google.com/jobs/images/ca-sm-office-sm.jpg" width="245"></a></p>
+<blockquote>&ldquo;Google is not a conventional company. We do not intend to become one.&rdquo;</blockquote>
+<p class="subtle">Larry Page &amp; Sergey Brin, Google founders</p>
+<hr>
+<h3>Browse Santa Monica openings</h3>
+<div class="c2">
+<h4 class="c1">Technical</h4>
+<ul class="joblisting">
+<li><a href="../../uslocations/santa-monica/swe/index.html" onclick="javascript:pageTracker._trackEvent('Listings','Santa Monica','us/uslocations/santa-monica/swe');">Software Engineering</a></li>
+<li><a href="../../uslocations/santa-monica/engops/index.html" onclick="javascript:pageTracker._trackEvent('Listings','Santa Monica','us/uslocations/santa-monica/engops');">Engineering Operations</a></li>
+</ul>
+</div>
+<div class="c3">
+<h4 class="c1">Sales, General, and Administrative</h4>
+<ul class="joblisting">
+<li><a href="../../uslocations/santa-monica/adsales/index.html" onclick="javascript:pageTracker._trackEvent('Listings','Santa Monica','us/uslocations/santa-monica/adsales');">Advertising Sales &amp; Customer Support</a></li>
+</ul>
+</div>
+<br class="c4">
+<h3>What's it like to work in Santa Monica?</h3>
+<p>Our <a href="http://www.santamonica.com/">Santa Monica</a> offices are strategically located just a few short blocks from sunny beaches in Southern California. We have an average of over 300 days of sunshine within a region that encompasses ocean beaches, deserts and mountains.</p>
+<p>Our Santa Monica offices have grown to become one of the largest development centers in the United States. Many of our Google Santa Monica engineers work on some of Google&rsquo;s hardest problems, in realms such as Search Quality, <a href="http://www.youtube.com/">YouTube</a>, <a href="http://www.google.com/ads/">Ads</a>, <a href="http://video.google.com/">Video</a> and <a href="http://picasaweb.google.com">Photos</a>. Our solutions revolve around Google principles: we put the users first, we love academic endeavors and active learning, and we encourage engineers to spend 20% of their time on their own projects to inspire creativity.</p>
+<p>As Google continues to improve and expand the search services it provides to the world, and expand its reach into video, photography and audio, we&rsquo;ll need the type of engineering talent that can take us to the next level &ndash; and the one after. We need engineers just like you.</p>
+<h3>Photos</h3>
+<ul class="photos">
+<li><a href="http://picasaweb.google.com/photos.jobs/SantaMonicaOfficePhotos/photo#5155475136115134706"><img alt="Santa Monica cafe" height="121" src="http://www.google.com/jobs/images/ca-sm-cafe-sm.jpg" width="182"></a></li>
+<li><a href="http://picasaweb.google.com/photos.jobs/SantaMonicaOfficePhotos/photo#5155475123230232706"><img alt="Santa monica engineers" height="121" src="http://www.google.com/jobs/images/ca-sm-eng-sm.jpg" width="182"></a></li>
+<li><a href="http://picasaweb.google.com/photos.jobs/SantaMonicaOfficePhotos/photo#5155475114640298018"><img alt="Hotdog on a stick" height="121" src="http://www.google.com/jobs/images/ca-sm-hotdog-sm.jpg" width="182"></a></li>
+</ul>
+<p><a href="http://picasaweb.google.com/photos.jobs/SantaMonicaOfficePhotos">See more Santa Monica Googler photos &raquo;</a></p>
+</div>
+<div id="about">&copy;2010 Google - <a href="http://www.google.com/">Home</a> - <a href="http://www.google.com/intl/en/about.html">About Google</a> - <a href="http://www.google.com/intl/en/jobs/privacy/">Privacy Policy</a></div>
+</div>
+<script>
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script>
+  try {
+    var pageTracker = _gat._getTracker("UA-18025-1");
+    pageTracker._setAllowAnchor(true);
+    pageTracker._setCookiePath("/intl/en/jobs/");
+    pageTracker._trackPageview();
+  } catch(err) {};
+</script>
+</body>
+</html>

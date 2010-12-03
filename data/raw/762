@@ -1,0 +1,411 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head >
+ <title>Documentation</title>
+ <link rel="shortcut icon" href="/gifs/favicon.ico" />
+ <link rel="stylesheet" type="text/css" href="/css/reset-fonts.css" />
+ <link rel="stylesheet" type="text/css" href="/css/style.css" />
+ <link rel="stylesheet" type="text/css" href="/css/manual.css" />
+ <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/css/IE7styles.css" /><![endif]-->
+ <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/css/IE6styles.css" /><![endif]-->
+ <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+ <link rel="alternate" type="application/rss+xml" title="RSS feed" href="http://pear.php.net/feeds/latest.rss" />
+ <!-- compliance patch for microsoft browsers -->
+<!--[if lt IE 8]>
+ <script type="text/javascript" src="/javascript/IE8.js"></script>
+<![endif]-->
+ <link rel="search" type="application/opensearchdescription+xml" title="PEAR Search Plugin" href="http://pear.php.net/osd.xml" />
+</head>
+
+<body>
+<div>
+<a id="TOP"></a>
+</div>
+
+<div id="doc3">
+<!-- START HEADER -->
+ <div id="user">
+  <ul>
+   <li><a href="/account-request.php">Register</a></li>
+   <li class="last"><a href="/login.php?redirect=/manual/index.php">Login</a></li>
+  </ul>
+ </div>
+
+ <div id="search">
+  <form method="get" action="/search.php">
+   <p style="margin: 0px;">
+    <span class="accesskey">S</span>earch for
+    <input type="text" name="q" value="" size="20" accesskey="s" />
+    in the
+    <select name="in">
+        <option value="packages">Packages</option>
+        <option value="site">This site (using Yahoo!)</option>
+        <option value="users">Developers</option>
+        <option value="pear-dev">Developer mailing list</option>
+        <option value="pear-general">General mailing list</option>
+        <option value="pear-cvs">SVN commits mailing list</option>
+    </select>
+    <input type="image" src="/gifs/small_submit_white.gif" alt="search" style="vertical-align: middle;" />
+   </p>
+  </form>
+ </div>
+
+  <div id="header">
+   <a href="/"><img src="/gifs/pearsmall.gif" style="border: 0;" width="104" height="50" alt="PEAR"  /></a><br />
+  </div>
+
+<div id="menubar">
+
+<ul id="menu">
+ <li class="menu-item"><a href="/index.php">Main</a></li>
+ <li class="menu-item"><a href="/support/">Support</a></li>
+ <li class="menu-item current"><a href="/manual/">Documentation</a></li>
+ <li class="menu-item"><a href="/packages.php">Packages</a></li>
+ <li class="menu-item"><a href="/pepr/">Package Proposals</a></li>
+ <li class="menu-item"><a href="/accounts.php">Developers</a></li>
+ <li class="menu-item menu-item-last"><a href="/bugs/">Bugs</a></li>
+</ul>
+
+</div>
+
+
+<ul id="submenu">
+ <li class="menu-item"><a href="/manual/en/about-pear.php">About PEAR</a></li>
+ <li class="menu-item current"><a href="/manual/">Manual</a></li>
+ <li class="menu-item menu-item-last"><a href="/manual/en/faq.php">FAQ</a></li>
+</ul>
+
+<!-- END HEADER -->
+<!-- START MIDDLE -->
+
+<!-- START MAIN CONTENT -->
+
+  <div id="body">
+
+
+<div class="manual-content" id="manual-content">
+
+ <h1>Documentation</h1>
+
+ <p class="para">
+  The PEAR documentation is a centralized place where developers can
+  add the documentation for their package.
+ </p>
+
+ <p class="para">
+  Currently the documentation is available in the following languages:
+ </p>
+
+ <ul class="itemizedlist">
+  <li class="listitem"><strong><a href="/manual/en/">English</a></strong></li>
+  <li class="listitem"><a href="/manual/fr/">French</a></li>
+  <li class="listitem"><a href="/manual/de/">German</a></li>
+  <li class="listitem"><a href="/manual/ja/">Japanese</a></li>
+ </ul>
+
+ <p class="para">
+  The translations of the following languages are outdated but still available:
+ </p>
+
+ <ul class="itemizedlist">
+  <li class="listitem"><a href="/manual/nl/">Dutch</a></li>
+  <li class="listitem"><a href="/manual/hu/">Hungarian</a></li>
+  <li class="listitem"><a href="/manual/pl/">Polish</a></li>
+  <li class="listitem"><a href="/manual/ru/">Russian</a></li>
+ </ul>
+
+ <h2>Download Documentation</h2>
+
+ <p class="para">
+  If you prefer to have an offline version of the documentation, you can
+  download it in a variety of formats.
+ </p>
+
+ <blockquote class="note">
+  <p class="para"><strong>Note to Windows users</strong>: If you are using
+   Microsoft Internet Explorer under Windows XP SP2 or
+   later and you are going to download the documentation in CHM
+   format, you should "unblock" the file after downloading it, by
+   right-clicking on it and selecting the properties menu item. Then click
+   on the 'Unblock' button. Failing to do this may lead to errors
+   in the visualization of the file, due to a Microsoft bug.
+  </p>
+ </blockquote>
+
+<table class="informaltable">
+	<tr>
+		<th>Type</th>
+		<th>Format</th>
+	</tr>
+	<tr>
+		<th colspan="2">English</th>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_en.chm">HTML Help file</a></td>
+		<td>chm</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_en.tar.bz2">Many HTML files</a></td>
+		<td>tar.bz2</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_en.tar.gz">Many HTML files</a></td>
+		<td>tar.gz</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_en.zip">Many HTML files</a></td>
+		<td>zip</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_en.html.gz">One big HTML file</a></td>
+		<td>html.gz</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_en.html.zip">One big HTML file</a></td>
+		<td>html.zip</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_en.html.bz2">One big HTML file</a></td>
+		<td>html.bz2</td>
+	</tr>
+	<tr>
+		<th colspan="2">French</th>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_fr.chm">HTML Help file</a></td>
+		<td>chm</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_fr.tar.bz2">Many HTML files</a></td>
+		<td>tar.bz2</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_fr.tar.gz">Many HTML files</a></td>
+		<td>tar.gz</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_fr.zip">Many HTML files</a></td>
+		<td>zip</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_fr.html.gz">One big HTML file</a></td>
+		<td>html.gz</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_fr.html.zip">One big HTML file</a></td>
+		<td>html.zip</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_fr.html.bz2">One big HTML file</a></td>
+		<td>html.bz2</td>
+	</tr>
+	<tr>
+		<th colspan="2">German</th>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_de.chm">HTML Help file</a></td>
+		<td>chm</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_de.tar.bz2">Many HTML files</a></td>
+		<td>tar.bz2</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_de.tar.gz">Many HTML files</a></td>
+		<td>tar.gz</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_de.zip">Many HTML files</a></td>
+		<td>zip</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_de.html.gz">One big HTML file</a></td>
+		<td>html.gz</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_de.html.zip">One big HTML file</a></td>
+		<td>html.zip</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_de.html.bz2">One big HTML file</a></td>
+		<td>html.bz2</td>
+	</tr>
+	<tr>
+		<th colspan="2">Japanese</th>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_ja.chm">HTML Help file</a></td>
+		<td>chm</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_ja.tar.bz2">Many HTML files</a></td>
+		<td>tar.bz2</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_ja.tar.gz">Many HTML files</a></td>
+		<td>tar.gz</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_ja.zip">Many HTML files</a></td>
+		<td>zip</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_ja.html.gz">One big HTML file</a></td>
+		<td>html.gz</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_ja.html.zip">One big HTML file</a></td>
+		<td>html.zip</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_ja.html.bz2">One big HTML file</a></td>
+		<td>html.bz2</td>
+	</tr>
+	<tr>
+		<th colspan="2">Dutch <span>(outdated)</span></th>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_nl.chm">HTML Help file</a></td>
+		<td>chm</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_nl.tar.bz2">Many HTML files</a></td>
+		<td>tar.bz2</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_nl.tar.gz">Many HTML files</a></td>
+		<td>tar.gz</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_nl.zip">Many HTML files</a></td>
+		<td>zip</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_nl.html.gz">One big HTML file</a></td>
+		<td>html.gz</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_nl.html.zip">One big HTML file</a></td>
+		<td>html.zip</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_nl.html.bz2">One big HTML file</a></td>
+		<td>html.bz2</td>
+	</tr>
+	<tr>
+		<th colspan="2">Hungarian <span>(outdated)</span></th>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_hu.chm">HTML Help file</a></td>
+		<td>chm</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_hu.tar.bz2">Many HTML files</a></td>
+		<td>tar.bz2</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_hu.tar.gz">Many HTML files</a></td>
+		<td>tar.gz</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_hu.zip">Many HTML files</a></td>
+		<td>zip</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_hu.html.gz">One big HTML file</a></td>
+		<td>html.gz</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_hu.html.zip">One big HTML file</a></td>
+		<td>html.zip</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_hu.html.bz2">One big HTML file</a></td>
+		<td>html.bz2</td>
+	</tr>
+	<tr>
+		<th colspan="2">Polish <span>(outdated)</span></th>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_pl.chm">HTML Help file</a></td>
+		<td>chm</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_pl.tar.bz2">Many HTML files</a></td>
+		<td>tar.bz2</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_pl.tar.gz">Many HTML files</a></td>
+		<td>tar.gz</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_pl.zip">Many HTML files</a></td>
+		<td>zip</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_pl.html.gz">One big HTML file</a></td>
+		<td>html.gz</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_pl.html.zip">One big HTML file</a></td>
+		<td>html.zip</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_pl.html.bz2">One big HTML file</a></td>
+		<td>html.bz2</td>
+	</tr>
+	<tr>
+		<th colspan="2">Russian <span>(outdated)</span></th>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_ru.tar.bz2">Many HTML files</a></td>
+		<td>tar.bz2</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_ru.tar.gz">Many HTML files</a></td>
+		<td>tar.gz</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_ru.zip">Many HTML files</a></td>
+		<td>zip</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_ru.html.gz">One big HTML file</a></td>
+		<td>html.gz</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_ru.html.zip">One big HTML file</a></td>
+		<td>html.zip</td>
+	</tr>
+	<tr>
+		<td><a href="/distributions/manual/pear_manual_ru.html.bz2">One big HTML file</a></td>
+		<td>html.bz2</td>
+	</tr>
+</table>
+
+</div>
+
+
+  </div>
+
+<!-- END MAIN CONTENT -->
+<!-- END MIDDLE -->
+
+<!-- START FOOTER -->
+<div id="footer">
+  <div id="foot-bar"><a href="/about/privacy.php">PRIVACY POLICY</a>&nbsp;|&nbsp;<a href="/about/credits.php">CREDITS</a></div>
+  <div id="foot-copy">
+    <a href="/copyright.php">Copyright &copy; 2001-2010 The PHP Group</a>    All rights reserved.
+  </div>
+
+  <div id="foot-source">
+    Bandwidth and hardware provided by:
+    <a href="http://www.eukhost.com/">eUKhost</a>
+  </div>
+</div>
+
+<!-- Onload focus to pear -->
+<!-- END FOOTER -->
+ </div>
+</body>
+</html>

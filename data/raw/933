@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      Gmail - Legal Notices
+    </title>
+    <link href="//www.google.com/css/gcs-v2.css" rel="stylesheet">
+    <style>
+body { max-width: 1000px }
+    .g-tpl-160 .nav { padding-left:6px; width:154px }
+    .header { margin-bottom:1.2em }
+    .standard .header h1 { margin-left:0.75em }
+    </style>
+    <script src="//www.google.com/js/gweb/analytics/autotrack.js">
+</script>
+    <script>
+new gweb.analytics.AutoTrack({
+    profile: 'UA-992684-1'
+    });
+    </script>
+  </head>
+  <body>
+    <div class="g-doc standard" id="g-doc">
+      <div class="g-section header">
+        <a href="http://mail.google.com/"><img alt="Gmail" src=
+        "/intl/en/images/logos/mail_logo.png"></a>
+        <h1>
+          Google's approach to email
+        </h1>
+      </div>
+      <div class="g-section g-tpl-160 main">
+        <div class="g-unit g-first nav">
+          <ul>
+            <li>
+              <a href="about.html">About</a>
+            </li>
+            <li>
+              <a href="about_whatsnew.html">What's New</a>
+            </li>
+            <li>
+              <a href="blog.html">Blog</a>
+            </li>
+            <li>
+              <a href="tips.html">Tips</a>
+            </li>
+            <li>
+              <a href=
+              "http://www.google.com/apps/intl/en/business/messaging.html#utm_medium=et&amp;utm_source=gmail-en-mktgleft&amp;utm_campaign=crossnav">
+              For work</a>
+            </li>
+            <li>
+              <a href="http://mail.google.com/support?ctx=about&amp;hl=en">Help Center</a>
+            </li>
+          </ul>
+        </div>
+        <div class="g-unit content">
+          <h1>
+            Gmail Legal Notices
+          </h1>
+          <h2>
+            Your Intellectual Property Rights
+          </h2>
+          <p>
+            Google does not claim any ownership in any of the content, including any text, data,
+            information, images, photographs, music, sound, video, or other material, that you
+            upload, transmit or store in your Gmail account. We will not use any of your content
+            for any purpose except to provide you with the Service.
+          </p>
+          <p>
+            The provision of the Microsoft Exchange ActiveSync functionality to you does not grant,
+            and you do not receive, any rights under any Microsoft intellectual property with
+            respect to any device or software that you use to access such Microsoft Exchange
+            ActiveSync functionality.
+          </p>
+        </div>
+      </div>
+      <div class="g-section g-tpl-160">
+        <div class="g-unit g-first"></div>
+        <div class="g-unit">
+          <p class="footer side">
+            &copy;2010 Google - <a href="terms.html">Terms &amp; Privacy</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

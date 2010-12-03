@@ -1,0 +1,596 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Google Gadgets:&nbsp;
+Google Calendar</title>
+<link href="/desktop/styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+a.selected {
+  font-weight: bold;
+  color: #666;
+  text-decoration: none;
+}
+
+p#nav {
+  line-height: 1.4em;
+}
+
+table.gadget {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+table.gadget td img {
+  border: 1px solid #000;
+  margin: 4px 0px;
+}
+
+body {
+  margin-top: 0px;
+}
+
+table.gadget td input {
+  font-size: 11px;
+  width: 82px;
+}
+
+table.header {
+  margin-bottom: 10px;
+}
+
+table.header h3 {
+  margin-bottom: 0px;
+}
+
+table.header hr {
+  color: #ccc;
+  background-color: #ccc;
+  border-bottom: 1px solid #ccc;
+  height: 1px;
+  margin-top: 0px;
+}
+
+.disclaimer {
+  color: #999;
+}
+
+div.errorheader {
+  color: red;
+  font-weight: bold;
+}
+
+div.errormsg {
+  color: red;
+}
+
+td.button-left {
+  width: 6px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-left_sm.gif');
+  background-repeat: none;
+}
+
+td.button-center {
+  padding-left: 10px;
+  padding-right: 14px;
+  padding-bottom: 3px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-center_sm.gif')
+    ;
+  background-repeat: repeat-x;
+}
+
+td.button-center a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: arial;
+  padding-bottom: 6px;
+}
+
+td.button-right {
+  width: 9px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-right_sm.gif');
+  background-repeat: none;
+}
+
+.linkon {
+  color: #0000cc;
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: normal
+}
+
+.linkoff {
+  font-weight: bold
+}
+
+.review_author {
+  font-weight: bold
+}
+
+td.download-button-left {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_left.gif');
+  background-repeat: none;
+}
+
+td.download-button-center {
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  height: 22px;
+  background: url('/images/add_button_middle.gif');
+  background-repeat: repeat-x;
+}
+
+td.download-button-center a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
+
+td.download-button-right {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_right.gif');
+  background-repeat: none;
+}
+
+.similar-gadget {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.screenshot-image {
+  border: 1px solid #bbcced;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+pre.terms {
+  height:200;
+  width:600;
+  overflow: auto;
+  border-style:inset;
+  border-color:graytext;
+  border-width: thin;
+  text-wrap: unrestricted;
+  white-space: -moz-pre-wrap; /* Moz */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  white-space: pre-wrap; /* CSS3  */
+  word-wrap: break-word; /* IE 5.5+ */
+}
+
+table.confirmation-table td {
+  vertical-align: top;
+}
+
+.gadgetError {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FBE3E4;
+  color: #D12F19;
+  border-color: #FBC2C4;
+}
+
+.gadgetWarning {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FFF6BF;
+  color: #817134;
+  border-color: #FFD324;
+}
+
+</style>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+<script type="text/javascript">
+    _uacct="UA-18007-1";
+    _uanchor=1;
+    urchinTracker();
+  </script></head>
+<body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><a href="/?hl=en"><img src="/en/images/logo3.gif" border="0" height="55" vspace="12" width="150" alt="Google Desktop"></a></td>
+<td width="100%" style="padding-left:12px;padding-top:12px;" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="right" nowrap><font face="Arial, sans-serif" size="-1"><a href="https://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/gdcalendar.html">Sign In</a></font></td></tr>
+<tr><td><img alt="" width="1" height="1"></td></tr></table>
+<table cellpadding="0" cellspacing="0" width="100%"><tr><td bgcolor="#3399cc"><img alt="" height="1" width="1"></td></tr></table>
+<table cellspacing="0" cellpadding="2" border="0" width="100%"><tr><td bgcolor="#e8f4f7">&nbsp;
+<font size="3"><b>Google Gadgets</b></font></td></tr></table></td></tr></table>
+<table cellspacing="0" width="100%"><tr valign="top"><td><td nowrap valign="top" width="160"><p id="nav"><font size="-1">Google Gadgets
+<br>
+
+&nbsp;&nbsp;&bull;
+<a href='/plugins/?hl=en'>All</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/news.html?hl=en'>News</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/tools.html?hl=en'>Tools</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/communication.html?hl=en'>Communication</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/finance.html?hl=en'>Finance</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/fun_games.html?hl=en'>Fun & Games</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/google.html?hl=en'>Google</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/sports.html?hl=en'>Sports</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/lifestyle.html?hl=en'>Lifestyle</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/technology.html?hl=en'>Technology</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href="/plugins/c/sidebar/holiday.html?hl=en"><b><font color="red">Holidays</font></b></a>
+<br>
+<br>
+<a href='/plugins/c/index/all.html?hl=en'>Indexing Plugins</a>
+<br>
+<br>
+<br>
+<a href="http://groups.google.com/group/Google-Desktop">Desktop Search Forum</a></font></p>
+<p><font size="-1"><b>For Developers</b>
+<br>
+
+&nbsp;&nbsp;
+<a href='/downloadsdksubmit?hl=en'>Download SDK</a><br>
+&nbsp;&nbsp;
+<a href="/dev/index.html">Developer Guide</a><br>
+&nbsp;&nbsp;
+<a href="/dev/kb.html">FAQ</a><br>
+&nbsp;&nbsp;
+<a href='/pluginsubmit?hl=en'>Submit Software</a><br>
+
+&nbsp;&nbsp;
+<a href="http://groups.google.com/group/Google-Desktop-Developer">Developer Forum</a><br>
+&nbsp;&nbsp;
+<a href='/authors?hl=en'>Hall of Fame</a><br>
+&nbsp;&nbsp;
+<a href='/ambassadors?hl=en'>Ambassadors</a> <br>
+<br>
+<br>
+<br>
+<img src="/images/rss_small.gif" alt="RSS Feed for Latest Gadgets">
+<a href="/feeds/gadgets.xml?hl=en&amp;type=rss" type="application/rss+xml">Latest Gadgets</a>
+<br>
+<br>
+<br>
+<br></font></p></td>
+<td id="dots" width="10"></td></td>
+<td><table><tr style="height:10px;"></tr>
+<tr id="gadgetDetails"><td id="gadgetImage" valign="top" align="center"><img alt="Google Calendar" src="/plugins/images/calendar_large.png" class="screenshot-image"></td>
+<td id="gadgetDetails" valign="top"><h3>Google Calendar</h3>
+Google Calendars in your sidebar
+<br>
+<p><a href="http://www.google.com/googlecalendar/gd_help_0_9_8.html">Learn more</a>
+-
+<a href="http://groups.google.com/group/Google-Desktop-Plugin-GoogleCalendar">Discuss this gadget</a></p>
+<table cellpadding="2" cellspacing="2"><tr><td><strong>Author:</strong></td>
+<td>Google</td></tr>
+<tr><td><strong>Size:</strong></td>
+<td>89KB</td></tr>
+<tr><td><strong>Version:</strong></td>
+<td>2.0.0.1</td></tr>
+<tr><td><strong>Date:</strong></td>
+<td>August 29, 2006</td></tr></table>
+<p><b>This gadget requires  <a href="http://desktop.google.com?hl=en"> Google Desktop  4  or above. </a></b></p>
+<div style="width: 250;"><table cellpadding="0" cellspacing="0"><tr><td class="button-left"></td>
+<td class="button-center"><a href="/url?id=gdcalendar">Download gadget</a></td>
+<td class="button-right"></td></tr></table></div>
+<br>
+<a href="http://www.google.com/ig/add?moduleurl=http://desktop.google.com/gow/gadgets/gdcalendar.xml">Add this gadget to your iGoogle page</a></td></tr>
+<tr id="reviewsAndComments"><td valign="top" colspan="2"><script type="text/javascript" src="/gadgetComments.js">
+</script>
+<div style="min-width: 600; max-width: 800"><table width="100%"><tr><td><span id="commentsSpan" class="linkoff">Reviews</span></td>
+<td align="right">
+
+<a href="http://desktop.google.com/plugins/i/gdcalendar.html?start=20">Next &raquo;</a></td></tr></table>
+<hr size="1" noshade>
+<a href="http://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/gdcalendar.html">Sign in</a> to write a comment
+<br><br>
+<div id="comments">
+
+<table id="review 1" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse1" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=cmdZr3ptLqdzISNs2JDstOA8MyPdkzk_VAAAAKmxl-h-SBY4m9r8OaURH5vF3lVDw51jg_Q--n_6dUxok2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagqA72sWIEK1MmD3DWk0V_qltivKjFs_zQz0r3zjuuxCw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+why does it cut the font in half? Need an alarm please
+<br>
+<br> <table id="review 2" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse2" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=HuLudXuXY4py2VYmImMdwXDuioDdkzk_VAAAANajb4KtUE4sd3cNPx5_w850cw4b3AmWosgSOeZEwJ4Tk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagqA72sWIEK1MmD3DWk0V_qaIGWzReR5JtF6k46XuQoWQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#35079;&#25968;&#26376;&#12434;&#34920;&#31034;&#20986;&#26469;&#12427;&#12424;&#12358;&#12395;&#12375;&#12390;&#12356;&#12383;&#12384;&#12365;&#12383;&#12356;&#12290;
+<br>
+<br> <table id="review 3" cellpadding="0" cellspacing="0"><tr>
+<td><b>qqwenjun588</b>
+&nbsp;</td>
+<td><div id="abuse3" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=J8Von8UIh5tijxI8s09oSa133ozdkzk_VAAAAL1-dX7y1w6pYjgG0yBqzpv6AEdAXxvqniizJ34LYIp4k2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagqA72sWIEK1MmD3DWk0V_qouTlhOZMxIWWWBvOLFbd-g&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#29992;&#25143;&#33021;&#26681;&#25454;&#33258;&#24049;&#30340;&#21916;&#22909;&#25913;&#21464;
+google&#26085;&#21382;&#30340;&#32972;&#26223;&#21644;&#25991;&#23383;&#39068;&#33394;&#21527;&#65311;
+<br>
+<br> <table id="review 4" cellpadding="0" cellspacing="0"><tr>
+<td><b>&#1044;&#1077;&#1085;&#1080;&#1089;</b>
+&nbsp;</td>
+<td><div id="abuse4" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=aA5JSqzlwjMmBq2Qat7vaPueWEDdkzk_VAAAAAiWHTTt2dwSUpcGuJtm_A_SdVKpoJU-gAp01uQKGjLKk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagqA72sWIEK1MmD3DWk0V_qH90EIL_QlLMuCzowniGKCQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#1085;&#1077;&#1087;&#1086;&#1085;&#1103;&#1090;&#1085;&#1086;, &#1087;&#1086;&#1095;&#1077;&#1084;&#1091; &#1103; &#1085;&#1072;&#1093;&#1086;&#1076;&#1103;&#1089;&#1100; &#1085;&#1072; &#1086;&#1087;&#1088;&#1077;&#1076;&#1077;&#1083;&#1077;&#1085;&#1085;&#1086;&#1081; &#1076;&#1072;&#1090;&#1077;, &#1085;&#1077; &#1084;&#1086;&#1075;&#1091; &#1101;&#1082;&#1089;&#1087;&#1088;&#1077;&#1089;&#1089; &#1089;&#1087;&#1086;&#1089;&#1086;&#1073;&#1086;&#1084; &#1076;&#1086;&#1073;&#1072;&#1074;&#1080;&#1090;&#1100; &#1085;&#1072; &#1101;&#1090;&#1091; &#1076;&#1072;&#1090;&#1091; &#1089;&#1086;&#1073;&#1099;&#1090;&#1080;&#1077;? &#1079;&#1072;&#1095;&#1077;&#1084; &#1087;&#1086; &#1091;&#1084;&#1086;&#1083;&#1095;&#1072;&#1085;&#1080;&#1102; &#1089;&#1090;&#1072;&#1074;&#1080;&#1090;&#1100; &#1089;&#1086;&#1073;&#1099;&#1090;&#1080;&#1077; &#1085;&#1077; &#1085;&#1072; &#1087;&#1088;&#1086;&#1089;&#1084;&#1072;&#1090;&#1088;&#1080;&#1074;&#1072;&#1077;&#1084;&#1099;&#1081; &#1076;&#1077;&#1085;&#1100;, &#1072; &#1085;&#1072; &#1089;&#1077;&#1075;&#1086;&#1076;&#1085;&#1103;&#1096;&#1085;&#1080;&#1081; &#1080; &#1087;&#1088;&#1077;&#1076;&#1083;&#1072;&#1075;&#1072;&#1090;&#1100; &#1084;&#1085;&#1077; (&#1074;&#1087;&#1086;&#1089;&#1083;&#1077;&#1076;&#1089;&#1090;&#1074;&#1080;&#1080;) &#1074;&#1099;&#1073;&#1088;&#1072;&#1090;&#1100; &#1095;&#1080;&#1089;&#1083;&#1086;? &#1095;&#1090;&#1086;, &#1089; &#1089;&#1072;&#1084;&#1086;&#1075;&#1086; &#1085;&#1072;&#1095;&#1072;&#1083;&#1072; &#1073;&#1099;&#1083;&#1086; &#1085;&#1077; &#1087;&#1086;&#1085;&#1103;&#1090;&#1085;&#1086;?
+<br>
+<br> <table id="review 5" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse5" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=PskOJtqU5lC4XuynR2c9YQoma1rdkzk_VAAAAPzzZLzpHKo_635_PaRQVxRF1Ft7O7_AIcy5ZJDw1sUwk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagqA72sWIEK1MmD3DWk0V_qNDkj0RSqhORrR342dJp5NQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Great gadget except for two things:  no tasks show and it keeps wanting to update.  What&#39;s up with that?
+<br>
+<br> <table id="review 6" cellpadding="0" cellspacing="0"><tr>
+<td><b>Steve</b>
+&nbsp;</td>
+<td><div id="abuse6" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=4suLeA7Bb3FJQk5uLGlQcuRM0Ofdkzk_VAAAALH0D_uX7cjWl4XGUyKVpn1hNizBSSmOzLG2zlyhODe-k2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagqA72sWIEK1MmD3DWk0V_qA0aL36AYRYIwY4Qy0--H7w&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+this is a Google calendar gadget, for Google desktop, written by Google, I have Google chrome installed as my primary web browser. Why then whenever I want to edit a event does it open it in internet exploiter?
+<br>
+<br> <table id="review 7" cellpadding="0" cellspacing="0"><tr>
+<td><b>Bogdan</b>
+&nbsp;</td>
+<td><div id="abuse7" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=BQo3DifLPYjA_2fijDr9_XdWUWDdkzk_VAAAAAcjft8iChUtd_f2XAhpLcrSHWkprgpJG67N7eqcUe9Vk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagqA72sWIEK1MmD3DWk0V_qQiqwmLeq_R8plwi5TD9yNA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+There is one thing which is amust: take one contact from the coontact list and make a meeting with him/her!!!
+<br>
+<br> <table id="review 8" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>TrekGirl</b>
+&nbsp;</td>
+<td><div id="abuse8" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=vzwNBWKdugzqGD7AAnivNi4IJHbdkzk_VAAAAPzzZLzpHKo_635_PaRQVxQ1gVRdoRQH7KJwYdAmTrwpk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagqA72sWIEK1MmD3DWk0V_qJk9vBq6MTA555HYDXPf_AA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I would of given it 5 stars but im not happy that it doesnt have any sort of alarm on it.. is there a way someone can make it with an alarm? that goes off for certain events?
+<br>
+<br> <table id="review 9" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse9" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=_T4y627bgTF7y1bqd01aNq7ULTPdkzk_VAAAALp9HUZoOi-qjdjNBEm2jv_AsKc3mjnA8sXnpeaMPMA5k2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagqA72sWIEK1MmD3DWk0V_qFi9bdEHjit7v2fr152ydkA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+events!?!?
+not all calendars!?!?
+only one day showed!?!?
+etc etc
+<br>
+<br> <table id="review 10" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>James</b>
+&nbsp;</td>
+<td><div id="abuse10" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=9JYM5b-SZeQUp7zVPIcnneDck8rdkzk_VAAAAFn_SY6VxzqAHus-iV1unpZ-NREp3jVMx5cydPMFF1POk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagqA72sWIEK1MmD3DWk0V_qZTqeXqbs0SnXl871Cu62Mw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I like the gadget BUT I would like it more if the dates with events were in a colour different than black. Just because they are bold doesn&#39;t mean my middle age eyes can always tell the difference. Be nice if there was a simple toggle to flip through calendar views too. All in all though, great job, two thumbs up.
+<br>
+<br> <table id="review 11" cellpadding="0" cellspacing="0"><tr>
+<td><b>Glenn</b>
+&nbsp;</td>
+<td><div id="abuse11" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=p_l0rCJ8lICLFGXTCRs41rB2IADdkzk_VAAAAEIeuPk8YnFKjwHZLJkyZxcb80Q9NblD77hqajnBcZwQk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagqA72sWIEK1MmD3DWk0V_qINkd1IWKicpCiuWbKsH5jg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I like the old version better - it showed more agenda events than this version. 
+<br>
+<br> <table id="review 12" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse12" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=Pum7v1D6RWYBeC1vu1jXVGm70I_dkzk_VAAAACnSFIIFldgmpJDeIw5gjyq5jH5uefr2I3bSH8NhfMlak2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagqA72sWIEK1MmD3DWk0V_q_QEJ_65AaWEP6P2_gNxeyg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+It should show events in the future as long as there is room.  It only shows the events of the day, which I found disappointing.  I want to be able to look at the sidebar and see what assignments/tasks I have scheduled to have completed in the next couple days.  If I wanted to sift through my google calender I&#39;d just open my gmail.
+<br>
+<br> <table id="review 13" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse13" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=8R6aSrfpt677r6oDM8SrTWjm2L3dkzk_UwAAAKli1lSvw1KHSlsgOajdwFz4eebkVZXcjCYPA19h6WbrdMNA4Gj4aAEtwM81PGOiQqvEXjnNgJGbm8MLxB8_h299VECMfUYyIcLRaOgUE0z3W7Qdapwc0NjpdctmOrapLA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Nice, opacity and font selection would be nice. 
+<br>
+<br> <table id="review 14" cellpadding="0" cellspacing="0"><tr>
+<td><b>SommoFabio</b>
+&nbsp;</td>
+<td><div id="abuse14" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=NWfGPdtZOfc13wXaXTf2whMEivLdkzk_VAAAAKiQLmg0EiBsEOWPCHwSUvtdparOeao4yvD8jzvh2Bdyk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagqA72sWIEK1MmD3DWk0V_q1jNSOTrEqZuzt0bbF8P0Mw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Good gadget. 
+Just a problem: when I click to modify details of the event, it open Internet Explorer...(but I use Google Chrome).
+<br>
+<br> <table id="review 15" cellpadding="0" cellspacing="0"><tr>
+<td><b>ywbl330</b>
+&nbsp;</td>
+<td><div id="abuse15" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=0wVWLNGG-qNkI3PnP23PHcgm5NPdkzk_VAAAANikjPRBRdP3Ln2R1TjG54YAniHoQ-io6GBhLvFzXVf7k2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagqA72sWIEK1MmD3DWk0V_q3sGIKzz5Lo-UXH5iZYnc2A&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+It would be good if Google Calender can track the tasks list as well.
+<br>
+<br> <table id="review 16" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>mrgaTTo</b>
+&nbsp;</td>
+<td><div id="abuse16" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=e8lXHnUGOe2aSyCs-k-CC7zI5Sjdkzk_VAAAAMxdVxoX6pu1FzOop8PhDF9iAQS-Tc5Sy9ArmoS8kvCpk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagqA72sWIEK1MmD3DWk0V_qBYda0hav-1HXFrKEAGvOUw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I think it was the day light save that fucked this gadget
+<br>
+<br> <table id="review 17" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse17" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=8EFvo2sU9BOrgQOCb9SKqhTE7Y_dkzk_VAAAAMLwaBbiBvh1MS9ZsilXo2X84PrPypW1C_6pYmR7kebrk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagqA72sWIEK1MmD3DWk0V_qH_DJcN05zRzvtA7YChBY0w&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+when create new event, I cannot add a reminder, although in Google calendar, I have choose reminder as a default.
+<br>
+<br> <table id="review 18" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>raphael</b>
+&nbsp;</td>
+<td><div id="abuse18" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=Ai3XL8kIyC6sFYK0dmmPjHfEsePdkzk_VAAAAJh402dLYBjdVwP8PYjBFt6tNxToXK2KVMvwtfjsTrofk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagqA72sWIEK1MmD3DWk0V_q-Yfdh9VYd2HG8faXjDuqKA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+2 October 16 in 2010. It&#39;s really bad.
+can someone fix it?
+next year will be the October 15. the problem is in the 40 to 41 week in the year. every saturday to sunday will repeat 
+<br>
+<br> <table id="review 19" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse19" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=zwpHZE-W3vJrluOzKIJK6PK6Tv3dkzk_VAAAAKiQLmg0EiBsEOWPCHwSUvu6suzXn85NJcKK695cabZik2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagqA72sWIEK1MmD3DWk0V_qRbGqh1O5k4cMVh6gUKLBRg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Problems showing events a head of time 
+<br>
+<br> <table id="review 20" cellpadding="0" cellspacing="0"><tr>
+<td><b>vikas</b>
+&nbsp;</td>
+<td><div id="abuse20" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=jyQ-Fp6v-obTP2_4HdYKbRbg0L_dkzk_UwAAAPRv6hFFGvegwlveUOMyFyHyBcdEI2m6o4dfVJ1wH74RdMNA4Gj4aAEtwM81PGOiQqvEXjnNgJGbm8MLxB8_h28cphpTciszRtyg9lcBUMK2jszkf4velntOE07dJeql1Q&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+the scroll bar always comes i the way hiding week ends,.. it would be nice to make the scroll bar invisible
+<br>
+<br>
+<div align="right">
+
+<a href="http://desktop.google.com/plugins/i/gdcalendar.html?start=20">Next &raquo;</a></div></div>
+<form action="/submitcomment" method="POST" name="commentForm" id="commentForm"><div id="writeComment" style="display:none"><table><tr><td valign="top">Rate gadget:</td>
+<td><table cellspacing="0" cellpadding="0"><tr><td><img alt="" src="/images/rateStarsLeft.gif"></td>
+<td><img alt="" id="star1" src="/images/rateStarOff.gif" onclick="setStars(1)" onmouseover="showStars(1)" onmouseout="showStars()"></td>
+<td><img alt="" id="star2" src="/images/rateStarOff.gif" onclick="setStars(2)" onmouseover="showStars(2)" onmouseout="showStars()"></td>
+<td><img alt="" id="star3" src="/images/rateStarOff.gif" onclick="setStars(3)" onmouseover="showStars(3)" onmouseout="showStars()"></td>
+<td><img alt="" id="star4" src="/images/rateStarOff.gif" onclick="setStars(4)" onmouseover="showStars(4)" onmouseout="showStars()"></td>
+<td><img alt="" id="star5" src="/images/rateStarOff.gif" onclick="setStars(5)" onmouseover="showStars(5)" onmouseout="showStars()"></td>
+<td><img alt="" src="/images/rateStarsRight.gif"></td></tr></table></td></tr>
+<tr><td valign="top">Your name:</td>
+<td><b></b>
+&nbsp;
+<input type="checkbox" name="anonymous" value="true" id="anonymous">
+Anonymous</td></tr>
+<tr><td valign="top">Comments:</td>
+<td><textarea name="reviewText" rows="4" cols="25" id="reviewText" style="border: 1px solid #bbcced"></textarea></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="rating" value="0" id="rating" style="display:none;">
+<input type="hidden" name="pluginId" value="gdcalendar" id="pluginId">
+<input type="submit" value="Post Comment">
+<input type="reset" value="Discard" onclick="showComments()"></td></tr>
+<tr style="height:20px;"></tr></table></div></form>
+<div id="abuseLinkDiv"></div></div></td></tr></table></td>
+<td id="recommendations"><b>You might also like...</b>
+<hr noshade size="1">
+<table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/weatherbug.html?hl=en"><img alt="WeatherBug Sidebar Gadget" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/weatherbug_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/weatherbug.html?hl=en">WeatherBug Sidebar Gadget</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=weatherbug">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/vistagamesgadget.html?hl=en"><img alt="VistaGames Gadget" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/vistagamesgadget_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/vistagamesgadget.html?hl=en">VistaGames Gadget</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=vistagamesgadget">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/steeltimer.html?hl=en"><img alt="SteelTimer" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/steeltimer_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/steeltimer.html?hl=en">SteelTimer</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=steeltimer">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/tetrisgadget_codenam.html?hl=en"><img alt="Tetramino Game" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/tetrisgadget_codenam_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/tetrisgadget_codenam.html?hl=en">Tetramino Game</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=tetrisgadget_codenam">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/recyclebin.html?hl=en"><img alt="Recycle Bin" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/recyclebin_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/recyclebin.html?hl=en">Recycle Bin</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=recyclebin">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/shortcut.html?hl=en"><img alt="The Shortcut Gadget" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/shortcut_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/shortcut.html?hl=en">The Shortcut Gadget</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=shortcut">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table>
+<br>
+<br></td></tr>
+<tr><td colspan="5" align="center" id="footer">&copy;  2010  Google
+-
+<a href="/privacypolicy.html">Privacy Policy</a>
+-
+<a href="http://www.google.com/accounts/TOS?hl=en">Terms of Service</a>
+-
+<a href="/copyrights.html">Copyright Notices</a></td></tr></table></body></html>

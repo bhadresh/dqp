@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/files/favicon.ico" type="image/x-icon" />
+    <title>Digg Developers | Digg Developers</title>
+    <link type="text/css" rel="stylesheet" media="all" href="http://developers.diggstatic.com/sites/developers.digg.com/files/css/css_28eba948b71fe2e5a4bae73dff0171b9.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="http://developers.diggstatic.com/sites/developers.digg.com/files/css/css_a2a0a33b81c9ebc5e9b3804fe88613c2.css" />
+    <script type="text/javascript"> </script>
+  </head>
+  <body class="front not-logged-in page-front one-sidebar sidebar-right">
+
+    <div id="page-top">
+                  <div id='header-wrapper'>
+            <div id="header">
+              <ul class="float-left primary-links"><li class="header-logo first active"><a href="/" title="Digg Developers" class="active">Digg Developers</a></li>
+<li class="menu-341"><a href="/documentation" title="">Documentation</a></li>
+<li class="menu-342 last"><a href="http://groups.google.com/group/diggapi" title="">Forum</a></li>
+</ul><ul class="float-right item-list"><li class="first"><a href="http://digg.com/login">Login</a></li>
+<li class="first"><div class="container-inline"><form action="/"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div>
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="Search Documentation" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit btn btn-secondary" />
+<input type="hidden" name="form_build_id" id="form-ef12afcdcd0bec85ebba4f86fd4327ca" value="form-ef12afcdcd0bec85ebba4f86fd4327ca"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div></li>
+</ul>            </div>
+          </div>
+        
+                   <div class="billboard group">
+               <div class="billboard-content group">
+                   <h1>Build something awesome.</h1><h3>Harness Digg's API to bring the news to your users in awesome new ways.</h3><a href="/documentation" class="btn btn-primary btn-large">Get Started <span class="sprite btn-arrow"></span></a>               </div>
+               <div class="clear"></div>
+           </div>
+            </div>
+
+    <div id="main-content">
+        <div class="features group">
+            <div class="feature feature-docs">
+                <a href="/documentation" class="graphic"></a>
+                <h3><a href='/documentation'>Digg right into the docs</a></h3>
+                <p>Scope out the documentation and get to building right away.</p>
+            </div>
+            <div class="feature feature-lang">
+                <a href="/toolkits" class="graphic"></a>
+                <h3><a href="/toolkits">Language Bindings</a></h3>
+                <p>Customize your way through docs and examples using the language of your choice.</p>
+            </div>
+            <div class="feature feature-auth">
+                <a href="/authentication" class="graphic"></a>
+                <h3><a href="/authentication">Authentication</a></h3>
+                <p><a href="/authentication">Get the keys! Details on
+                everything you need to know to access data through
+                authentication</a></p>
+            </div>
+            <div class="feature feature-poweredby">
+                <a href="/examples" class="graphic"></a>
+                <h3><a href="/examples">Powered by Digg</a></h3>
+                <p><a href="/examples">Checkout what’s capable and whats been
+                done utilizing the Digg API</a></p>
+            </div>
+        </div>
+
+        <ul class="footer group"><li class="footer-item-738 first"><a href="/concepts">Basic Concepts</a></li>
+<li class="footer-item-739"><a href="/authentication">Authentication</a></li>
+<li class="footer-item-740"><a href="/response">Response Types</a></li>
+<li class="footer-item-742"><a href="/agreement">License Agreement</a></li>
+<li class="footer-item-743"><a href="/trademark">Digg Trademark</a></li>
+<li class="float-right last"><span><a href="http://jobs.digg.com/" class="highlight">We&#039;re Hiring!</a> &copy; Digg Inc 2010</span></li>
+</ul>    </div>
+    <script type="text/javascript" src="http://developers.diggstatic.com/sites/developers.digg.com/files/js/js_ed7cfc7e236bcf41100ab5124937bce0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide", "siblings": 0, "relativity": 0, "children": 0, "clone": 0, "doubleclick": 0 }, "extlink": { "extTarget": 0, "extClass": "ext", "extSubdomains": 1, "extExclude": "", "extInclude": "", "extAlert": 0, "extAlertText": "This link will take you to an external web site. We are not responsible for their content.", "mailtoClass": "mailto" }, "cleardefault": { "edit-search-theme-form-1": "Search Documentation" } });
+//--><!]]>
+</script>
+      </body>
+</html>

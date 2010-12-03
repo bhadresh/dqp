@@ -1,0 +1,331 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { var a=window;var b="start";function d(f){this.t={};this.tick=function(g,h,c){c=c?c:(new Date).getTime();this.t[g]=[c,h]};this.tick(b,null,f)}var e=new d;a.jstiming={Timer:d,load:e};try{var i=null;if(a.chrome&&a.chrome.csi)i=Math.floor(a.chrome.csi().pageT);if(i==null)if(a.gtbExternal)i=a.gtbExternal.pageT();if(i==null)if(a.external)i=a.external.pageT;if(i)a.jstiming.pt=i}catch(j){}; })()
+</script>
+<link rel="shortcut icon" type="image/x-icon" href="//www.google.com/images/icons/product/sites-16.ico" />
+<link rel="apple-touch-icon" href="https://ssl.gstatic.com/sites/p/4609d5/system/app/images/apple-touch-icon.png" type="image/png" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { var e=parseInt,h=window,i="length";function j(c){return document.getElementById(c)}h.byId=j;var k="";function l(c){return c.replace(/^\s+|\s+$/g,k)}h.trim=l;
+var m="MSIE",n="6.0",o="string",p='id="',q='" ',r='class="',s='title="',t="display:inline-block;",u="left",v="float:left;",w="right",x="float:right;",y="cursor:hand;",z="<span ",A=' style="width:',B="px; height:",C="px;",D=";padding: 0;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='",E="', sizingMethod='scale');\"></span><span style=\"padding: ",F=" ",G=";",H="float:",I='"></span>';
+h.ie6ImgFix=function(c){var b=h.navigator?navigator.userAgent:k;if(b.indexOf(m)!=-1&&typeof opera=="undefined"){var d=/MSIE\s+([^\);]+)(\)|;)/;d.test(b);b=RegExp.$1;if(b==n){var a=typeof c==o?j(c):c;c=a.id?p+a.id+q:k;b=a.className?r+a.className+q:k;d=a.title?s+a.title+q:s+a.alt+q;var f=t+a.style.cssText;if(a.align==u)f=v+f;if(a.align==w)f=x+f;if(a.parentElement.href)f=y+f;var g=a.currentStyle,L=a.width-e(g.paddingLeft,10)-e(g.paddingRight,10),M=a.height-e(g.paddingTop,10)-e(g.paddingBottom,10),N=
+z+c+b+d+A+L+B+M+C+f+D+a.src+E+g.paddingTop+F+g.paddingRight+F+g.paddingBottom+F+g.paddingLeft+G+(g.styleFloat?H+g.styleFloat+G:k)+I;h.setTimeout(function(){a.outerHTML=N},1)}}};var J=[],K=0;h.JOT_addListener=function(c,b,d){var a=new String(K++);c={eventName:c,handler:b,compId:d,key:a};J.push(c);return a};h.JOT_removeListenerByKey=function(c){for(var b=0;b<J[i];b++)if(J[b].key==c){J.splice(b,1);break}};
+h.JOT_removeAllListenersForName=function(c){for(var b=0;b<J[i];b++)J[b].eventName==c&&J.splice(b,1)};var O="function";h.JOT_postEvent=function(c,b,d){var a={eventName:c,eventSrc:b||{},payload:d||{}};if(h.JOT_fullyLoaded){b=J[i];for(d=0;d<b&&d<J[i];d++){var f=J[d];if(f&&f.eventName==c){a.listenerCompId=f.compId||k;(f=typeof f.handler==O?f.handler:h[f.handler])&&f(a)}}}else h.JOT_delayedEvents.push({eventName:c,eventSrc:b,payload:d})};h.JOT_delayedEvents=[];h.JOT_fullyLoaded=false;var P="__duration__";
+h.JOT_formatRelativeToNow=function(c,b){var d=((new Date).getTime()-c)/6E4;if(d>=1440||d<0)return null;var a=0;if(d>=60){d/=60;a=2}d>=2&&a++;return b?h.JOT_siteRelTimeStrs[a].replace(P,Math.floor(d)):h.JOT_userRelTimeStrs[a].replace(P,Math.floor(d))}; })()
+</script>
+<script>
+
+
+var webspace = {"isConsumer":false,"termsUrl":"http://www.google.com/sites/help/intl/en/terms_apps.html","enableAnalytics":true,"homePath":"/","sharingId":"jotspot","sharingPolicy":"OPENED_WITH_INDICATOR","isAdsenseEnabled":true,"analyticsAccountId":"UA-10596950-1 ","baseUri":"/a/pressatgoogle.com/googlebookssettlement","name":"googlebookssettlement","features":{"structuredDataGviz":false,"horizontalNavigationDropdownMenus":true,"subpageNav":false,"maestroIntegration":true,"kixEditorPageType":false,"maestroEmbed":false,"pdfEmbedSupport":false,"experimental":{"displayEditorLockExceptions":false,"commonSharingExperiment":false},"useStandardEmbedsInSidebar":false,"allowQuotesInLinks":false,"pageLevelPermissions":false,"navadminperf":true,"lazySiteHierarchy":true,"adminInfo":true,"autoFillSidebarNavTree":true,"dragDropHierarchy":true,"headerAlignmentOptions":true,"horizontalNavigationBar":true,"keyboardShortcuts":true,"commonSharing":true,"spreadsheetsEmbedLoadRedirect":true,"structuredDataSchemas":false,"webfonts":false,"footerCustomOptions":true},"domain":"pressatgoogle.com","adsensePublisherId":null,"isStartPageEnabled":true,"domainAnalyticsAccountId":"UA-6204185-1","siteTitle":"Increasing Access to Books: The Google Books Settlement"};
+
+
+webspace.gadgets = {"isGadgetDirectoryEnabled":true,"baseUri":"/a/pressatgoogle.com/googlebookssettlement/system/app/pages/gadgets","isGgsRenderingEnabled":true};
+
+
+webspace.user = {"uid":"","hasAdminAccess":false,"guest_":true,"keyboardShortcuts":true,"domain":"","hasWriteAccess":false,"userName":"guest","dasherUser":false,"primaryEmail":"guest","sessionIndex":"","namespaceUser":false,"displayNameOrEmail":"guest"};
+
+webspace.page = {"canDeleteWebspace":null,"locale":"en","state":"","wuid":"wuid:gx:40ade40161dbc650","timeZone":"America/Los_Angeles","properties":{},"type":"text","canChangePath":true,"parentWuid":"wuid:gx:6b855bb733c64dfb","revision":10,"title":"Benefits for Libraries and Library Users","isRtlLocale":false,"bidiEnabled":false,"siteLocale":"en","name":"settlement-benefits-libraries-and-library-users","path":"/what-people-are-saying-2/settlement-benefits-libraries-and-library-users","isSiteRtlLocale":false,"parentPath":"/what-people-are-saying-2"};
+
+
+var editorResources = [
+  'https://ssl.gstatic.com/sites/p/4609d5/system/js/trog_edit__en.js',
+  'https://ssl.gstatic.com/sites/p/4609d5/system/app/css/trogedit.css',
+  '/a/pressatgoogle.com/googlebookssettlement/_/rsrc/1291063356000/system/app/css/editor.css'
+];
+
+var JOT_clearDotPath = 'https://ssl.gstatic.com/sites/p/4609d5/system/app/images/cleardot.gif';
+
+
+var JOT_userRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+
+webspace.page.currentTemplate = {"title":"Web Page","path":"/system/app/pagetemplates/text"};
+
+
+
+
+
+var JOT_siteRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+</script>
+<script type="text/javascript">
+                window.jstiming.load.tick('scl');
+              </script>
+<link rel="stylesheet" type="text/css" href="https://ssl.gstatic.com/sites/p/4609d5/system/app/themes/simplywhite/standard-css-simplywhite-ltr-ltr.css" />
+<link rel="stylesheet" type="text/css" href="/a/pressatgoogle.com/googlebookssettlement/_/rsrc/1291063356000/system/app/css/overlay.css?cb=simplywhiteundefineda100%25%25%25160goog-ws-left" />
+<title>Benefits for Libraries and Library Users - Increasing Access to Books: The Google Books Settlement</title>
+<script type="text/javascript">
+                window.jstiming.load.tick('cl');
+              </script>
+</head>
+
+<body xmlns="http://www.google.com/ns/jotspot" id="body" class=" en">
+<div id="sites-page-toolbar">
+<div id="sites-status" class="sites-status" style="display:none;">
+<div id="sites-notice" class="sites-notice"> </div>
+</div>
+</div>
+<div id="sites-chrome-everything">
+<div id="sites-chrome-page-wrapper" style="direction: ltr">
+<div id="sites-chrome-page-wrapper-inside">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper">
+<table id="sites-chrome-header" class="sites-layout-hbox" cellspacing="0">
+<tr class="sites-header-primary-row">
+<td id="sites-header-title">
+<div class="sites-header-cell-buffer-wrapper">
+<a href="https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/">
+<img src="/a/pressatgoogle.com/googlebookssettlement/_/rsrc/1250274578446/config/app/images/customLogo/customLogo.gif?revision=5" id="logo-img-id" onload="ie6ImgFix('logo-img-id');" alt="Logo" class="sites-logo" />
+</a>
+<h2>
+<a href="https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/" dir="ltr">Increasing Access to Books: The Google Books Settlement</a>
+</h2>
+</div>
+</td>
+<td class="sites-layout-searchbox">
+<div class="sites-header-cell-buffer-wrapper">
+<div>
+<form id="sites-searchbox-form" action="/a/pressatgoogle.com/googlebookssettlement/system/app/pages/search">
+<input type="text" onpropertychange="JOT_setTextDir(this)" oninput="JOT_setTextDir(this)" dir="" id="jot-ui-searchInput" name="q" size="20" />
+<input type="hidden" id="sites-searchbox-scope" name="scope" value="search-site" />
+<div class="goog-inline-block goog-button goog-button-base   "><div class="goog-inline-block goog-button-base-outer-box TOP"><div class="goog-inline-block goog-button-base-inner-box"><div class="goog-button-base-pos"><div class="goog-button-base-top-shadow"> </div><div id="sites-searchbox-search-button" class="goog-button-base-content " style="" onclick=""><span id="sites-searchbox-search-button-label">Search this site</span></div></div></div></div></div>
+</form>
+</div>
+</div>
+</td>
+</tr>
+<tr class="sites-header-secondary-row">
+<td colspan="2">
+</td>
+</tr>
+</table> 
+</div> 
+<div id="sites-chrome-main-wrapper">
+<div id="sites-chrome-main-wrapper-inside">
+<table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0">
+<tr>
+<td id="sites-chrome-sidebar-left" class="sites-layout-sidebar-left">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_8208351155293364" class="sites-embed">
+<div class="sites-embed-content sites-sidebar-nav ">
+<ul jotId="navList">
+<li class="topLevel nav-first"><div dir="ltr" style="padding-left: 19px;"><a href="https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/home" jotId="wuid:gx:1ed1144db240899b" class="sites-navigation-link topLevel">home</a>
+</div></li>
+<li class="topLevel"><div dir="ltr" style="padding-left: 19px;"><a href="https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/key-benefits-of-the-settlement" jotId="wuid:gx:428a378b3eb7c310" class="sites-navigation-link topLevel">Overview of the Google Books Settlement</a>
+</div></li>
+<li class="topLevel"><div dir="ltr" style="padding-left: 19px;"><a href="https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/letters-of-support" jotId="wuid:gx:3c1307be3876a6b8" class="sites-navigation-link topLevel">Letters of Support</a>
+</div></li>
+<li class="topLevel parent" wuid="gx:6b855bb733c64dfb"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/what-people-are-saying-2" jotId="wuid:gx:6b855bb733c64dfb" class="sites-navigation-link topLevel">What People Are Saying: Support for the Settlement</a>
+</div><ul>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/what-people-are-saying-2/governments-around-the-world" jotId="wuid:gx:2a8a27502e394181" class="sites-navigation-link">Support From Policymakers</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/what-people-are-saying-2/settlement-provides-greater-access-to-books-for-all-americans" jotId="wuid:gx:2b656cc90b57d7bc" class="sites-navigation-link">Greater Access to Books</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/what-people-are-saying-2/settlement-hailed-by-publishers-and-authors-1" jotId="wuid:gx:12195eb5b44e741e" class="sites-navigation-link">Support From Authors and Publishers</a>
+</div></li>
+<li class=""><div class="current-bg" jotId="wuid:gx:40ade40161dbc650" dir="ltr" style="padding-left: 38px;">Benefits for Libraries and Library Users
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/what-people-are-saying-2/settlement-promotes-competition" jotId="wuid:gx:59e8212d051b9e6f" class="sites-navigation-link">Promoting Competition</a>
+</div></li>
+<li class=""><div dir="ltr" style="padding-left: 38px;"><a href="https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/what-people-are-saying-2/settlement-breaks-orphan-works-logjam" jotId="wuid:gx:44419eec0701859e" class="sites-navigation-link">Addressing “Orphan Works” Issues</a>
+</div></li>
+</ul>
+</li>
+<li class="topLevel"><div dir="ltr" style="padding-left: 19px;"><a href="https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/media-coverage-editorials" jotId="wuid:gx:530f1562cfc4c0a5" class="sites-navigation-link topLevel">Recent News Stories, Op-Eds, and Editorials</a>
+</div></li>
+<li class="topLevel"><div dir="ltr" style="padding-left: 19px;"><a href="https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/video-testimonials" jotId="wuid:gx:2d3bbac2ed6c08c4" class="sites-navigation-link topLevel">Video Testimonials</a>
+</div></li>
+<li class="topLevel"><div dir="ltr" style="padding-left: 19px;"><a href="http://books.google.com/googlebooks/agreement/index.html" class="sites-navigation-link topLevel">More Info on Settlement</a>
+</div></li>
+</ul>
+
+</div>
+</div>
+</td>
+<td id="sites-canvas-wrapper">
+<div id="sites-canvas">
+<div id="goog-ws-editor-toolbar-container"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="title-crumbs" style="">
+<A dir="ltr" href="/a/pressatgoogle.com/googlebookssettlement/what-people-are-saying-2">What People Are Saying: Support for the Settlement</A>‎ &gt; ‎
+  </div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="" align="left">
+<span id="sites-page-title" dir="ltr">Benefits for Libraries and Library Users</span>
+</h3>
+
+<div id="sites-canvas-main" class="sites-canvas-main">
+<div id="sites-canvas-main-content">
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div><b><i><div style="margin:5px 10px;display:inline;float:right"><a href="https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/what-people-are-saying-2/settlement-benefits-libraries-and-library-users/books.jpg?attredirects=0" imageanchor="1"><img border="0" src="https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/_/rsrc/1250872051249/what-people-are-saying-2/settlement-benefits-libraries-and-library-users/books.jpg" /></a></div></i></b><b><i><b><i><b><i><div><div><b><span style="font-style:normal">P</span></b><b><span style="font-style:normal">aul N. Courant, University Librarian and Dean of Libraries, University of Michigan</span></b></div><div><span style="font-style:normal;font-weight:normal">"The print collections of the world's libraries are literally turning to dust, as hundreds of millions of books printed on acidic paper age and become brittle in library stacks around the globe. ... Our partnership with Google, which the settlement will preserve, will enable us to preserve approximately eight million works in less than a decade. <span style="text-decoration:underline">Given the scope of Google Book Search (GBS), this will mean -- despite the ravages of war, weather, neglect, and time -- that GBS can preserve for the world in excess of fifty million unique works that comprise the bulk of printed human knowledge. Because they are being digitize now, works that would have been lost forever have the opportunity to exist in perpetuity. This settlement will enable preservation of our human heritage to to continue at unprecedented scale</span>." </span><span style="font-weight:normal">(US District Court filing, 09/04/09)</span></div><div><span style="font-style:normal;font-weight:normal"><br /></span></div><div><b>Michael A. Keller, University Librarian, Stanford University</b></div><div><span style="font-style:normal;font-weight:normal">"Under this [settlement's] vision, American citizens anywhere, especially in small towns with small libraries, might have new opportunities of discovery. <span style="text-decoration:underline">The Google Book Search project has the promise to contribute to K-12 education by providing a rich store of information and expression for school teachers and students everywhere</span>. Just the indexing of every word and phrase of the books digitized by the Google Book Search will open the content of thousands and thousands of libraries in the U.S. alone, thus increasing the return on the investments made on library collections. Stanford’s participation in the Google Book Search project is another way for it to contribute to the betterment of the lives of all Americans." </span><span style="font-weight:normal">(US District Court filing, 09/08/09)</span></div><div><span style="font-style:normal;font-weight:normal"><br /></span></div><div><b>Leroy Watson, Legislative Director, National Grange of the Order of Patrons of Husbandry</b></div><div><span style="font-style:normal;font-weight:normal">"Even though rural libraries and schools have smaller budgets and fewer resources than their urban and suburban counterparts, the cost of a good education consumes a large percentage of local tax dollars, and adequate funding for education is a constant concern in rural America. <span style="text-decoration:underline">By availing themselves of the agreement’s free and affordable services, local libraries and schools can grow their resources without busting their local governments' budgets, leaving more funds for other elements of their public education systems</span>." </span><span style="font-weight:normal">(US District Court filing, 09/03/09)</span></div><div><span style="font-style:normal;font-weight:normal"><br /></span></div></div>Jonathan Brown, President, Association of Independent California
+Colleges and Universities, on behalf of Associations for Arkansas,
+Iowa, Florida, and South Carolina</i></b></i></b></i></b><br />"While
+librarians in academic and public libraries have worked hard to
+encourage the interchange of resources the cost pressures facing
+educational institutions have limited the ability of these traditional
+solutions to continue to increase content available for students and
+scholars. <u>We believe creating a wide supply of digitized
+resourceshas the possibility for reducing costs while simultaneously
+expanding the universe of resources....</u> <u>We believe the proposed settlement will offer benefits to users of content in colleges and universities large and small</u>." (Letter to Judge Denny Chin, 8/14/09)<br /><b><i><br />The Washington Post Editorial</i></b>
+<div>"Some
+call it Alexandria 2.0, and the comparison with the great library of
+antiquity is apt. Google has digitized millions of books, and if its
+proposed class-action settlement with their authors and publishers
+passes muster, <u>these books -- formerly the province of college
+libraries and research institutions -- will be available to everyone</u>." (<i>Washington Post, 8/8/09</i>)</div><br /><b><i>New York Times Editorial</i></b></div><div>"Google’s effort could create new interest in millions of out-of-print books, which would be made available at no cost at public libraries. <span style="text-decoration:underline">That means that a student at a community college or a freelance writer could access the same books as a Harvard professor</span>." (<i>New York Times, 7/29/09</i>)<br /><br /></div><div><b><i>Lateef Mtima, Director, and Steven Jamar, Associate Director, Institute of Intellectual Property &amp; Social Justice, Inc.</i></b></div><div>"<span style="text-decoration:underline">The digitization of text coupled with the ability to access it through a program like Google's Book Search can be a boon to those with heretofore limited access to such materials</span>. ... The potential to have a great, positive impact on social justice through providing ready affordable access to information is immense." (<i>"Copyright, Social Justice, and the Digitization of Knowledge," 7/28/09</i>)</div><div><br /></div><div><b><i>Michael Healy, Executive Director of the Book Industry Study Group and expected Executive Director of the Book Rights Registry</i></b></div><div>"...because the settlement agreement gives free access to this corpus of works to every public library building in the United States, you have to see the revolutionary character of that, in my view, because <span style="text-decoration:underline">what it’s effectively doing is turning every public library building in this country into, effectively, a world-class research facility by giving them free access to this online collection, if you like, of millions of out of print books</span>. And obviously, as people know, the settlement allows for the creation of a database available under subscription to every library in the United States." (<i>Interview with Christopher Kenneally, Copyright Clearance Center, 6/18/09</i>)<br /><div><br /></div><div><b><i>Paul Courant, Dean of Libraries and Harold T. Shapiro Collegiate Professor of Public Policy, University of Michigan </i></b></div><div>"The result [of the settlement] will be <span style="text-decoration:underline">ubiquitous
+online access to a collection unparalleled in size and scope,
+preservation of the scholarly and cultural record embodied in the
+collections of great research libraries, new lines of research, and
+greatly expanded access to the world's printed work for persons with
+print disabilities</span>. ... The works of all participating libraries
+will be available in this product. Thus, Michigan's superb collections
+will be augmented by those of other great libraries, <span style="text-decoration:underline">with
+the result that all of our students, and the general public, will have
+more works available to them than any single library can provide</span>." (<i>Ann Arbor News, 06/07/09)</i></div></div><div><br /></div><div><b><i>Paul Courant, Dean of Libraries and Harold T. Shapiro Collegiate Professor of Public Policy, University of Michigan</i></b></div><div>"The Google settlement provides a mechanism whereby the print works of the 20th century will be searchable, findable, readable and generally usable online, with large parts of the text readable online for free. All of this is of <span style="text-decoration:underline">tremendous public and scholarly value</span>, and no one other than Google has shown any willingness to make the investment necessary to get the job done." (<i>Washington Post, 5/24/09</i>)<br /><br /><div><i><b>Arthur Klebanoff, President, Scott Meredith Literary Agency and ebook publisher, RosettaBooks</b></i></div><div>"We’re at a point now where there’s a critical mass of ebook availability,’ [Klebanoff] observed. So the settlement ‘<span style="text-decoration:underline">takes digital literacy for printed material to a new level</span>
+and, in doing so, introduces a much broader set of people to what I’d
+loosely call digital reading. That can only be good, in the long term
+sense, for ebooks.’” (<i>LibraryJournal.com, 4/3/09</i>)</div></div><div><br /></div><div><b><i>Michael Keller, Academic Librarian, Stanford University and Publisher, Stanford University Press</i></b> </div><div>"Lord Byron in Childe Harold’s Pilgrimage writes: 'He who ascends to mountain-tops shall find the loftiest peaks most wrapt in clouds and snow.' <span style="text-decoration:underline">Extensive library collections formerly accessible in a few, well-supported institutions</span> were effectively 'wrapt in clouds and snow.' Soon they <span style="text-decoration:underline">will become accessible to multitudes of readers in many locations</span>." (<i>Association of College and Research Libraries Publications, 01/2009</i>) <br /><div><br /></div><div><b><i>Wayne Bivens-Tatum, Philosophy and Religion Librarian, Princeton University</i></b></div><div>“The Google Books settlement seems like <span style="text-decoration:underline">very good news</span>
+to me. I'm assuming the cost of subscribing to the full Google Books
+service won't be prohibitive for most libraries, and that means that a
+lot more people will get <span style="text-decoration:underline">a lot more access to even copyrighted books</span>.” (<i>Academic Librarian Blog, 10/31/08</i>)<br /><br /><div><b><i>John Etchemendy, Provost, Stanford University</i></b></div><div>"<span style="text-decoration:underline">This proposed settlement has far-reaching potential for making books more broadly available</span>
+to the American public and higher education, and is consistent with
+Stanford's mission of sharing knowledge. We are currently in
+negotiations with Google regarding Stanford's participation. <span style="text-decoration:underline">This proposed settlement is a very productive step, and we applaud it</span>." (<i>Stanford News Service, 10/29/08</i>)</div></div></div><div><br /></div><div><b><i>Daniel Greenstein, Vice Provost, University of California</i></b></div><div>“This settlement will help <span style="text-decoration:underline">provide broad access</span> to [the millions of books held in our libraries as public trust] as well as other public benefits, and it also <span style="text-decoration:underline">promises to promote innovation in scholarship</span>. For these reasons, UC is pleased to have given input along with Universities of Michigan and Stanford in support of the public good, and we look forward to playing a continuing role by contributing UC library volumes to the development of this rich online resource." (<i>UC Press Release, 10/28/08</i>)</div><div><br /></div><div><b><i>Edward Van Gemert, Associate Director of University Libraries, University of Wisconsin-Madison</i></b></div><div>"The settlement ... introduces a model for institutional subscriptions that will provide broad access to copyright material for academic institutions. And it will <span style="text-decoration:underline">greatly expand the amount of public domain material that is accessible to all</span>. These elements of the settlement should ultimately prove beneficial to the University of Wisconsin-Madison community, and we intend to make our collections available for [the Google Book Search] project." (<i>10/28/08</i>)</div><br /><div><b><i>Michael Keller, Academic Librarian, Stanford University and Publisher, Stanford University Press</i></b></div><div>"With other libraries, those of the University of California and the University of Michigan, we have been negotiating for almost two years with Google and the plaintiffs to shape this agreement for the public good. We believe that the proposed <span style="text-decoration:underline">settlement offers significant benefits for readers everywhere and therefore society as a whole</span>, providing easy access to texts via Google to libraries throughout the country, and expanding dramatically the amount of material that can be freely read (not just searched) by the public." (<i>UC Press Release, 10/28/08</i>)</div><br /><div><b><i>Rob Hof, BusinessWeek</i></b></div><div>"As a book lover, what I find the coolest thing about the deal is that eventually, I'll be able to visit most any library and, using at least one terminal that will be set up at each library, view digital versions of these books for free (though I'll have to pay to print out pages). <span style="text-decoration:underline">It's nice that all the sides managed to agree on something that is demonstrably a good thing for all of us</span>." (<i>The Tech Beat Blog, 10/28/08</i>)</div><div><br /></div></div></td></tr></tbody></table>
+</div> 
+</div> 
+<div id="sites-canvas-bottom-panel">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_page-subpages"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_page-attachments" style="display:none" class="sites-canvas-bottom-no-items">
+<div id="sites-attachment-wrapper" class="sites-canvas-bottom-panel-wrapper">
+<div jotId="sites-attachment-inner" style="display:none;" class="sites-attachment-inner">
+<ul id="JOT_ATTACH_container">
+</ul>
+</div>
+</div>
+</div>
+<a xmlns="http://www.w3.org/1999/xhtml" name="page-comments"></a>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_page-comments" style="display:none;" class="sites-canvas-bottom-no-items">
+<div id="sites-comment-wrapper" class="sites-canvas-bottom-panel-wrapper">
+<div jotId="sites-comment-inner" style="display:none;" class="sites-comment-inner">
+<div jotId="comments" class="sites-comments">
+<div id="_wuid_" jotId="template" class="sites-comment" style="display:none">
+<div><strong>_displayNameOrEmail_</strong> - _time_ - <a href="javascript:;" onClick="JOT_postEvent('removeComment', this, {wuid:'_wuid_'});">Remove</a></div>
+<p dir="_dir_">_text_</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> 
+</td> 
+</tr>
+</table> 
+</div> 
+</div> 
+<div id="sites-chrome-footer-wrapper">
+<div id="sites-chrome-footer-wrapper-inside">
+<div id="sites-chrome-footer">
+</div>
+</div>
+</div>
+</div> 
+</div> 
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-adminfooter">
+<p>
+           
+              
+                   
+                  <a href="https://www.google.com/a/UniversalLogin?service=jotspot&amp;continue=https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/what-people-are-saying-2/settlement-benefits-libraries-and-library-users&amp;md=pressatgoogle.com" class="sites-system-link">Sign in</a>
+                
+              
+                   
+                  <a href="/a/pressatgoogle.com/googlebookssettlement/system/app/pages/recentChanges" rel="nofollow" class="sites-system-link">Recent Site Activity</a>
+                
+              
+               
+              <a href="javascript:void(window.open('http://www.google.com/sites/help/intl/en/terms_apps.html'))" class="sites-system-link">Terms</a>
+               
+              <a href="/a/pressatgoogle.com/googlebookssettlement/system/app/pages/reportAbuse?src=/what-people-are-saying-2/settlement-benefits-libraries-and-library-users" rel="nofollow" target="_blank" class="sites-system-link">Report Abuse</a>
+              
+                   
+                  <a href="javascript:;" onclick="window.open(webspace.printUrl)" class="sites-system-link">Print page</a>
+                
+              
+               | 
+                
+              <b class="powered-by">Powered by <a href="http://sites.google.com">Google Sites</a></b>
+</p>
+</div>
+</div> 
+
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('sjl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" src="https://ssl.gstatic.com/sites/p/4609d5/system/js/jot_min_view__en.js"></script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('jl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+          var searchBox = new gsites.Searchbox('sites-searchbox-search-button');
+          searchBox.initListeners();
+          searchBox.setScopesMenu(webspace.page.isSiteRtlLocale);
+        </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+      gsites.HoverPopupMenu.createHoverPopupMenu('sites-header-nav-dropdown');
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+            JOT_setupNav("8208351155293364", "Navigation", false);
+            JOT_addListener('titleChange', 'JOT_NAVIGATION_titleChange', 'COMP_8208351155293364');
+          </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+  setTimeout(function() {
+    var fingerprint = gsites.date.TimeZone.getFingerprint([1109635200000, 1128902400000, 1130657000000, 1143333000000, 1143806400000, 1145000000000, 1146380000000, 1152489600000, 1159800000000, 1159500000000, 1162095000000, 1162075000000, 1162105500000]);
+    gsites.Xhr.send('https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/_/tz', null, null, 'GET', null, null, { afjstz: fingerprint });
+  }, 500);
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+                    window.onload = function() {
+                      var loadTimer = window.jstiming.load;
+                      loadTimer.tick("ol");
+                      loadTimer["name"] = "load," + webspace.page.type;
+                      
+                      window.jstiming.report(loadTimer, {}, 'https://gg.google.com/csi');
+                    }
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        JOT_insertAnalyticsCode(false);
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        var maestroRunner = new gsites.pages.view.SitesMaestroRunner(
+            webspace, "en");
+        maestroRunner.initListeners();
+        maestroRunner.installEditRender();
+      </script>
+
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        window['ri240jef82'] =
+          {'domain': 'pressatgoogle.com',
+           'site': 'googlebookssettlement',
+           'pageId': 0};
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+  //<![CDATA[
+    // Fires delayed events.
+    (function() {
+      JOT_fullyLoaded = true;
+      var delayedEvents = JOT_delayedEvents;
+      for (var x = 0; x < delayedEvents.length; x++) {
+        var event = delayedEvents[x];
+        JOT_postEvent(event.eventName, event.eventSrc, event.payload);
+      }
+      JOT_delayedEvents = null;
+      JOT_postEvent('pageLoaded');
+    })();
+
+    // Decorate any fastUI buttons on the page with a class of 'goog-button'.
+    if (webspace.user.hasWriteAccess) {
+      JOT_decorateButtons();
+    }
+ //]]>
+</script>
+<div id="server-timer-div" style="display:none"> </div>
+<script>
+          window.jstiming.load.tick('render');
+        </script>
+</body>
+</html>

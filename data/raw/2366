@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>New York - US jobs - Google</title>
+<link charset="utf-8" href="http://www.google.com/jobs/css/styles.css" media="all" rel="stylesheet">
+<script charset="utf-8">
+  document.onload = setCookies();
+  function setCookies() {
+    var cookieValue = getQuery('src');
+    if (cookieValue){
+      var today = new Date();
+      var expire = new Date();
+      expire.setTime(today.getTime() + 3600000 * 24 * 14);
+      document.cookie = 'JobsSrc' + '=' + escape(cookieValue) +
+      ';expires=' + expire.toGMTString() + ';path=/';
+    }
+  }
+  function getCookie(cookieName) {
+    if (document.cookie.length > 0) {
+      cookieStart = document.cookie.indexOf(cookieName + '=');
+      if (cookieStart != -1) {
+        cookieStart += cookieName.length + 1;
+        cookieEnd = document.cookie.indexOf(';', cookieStart);
+        if (cookieEnd == -1) cookieEnd = document.cookie.length;
+        return document.cookie.substring(cookieStart, cookieEnd);
+      }
+    } else return '';
+  }
+  function getQuery(queryName) {
+    var queryString = window.location.hash.substring(1);
+    if (queryString.length > 0) {
+      queryStart = queryString.indexOf(queryName + '=');
+      if (queryStart != -1) {
+        queryStart += queryName.length + 1;
+        queryEnd = queryString.indexOf('&', queryStart);
+        if (queryEnd == -1) queryEnd = queryString.length;
+        return queryString.substring(queryStart, queryEnd);
+      }
+    } else return '';
+  }
+</script>
+<script>
+function searchQuery() {
+  var query = document.getElementById('q').value
+  if (query){
+    window.location.href = '/intl/en/jobs/search/index.html#q=' + encodeURI(query);
+  } else {
+  alert('To search jobs, please enter a keyword or phrase.');
+  }
+    }
+</script>
+<style>
+ br.c4 {clear:both;}
+ div.c3 {width:55%;float:right;margin-top:0;}
+ div.c2 {width:45%;float:left;margin-top:0;}
+ h4.c1 {margin-top:0;margin-bottom:0;}
+</style>
+</head>
+<body>
+<h1><a href="/" title="Google"><img alt="Google" id="logo" src="http://www.google.com/images/logo_sm.gif"></a>US jobs</h1>
+<p id="x-breadcrumb"><a href="../../index.html">Jobs</a> &gt; <a href="../../uslocations/index.html">US locations</a> &gt; <strong>New York - New York</strong></p>
+<ul id="nav">
+<li><a href="/intl/en/jobs/index.html">Jobs</a></li>
+<li><a href="/intl/en/jobs/lifeatgoogle/index.html">Life at Google</a></li>
+<li><a href="/intl/en/jobs/locations/index.html">Office locations</a></li>
+<li><a href="/intl/en/jobs/joininggoogle/index.html">Joining Google</a></li>
+<li><a href="http://www.google.com/jobs/students">Student jobs</a></li>
+</ul>
+<form id="x-search" method="post" onsubmit="searchQuery(); return false"><label for="q">Search US openings</label> <input id="q" maxlength="80" name="q" size="15" type="text" value=""><input type="submit" value="Search"></form>
+<div id="aux">
+<div id="right">
+<div class="box">
+<h3>Working at Google New&nbsp;York</h3>
+<br>
+<object height="141" width="176"><param name="movie" value="http://www.youtube.com/p/6209ACE40F2D41ED&amp;hl=en&amp;fs=1">
+<param name="allowFullScreen" value="true">
+<param name="allowscriptaccess" value="always">
+<embed allowfullscreen="true" allowscriptaccess="always" height="141" src="http://www.youtube.com/p/6209ACE40F2D41ED&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" width="176"></object>
+<p><a href="http://www.youtube.com/view_play_list?p=6209ACE40F2D41ED">Full Playlist</a></p>
+<p><a href="http://www.youtube.com/lifeatgoogle">Life at Google channel</a></p>
+</div>
+<div class="box">
+<h3>Google New York</h3>
+<p>76 Ninth Avenue<br>
+4th Floor<br>
+New York, NY 10011<br>
+Phone: +1 212-565-0000<br>
+Fax: +1 212-565-0001<br>
+(<a href="http://www.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=76+Ninth+Avenue,+New+York,+NY+10011&sll=40.742226,-74.004497&sspn=0.031019,0.06609&ie=UTF8&z=17&iwloc=A">map</a>)</p>
+</div>
+<div class="box">
+<h3>Related links</h3>
+<ul>
+<li><a href="http://www.google.com/jobs/lifeatgoogle/benefits/index.html">U.S. Benefits</a></li>
+</ul>
+</div>
+</div>
+<div id="maincontent">
+<h2>Google New York</h2>
+<p><a href="http://picasaweb.google.com/lh/photo/iU0pdqJt5xOtzMhGIbrfbg?feat=embedwebsite"><img alt="Welcome to Google New York!" class="leftborder" src="http://lh5.ggpht.com/_HkZ_V7DanUk/R83ZjBunBUI/AAAAAAAABRM/gYlPsIACd9A/s200/IMG_1035.JPG"></a></p>
+<blockquote>Google New York is a vibrant and growing home for our company in the heart of Manhattan. The team encompasses one of our largest engineering centers and the heart of our North American advertising business.</blockquote>
+<a href="more/">More about working in New York &raquo;</a>
+<hr>
+<h3>Browse New York openings</h3>
+<div class="c2">
+<h4 class="c1">Technical</h4>
+<ul class="joblisting">
+<li><a href="../../uslocations/new-york/swe/index.html" onclick="javascript:pageTracker._trackEvent('Listings','New York','us/uslocations/new-york/swe');">Software Engineering</a></li>
+<li><a href="../../uslocations/new-york/engops/index.html" onclick="javascript:pageTracker._trackEvent('Listings','New York','us/uslocations/new-york/engops');">Engineering Operations</a></li>
+<li><a href="../../uslocations/new-york/product/index.html" onclick="javascript:pageTracker._trackEvent('Listings','New York','us/uslocations/new-york/product');">Product Management</a></li>
+<li><a href="../../uslocations/new-york/ux/index.html" onclick="javascript:pageTracker._trackEvent('Listings','New York','us/uslocations/new-york/ux');">User Experience</a></li>
+<li><a href="../../uslocations/new-york/partner/index.html" onclick="javascript:pageTracker._trackEvent('Listings','New York','us/uslocations/new-york/partner');">Partner Technology Solutions</a></li>
+</ul>
+</div>
+<div class="c3">
+<h4 class="c1">Sales, General, and Administrative</h4>
+<ul class="joblisting">
+<li><a href="../../uslocations/new-york/adsales/index.html" onclick="javascript:pageTracker._trackEvent('Listings','New York','us/uslocations/new-york/adsales');">Advertising Sales &amp; Customer Support</a></li>
+<li><a href="../../uslocations/new-york/enterprise/index.html" onclick="javascript:pageTracker._trackEvent('Listings','New York','us/uslocations/new-york/enterprise');">Enterprise</a></li>
+<li><a href="../../uslocations/new-york/finance/index.html" onclick="javascript:pageTracker._trackEvent('Listings','New York','us/uslocations/new-york/finance');">Finance</a></li>
+<li><a href="../../uslocations/new-york/hr/index.html" onclick="javascript:pageTracker._trackEvent('Listings','New York','us/uslocations/new-york/hr');">Human Resources</a></li>
+<li><a href="../../uslocations/new-york/markcomm/index.html" onclick="javascript:pageTracker._trackEvent('Listings','New York','us/uslocations/new-york/markcomm');">Marketing &amp; Communications</a></li>
+<li><a href="../../uslocations/new-york/legal/index.html" onclick="javascript:pageTracker._trackEvent('Listings','New York','us/uslocations/new-york/legal');">Legal &amp; Public Policy</a></li>
+<li><a href="../../uslocations/new-york/admin/index.html" onclick="javascript:pageTracker._trackEvent('Listings','New York','us/uslocations/new-york/admin');">Administrative</a></li>
+</ul>
+</div>
+<br class="c4">
+<h3>What's it like to work in New York?</h3>
+<table border="0" cellpadding="0" cellspacing="0" class="icons" width="100%">
+<tr>
+<td><a href="http://maps.google.com"><img alt="Maps" border="0" height="35" src="http://www.google.com/options/icons/maps.gif" title="Maps" width="35"></a></td>
+<td><a href="http://local.google.com"><img alt="Local" border="0" height="35" src="http://www.google.com/options/icons/local.gif" title="Local" width="35"></a></td>
+<td><a href="http://finance.google.com"><img alt="Finance" border="0" height="35" src="http://www.google.com/options/icons/finance.gif" title="Finance" width="35"></a></td>
+<td><a href="http://docs.google.com"><img alt="Docs &amp; Spreadsheets" border="0" height="35" src="http://www.google.com/options/icons/dns.gif" title="Spreadsheets" width="35"></a></td>
+<td><a href="https://checkout.google.com"><img alt="Checkout" border="0" height="35" src="http://www.google.com/options/icons/checkout.gif" title="Checkout" width="35"></a></td>
+</tr>
+</table>
+<p>Google New York is the place to be for software engineers who want to push the limits on distributed systems, scale and performance. Here, we work on projects of massive scale, develop and build great systems, and produce quick and accurate solutions to challenging problems. At all times, we match projects with our employees' background and interests. Google engineers are experts in C++, Java, AJAX and HTML and focus on these key areas:</p>
+<h4>Search and advertising quality</h4>
+<p>We parse user queries, select and rank matching pages, summarize results for the user, and match ads to queries and Web pages. We immerse ourselves in various technologies, including artificial intelligence (AI), data mining, machine learning, natural language processing, and information retrieval and extraction.</p>
+<h4>Web applications</h4>
+<p>We work on the <a href="/intl/en/options/index.html">products</a> our users, advertisers and publishers use. These include <a href="http://adwords.google.com">AdWords</a>, <a href="http://adsense.google.com">AdSense</a>, <a href="http://maps.google.com">Google Maps</a>, <a href="http://checkout.google.com">Google Checkout</a>, <a href="http://local.google.com">Local</a>, <a href="http://finance.google.com">Google Finance</a>, <a href="http://docs.google.com">Docs &amp; Spreadsheets</a>, <a href="http://blogsearch.google.com/">Blog Search</a>, <a href="http://www.google.com/psearch">My Search History</a>, Q&amp;A and Music.</p>
+<h4>Infrastructure and application backends</h4>
+<p>We manage the components and code of the Google infrastructure such as the <a href="http://labs.google.com/papers/gfs-sosp2003.pdf">Google File System</a>, <a href="http://labs.google.com/papers/bigtable-osdi06.pdf">Big Table</a> and <a href="http://labs.google.com/papers/mapreduce.html">MapReduce</a>. We also focus on distributed computing, large-scale infrastructure and performance tuning.</p>
+<h4><a href="http://research.google.com/pubs/papers_by_year.html">Research</a></h4>
+<p>We provide novel and scalable solutions to a variety of computational problems, while also experimenting with new search techniques every day. Our researchers drive key advances in computer science and the future direction of many of Google's projects. Take a peek at the extensive list of <a href="http://research.google.com/pubs/papers_by_year.html">publications by Googlers</a>.</p>
+<h4>Online advertising</h4>
+<p>We acquired DoubleClick allowing us to offer industry-leading ad serving and ad management products. We'll be able to better target, serve and analyze all online ads while delivering relevant and quality experiences to consumers.</p>
+<h4>More, more, more</h4>
+<p>We can't tell you everything we're working on. Otherwise, it would spoil the surprise!</p>
+<h3>Photos</h3>
+<ul class="photos">
+<li><a href="http://picasaweb.google.com/lh/photo/0AhNQUHG1CH6mxaBDX22Yg?feat=embedwebsite"><img alt="NY yoga ball meeting" src="http://lh6.ggpht.com/_HkZ_V7DanUk/R83ZnRunBkI/AAAAAAAABTM/1IyotEHX808/s160/IMG_2469.JPG"></a></li>
+<li><a href="http://picasaweb.google.com/lh/photo/4ow5-63gHUgLNFwdZHM79w?feat=embedwebsite"><img alt="Jousting match" src="http://lh4.ggpht.com/_HkZ_V7DanUk/R83ZixunBTI/AAAAAAAABRE/WyNG59gBPaw/s160/IMG_1016.JPG"></a></li>
+<li><a href="http://picasaweb.google.com/lh/photo/gdH6TvFuDxcY4Y2Qai2_ow?feat=embedwebsite"><img alt="Scootering through the office" src="http://lh4.ggpht.com/_HkZ_V7DanUk/R83ZjxunBXI/AAAAAAAABRk/SVQqQ-YJjEI/s160/IMG_1049.JPG"></a></li>
+</ul>
+<p><a href="http://picasaweb.google.com/photos.jobs/NewYorkOfficePhotos#">See more New York Googler photos &raquo;</a></p>
+</div>
+<div id="about">&copy;2010 Google - <a href="http://www.google.com/">Home</a> - <a href="http://www.google.com/intl/en/about.html">About Google</a> - <a href="http://www.google.com/intl/en/jobs/privacy/">Privacy Policy</a></div>
+</div>
+<script>
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script>
+  try {
+    var pageTracker = _gat._getTracker("UA-18025-1");
+    pageTracker._setAllowAnchor(true);
+    pageTracker._setCookiePath("/intl/en/jobs/");
+    pageTracker._trackPageview();
+  } catch(err) {};
+</script>
+</body>
+</html>

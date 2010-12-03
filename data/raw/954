@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/files/favicon.ico" type="image/x-icon" />
+    <title>Errors | Digg Developers</title>
+    <link type="text/css" rel="stylesheet" media="all" href="http://developers.diggstatic.com/sites/developers.digg.com/files/css/css_28eba948b71fe2e5a4bae73dff0171b9.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="http://developers.diggstatic.com/sites/developers.digg.com/files/css/css_a2a0a33b81c9ebc5e9b3804fe88613c2.css" />
+    <script type="text/javascript"> </script>
+  </head>
+  <body class="not-front not-logged-in page-documentation one-sidebar sidebar-right">
+
+    <div id="page-top" class="group">
+                  <div id='header-wrapper'>
+            <div id="header">
+              <ul class="float-left primary-links"><li class="header-logo first"><a href="/" title="Digg Developers">Digg Developers</a></li>
+<li class="menu-341 active-trail"><a href="/documentation" title="" class="active-trail">Documentation</a></li>
+<li class="menu-342 last"><a href="http://groups.google.com/group/diggapi" title="">Forum</a></li>
+</ul>              <ul class="float-right item-list"><li class="first"><a href="http://digg.com/login">Login</a></li>
+<li class="first"><div class="container-inline"><form action="/documentation/errors"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div>
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="Search Documentation" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit btn btn-secondary" />
+<input type="hidden" name="form_build_id" id="form-d59cec1c66e8271cc42500a233b4fd68" value="form-d59cec1c66e8271cc42500a233b4fd68"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div></li>
+</ul>            </div>
+          </div>
+        
+        
+        <div class="page-title">
+            <h1 class="clear">Errors</h1>
+        </div>
+    </div>
+
+    <div id="main-content">
+
+      <div class="section with-tabs">
+
+       <ul class="group navigation">
+<li ><a href="/documentation">Version 2.0</a></li>
+<li ><a href="/documentation/version-1-0">Version 1.0</a></li>
+<li ><a href="/documentation/arguments">Arguments</a></li>
+<li class="active" ><a href="/documentation/errors" class="active">Errors</a></li>
+</ul>
+
+        <div class='column column-large'>
+         
+                    <div id='400' class='api-class api-args group first-field'><h4>400<span>HTTP = 400</span></h4><div class="api-class-methods">Bad Request</div></div><div id='403' class='api-class api-args group'><h4>403<span>HTTP = 403</span></h4><div class="api-class-methods">Forbidden</div></div><div id='404' class='api-class api-args group'><h4>404<span>HTTP = 404</span></h4><div class="api-class-methods">Not found</div></div><div id='410' class='api-class api-args group'><h4>410<span>HTTP = 410</span></h4><div class="api-class-methods"> Endpoint is deprecated</div></div><div id='500' class='api-class api-args group'><h4>500<span>HTTP = 500</span></h4><div class="api-class-methods">Invalid title</div></div><div id='503' class='api-class api-args group'><h4>503<span>HTTP = 503</span></h4><div class="api-class-methods">Service Unavailable</div></div><div id='1001' class='api-class api-args group'><h4>1001<span>HTTP = 403</span></h4><div class="api-class-methods"> Unrecognized argument</div></div><div id='1002' class='api-class api-args group'><h4>1002<span>HTTP = 403</span></h4><div class="api-class-methods">A Digg API request is missing the callback argument</div></div><div id='1003' class='api-class api-args group'><h4>1003<span>HTTP = 403</span></h4><div class="api-class-methods">A Digg API request has an invalid callback argument</div></div><div id='1005' class='api-class api-args group'><h4>1005<span>HTTP = 403</span></h4><div class="api-class-methods">Application key required</div></div><div id='1006' class='api-class api-args group'><h4>1006<span>HTTP = 403</span></h4><div class="api-class-methods">Argument less than minimum value</div></div><div id='1007' class='api-class api-args group'><h4>1007<span>HTTP = 403</span></h4><div class="api-class-methods">Argument greater than maximum value</div></div><div id='1008' class='api-class api-args group'><h4>1008<span>HTTP = 404</span></h4><div class="api-class-methods">No such story</div></div><div id='1009' class='api-class api-args group'><h4>1009<span>HTTP = 403</span></h4><div class="api-class-methods">Date/time range may not be more than 60 minutes</div></div><div id='1010' class='api-class api-args group'><h4>1010<span>HTTP = 403</span></h4><div class="api-class-methods">That user has not dugg that story</div></div><div id='1011' class='api-class api-args group'><h4>1011<span>HTTP = 404</span></h4><div class="api-class-methods">No such comment for that story</div></div><div id='1012' class='api-class api-args group'><h4>1012<span>HTTP = 403</span></h4><div class="api-class-methods">The List Stories endpoint requires a title or numeric ID</div></div><div id='1013' class='api-class api-args group'><h4>1013<span>HTTP = 403</span></h4><div class="api-class-methods">At most 100 stories may be requested by ID</div></div><div id='1014' class='api-class api-args group'><h4>1014<span>HTTP = 403</span></h4><div class="api-class-methods">Unknown container or topic</div></div><div id='1015' class='api-class api-args group'><h4>1015<span>HTTP = 403</span></h4><div class="api-class-methods">Invalid domain argument</div></div><div id='1016' class='api-class api-args group'><h4>1016<span>HTTP = 403</span></h4><div class="api-class-methods">Invalid link argument</div></div><div id='1017' class='api-class api-args group'><h4>1017<span>HTTP = 403</span></h4><div class="api-class-methods"> Unrecognized sort argument</div></div><div id='1018' class='api-class api-args group'><h4>1018<span>HTTP = 403</span></h4><div class="api-class-methods">Submit and promote date/time ranges may not be used together</div></div><div id='1019' class='api-class api-args group'><h4>1019<span>HTTP = 403</span></h4><div class="api-class-methods">Promote date range may not specified for upcoming stories</div></div><div id='1020' class='api-class api-args group'><h4>1020<span>HTTP = 403</span></h4><div class="api-class-methods">Date/time range may not be more than 30 days</div></div><div id='1021' class='api-class api-args group'><h4>1021<span>HTTP = 404</span></h4><div class="api-class-methods">No such user</div></div><div id='1022' class='api-class api-args group'><h4>1022<span>HTTP = 403</span></h4><div class="api-class-methods">That user is not a friend of that user</div></div><div id='1023' class='api-class api-args group'><h4>1023<span>HTTP = 404</span></h4><div class="api-class-methods">That user is no befriended by that user</div></div><div id='1024' class='api-class api-args group'><h4>1024<span>HTTP = 403</span></h4><div class="api-class-methods">Unrecognized period argument</div></div><div id='1025' class='api-class api-args group'><h4>1025<span>HTTP = 403</span></h4><div class="api-class-methods">Unrecognized error code</div></div><div id='1026' class='api-class api-args group'><h4>1026<span>HTTP = 403</span></h4><div class="api-class-methods">Invalid integer argument</div></div><div id='1027' class='api-class api-args group'><h4>1027<span>HTTP = 403</span></h4><div class="api-class-methods">At most 100 users' diggs or comments may be requested by username</div></div><div id='1028' class='api-class api-args group'><h4>1028<span>HTTP = 403</span></h4><div class="api-class-methods">Invalid application key</div></div><div id='1029' class='api-class api-args group'><h4>1029<span>HTTP = 403</span></h4><div class="api-class-methods">HTTP User-Agent header required</div></div><div id='1030' class='api-class api-args group'><h4>1030<span>HTTP = 403</span></h4><div class="api-class-methods">Invalid argument value</div></div><div id='1031' class='api-class api-args group'><h4>1031<span>HTTP = 403</span></h4><div class="api-class-methods">Date ranges may not be specified for hot stories</div></div><div id='1032' class='api-class api-args group'><h4>1032<span>HTTP = 403</span></h4><div class="api-class-methods">Date ranges may not be specified for top stories</div></div><div id='1033' class='api-class api-args group'><h4>1033<span>HTTP = 403</span></h4><div class="api-class-methods">The sort argument may not specified fro top stories</div></div><div id='1034' class='api-class api-args group'><h4>1034<span>HTTP = 403</span></h4><div class="api-class-methods">The sort argument may not specified for top stories</div></div><div id='1035' class='api-class api-args group'><h4>1035<span>HTTP = 403</span></h4><div class="api-class-methods">Date/time range may not be more than 48 hours</div></div><div id='1037' class='api-class api-args group'><h4>1037<span>HTTP = 403</span></h4><div class="api-class-methods">The userphoto endpoint requires a numeric ID</div></div><div id='1038' class='api-class api-args group'><h4>1038<span>HTTP = 403</span></h4><div class="api-class-methods">Unrecognized size argument</div></div><div id='1039' class='api-class api-args group'><h4>1039<span>HTTP = 403</span></h4><div class="api-class-methods">No such photo</div></div><div id='1040' class='api-class api-args group'><h4>1040<span>HTTP = 403</span></h4><div class="api-class-methods">Unknown media</div></div><div id='1041' class='api-class api-args group'><h4>1041<span>HTTP = 403</span></h4><div class="api-class-methods">Invalid linkhash argument</div></div><div id='1042' class='api-class api-args group'><h4>1042<span>HTTP = 403</span></h4><div class="api-class-methods">At most 100 dialoggs may be requested by ID</div></div><div id='1043' class='api-class api-args group'><h4>1043<span>HTTP = 403</span></h4><div class="api-class-methods">At most 100 gallery photos may be requested by ID</div></div><div id='1044' class='api-class api-args group'><h4>1044<span>HTTP = 403</span></h4><div class="api-class-methods">No such dialogg</div></div><div id='1045' class='api-class api-args group'><h4>1045<span>HTTP = 403</span></h4><div class="api-class-methods">At most 100 topics' or containers' events may be requested</div></div><div id='1046' class='api-class api-args group'><h4>1046<span>HTTP = 403</span></h4><div class="api-class-methods">RSS is not a valid response type for this endpoint</div></div><div id='1047' class='api-class api-args group'><h4>1047<span>HTTP = 400</span></h4><div class="api-class-methods">URL is invalid</div></div><div id='1048' class='api-class api-args group'><h4>1048<span>HTTP = 405</span></h4><div class="api-class-methods">Invalid HTTP/1.1 method.</div></div><div id='1049' class='api-class api-args group'><h4>1049<span>HTTP = 401</span></h4><div class="api-class-methods">Authorization is required</div></div><div id='1050' class='api-class api-args group'><h4>1050<span>HTTP = 400</span></h4><div class="api-class-methods">API request is missing an argument(s)</div></div><div id='1051' class='api-class api-args group'><h4>1051<span>HTTP = 403</span></h4><div class="api-class-methods">Rate limit reached</div></div><div id='1052' class='api-class api-args group'><h4>1052<span>HTTP = 403</span></h4><div class="api-class-methods">No method supplied</div></div><div id='1054' class='api-class api-args group'><h4>1054<span>HTTP = 403</span></h4><div class="api-class-methods"> Unknown version</div></div><div id='1055' class='api-class api-args group'><h4>1055<span>HTTP = 403</span></h4><div class="api-class-methods">Invalid bury reason</div></div><div id='1056' class='api-class api-args group'><h4>1056<span>HTTP = 404</span></h4><div class="api-class-methods">No such Digg ID</div></div><div id='1057' class='api-class api-args group'><h4>1057<span>HTTP = 403</span></h4><div class="api-class-methods">Invalid search query</div></div><div id='1058' class='api-class api-args group'><h4>1058<span>HTTP = 403</span></h4><div class="api-class-methods">Invalid Dialogg ID</div></div><div id='1059' class='api-class api-args group'><h4>1059<span>HTTP = 400</span></h4><div class="api-class-methods">Story has already been dugg by the user</div></div><div id='1060' class='api-class api-args group'><h4>1060<span>HTTP = 400</span></h4><div class="api-class-methods">Story has already been buried by the user</div></div><div id='1061' class='api-class api-args group'><h4>1061<span>HTTP = 400</span></h4><div class="api-class-methods">The digging rate limit has been reached</div></div><div id='1062' class='api-class api-args group'><h4>1062<span>HTTP = 400</span></h4><div class="api-class-methods">User has undugg that story</div></div><div id='1063' class='api-class api-args group'><h4>1063<span>HTTP = 403</span></h4><div class="api-class-methods">Your ability to comment has been temporarily suspended because of complaints from other users</div></div><div id='1064' class='api-class api-args group'><h4>1064<span>HTTP = 403</span></h4><div class="api-class-methods">Sorry, but the comment you're replying to has been deleted</div></div><div id='1065' class='api-class api-args group'><h4>1065<span>HTTP = 403</span></h4><div class="api-class-methods">You just submitted the same comment. Please wait a few minutes before commenting again</div></div><div id='1066' class='api-class api-args group'><h4>1066<span>HTTP = 403</span></h4><div class="api-class-methods">You've reached the max depth for commenting in this thread</div></div><div id='1067' class='api-class api-args group'><h4>1067<span>HTTP = 403</span></h4><div class="api-class-methods">The force is strong with you. Please wait a few minutes before commenting again</div></div><div id='1068' class='api-class api-args group'><h4>1068<span>HTTP = 503</span></h4><div class="api-class-methods">I had no choice. They arrived right before you did. I'm sorry. We seem to be over capacity, try again soon.</div></div><div id='5000' class='api-class api-args group'><h4>5000<span>HTTP = 401</span></h4><div class="api-class-methods">No such OAuth consumer</div></div><div id='5001' class='api-class api-args group'><h4>5001<span>HTTP = 401</span></h4><div class="api-class-methods">OAuth signature is invalid</div></div><div id='5002' class='api-class api-args group'><h4>5002<span>HTTP = 400</span></h4><div class="api-class-methods">OAuth signature method is unsupported</div></div><div id='5003' class='api-class api-args group'><h4>5003<span>HTTP = 401</span></h4><div class="api-class-methods">OAuth token is invalid</div></div><div id='5004' class='api-class api-args group'><h4>5004<span>HTTP = 400</span></h4><div class="api-class-methods">OAuth version requested is not supported</div></div><div id='5005' class='api-class api-args group'><h4>5005<span>HTTP = 400</span></h4><div class="api-class-methods">OAuth request is invalid</div></div><div id='5006' class='api-class api-args group'><h4>5006<span>HTTP = 400</span></h4><div class="api-class-methods">OAuth callback is invalid</div></div>        </div>
+        <div class='column column-small'>
+          
+<div id="right">
+  <div class="sidebar-section group">
+    <h2>Forums & Discussion</h2>
+    <div>
+    
+Need help?  Feel free to ask questions on our <a href="http://groups.google.com/group/diggapi">support forum</a> below.  If you think you have found a bug, please report it in our <a href="http://github.com/digg">issue tracker</a>!
+
+<ul class="support-links">
+  <li class="support-forum"><a href="http://groups.google.com/group/diggapi"><span class="sprite support"></span><strong>Support Forum</strong></a></li>
+  <li class="issue-tracker"><a href="http://github.com/digg"><span class="sprite issues"></span><strong>Issue Tracker</strong></a></li>
+</ul>  </div>
+</div>
+<div class="sidebar-section group">
+    <h2>Toolkits</h2>
+    <div>
+    <img src="http://developers.diggstatic.com/sites/developers.digg.com/themes/developer/img/icons/briefcase.png" alt="Briefcase" title="Briefcase" width="56" height="47" class="float-right graphic" />
+<p><a href="http://pear.php.net/Services_Digg2">Services_Digg2</a> is a <a href="http://pear.php.net">PEAR</a> package created by the developers at Digg that allows developers to quickly consume and interface with the Digg API.</p>
+
+<p>Have a toolkit of your own?</p>
+<p><a href="http://groups.google.com/group/diggapi">Submit your own</a>.</p>  </div>
+</div>
+</div>
+        </div>
+
+      </div>
+      <ul class="footer group"><li class="footer-item-738 first"><a href="/concepts">Basic Concepts</a></li>
+<li class="footer-item-739"><a href="/authentication">Authentication</a></li>
+<li class="footer-item-740"><a href="/response">Response Types</a></li>
+<li class="footer-item-742"><a href="/agreement">License Agreement</a></li>
+<li class="footer-item-743"><a href="/trademark">Digg Trademark</a></li>
+<li class="float-right last"><span><a href="http://jobs.digg.com/" class="highlight">We&#039;re Hiring!</a> &copy; Digg Inc 2010</span></li>
+</ul>    </div>
+    <div class='clear'>
+          </div>
+    <script type="text/javascript" src="http://developers.diggstatic.com/sites/developers.digg.com/files/js/js_ed7cfc7e236bcf41100ab5124937bce0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide", "siblings": 0, "relativity": 0, "children": 0, "clone": 0, "doubleclick": 0 }, "extlink": { "extTarget": 0, "extClass": "ext", "extSubdomains": 1, "extExclude": "", "extInclude": "", "extAlert": 0, "extAlertText": "This link will take you to an external web site. We are not responsible for their content.", "mailtoClass": "mailto" }, "cleardefault": { "edit-search-theme-form-1": "Search Documentation" } });
+//--><!]]>
+</script>
+      </body>
+</html>

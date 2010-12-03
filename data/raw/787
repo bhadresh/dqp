@@ -1,0 +1,206 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head >
+ <title>PEPr :: Package Proposals</title>
+ <link rel="shortcut icon" href="/gifs/favicon.ico" />
+ <link rel="stylesheet" type="text/css" href="/css/reset-fonts.css" />
+ <link rel="stylesheet" type="text/css" href="/css/style.css" />
+ <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/css/IE7styles.css" /><![endif]-->
+ <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/css/IE6styles.css" /><![endif]-->
+ <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+ <link rel="alternate" type="application/rss+xml" title="RSS feed" href="http://pear.php.net/feeds/latest.rss" />
+ <!-- compliance patch for microsoft browsers -->
+<!--[if lt IE 8]>
+ <script type="text/javascript" src="/javascript/IE8.js"></script>
+<![endif]-->
+ <link rel="search" type="application/opensearchdescription+xml" title="PEAR Search Plugin" href="http://pear.php.net/osd.xml" />
+</head>
+
+<body>
+<div>
+<a id="TOP"></a>
+</div>
+
+<div id="doc3">
+<!-- START HEADER -->
+ <div id="user">
+  <ul>
+   <li><a href="/account-request.php">Register</a></li>
+   <li class="last"><a href="/login.php?redirect=/pepr/index.php">Login</a></li>
+  </ul>
+ </div>
+
+ <div id="search">
+  <form method="get" action="/search.php">
+   <p style="margin: 0px;">
+    <span class="accesskey">S</span>earch for
+    <input type="text" name="q" value="" size="20" accesskey="s" />
+    in the
+    <select name="in">
+        <option value="packages">Packages</option>
+        <option value="site">This site (using Yahoo!)</option>
+        <option value="users">Developers</option>
+        <option value="pear-dev">Developer mailing list</option>
+        <option value="pear-general">General mailing list</option>
+        <option value="pear-cvs">SVN commits mailing list</option>
+    </select>
+    <input type="image" src="/gifs/small_submit_white.gif" alt="search" style="vertical-align: middle;" />
+   </p>
+  </form>
+ </div>
+
+  <div id="header">
+   <a href="/"><img src="/gifs/pearsmall.gif" style="border: 0;" width="104" height="50" alt="PEAR"  /></a><br />
+  </div>
+
+<div id="menubar">
+
+<ul id="menu">
+ <li class="menu-item"><a href="/index.php">Main</a></li>
+ <li class="menu-item"><a href="/support/">Support</a></li>
+ <li class="menu-item"><a href="/manual/">Documentation</a></li>
+ <li class="menu-item"><a href="/packages.php">Packages</a></li>
+ <li class="menu-item current"><a href="/pepr/">Package Proposals</a></li>
+ <li class="menu-item"><a href="/accounts.php">Developers</a></li>
+ <li class="menu-item menu-item-last"><a href="/bugs/">Bugs</a></li>
+</ul>
+
+</div>
+
+
+<ul id="submenu">
+ <li class="menu-item current"><a href="/pepr/">Browse Proposals</a></li>
+ <li class="menu-item menu-item-last"><a href="/pepr/pepr-proposal-edit.php">New Proposal</a></li>
+</ul>
+
+<!-- END HEADER -->
+<!-- START MIDDLE -->
+
+<!-- START MAIN CONTENT -->
+
+  <div id="body">
+
+<h1>Package Proposals</h1>
+<p>PEPr is PEAR's system for managing the process of submitting new packages. If you would like to submit your own package, please have a look at the <a href="/manual/en/developers-newmaint.php">New Maintainers' Guide</a>.</p><p><a href="/feeds/pepr.rss"><img src="/gifs/feed.png" width="16" height="16" alt="Aggregate this" border="0" /></a></p><div id="nav">
+  <ul>
+    <li><a href="index.php?filter=" title="All">All</a></li>
+    <li><a href="index.php?filter=draft" title="Draft">Draft</a></li>
+    <li><a href="index.php?filter=proposal" title="Proposed">Proposed</a></li>
+    <li><a href="index.php?filter=vote" title="Called for Votes">Called for Votes</a></li>
+    <li><a href="index.php?filter=finished" title="Finished">Finished</a></li>
+  </ul>
+</div>
+<div style="float: right"><a href='/feeds/pepr_draft.rss'><img src="/gifs/feed.png" width="16" height="16" alt="Aggregate this" border="0" /></a></div><h2 id="draft">&raquo; Draft</h2>
+<ul>
+  <li><a href="pepr-proposal-show.php?id=647">Web Services :: StackPHP</a> by <a href="/user/george_edison55">George Edison</a></li>
+  <li><a href="pepr-proposal-show.php?id=646">Web Services :: Services_Amazon_SNS</a> by <a href="/user/till">Till Klampaeckel</a></li>
+  <li><a href="pepr-proposal-show.php?id=638">HTTP :: HTTP_OAuth2</a> by <a href="/user/laurence">Laurence Miao</a></li>
+  <li><a href="pepr-proposal-show.php?id=637">Database :: Open_DBA</a> by <a href="/user/atkrad">Mohammad Abdoli Rad</a></li>
+  <li><a href="pepr-proposal-show.php?id=636">HTML :: HTML_Template_IT2</a> by <a href="/user/gregorycu">Gregory Currie</a></li>
+  <li><a href="pepr-proposal-show.php?id=629">Web Services :: Services_Capsule</a> by <a href="/user/davidc">David Coallier</a></li>
+  <li><a href="pepr-proposal-show.php?id=624">HTML :: HTML_QuickForm2_Smarty</a> by <a href="/user/addw">Alain Williams</a></li>
+  <li><a href="pepr-proposal-show.php?id=621">Structures :: Hook</a> by <a href="/user/ericwang">eric wang</a></li>
+  <li><a href="pepr-proposal-show.php?id=615">RFC :: boapi</a> by <a href="/user/bastie">Sebastian Ritter</a></li>
+  <li><a href="pepr-proposal-show.php?id=614">HTTP :: HTTP_Browser</a> by <a href="/user/ddoxey">Dylan Doxey</a></li>
+  <li><a href="pepr-proposal-show.php?id=613">Logging :: Log2</a> by <a href="/user/brandon">Brandon Savage</a></li>
+  <li><a href="pepr-proposal-show.php?id=604">Networking :: TextMagic_SMS</a> by <a href="/user/loci">Nikita Fedyashev</a></li>
+  <li><a href="pepr-proposal-show.php?id=590">File Formats :: SLK</a> by <a href="/user/nepto">Ondrej Jombík</a></li>
+  <li><a href="pepr-proposal-show.php?id=576">PHP :: Flu</a> by <a href="/user/qqrq">Jakub Bajorek</a></li>
+  <li><a href="pepr-proposal-show.php?id=575">Images :: Image2bmp</a> by <a href="/user/fly">Srecko Struk</a></li>
+  <li><a href="pepr-proposal-show.php?id=571">Encryption :: Crypt_Camellia</a> by <a href="/user/yanagisawa">Yoshisato Yanagisawa</a></li>
+  <li><a href="pepr-proposal-show.php?id=567">Web Services :: Services_Shipping</a> by <a href="/user/nullmind">Kristopher Ives</a></li>
+  <li><a href="pepr-proposal-show.php?id=551">RFC :: Lowercase namespace/package names in PEAR2</a> by <a href="/user/tswicegood">Travis Swicegood</a></li>
+  <li><a href="pepr-proposal-show.php?id=549">RFC :: Package Naming Conventions</a> by <a href="/user/tswicegood">Travis Swicegood</a></li>
+  <li><a href="pepr-proposal-show.php?id=515">XML :: XML_Feed</a> by <a href="/user/mjijackson">Michael Jackson</a></li>
+  <li><a href="pepr-proposal-show.php?id=492">File Formats :: Spreadsheet_Excel_Reader</a> by <a href="/user/shangxiao">David Sanders</a></li>
+  <li><a href="pepr-proposal-show.php?id=491">File Formats :: Spreadsheet_Excel</a> by <a href="/user/shangxiao">David Sanders</a></li>
+</ul>
+
+
+<div style="float: right"><a href='/feeds/pepr_proposal.rss'><img src="/gifs/feed.png" width="16" height="16" alt="Aggregate this" border="0" /></a></div><h2 id="proposal">&raquo; Proposed</h2>
+<ul>
+  <li><a href="pepr-proposal-show.php?id=648">Payment :: Payment_EDIFACT</a> by <a href="/user/czerwinski1977">Reinhard Mayr</a> &nbsp;(<a href="pepr-comments-show.php?id=648">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=645">Configuration :: Config_Lite</a> by <a href="/user/pce">Patrick Engel</a> &nbsp;(<a href="pepr-comments-show.php?id=645">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=644">HTTP :: HTTP_OAuthProvider</a> by <a href="/user/eth0jp">Tetsuya Yoshida</a> &nbsp;(<a href="pepr-comments-show.php?id=644">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=642">System :: System_Launcher</a> by <a href="/user/olleolleolle">Olle Jonsson</a> &nbsp;(<a href="pepr-comments-show.php?id=642">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=641">File Formats :: PDF Reader</a> by <a href="/user/jmstokes">John Stokes</a> &nbsp;(<a href="pepr-comments-show.php?id=641">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=640">PHP :: MapFilter</a> by <a href="/user/ogondza">oliver gondza</a> &nbsp;(<a href="pepr-comments-show.php?id=640">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=635">XMPP :: JAXL</a> by <a href="/user/abhinavsingh">Abhinav Singh</a> &nbsp;(<a href="pepr-comments-show.php?id=635">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=634">PHP :: Autoloader</a> by <a href="/user/malkusch">Markus Malkusch</a> &nbsp;(<a href="pepr-comments-show.php?id=634">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=633">HTML :: HTML_QuickForm2_BackgroundText</a> by <a href="/user/cweiske">Christian Weiske</a> &nbsp;(<a href="pepr-comments-show.php?id=633">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=632">HTML :: HTML_QuickForm2_Captcha</a> by <a href="/user/cweiske">Christian Weiske</a> &nbsp;(<a href="pepr-comments-show.php?id=632">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=631">Web Services :: Services_BrowserMob</a> by <a href="/user/nohn">Sebastian Nohn</a> &nbsp;(<a href="pepr-comments-show.php?id=631">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=630">Web Services :: Services_RackCloud</a> by <a href="/user/jtkendall">Josh Kendall</a> &nbsp;(<a href="pepr-comments-show.php?id=630">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=627">File Formats :: Genealogy_Gedcom</a> by <a href="/user/ed4becky">Ed Thompson</a> &nbsp;(<a href="pepr-comments-show.php?id=627">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=626">HTML :: HTML_Template</a> by <a href="/user/jan267">Jacopo Andrea Nuzzi</a> &nbsp;(<a href="pepr-comments-show.php?id=626">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=620">Web Services :: Services_Memotoo</a> by <a href="/user/memotoo">Pequet Thomas</a> &nbsp;(<a href="pepr-comments-show.php?id=620">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=619">Math :: Math_Assoc</a> by <a href="/user/azerot">Bogomil Gospodinov</a> &nbsp;(<a href="pepr-comments-show.php?id=619">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=618">Text :: MetaTags</a> by <a href="/user/dolphinet">Zoltan Koteles</a> &nbsp;(<a href="pepr-comments-show.php?id=618">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=617">Internationalization :: Arabic</a> by <a href="/user/arphp">Khaled Al-Shamaa</a> &nbsp;(<a href="pepr-comments-show.php?id=617">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=616">XML :: Create_KML</a> by <a href="/user/hamstar">Robert McLeod</a> &nbsp;(<a href="pepr-comments-show.php?id=616">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=611">Images :: Image_Diff</a> by <a href="/user/skwashd">Dave Hall</a> &nbsp;(<a href="pepr-comments-show.php?id=611">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=606">RFC :: Drop requirement of renaming a package when migrating from PHP 4.x to PHP 5.x</a> by <a href="/user/nohn">Sebastian Nohn</a> &nbsp;(<a href="pepr-comments-show.php?id=606">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=605">Mail :: Mail_CheckUser</a> by <a href="/user/miyauchi">Takayuki Miyauchi</a> &nbsp;(<a href="pepr-comments-show.php?id=605">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=593">Web Services :: Services_WhitePages</a> by <a href="/user/johntse">Juan Manuel Fernandez Arauz</a> &nbsp;(<a href="pepr-comments-show.php?id=593">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=591">Encryption :: Crypt_FSHP</a> by <a href="/user/bdd">Berk D. Demir</a> &nbsp;(<a href="pepr-comments-show.php?id=591">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=585">RFC :: Unit tests, new packages, good practice</a> by <a href="/user/doconnor">Daniel O'Connor</a> &nbsp;(<a href="pepr-comments-show.php?id=585">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=584">Images :: Image_Barcode2</a> by <a href="/user/skwashd">Dave Hall</a> &nbsp;(<a href="pepr-comments-show.php?id=584">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=581">Networking :: SNMP</a> by <a href="/user/jossy19">Joselyn Camero</a> &nbsp;(<a href="pepr-comments-show.php?id=581">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=580">RFC :: Amendment of Docblock Comment Standards</a> by <a href="/user/avb">Alexey Borzov</a> &nbsp;(<a href="pepr-comments-show.php?id=580">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=538">RFC :: Coding standard enhancements</a> by <a href="/user/cweiske">Christian Weiske</a> &nbsp;(<a href="pepr-comments-show.php?id=538">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=523">Web Services :: Plesk</a> by <a href="/user/ppadron">Pedro Padron</a> &nbsp;(<a href="pepr-comments-show.php?id=523">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=514">XML :: SvgGrapher</a> by <a href="/user/guil">Guillaume Luchet</a> &nbsp;(<a href="pepr-comments-show.php?id=514">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=512">Web Services :: OAuth</a> by <a href="/user/padraic">Pádraic Brady</a> &nbsp;(<a href="pepr-comments-show.php?id=512">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=507">Tools and Utilities :: DbDeploy</a> by <a href="/user/groovecoder">Luke Crouch</a> &nbsp;(<a href="pepr-comments-show.php?id=507">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=504">Mail :: Mail_Admin</a> by <a href="/user/cweiske">Christian Weiske</a> &nbsp;(<a href="pepr-comments-show.php?id=504">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=487">Logging :: Log_XML</a> by <a href="/user/designatevoid">Michael &quot;Vladimyr&quot; Gower</a> &nbsp;(<a href="pepr-comments-show.php?id=487">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=469">Numbers :: ISBN</a> by <a href="/user/tkli">Tom Klingenberg</a> &nbsp;(<a href="pepr-comments-show.php?id=469">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=359">Database :: DB_Virtual</a> by <a href="/user/jstump">Joe Stump</a> &nbsp;(<a href="pepr-comments-show.php?id=359">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=311">Processing :: Processing_BF</a> by <a href="/user/bolk">Evgeny Stepanischev</a> &nbsp;(<a href="pepr-comments-show.php?id=311">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=273">Console :: Console_Wizard</a> by <a href="/user/clay">Clay Loveless</a> &nbsp;(<a href="pepr-comments-show.php?id=273">Comments</a>)</li>
+  <li><a href="pepr-proposal-show.php?id=165">Math :: Map_Projection</a> by <a href="/user/migurski">Michal Migurski</a> &nbsp;(<a href="pepr-comments-show.php?id=165">Comments</a>)</li>
+</ul>
+
+
+<div style="float: right"><a href='/feeds/pepr_vote.rss'><img src="/gifs/feed.png" width="16" height="16" alt="Aggregate this" border="0" /></a></div><h2 id="vote">&raquo; Called for Votes</h2>
+<p>There are no Called for Votes proposals to render</p>
+
+<div style="float: right"><a href='/feeds/pepr_finished.rss'><img src="/gifs/feed.png" width="16" height="16" alt="Aggregate this" border="0" /></a></div><h2 id="finished">&raquo; Finished</h2>
+<ul>
+  <li><a href="pepr-proposal-show.php?id=643">Networking :: Net_DNS2</a> by <a href="/user/mikepultz">Mike Pultz</a> &nbsp;(<a href="pepr-votes-show.php?id=643">Vote</a> sum: <strong>6</strong><small>, 0 conditional</small>)</li>
+  <li><a href="pepr-proposal-show.php?id=639">PHP :: System_MultiThreading</a> by <a href="/user/dimarikson">Dmitry Belyaev</a> &nbsp;(<a href="pepr-votes-show.php?id=639">Vote</a> sum: <strong>1</strong><small>, 1 conditional</small>)</li>
+  <li><a href="pepr-proposal-show.php?id=628">Web Services :: Services_UseKetchup</a> by <a href="/user/till">Till Klampaeckel</a> &nbsp;(<a href="pepr-votes-show.php?id=628">Vote</a> sum: <strong>5</strong><small>, 1 conditional</small>)</li>
+  <li><a href="pepr-proposal-show.php?id=625">VersionControl :: VersionControl_Git</a> by <a href="/user/ebihara">Kousuke Ebihara</a> &nbsp;(<a href="pepr-votes-show.php?id=625">Vote</a> sum: <strong>9</strong><small>, 3 conditional</small>)</li>
+  <li><a href="pepr-proposal-show.php?id=623">Images :: Image_QRCode</a> by <a href="/user/richsage">Rich Sage</a> &nbsp;(<a href="pepr-votes-show.php?id=623">Vote</a> sum: <strong>5</strong><small>, 2 conditional</small>)</li>
+  <li><a href="pepr-proposal-show.php?id=622">Web Services :: Services_Digg2</a> by <a href="/user/shupp">Bill Shupp</a> &nbsp;(<a href="pepr-votes-show.php?id=622">Vote</a> sum: <strong>9</strong><small>, 0 conditional</small>)</li>
+  <li><a href="pepr-proposal-show.php?id=608">Web Services :: Services_IP2Country</a> by <a href="/user/rozesamuel">Samuel ROZE</a> &nbsp;(<a href="pepr-votes-show.php?id=608">Vote</a> sum: <strong>0</strong><small>, 0 conditional</small>)</li>
+  <li><a href="pepr-proposal-show.php?id=607">HTTP :: HTTP_OAuth</a> by <a href="/user/jeffhodsdon">Jeff Hodsdon</a> &nbsp;(<a href="pepr-votes-show.php?id=607">Vote</a> sum: <strong>12</strong><small>, 4 conditional</small>)</li>
+  <li><a href="pepr-proposal-show.php?id=603">Authentication :: OpenID</a> by <a href="/user/shupp">Bill Shupp</a> &nbsp;(<a href="pepr-votes-show.php?id=603">Vote</a> sum: <strong>8</strong><small>, 0 conditional</small>)</li>
+  <li><a href="pepr-proposal-show.php?id=601">PEAR :: PEAR_TestListener</a> by <a href="/user/farell">Laurent Laville</a> &nbsp;(<a href="pepr-votes-show.php?id=601">Vote</a> sum: <strong>4</strong><small>, 1 conditional</small>)</li>
+</ul>
+
+
+<a href="/pepr/?filter=finished">All finished proposals</a>
+  </div>
+
+<!-- END MAIN CONTENT -->
+<!-- END MIDDLE -->
+
+<!-- START FOOTER -->
+<div id="footer">
+  <div id="foot-bar"><a href="/about/privacy.php">PRIVACY POLICY</a>&nbsp;|&nbsp;<a href="/about/credits.php">CREDITS</a></div>
+  <div id="foot-copy">
+    <a href="/copyright.php">Copyright &copy; 2001-2010 The PHP Group</a>    All rights reserved.
+  </div>
+
+  <div id="foot-source">
+    Bandwidth and hardware provided by:
+    <a href="http://www.eukhost.com/">eUKhost</a>
+  </div>
+</div>
+
+<!-- Onload focus to pear -->
+<!-- END FOOTER -->
+ </div>
+</body>
+</html>

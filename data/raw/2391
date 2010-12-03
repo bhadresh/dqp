@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>San Francisco - US jobs - Google</title>
+<link charset="utf-8" href="http://www.google.com/jobs/css/styles.css" media="all" rel="stylesheet">
+<script charset="utf-8">
+  document.onload = setCookies();
+  function setCookies() {
+    var cookieValue = getQuery('src');
+    if (cookieValue){
+      var today = new Date();
+      var expire = new Date();
+      expire.setTime(today.getTime() + 3600000 * 24 * 14);
+      document.cookie = 'JobsSrc' + '=' + escape(cookieValue) +
+      ';expires=' + expire.toGMTString() + ';path=/';
+    }
+  }
+  function getCookie(cookieName) {
+    if (document.cookie.length > 0) {
+      cookieStart = document.cookie.indexOf(cookieName + '=');
+      if (cookieStart != -1) {
+        cookieStart += cookieName.length + 1;
+        cookieEnd = document.cookie.indexOf(';', cookieStart);
+        if (cookieEnd == -1) cookieEnd = document.cookie.length;
+        return document.cookie.substring(cookieStart, cookieEnd);
+      }
+    } else return '';
+  }
+  function getQuery(queryName) {
+    var queryString = window.location.hash.substring(1);
+    if (queryString.length > 0) {
+      queryStart = queryString.indexOf(queryName + '=');
+      if (queryStart != -1) {
+        queryStart += queryName.length + 1;
+        queryEnd = queryString.indexOf('&', queryStart);
+        if (queryEnd == -1) queryEnd = queryString.length;
+        return queryString.substring(queryStart, queryEnd);
+      }
+    } else return '';
+  }
+</script>
+<script>
+function searchQuery() {
+  var query = document.getElementById('q').value
+  if (query){
+    window.location.href = '/intl/en/jobs/search/index.html#q=' + encodeURI(query);
+  } else {
+  alert('To search jobs, please enter a keyword or phrase.');
+  }
+    }
+</script>
+<style>
+ br.c4 {clear:both;}
+ div.c3 {width:55%;float:right;margin-top:0;}
+ div.c2 {width:45%;float:left;margin-top:0;}
+ h4.c1 {margin-top:0;margin-bottom:0;}
+</style>
+</head>
+<body>
+<h1><a href="/" title="Google"><img alt="Google" id="logo" name="logo" src="http://www.google.com/images/logo_sm.gif"></a>US jobs</h1>
+<p id="x-breadcrumb"><a href="../../index.html">Jobs</a> &gt; <a href="../../uslocations/index.html">US locations</a> &gt; <strong>California - San Francisco</strong></p>
+<ul id="nav">
+<li><a href="/intl/en/jobs/index.html">Jobs</a></li>
+<li><a href="/intl/en/jobs/lifeatgoogle/index.html">Life at Google</a></li>
+<li><a href="/intl/en/jobs/locations/index.html">Office locations</a></li>
+<li><a href="/intl/en/jobs/joininggoogle/index.html">Joining Google</a></li>
+<li><a href="http://www.google.com/jobs/students">Student jobs</a></li>
+</ul>
+<form id="x-search" method="post" name="x-search" onsubmit="searchQuery(); return false"><label for="q">Search US openings</label> <input id="q" maxlength="80" name="q" size="15" type="text" value=""><input type="submit" value="Search"></form>
+<div id="aux">
+<div id="right">
+<div class="box">
+<h3>San Francisco office</h3>
+<p>345 Spear Street<br>
+2nd-4th Floors<br>
+San Francisco, CA 94105<br>
+(<a href="http://www.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=google+san+francisco&amp;ie=UTF8&amp;z=15&amp;iwloc=A">map</a>)</p>
+</div>
+<div class="box">
+<h3>Related links</h3>
+<p><a href="http://googleblog.blogspot.com/2008/05/san-francisco-office-rides-wave.html">SF office in the Google blog</a></p>
+</div>
+</div>
+<div id="maincontent">
+<h2>Google San Francisco</h2>
+<p><a href="http://picasaweb.google.com/lh/photo/WZ7yKcPUvbgZE-j26adDRg"><img alt="Welcome to Google San Francisco!" class="leftborder" src="http://lh6.ggpht.com/photos.jobs/SK3-f_RhLgI/AAAAAAAAQZY/N6fcFWIDXF0/s200/GoogleLogo.jpg"></a></p>
+<blockquote>&ldquo;There's no better place for tackling global problems than in a technology-rich, urban environment.&rdquo;</blockquote>
+<p class="subtle">- Todd Curtiss, Engineering Director</p>
+<hr>
+<h3>Browse San Francisco openings</h3>
+<div class="c2">
+<h4 class="c1">Technical</h4>
+<ul class="joblisting">
+<li><a href="../../uslocations/san-francisco/swe/index.html" onclick="javascript:pageTracker._trackEvent('Listings','San Francisco','us/uslocations/san-francisco/swe');">Software Engineering</a></li>
+<li><a href="../../uslocations/san-francisco/engops/index.html" onclick="javascript:pageTracker._trackEvent('Listings','San Francisco','us/uslocations/san-francisco/engops');">Engineering Operations</a></li>
+</ul>
+</div>
+<div class="c3">
+<h4 class="c1">Sales, General, and Administrative</h4>
+<ul class="joblisting">
+<li><a href="../../uslocations/san-francisco/adsales/index.html" onclick="javascript:pageTracker._trackEvent('Listings','San Francisco','us/uslocations/san-francisco/adsales');">Advertising Sales &amp; Customer Support</a></li>
+<li><a href="../../uslocations/san-francisco/markcomm/index.html" onclick="javascript:pageTracker._trackEvent('Listings','San Francisco','us/uslocations/san-francisco/markcomm');">Marketing &amp; Communications</a></li>
+<li><a href="../../uslocations/san-francisco/admin/index.html" onclick="javascript:pageTracker._trackEvent('Listings','San Francisco','us/uslocations/san-francisco/admin');">Administrative</a></li>
+</ul>
+</div>
+<br class="c4">
+<h3>What's it like to work in San Francisco?</h3>
+<p>With the lights of Oakland and the Berkeley Hills to our East, the home of the SF Giants within walking distance, and the bustling life of the SoMa (South of Market) neighborhood right outside, Google's San Francisco office is located in the hot spot for the city's tech companies.</p>
+<p>Easily accessible via SF MUNI and BART, the San Francisco Office is home to <a href="http://www.google.org/">Google.org</a>, Engineering, Product, Advertising Sales and Operations, <a href="http://www.doubleclick.com/">DoubleClick</a>, and Corporate Communications. Having an office here allows us to not only be more responsive to our users and customers, but also helps us to nurture client relationships with San Francisco-based companies.</p>
+<p>Creativity and innovation drive our SF office. Our San Francisco engineers work on a range of projects including developer products (<a href="http://code.google.com/appengine/">Google App Engine</a>) and programs (<a href="http://code.google.com/">code.google.com</a> and advocacy), cluster management, site reliability engineering, <a href="http://gmail.google.com/mail/help/join_the_team.html">Gmail</a>, enterprise applications, security engineering &amp; operations, internal sales applications, and infrastructure quantitative research.</p>
+<p>Other Googlers in San Francisco work on initiatives that are just as varied. Our <a href="http://www.google.org/">Google.org</a> team is focused on renewable energy, fostering economic growth in developing countries, and a range of other projects. Our Advertising Sales, Operations, and <a href="http://www.doubleclick.com/">DoubleClick</a> teams help clients &ndash; from Fortune 100 companies to local mom-and-pop shops to ad agencies &ndash; attract customers using Google solutions.</p>
+<p>Just like the beautiful city by the bay, the SF Office is dynamic and exciting and we hope to see you here soon!</p>
+<h3>Photos</h3>
+<ul class="photos">
+<li><a href="http://picasaweb.google.com/lh/photo/tB3_Ght6FPVMNsbZhacFkg"><img alt="Costume Day" src="http://lh6.ggpht.com/photos.jobs/SK370pnCmvI/AAAAAAAAQYY/Mu_WzRyi9Qc/s160/C%26A-Song-%26-Dance-Shoot-%2854%29.jpg"></a></li>
+<li><a href="http://picasaweb.google.com/lh/photo/4qF54F_jigL5MGMRnFKbFg"><img alt="The SF Balcony" src="http://lh6.ggpht.com/photos.jobs/SK36gkBiE9I/AAAAAAAAQYA/SW9Y6tNNlpo/s160/SF-Job-Site---Balcony_Horizontal.jpg"></a></li>
+<li><a href="http://picasaweb.google.com/lh/photo/6m9Bf8_Rn8bxq3U87fMr7A"><img alt="SF Googler at his desk" src="http://lh3.ggpht.com/photos.jobs/SK38KtujdDI/AAAAAAAAQYk/poUN3oR1y0o/s160/SF-Job-Site--Todd-at-desk.jpg"></a></li>
+</ul>
+<p><a href="http://picasaweb.google.com/photos.jobs/SanFranciscoOfficePhotos">See more San Francisco Googler photos &raquo;</a></p>
+</div>
+<div id="about">&copy;2010 Google - <a href="http://www.google.com/">Home</a> - <a href="http://www.google.com/intl/en/about.html">About Google</a> - <a href="http://www.google.com/intl/en/jobs/privacy/">Privacy Policy</a></div>
+</div>
+<script>
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script>
+  try {
+    var pageTracker = _gat._getTracker("UA-18025-1");
+    pageTracker._setAllowAnchor(true);
+    pageTracker._setCookiePath("/intl/en/jobs/");
+    pageTracker._trackPageview();
+  } catch(err) {};
+</script>
+</body>
+</html>

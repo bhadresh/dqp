@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<link rel="stylesheet" href="//www.google.com/css/header.css"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Google Books Settlement Agreement</title>
+<link href="//www.google.com/css/goog.css" rel="stylesheet" type="text/css" />
+<link href="//www.google.com/css/gooey.css" rel="stylesheet" type="text/css" />
+<link href="http://www.google.com/css/layout-v2.css" rel="stylesheet" type="text/css" />
+<link href="site.css" rel="stylesheet" type="text/css" />
+<style>
+.attnbox {background:#f9f8d0;border:1px solid #c9c8a0;width:100%;margin:0 0 20px
+  0;float:none;text-align:left;}
+</style>
+</head>
+<body>
+<div class="g-section header">
+<a href="/books/"><img src="/images/logos/books_logo.gif" alt="" /></a>
+</div>
+<div class="g-doc">
+<div class="g-section g-tpl-160">
+<div class="g-unit g-first leftnav">
+<ul class="nav">
+<li><a href="index.html">Home</a></li>
+<li><a href="https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/home">Thoughts and<br />Opinions</a></li>
+<li><a href="press.html" class="selected">Press Center</a></li>
+<li><a href="faq.html">FAQ</a></li>
+</ul>
+</div>
+<div class="g-unit content"><h1>Google Books Settlement Agreement</h1>
+  <div class="attnbox"><p><strong>Important Update:</strong> On November 19, 2009, the Court <a href="http://www.googlebooksettlement.com/05CV8136_20091119.pdf">granted</a> preliminary approval of the <a href="http://www.googlebooksettlement.com/Amended-Settlement-Agreement.zip">Amended Settlement</a>. If you're an author, publisher, or copyright holder, please visit the <a href="http://www.googlebooksettlement.com/">settlement administration site</a> for information.
+</div>
+<h2>Press center</h2>
+<p>
+<h5>Amended Settlement Agreement - Posted 11/13/2009</h5>
+<p><a href="https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/revised-settlement/SettlementModificationsOverview.pdf">Amended Settlement Overview</a> [English PDF]
+<p><a href="https://sites.google.com/a/pressatgoogle.com/googlebookssettlement/revised-settlement-faq/RevisedSettlementFAQ.pdf">Amended Settlement FAQ</a> [English PDF]
+
+<p>
+<h5>Original Settlement Agreement:</h5>
+<p><a href="http://www.google.com/intl/en/press/pressrel/20081027_booksearchagreement.html">Press Release</a></p>
+<p><a href="faq.html">Press FAQ</a></p>
+<p><a href="http://books.google.com/booksrightsholders/agreement-contents.html">Download a copy of the agreement</a> [In English]</p>
+<p><a href="us_exec_summary.pdf">Executive Summary</a> [PDF]</p>
+<p><a href="libraries.pdf">Libraries and this agreement</a> [PDF]</p>
+<p>
+</p><p><b>For press inquiries, please contact the following:</b></p>
+<p>Google: <a href="mailto:Press@google.com">Press@google.com</a><br />
+</p>
+</div>
+</div>
+<div class="g-section g-tpl-160">
+<div class="g-unit g-first">
+</div>
+<div class="g-unit">
+<div class="g-section footer"><p>&copy;2010 Google</p></div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-18010-1");
+pageTracker._setCookiePath("/googlebooks/")
+pageTracker._trackPageview();
+</script>
+</body>
+</html>

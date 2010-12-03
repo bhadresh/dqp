@@ -1,0 +1,1102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Digg
+                    - Entertainment
+                 - The Latest News Headlines, Videos and Images
+    </title>
+    
+        <meta name="keywords" content="Digg, pictures, breaking news, entertainment, politics, technology, headline news, celebrity news, offbeat, world business, sports, funny videos">
+        <meta name="description" content="The best news, videos and pictures on the web as voted on by the Digg community. Breaking news on Technology, Politics, Entertainment, and more!">
+    
+    
+        
+        <link rel="apple-touch-icon" href="http://cdn1.diggstatic.com/img/iphone/icon.63e34426.png"/>
+    
+    
+    <link rel="alternate" type="application/rss+xml" title="Digg - The Latest News Headlines, Videos and Images" href="/news/entertainment.rss">
+    
+        <link rel="shortcut icon" href="http://cdn1.diggstatic.com/img/favicon.a015f25c.ico">
+    
+        <link rel="stylesheet" type="text/css" href="http://cdn1.diggstatic.com/css/library/global.280a6733.css" media="all">
+        <!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://cdn1.diggstatic.com/css/support/ie_7.9b9d4168.css" media="all"><![endif]-->
+        <!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://cdn4.diggstatic.com/css/support/ie_8.88a26ac5.css" media="all"><![endif]-->
+        
+    
+    <script type='text/javascript'>
+var DUI=function(){function d(){for(e=1;b.length;)b.shift()();b=null}var e,b=[];if(window.attachEvent)attachEvent("onload",d);else window.addEventListener&&addEventListener("load",d,true);return{mergeIn:function(a){for(propName in a)this[propName]=a[propName]},onPageLoad:function(a){e?a():b.push(a)},loadScript:function(a){var c=document.createElement("SCRIPT"),f=document.getElementsByTagName("SCRIPT")[0];c.type="text/javascript";c.async=true;c.src=a;f.parentNode.insertBefore(c,f)}}}();
+DUI.mergeIn({"digg_security_token":"1291248638_f345658f511bd068852f4e298b42726600e3d969eac7b84432bd36e0ed075834","digg_loggedin_state":0,"digg_location_id":20,"digg_language":"en_US","digg_trap_js_errors":0,"poll_digg_counters":0,"fb_app_id":"22108119377"})
+</script>
+
+    <script type="text/html" id="ad_template"><div id="main" class="story-item ad-river group <@=ad_id@>"><div class="story-item-gutters group"><div class="story-item-diggbtn"><div class="digg-btn has-tooltip<@=(ad_user_has_dugg ? " digg-dugg" : "")@>" data-id="<@=ad_id@>"><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="digg-count-wrapper"><span class="digg-count"><span><@=ad_meta.diggs@></span></span></a><a class="digg-it digg-advert group<@=ad_user_has_dugg ?" digg-dugg\" href=\"" + ad_server + ad_click_url + "\"" : "\""@>></a></div></div><div class="story-item-content group"><div class="story-item-details"><h3 class="story-item-title"><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="story-title"><@=ad_meta.title@></a></h3><p class="story-item-description"><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="story-item-source"><@=ad_meta.display_url@></a><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="story-item-teaser">&mdash; <@=ad_meta.description@></a></p></div><ul class="story-item-meta group"><li class="sponsored-by">Sponsored by <strong><@=ad_meta.sponsored_by@></strong></li><li class="story-item-bury"><a class="hide-link"><span class="storylist-icon bury dib"></span>Bury</a></li></ul></div><div class="story-item-media"><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="story-item-thumb"><div class="thumb-edges"></div><img src="<@=ad_meta.thumbnail_url@>" alt="<@=ad_meta.title@>"></a></div><@ if (ad_meta.impression_url) { @><img src="<@=ad_meta.impression_url@>" class="ad-pixel"><@ } @></div></div></script>
+<script type="text/javascript" charset="utf-8">DUI.ad_url_uprrail1 = 'http://ad.doubleclick.net/adj/dgg.ente/home_tn_uprrail1;pt=tn;media=all;kw=history;kw=high;kw=17;kw=started;kw=toilet;kw=beat;kw=video;kw=sheds;kw=bike;kw=tv;kw=film;kw=age;kw=digs;kw=basements;kw=fair;kw=sexual;kw=playboys;kw=affair;kw=viewers;kw=famous;kw=collection;kw=guy;kw=alright;kw=mike;kw=racing;kw=entertainment;dv=v4;scat=ente;sync=yes;pos=uprrail1;sz=300x250,300x330;tile=1;ord=1291248638.75775';DUI.ad_url_siderailpromo1 = 'http://ad.doubleclick.net/adj/dgg.ente/home_tn_siderailpromo1;pt=tn;media=all;kw=history;kw=high;kw=17;kw=started;kw=toilet;kw=beat;kw=video;kw=sheds;kw=bike;kw=tv;kw=film;kw=age;kw=digs;kw=basements;kw=fair;kw=sexual;kw=playboys;kw=affair;kw=viewers;kw=famous;kw=collection;kw=guy;kw=alright;kw=mike;kw=racing;kw=entertainment;dv=v4;scat=ente;pos=siderailpromo1;sz=300x75;tile=2;ord=1291248638.75775';</script>
+    
+</head>
+<body class="fixed ">
+<div id="fb-root"></div>
+<script src="http://cdn1.diggstatic.com/js/common/fb_loader.4050a241.js" type="text/javascript"></script><form class="hidden">
+    <input type="text" name="ident" value="" id="ident-saved">
+    <input type="password" name="password" value="" id="password-saved">
+</form><div id="modal-wrapper"></div><div id="message-dock">
+    <div id="message-sleeve" class="group">
+        <p><span class="sprite message-icon"></span><span id="message-text"></span><a class="dismiss"></a></p>
+    </div>
+</div><div class="tooltip-container" id="digg-tooltip"></div><div class="header-wrapper"><div class="header group">
+<a href="/" class="sprite digg-logo" id="header-logo">Digg</a>
+    <ul class="main-navigation tabbed-navigation group">
+        <li>
+            <a href="/" id="header-mynews"><span class="elbow-left"></span><span class="elbow-right"></span>My News</a>
+        </li>
+        <li>
+            <a href="/news" class="active" id="header-topnews"><span class="elbow-left"></span><span class="elbow-right"></span>Top News</a>
+        </li>
+        <li>
+            <a href="/upcoming" id="header-upcoming"><span class="elbow-left"></span><span class="elbow-right"></span>Upcoming</a>
+        </li>
+    </ul>
+<div class="float-right group">    <ul class="loggedout-navigation group">
+        <li><a href="/register" id="modal-create-account" class="auth-register">Join Digg!</a></li>
+        <li><a href="/login" id="modal-login" class="auth-login">Login</a></li>
+    </ul>
+<form action="/search" method="get" class="header-search" id="header-search-form">
+    <input type="text" name="q" id="q" autocomplete="off" placeholder="Search Users or Stories">
+    <input type="submit" name="submit" id="search-button" value="">
+</form>
+</div></div></div>
+<div class="page-wrapper group "><div class="column-container group"><div class="columns group">
+    <div class="pre-content">
+        <div class="attached-menu group" id="page-topbar">
+            <ul class="pillboxes group">
+    <li><a href="/news/entertainment" class="active" id="filter-recent">Most Recent</a></li>
+    <li><a href="/news/entertainment/24hr"  id="filter-24hours">Top in 24 Hours</a></li>
+    <li><a href="/news/entertainment/week"  id="filter-7days">7 Days</a></li>
+    <li><a href="/news/entertainment/month"  id="filter-30days">30 Days</a></li>
+</ul>
+            <div id="submission-form-container">
+    <form action="/ajax/submit/crawl" method="post" class="group" id="submit-form">
+        <button type="submit" name="submit" class="btn btn-special has-tooltip" id="url-submit-button">Digg it <span class="sprite digg-it-large"></span></button>
+        <div class="flexible-input" id="submission-url-row">
+            <input type="text" name="submission" placeholder="Submit a link" class="text-input" id="url-submit-url" value="">
+        </div>
+    </form>
+</div>
+            <div id="submission-editor-wrapper">
+    <div id="submission-editor" class="group"></div>
+</div>
+<div class="dropdown-container" id="dropdown-prototype">
+    <a class="dropdown-label"><span class="sprite menu-arrows"></span></a>
+    <ul></ul>
+</div>
+        </div>
+    </div>
+
+    <div class="column narrow topbar-spacer group" id="left-column">
+        <ul class="sidebar-menu">
+    <li><a href="/news/recent" >All Topics</a></li>
+                    <li><a href="/news/business" >Business</a></li>
+                    <li><a href="/news/entertainment" class="active">Entertainment</a></li>
+                    <li><a href="/news/gaming" >Gaming</a></li>
+                    <li><a href="/news/lifestyle" >Lifestyle</a></li>
+                    <li><a href="/news/offbeat" >Offbeat</a></li>
+                    <li><a href="/news/politics" >Politics</a></li>
+                    <li><a href="/news/science" >Science</a></li>
+                    <li><a href="/news/sports" >Sports</a></li>
+                    <li><a href="/news/technology" >Technology</a></li>
+                    <li><a href="/news/world_news" >World News</a></li>
+    </ul>
+    </div>
+
+    <div class="column group" id="main-column">
+
+        <div class="main-content-header group topbar-spacer">
+                            <h1>Entertainment News</h1>
+                                        <ul class="pillboxes group">
+                    <li><a href="/news/entertainment/media/recent" class="active">All</a></li>
+                    <li><a href="/news/entertainment/images/recent" >Images</a></li>
+                    <li><a href="/news/entertainment/videos/recent" >Videos</a></li>
+                    <li><a href="/news/entertainment/stories/recent" >Stories</a></li>
+                </ul>
+                    </div>
+
+        
+                    <p class="paginglabel" id="paginglabel">Pagination</p>
+                            <noscript>
+                    <h2><a href="/news/entertainment/media/1">View in ajax free mode</a></h2>
+                </noscript>
+                        
+                <div id="story-list-container" class="list-container hidden no-ajax">
+        <div class="story-list inner-container topbar-spacer" id="story-items">
+                <div class="stories" data-digg-hashstate="">
+
+            
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201181412_38a2203a-8865-4f1a-a346-7f664b357253  first-item group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201181412_38a2203a-8865-4f1a-a346-7f664b357253" data-digg-raw-diggs="86"><a href="/news/entertainment/the_12_most_famous_cars_of_film_and_television" class="digg-count-wrapper"><span class="digg-count"><span>86</span></span></a><a class="digg-it diggable group" href="/news/entertainment/the_12_most_famous_cars_of_film_and_television"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/the_12_most_famous_cars_of_film_and_television" target="_blank">The 12 Most Famous Cars of Film and Television</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:blog.koldcast.tv" class="story-item-source">blog.koldcast.tv</a>                            <a href="/news/entertainment/the_12_most_famous_cars_of_film_and_television" class="story-item-teaser">&mdash; Find something you want.
+                                <span class="timestamp">19 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/deafbeat" class="hcard-trigger" data-digg-username="deafbeat">deafbeat</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/the_12_most_famous_cars_of_film_and_television"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">14</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/entertainment/the_12_most_famous_cars_of_film_and_television" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn1.diggstatic.com/story/the_12_most_famous_cars_of_film_and_television/t.png" alt="The 12 Most Famous Cars of Film and Television">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201123024_459730b5-5638-4d2a-b4b4-917e1f13c8e1 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201123024_459730b5-5638-4d2a-b4b4-917e1f13c8e1" data-digg-raw-diggs="95"><a href="/news/entertainment/17_excellent_yearbook_pictures" class="digg-count-wrapper"><span class="digg-count"><span>95</span></span></a><a class="digg-it diggable group" href="/news/entertainment/17_excellent_yearbook_pictures"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/17_excellent_yearbook_pictures" target="_blank">17 Excellent Yearbook Pictures</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:bannedinhollywood.com" class="story-item-source">bannedinhollywood.com</a>                            <a href="/news/entertainment/17_excellent_yearbook_pictures" class="story-item-teaser">&mdash; High School was an awkward time for many people -- puberty, acne, and developing sexual awareness are a few of the things that got people beat up a...
+                                <span class="timestamp">1 hr 9 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/Marcochaoui" class="hcard-trigger" data-digg-username="Marcochaoui">Marcochaoui</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/17_excellent_yearbook_pictures"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">12</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                    <div class="diggadsriver" id="diggad-1291248638-56765-3"></div>
+<script>
+  DUI.onPageLoad(function () {
+    DUI.render_diggad($('#diggad-1291248638-56765-3'), 'http://dads.new.digg.com', 'kw=pos:3&kw=topics:entertainment&kw=pagetype:topnews');
+  });
+</script>
+
+            
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201002619_b4b87665-959f-494d-900c-699b32a50e52  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201002619_b4b87665-959f-494d-900c-699b32a50e52" data-digg-raw-diggs="81"><a href="/news/entertainment/the_american_picker_dream_part_i_mike_wolfe_on_his_love_affair_with_vintage_bikes" class="digg-count-wrapper"><span class="digg-count"><span>81</span></span></a><a class="digg-it diggable group" href="/news/entertainment/the_american_picker_dream_part_i_mike_wolfe_on_his_love_affair_with_vintage_bikes"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/the_american_picker_dream_part_i_mike_wolfe_on_his_love_affair_with_vintage_bikes" target="_blank">The American Picker Dream, Part I: Mike Wolfe On His Love Affair With Vintage Bikes</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:collectorsweekly.com" class="story-item-source">collectorsweekly.com</a>                            <a href="/news/entertainment/the_american_picker_dream_part_i_mike_wolfe_on_his_love_affair_with_vintage_bikes" class="story-item-teaser">&mdash; As co-host of History Channel’s “American Pickers” and the operator of Antique Archaeology, Mike Wolfe is known to millions of TV viewers as the gu...
+                                <span class="timestamp">1 hr 19 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/daxxer" class="hcard-trigger" data-digg-username="daxxer">daxxer</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/the_american_picker_dream_part_i_mike_wolfe_on_his_love_affair_with_vintage_bikes"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">4</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/entertainment/the_american_picker_dream_part_i_mike_wolfe_on_his_love_affair_with_vintage_bikes" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/the_american_picker_dream_part_i_mike_wolfe_on_his_love_affair_with_vintage_bikes/t.png" alt="The American Picker Dream, Part I: Mike Wolfe On His Love Affair With Vintage Bikes">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201134749_c9b029db-33c6-4148-b8c4-bd11afbbbcea  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201134749_c9b029db-33c6-4148-b8c4-bd11afbbbcea" data-digg-raw-diggs="88"><a href="/news/entertainment/potter_devotion_gone_too_far" class="digg-count-wrapper"><span class="digg-count"><span>88</span></span></a><a class="digg-it diggable group" href="/news/entertainment/potter_devotion_gone_too_far"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/potter_devotion_gone_too_far" target="_blank">Potter Devotion Gone Too Far</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:unrealitymag.com" class="story-item-source">unrealitymag.com</a>                            <a href="/news/entertainment/potter_devotion_gone_too_far" class="story-item-teaser">&mdash; Alright, in the interest of being fair and balanced, I have to rip on this person just as hard as I would if this was a Twilight toilet seat
+                                <span class="timestamp">1 hr 39 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/Unrealitymag" class="hcard-trigger" data-digg-username="Unrealitymag">Unrealitymag</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/potter_devotion_gone_too_far"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">17</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/entertainment/potter_devotion_gone_too_far" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon image"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/potter_devotion_gone_too_far/t.png" alt="Potter Devotion Gone Too Far">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201144902_075ef5e9-444f-41b4-8fc7-888c086bfb10  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201144902_075ef5e9-444f-41b4-8fc7-888c086bfb10" data-digg-raw-diggs="122"><a href="/news/entertainment/playboy_s_hottest_women_in_the_world_video" class="digg-count-wrapper"><span class="digg-count"><span>122</span></span></a><a class="digg-it diggable group" href="/news/entertainment/playboy_s_hottest_women_in_the_world_video"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/playboy_s_hottest_women_in_the_world_video" target="_blank">Playboy&#039;s Hottest Women In The World (video)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:youtube.com" class="story-item-source">youtube.com</a>                            <a href="/news/entertainment/playboy_s_hottest_women_in_the_world_video" class="story-item-teaser">&mdash; A mashup of some of the hottest women to pose for Playboy.
+                                <span class="timestamp">1 hr 50 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/playboy" class="hcard-trigger" data-digg-username="playboy">playboy</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/playboy_s_hottest_women_in_the_world_video"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">12</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/entertainment/playboy_s_hottest_women_in_the_world_video" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon video"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/playboy_s_hottest_women_in_the_world_video/t.png" alt="Playboy&#039;s Hottest Women In The World (video)">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201111832_9fa51408-d85c-4edb-bdd3-89bc1f31e4c3  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201111832_9fa51408-d85c-4edb-bdd3-89bc1f31e4c3" data-digg-raw-diggs="95"><a href="/news/entertainment/8_things_you_didn_t_know_about_the_athletic_cup" class="digg-count-wrapper"><span class="digg-count"><span>95</span></span></a><a class="digg-it diggable group" href="/news/entertainment/8_things_you_didn_t_know_about_the_athletic_cup"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/8_things_you_didn_t_know_about_the_athletic_cup" target="_blank">8 Things You Didn’t Know About The Athletic Cup</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:clutch.mtv.com" class="story-item-source">clutch.mtv.com</a>                            <a href="/news/entertainment/8_things_you_didn_t_know_about_the_athletic_cup" class="story-item-teaser">&mdash; Unless You&#039;re Some Sort Of Athletic Cup Expert...
+                                <span class="timestamp">4 hr 29 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/webalert" class="hcard-trigger" data-digg-username="webalert">webalert</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/8_things_you_didn_t_know_about_the_athletic_cup"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">13</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/entertainment/8_things_you_didn_t_know_about_the_athletic_cup" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/8_things_you_didn_t_know_about_the_athletic_cup/t.png" alt="8 Things You Didn’t Know About The Athletic Cup">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201101711_852388d0-70cc-4945-bd36-619ae0039092  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201101711_852388d0-70cc-4945-bd36-619ae0039092" data-digg-raw-diggs="108"><a href="/news/entertainment/darren_aronofsky_still_hasn_t_given_up_on_robocop" class="digg-count-wrapper"><span class="digg-count"><span>108</span></span></a><a class="digg-it diggable group" href="/news/entertainment/darren_aronofsky_still_hasn_t_given_up_on_robocop"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/darren_aronofsky_still_hasn_t_given_up_on_robocop" target="_blank">Darren Aronofsky still hasn&#039;t given up on RoboCop</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:blastr.com" class="story-item-source">blastr.com</a>                            <a href="/news/entertainment/darren_aronofsky_still_hasn_t_given_up_on_robocop" class="story-item-teaser">&mdash; Remember the remake of RoboCop that was supposed to happen a couple of years ago? Well, the director attached to the project still hopes to make it...
+                                <span class="timestamp">2 hr 50 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/whiteblackninja" class="hcard-trigger" data-digg-username="whiteblackninja">whiteblackninja</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/darren_aronofsky_still_hasn_t_given_up_on_robocop"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">20</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/entertainment/darren_aronofsky_still_hasn_t_given_up_on_robocop" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/darren_aronofsky_still_hasn_t_given_up_on_robocop/t.png" alt="Darren Aronofsky still hasn&#039;t given up on RoboCop">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201013319_1e0ef31c-3a22-4671-8e3d-9c14f2730879 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201013319_1e0ef31c-3a22-4671-8e3d-9c14f2730879" data-digg-raw-diggs="138"><a href="/news/entertainment/not_everybody_can_afford_a_tv_ad_pic" class="digg-count-wrapper"><span class="digg-count"><span>138</span></span></a><a class="digg-it diggable group" href="/news/entertainment/not_everybody_can_afford_a_tv_ad_pic"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/not_everybody_can_afford_a_tv_ad_pic" target="_blank">Not Everybody Can Afford a TV Ad (pic)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:hollywoodreporter.com" class="story-item-source">hollywoodreporter.com</a>                            <a href="/news/entertainment/not_everybody_can_afford_a_tv_ad_pic" class="story-item-teaser">&mdash; 
+                                <span class="timestamp">4 hr 20 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/dorkknight" class="hcard-trigger" data-digg-username="dorkknight">dorkknight</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/not_everybody_can_afford_a_tv_ad_pic"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">21</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201034220_8e306515-531e-4ba5-a250-1a7611b26cc8  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201034220_8e306515-531e-4ba5-a250-1a7611b26cc8" data-digg-raw-diggs="162"><a href="/news/entertainment/burn_notice_prequel_movie_a_go_with_bruce_campbell" class="digg-count-wrapper"><span class="digg-count"><span>162</span></span></a><a class="digg-it diggable group" href="/news/entertainment/burn_notice_prequel_movie_a_go_with_bruce_campbell"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/burn_notice_prequel_movie_a_go_with_bruce_campbell" target="_blank">Burn Notice Prequel Movie A Go With Bruce Campbell</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:cinemablend.com" class="story-item-source">cinemablend.com</a>                            <a href="/news/entertainment/burn_notice_prequel_movie_a_go_with_bruce_campbell" class="story-item-teaser">&mdash; It will be set in 2005, just prior to Burn Notice’s story arc. Campbell, playing Sam Axe, will head out to Colombia for his last Navy Seal mission,...
+                                <span class="timestamp">5 hr 30 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/adeelarshad82" class="hcard-trigger" data-digg-username="adeelarshad82">adeelarshad82</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/burn_notice_prequel_movie_a_go_with_bruce_campbell"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">15</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/entertainment/burn_notice_prequel_movie_a_go_with_bruce_campbell" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/burn_notice_prequel_movie_a_go_with_bruce_campbell/t.png" alt="Burn Notice Prequel Movie A Go With Bruce Campbell">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201132512_c4a3f7ba-cd3a-493b-83dc-26bdc8792344  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201132512_c4a3f7ba-cd3a-493b-83dc-26bdc8792344" data-digg-raw-diggs="129"><a href="/news/entertainment/why_are_there_so_few_black_supervillains" class="digg-count-wrapper"><span class="digg-count"><span>129</span></span></a><a class="digg-it diggable group" href="/news/entertainment/why_are_there_so_few_black_supervillains"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/why_are_there_so_few_black_supervillains" target="_blank">Why Are There So Few Black Supervillains?</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:theatlanticwire.com" class="story-item-source">theatlanticwire.com</a>                            <a href="/news/entertainment/why_are_there_so_few_black_supervillains" class="story-item-teaser">&mdash; &quot;All of the greatest supervillains are white.&quot;
+                                <span class="timestamp">6 hr ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/theatlanticwire" class="hcard-trigger" data-digg-username="theatlanticwire">theatlanticwire</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/why_are_there_so_few_black_supervillains"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">51</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/entertainment/why_are_there_so_few_black_supervillains" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/why_are_there_so_few_black_supervillains/t.png" alt="Why Are There So Few Black Supervillains?">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101130182726_bc0c73d9-fd83-4837-ac08-fee7adc4a96c  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130182726_bc0c73d9-fd83-4837-ac08-fee7adc4a96c" data-digg-raw-diggs="90"><a href="/news/entertainment/the_best_christmas_commercials_of_all_time" class="digg-count-wrapper"><span class="digg-count"><span>90</span></span></a><a class="digg-it diggable group" href="/news/entertainment/the_best_christmas_commercials_of_all_time"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/the_best_christmas_commercials_of_all_time" target="_blank">The Best Christmas Commercials of All-Time</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:tvsquad.com" class="story-item-source">tvsquad.com</a>                            <a href="/news/entertainment/the_best_christmas_commercials_of_all_time" class="story-item-teaser">&mdash; There are two types of people in the world: those that love Christmas commercials and those that don&#039;t.
+                                <span class="timestamp">6 hr 39 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/timbuc1" class="hcard-trigger" data-digg-username="timbuc1">timbuc1</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/the_best_christmas_commercials_of_all_time"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">15</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/entertainment/the_best_christmas_commercials_of_all_time" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon video"></div>
+                                                        <img src="http://cdn2.diggstatic.com/story/the_best_christmas_commercials_of_all_time/t.png" alt="The Best Christmas Commercials of All-Time">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201045232_c2c69582-4752-400b-9fde-b6fa6dfdf66b  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201045232_c2c69582-4752-400b-9fde-b6fa6dfdf66b" data-digg-raw-diggs="109"><a href="/news/entertainment/sons_of_anarchy_creator_talks_about_season_3_finale_and_more" class="digg-count-wrapper"><span class="digg-count"><span>109</span></span></a><a class="digg-it diggable group" href="/news/entertainment/sons_of_anarchy_creator_talks_about_season_3_finale_and_more"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/sons_of_anarchy_creator_talks_about_season_3_finale_and_more" target="_blank">Sons of Anarchy Creator Talks about Season 3 Finale and More</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:ugo.com" class="story-item-source">ugo.com</a>                            <a href="/news/entertainment/sons_of_anarchy_creator_talks_about_season_3_finale_and_more" class="story-item-teaser">&mdash; UGO talks to Kurt Sutter, creator of Sons of Anarchy, as the third season comes to a close.  Juicy stuff on Agent Stahl, Deputy Hale and Margaret&#...
+                                <span class="timestamp">5 hr 50 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/ugodotcom" class="hcard-trigger" data-digg-username="ugodotcom">ugodotcom</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/sons_of_anarchy_creator_talks_about_season_3_finale_and_more"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">14</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/entertainment/sons_of_anarchy_creator_talks_about_season_3_finale_and_more" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/sons_of_anarchy_creator_talks_about_season_3_finale_and_more/t.png" alt="Sons of Anarchy Creator Talks about Season 3 Finale and More">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201144644_e1127635-b8e2-42ba-94ed-2966128fa82d  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201144644_e1127635-b8e2-42ba-94ed-2966128fa82d" data-digg-raw-diggs="169"><a href="/news/entertainment/jlo_exposed_herself_in_public_it_s_on_video" class="digg-count-wrapper"><span class="digg-count"><span>169</span></span></a><a class="digg-it diggable group" href="/news/entertainment/jlo_exposed_herself_in_public_it_s_on_video"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/jlo_exposed_herself_in_public_it_s_on_video" target="_blank">JLo Exposed Herself In Public &amp; It&#039;s On Video</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:radaronline.com" class="story-item-source">radaronline.com</a>                            <a href="/news/entertainment/jlo_exposed_herself_in_public_it_s_on_video" class="story-item-teaser">&mdash; Jennifer Lopez is caught on hours of new video &quot;exposing her genital area in public&quot; and displaying other &quot;deviant behavior&quot;
+                                <span class="timestamp">6 hr 50 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/1krazykorean" class="hcard-trigger" data-digg-username="1krazykorean">1krazykorean</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/jlo_exposed_herself_in_public_it_s_on_video"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">24</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/entertainment/jlo_exposed_herself_in_public_it_s_on_video" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn2.diggstatic.com/story/jlo_exposed_herself_in_public_it_s_on_video/t.png" alt="JLo Exposed Herself In Public &amp; It&#039;s On Video">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201070058_1ad76f20-17b9-4e3f-aaec-7fd1e40bcb94  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201070058_1ad76f20-17b9-4e3f-aaec-7fd1e40bcb94" data-digg-raw-diggs="201"><a href="/news/entertainment/porn_stars_without_makeup_on" class="digg-count-wrapper"><span class="digg-count"><span>201</span></span></a><a class="digg-it diggable group" href="/news/entertainment/porn_stars_without_makeup_on"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/porn_stars_without_makeup_on" target="_blank">Porn Stars Without Makeup On</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:buzzfeed.com" class="story-item-source">buzzfeed.com</a>                            <a href="/news/entertainment/porn_stars_without_makeup_on" class="story-item-teaser">&mdash; Trolling the twitter accounts of some of our favorite porno babes, we found twit pics that make us think twice about wanting to wake up next to the...
+                                <span class="timestamp">7 hr 30 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/arbiinc" class="hcard-trigger" data-digg-username="arbiinc">arbiinc</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/porn_stars_without_makeup_on"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">42</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/entertainment/porn_stars_without_makeup_on" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon image"></div>
+                                                        <img src="http://cdn2.diggstatic.com/story/porn_stars_without_makeup_on/t.png" alt="Porn Stars Without Makeup On">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                    <div class="diggadsriver" id="diggad-1291248638-56765-16"></div>
+<script>
+  DUI.onPageLoad(function () {
+    DUI.render_diggad($('#diggad-1291248638-56765-16'), 'http://dads.new.digg.com', 'kw=pos:16&kw=topics:entertainment&kw=pagetype:topnews');
+  });
+</script>
+
+            
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201050412_7de49dd4-f2ee-475e-ae4e-849f1446ffcf  last-item group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201050412_7de49dd4-f2ee-475e-ae4e-849f1446ffcf" data-digg-raw-diggs="227"><a href="/news/entertainment/prince_william_is_having_snoop_dogg_perform_at_his_bachelor_party" class="digg-count-wrapper"><span class="digg-count"><span>227</span></span></a><a class="digg-it diggable group" href="/news/entertainment/prince_william_is_having_snoop_dogg_perform_at_his_bachelor_party"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/prince_william_is_having_snoop_dogg_perform_at_his_bachelor_party" target="_blank">Prince William Is Having Snoop Dogg Perform At His Bachelor Party!</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:hollywoodlife.com" class="story-item-source">hollywoodlife.com</a>                            <a href="/news/entertainment/prince_william_is_having_snoop_dogg_perform_at_his_bachelor_party" class="story-item-teaser">&mdash; Before the Royal lovers make things official, Price William is enlisting some rap royalty to perform at his Bachelor party! Is this ultimately a go...
+                                <span class="timestamp">8 hr 59 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/michde" class="hcard-trigger" data-digg-username="michde">michde</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/prince_william_is_having_snoop_dogg_perform_at_his_bachelor_party"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">31</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/entertainment/prince_william_is_having_snoop_dogg_perform_at_his_bachelor_party" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/prince_william_is_having_snoop_dogg_perform_at_his_bachelor_party/t.png" alt="Prince William Is Having Snoop Dogg Perform At His Bachelor Party!">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                        </div>
+        </div>
+    </div>
+
+<div id="inline-comment-container-home">
+    </div>
+            <ul class="pagination group btn-loader btn-loader-bottom no-prev story-list-container"data-digg-offsetparam="page"role="navigation"aria-labelledby="paginglabel"><li class="prev"><a class="btn btn-default btn-small" href="/news/entertainment/media/1" rel="prev" data-digg-ajaxqs='%7B%22filter%22%3A%22recent%22%2C%22mediaType%22%3A%22media%22%2C%22topic%22%3A%22entertainment%22%2C%22page%22%3A1%7D'><span class="uitext">Prev</span></a></li><li class="page-num">Page <span class="pagination-current"></span></li><li class="next"><a class="btn btn-default btn-small" href="/news/entertainment/media/2" rel="next" data-digg-ajaxqs='%7B%22filter%22%3A%22recent%22%2C%22mediaType%22%3A%22media%22%2C%22topic%22%3A%22entertainment%22%2C%22page%22%3A2%7D'><span class="uitext">Next</span></a></li></ul>
+    <script type="text/javascript">
+    (function () {
+        var stories, hash;
+        stories = document.getElementById('story-list-container');
+        if (stories) {
+            hash = window.location.hash;
+            if ('' === hash) {
+                stories.className = stories.className.replace('hidden', '');
+            }
+        }
+    })();
+    </script>
+            </div>
+</div>
+    <div class="column wide group" id="right-column">
+        <div class="ad uprrail1">
+    <iframe src="about:blank" width="300" height="250" scrolling="no" frameborder="0" hspace="0" vspace="0" id="ad-uprrail1" data-digg-javascriptURL="http://ad.doubleclick.net/adj/dgg.ente/home_tn_uprrail1;pt=tn;kw=history;kw=high;kw=17;kw=started;kw=toilet;kw=beat;kw=video;kw=sheds;kw=bike;kw=tv;kw=film;kw=age;kw=digs;kw=basements;kw=fair;kw=sexual;kw=playboys;kw=affair;kw=viewers;kw=famous;kw=collection;kw=guy;kw=alright;kw=mike;kw=racing;kw=entertainment;dv=v4;scat=ente;sync=yes;pos=uprrail1;sz=300x250,300x330;tile=3;media=media;ord=1291248638.75775">
+        <a href="http://ad.doubleclick.net/jump/dgg.ente/home_tn_uprrail1;pt=tn;kw=history;kw=high;kw=17;kw=started;kw=toilet;kw=beat;kw=video;kw=sheds;kw=bike;kw=tv;kw=film;kw=age;kw=digs;kw=basements;kw=fair;kw=sexual;kw=playboys;kw=affair;kw=viewers;kw=famous;kw=collection;kw=guy;kw=alright;kw=mike;kw=racing;kw=entertainment;dv=v4;scat=ente;sync=yes;pos=uprrail1;sz=300x250,300x330;tile=3;media=media;ord=1291248638.75775?"><img src="http://ad.doubleclick.net/ad/dgg.ente/home_tn_uprrail1;pt=tn;kw=history;kw=high;kw=17;kw=started;kw=toilet;kw=beat;kw=video;kw=sheds;kw=bike;kw=tv;kw=film;kw=age;kw=digs;kw=basements;kw=fair;kw=sexual;kw=playboys;kw=affair;kw=viewers;kw=famous;kw=collection;kw=guy;kw=alright;kw=mike;kw=racing;kw=entertainment;dv=v4;scat=ente;sync=yes;pos=uprrail1;sz=300x250,300x330;tile=3;media=media;ord=1291248638.75775?"></a>
+    </iframe>
+</div>
+
+                        <div class="sidebar-content"><h2 class="header-division">Top News<span class="subtitle">&nbsp;in Entertainment</span></h2><ul class="mini-sidebar-list list-type-stories"><li class="group"><div class="media"><a href="/news/entertainment/prince_william_is_having_snoop_dogg_perform_at_his_bachelor_party" class="digg-count-small">227</a></div><a href="/news/entertainment/prince_william_is_having_snoop_dogg_perform_at_his_bachelor_party" class="rounded-img small" style="background-image: url(http://cdn1.diggstatic.com/story/prince_william_is_having_snoop_dogg_perform_at_his_bachelor_party/a.png)">Prince William Is Having Snoop Dogg Perform At His Bachelor Party!</a><h3><a href="/news/entertainment/prince_william_is_having_snoop_dogg_perform_at_his_bachelor_party">Prince William Is Having Snoop Dogg Perform At His Bachelor Party!</a></h3></li><li class="group"><div class="media"><a href="/news/entertainment/porn_stars_without_makeup_on" class="digg-count-small">201</a></div><a href="/news/entertainment/porn_stars_without_makeup_on" class="rounded-img small" style="background-image: url(http://cdn2.diggstatic.com/story/porn_stars_without_makeup_on/a.png)">Porn Stars Without Makeup On</a><h3><a href="/news/entertainment/porn_stars_without_makeup_on">Porn Stars Without Makeup On</a></h3></li><li class="group"><div class="media"><a href="/news/entertainment/top_10_films_by_irvin_kershner_may_he_rest_in_peace" class="digg-count-small">169</a></div><h3><a href="/news/entertainment/top_10_films_by_irvin_kershner_may_he_rest_in_peace">Top 10 films by Irvin Kershner, may he rest in peace</a></h3></li><li class="group"><div class="media"><a href="/news/entertainment/jlo_exposed_herself_in_public_it_s_on_video" class="digg-count-small">169</a></div><a href="/news/entertainment/jlo_exposed_herself_in_public_it_s_on_video" class="rounded-img small" style="background-image: url(http://cdn1.diggstatic.com/story/jlo_exposed_herself_in_public_it_s_on_video/a.png)">JLo Exposed Herself In Public &amp; It&#039;s On Video</a><h3><a href="/news/entertainment/jlo_exposed_herself_in_public_it_s_on_video">JLo Exposed Herself In Public &amp; It&#039;s On Video</a></h3></li><li class="group"><div class="media"><a href="/news/entertainment/burn_notice_prequel_movie_a_go_with_bruce_campbell" class="digg-count-small">162</a></div><a href="/news/entertainment/burn_notice_prequel_movie_a_go_with_bruce_campbell" class="rounded-img small" style="background-image: url(http://cdn2.diggstatic.com/story/burn_notice_prequel_movie_a_go_with_bruce_campbell/a.png)">Burn Notice Prequel Movie A Go With Bruce Campbell</a><h3><a href="/news/entertainment/burn_notice_prequel_movie_a_go_with_bruce_campbell">Burn Notice Prequel Movie A Go With Bruce Campbell</a></h3></li><li class="group"><div class="media"><a href="/news/entertainment/jon_stewart_mocks_the_media_for_their_punny_business" class="digg-count-small">146</a></div><h3><a href="/news/entertainment/jon_stewart_mocks_the_media_for_their_punny_business">Jon Stewart Mocks the Media for Their Punny Business</a></h3></li><li class="group"><div class="media"><a href="/news/entertainment/not_everybody_can_afford_a_tv_ad_pic" class="digg-count-small">138</a></div><h3><a href="/news/entertainment/not_everybody_can_afford_a_tv_ad_pic">Not Everybody Can Afford a TV Ad (pic)</a></h3></li><li class="group"><div class="media"><a href="/news/entertainment/billie_joe_armstrong_to_join_american_idiot_musical_for_50_shows" class="digg-count-small">133</a></div><h3><a href="/news/entertainment/billie_joe_armstrong_to_join_american_idiot_musical_for_50_shows">Billie Joe Armstrong To Join &#039;American Idiot&#039; Musical For 50 Shows</a></h3></li><li class="group"><div class="media"><a href="/news/entertainment/why_are_there_so_few_black_supervillains" class="digg-count-small">129</a></div><a href="/news/entertainment/why_are_there_so_few_black_supervillains" class="rounded-img small" style="background-image: url(http://cdn1.diggstatic.com/story/why_are_there_so_few_black_supervillains/a.png)">Why Are There So Few Black Supervillains?</a><h3><a href="/news/entertainment/why_are_there_so_few_black_supervillains">Why Are There So Few Black Supervillains?</a></h3></li><li class="group"><div class="media"><a href="/news/entertainment/playboy_s_hottest_women_in_the_world_video" class="digg-count-small">122</a></div><a href="/news/entertainment/playboy_s_hottest_women_in_the_world_video" class="rounded-img small" style="background-image: url(http://cdn1.diggstatic.com/story/playboy_s_hottest_women_in_the_world_video/a.png)">Playboy&#039;s Hottest Women In The World (video)</a><h3><a href="/news/entertainment/playboy_s_hottest_women_in_the_world_video">Playboy&#039;s Hottest Women In The World (video)</a></h3></li></ul></div>
+                    <div class="ad ad-div side-container">
+    <iframe name="dadLwrrlIframe" src="http://dads.new.digg.com/view.html?kw=zone:5&amp;kw=history&amp;kw=high&amp;kw=17&amp;kw=started&amp;kw=toilet&amp;kw=beat&amp;kw=video&amp;kw=sheds&amp;kw=bike&amp;kw=tv&amp;kw=film&amp;kw=age&amp;kw=digs&amp;kw=basements&amp;kw=fair&amp;kw=sexual&amp;kw=playboys&amp;kw=affair&amp;kw=viewers&amp;kw=famous&amp;kw=collection&amp;kw=guy&amp;kw=alright&amp;kw=mike&amp;kw=racing&amp;kw=entertainment&amp;kw=pagetype:topnews&amp;template=5" frameborder="no"
+    scrolling="no" hspace="0" vspace="0"></iframe>
+</div>
+            </div>
+</div></div><div class="footer">
+    <ul class="group">
+        <li>&copy; Digg Inc. 2010</li>
+        <li><a href="http://about.digg.com">About Digg</a></li>
+        <li><a href="http://about.digg.com/ads">Advertise</a></li>
+        <li><a href="http://about.digg.com/partnership">Partners</a></li>
+        <li><a href="http://developers.digg.com">API &amp; Resources</a></li>
+        <li><a href="http://about.digg.com/blog">Blogs</a></li>
+        <li><a href="http://about.digg.com/contact">Contact Us</a></li>
+        <li><a href="http://jobs.digg.com">Jobs</a></li>
+        <li><a href="http://about.digg.com/faq">Help &amp; FAQ</a></li>
+        <li><a href="http://about.digg.com/terms-use">Terms of Service</a></li>
+        <li><a href="/topic">Topics</a></li>
+        <li class="last"><a href="http://about.digg.com/privacy">Privacy</a></li>
+                    <li id="rss-link"><a href="/news/entertainment.rss">RSS</a></li>
+            </ul>
+</div>
+<div id="feedback-bar" class="group">
+    <span title="10.2.130.111 Build: 173 - Wed Dec  1 12:31:14 PST 2010">Digg v4: 193.48ms</span>
+    <ul>
+        <li><a href="http://about.digg.com/contact">Give us feedback</a> |</li>
+        <li><a href="http://www.surveymonkey.com/s/ZNBQMYJ" id="feedback-bar-survey">Take the survey</a></li>
+    </ul>
+</div>
+<script src="http://cdn3.diggstatic.com/js/lib.c4aecf59.js" type="text/javascript"></script>    <script src="http://cdn2.diggstatic.com/js/App_TopNews/pagination.f8efea3b.js" type="text/javascript"></script>
+
+
+    <!-- Begin comScore Tag -->
+<script>
+document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+
+<script>
+COMSCORE.beacon({
+c1:2,
+c2:6299437,
+c3:"",
+c4:"",
+c5:"",
+c6:"",
+c15:""
+});
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6299437&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+    <!-- digg is done serving you. 2.01355321270u 137.03599911 6.6742x10-11m3kg-1s-2 6.6742x10-11m3kg-1s-2 -->
+<script type="text/javascript">var s_account = "diggcomv4";</script>
+<script src="http://cdn3.diggstatic.com/js/Omniture/omniture.6c48dd51.js" type="text/javascript"></script>
+
+<script type="text/javascript"><!--
+s.pageName = 'topnews:index';
+s.eVar23 = 'topnews:index';
+s.heir1 = 'topnews';
+s.heir2 = 'index';
+s.channel = 'topnews';
+s.eVar22 = 'topnews';
+s.prop5 = 'anonymous';
+s.eVar5 = 'anonymous';
+s.prop4 = 'anonymous';
+s.eVar4 = 'anonymous';
+s.prop9 = 'entertainment';
+s.eVar9 = 'entertainment';
+s.events = 'event2';
+var s_code=s.t();
+if (s_code) document.write(s_code);
+//--></script></body>
+</html>

@@ -1,0 +1,552 @@
+<script type="text/javascript">
+
+    function updateCountry() {
+      var country = document.getElementById("countrySelector").value;
+      if (_AF_GetCountry("contactInput.asciiAddressInput") != country) {
+        _AF_SetCountry("contactInput.asciiAddressInput", country, true);
+      }
+
+      switch(country) {
+        case "TW":
+        case "HK":
+        case "JP":
+        case "CN":
+        case "MO":
+        case "KR":
+        case "RU":
+          document.getElementById("languageNotes").style.display = 'block';
+          break;
+        default:
+          document.getElementById("languageNotes").style.display = 'none';
+      }
+
+      language = "en"
+      if (language == "ja" || language == 'ko' || language == 'zh' || language == 'ru') {
+        document.getElementById("languageNotes").style.display = 'block';
+      }
+    }
+
+    // Return the currently radio button value
+    function getSelectedValue(name) {
+      var rbs = document.getElementsByName(name);
+      for (var i = 0; i < rbs.length; i++) {
+        if (rbs[i].checked) {
+          return rbs[i].value;
+        }
+      }
+    }
+
+    // Change the payee name fields depending on the selection
+    // of "Individual" or "Organization" (aka Business).
+    //
+    function displayAddressForAccountType() {
+      var opt = getSelectedValue("publisherInformation.accountType");
+
+      if (opt == "Organization") {
+        document.getElementById("companyNameRowId").style.display = '';
+        document.getElementById("languageNoteCompany").style.display = 'block';
+        document.getElementById("languageNotePerson").style.display = 'none';
+      }
+      else {  // opt == "Individual"
+        document.getElementById("companyNameRowId").style.display = 'none';
+        document.getElementById("companyName").value = "";
+        document.getElementById("languageNoteCompany").style.display = 'none';
+        document.getElementById("languageNotePerson").style.display = 'block';
+      }
+
+      updateImprintName();
+    }
+
+    var imprintNameTouched = false;
+
+    // Assign first 28 characters of companyName field as a 'ImprintName'.
+    function updateImprintName() {
+      if (imprintNameTouched) return;
+
+      var imprintName = document.getElementById("imprintName");
+      var imprintNameValue;
+
+      if (document.getElementById("companyNameRowId").style.display == '') {
+        imprintNameValue = document.getElementById("companyName").value;
+      } else {
+        imprintNameValue = document.getElementById("fullName").value;
+      }
+
+      imprintName.value = imprintNameValue.substring(0, 27);
+    }
+
+    // Show or don't show the Magazine serial fields depending on whether
+    // the magazine content type checkbox is selected.
+    //
+    function displayMetadataForContentType() {
+    
+    }
+
+  </script>
+<style type="text/css">
+    .signonhtml div {
+      font-family: Ariel, sans-serif;
+    }
+    .signonhtml th,.addr_label_col {
+      font-family: Ariel, sans-serif;
+      font-weight: bold;
+      vertical-align: top;
+      white-space: nowrap;
+      width: 20em;
+    }
+    .signonhtml td {
+      font-family: Ariel, sans-serif;
+      vertical-align: top;
+    }
+    .signonhtml h3 {
+      background-color: #e4e4e4;
+      border-bottom: 1px solid gray;
+      border-top: 1px solid gray;
+      color:#333;
+      font-family: Ariel, sans-serif;
+      font-size:1em;
+      margin-bottom: 1.5em;
+      margin-top: 1em;
+      padding: 4px 0 4px 4px;
+      text-align: left;
+      width: 100%;
+    }
+    .smalltextb {
+      font-size: 90%;
+      font-weight: bold;
+    }
+    .yellowbox{
+      border: #FFFF00 1px solid;
+      background-color: #FFFFE4;
+      margin-left: auto;
+      margin-right: auto;
+      width: auto;
+      padding: 6px;
+    }
+    .addr_input_col {
+      width:23em;
+    }
+  </style>
+<html><meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<head><title>Google Books (Beta)
+-
+Welcome to Google Books Partner Program - New Customer</title>
+<link rel="stylesheet" type="text/css" href="/partner/ui/2360217940-style.css">
+<link rel="stylesheet" type="text/css" href="/partner/ui/2566658684-tabnavbar.css">
+<link rel="stylesheet" type="text/css" href="/partner/ui/3649589977-reports.css">
+<link rel="stylesheet" type="text/css" href="/partner/ui/2283875027-pager.css">
+<link rel="stylesheet" type="text/css" href="/partner/ui/3485947614-tax.css">
+
+<script src="__utm.js" type="text/javascript"></script>
+<script type="text/javascript">
+      function $(id) { return document.getElementById(id); }
+    </script>
+</head>
+<body style="font-family: Ariel, sans-serif;"><script type="text/javascript">
+    function openFriendLink(friendLink) {
+      window.open(friendLink,
+        "invitefriend",
+        "width=700,height=650,location=no,menubar=no,"+
+        "status=no,titlebar=no,toolbar=no,scrollbars=yes,resizable=yes");
+    }
+    function openLink(anchor) {
+      window.open(anchor.href, anchor.target,
+        "width=700,height=650,toolbar,titlebar,scrollbars,resizable").focus();
+      return false;
+    }
+    function submitForm() {
+      var hlvalue = document.getElementById("hl").value;
+      href = new String(location.href);
+      if (href.indexOf("hl=") != -1) {
+        var replacement = new String("hl=" + hlvalue);
+        href = href.replace(/hl=\w+/, replacement);
+      } else if ( href.indexOf("?") == -1) {
+        href = href + "?hl=" + hlvalue;
+      } else {
+        href = href + "&hl=" + hlvalue;
+      }
+      location.href = href;
+      return true;
+    }
+  </script>
+<table width="100%" cellpadding="0" cellspacing="0"><tr><td width="143"><a href="google-books"><img src="images/en/US/books_logo.gif" border="0" alt="" id="logo_image"></a>
+<script type="text/javascript">
+          var showLangSelector = false;
+          
+            var agent = navigator.userAgent.toLowerCase();
+            var isIe = (agent.indexOf('msie') != -1);
+            if (showLangSelector && isIe) {
+              document.getElementById('logo_image').style.margin = "1.2em 0.8em 0 0";
+            } else if (showLangSelector && !isIe) {
+              document.getElementById('logo_image').style.margin = "1.5em 0.8em 0 0";
+            } else if (!showLangSelector && isIe) {
+              document.getElementById('logo_image').style.margin = "0.8em 0.8em 0 0";
+            } else {
+              document.getElementById('logo_image').style.margin = "0.8em 0.8em 0 0";
+            }
+          
+        </script></td><td valign="top"><table class="topbar" width="99%" cellpadding="1" cellspacing="0" border="0"><tr><td width="100%">&nbsp;</td>
+
+<td valign="bottom" nowrap>
+
+
+<a href="contact" target="_blank">Contact Us</a>
+|
+<a href="help" target="help">Help</a>
+|
+
+</td></tr>
+<tr><td class="headerbar" colspan="4" style="background-color:#DBE6DE;border-top:1px solid #008000;"><font size="+0"><b>&nbsp; Partner Program</b></font></td></tr>
+
+<tr><td align="right" colspan="4"></td></tr></table></td></tr></table>
+<br>
+<div id="content" class="body signonhtml"><h1>Welcome to Google Books Partner Program</h1>
+<table width="56%"><tbody><tr><td valign="top">Please fill out the application below to join Google Books as a partner. All fields are required, unless marked optional.</td>
+<td><a href="http://server.iad.liveperson.net/hc/45033343/?cmd=file&amp;file=visitorWantsToChat&amp;site=45033343&amp;SESSIONVAR!skill=BookSearch&amp;byhref=1" target="chat45033343" onclick="javascript:window.open(&#39;http://server.iad.liveperson.net/hc/45033343/?cmd=file&amp;file=visitorWantsToChat&amp;site=45033343&amp;SESSIONVAR!skill=BookSearch&amp;referrer=&#39;+escape(document.location),&#39;chat45033343&#39;,&#39;width=472,height=320&#39;);return false;"><img src="https://server.iad.liveperson.net/hc/45033343/cmd/query/?cmd=repstate&amp;site=45033343&amp;page=https://server.iad.liveperson.net/hcp/width/img1.gif&amp;query=BookSearch" border="0" alt=""></a></td></tr></tbody></table>
+<br>
+Need help? Check out our <a href="http://books.google.com/support/partner/bin/answer.py?hl=en_US&amp;answer=66266">sign-up demo</a>.
+<form action="signon-verify-g" method="POST" name="signup"><table><tbody><tr><td valign="top"><h3 class="signup">General Information</h3>
+<table border="0" cellpadding="3" cellspacing="0" width="100%"><tbody><tr><td colspan="3" align="left" nowrap><div id="rightsbox" class="yellowbox"><div class="errorbox-good"><input type="checkbox" name="publisherInformation.rights" value="true" id="publisherInformation_rights" tabindex="1">
+<label for="publisherInformation_rights"><b>I verify that I am either the copyright holder or authorized by the copyright holder for the titles I plan to submit.</b></label>
+</div></div></td></tr>
+<tr><th>Your function:</th>
+<td><div class="errorbox-good"><input type="radio" name="publisherInformation.customerType" value="Publisher" id="publisherInformation_printCustomerType_PUBLISHER" tabindex="2">
+<label for="publisherInformation_printCustomerType_PUBLISHER">Publisher<br></label>
+<input type="radio" name="publisherInformation.customerType" value="Author" id="publisherInformation_printCustomerType_AUTHOR" tabindex="3">
+<label for="publisherInformation_printCustomerType_AUTHOR">Author<br></label>
+<input type="radio" name="publisherInformation.customerType" value="Other" id="publisherInformation_printCustomerType_OTHER" tabindex="4">
+<label for="publisherInformation_printCustomerType_OTHER">Other:</label>
+</div>
+<div style="margin-left:20px"><div class="errorbox-good"><input type="text" name="publisherInformation.customerTypeOther" id="customerTypeOther" tabindex="5" size="24" maxlength="255">
+</div></div>
+<br></td></tr>
+<tr><th>Titles currently in print:</th>
+<td><div class="errorbox-good"><select name="publisherInformation.numCurrentTitles" style="width:200px;" tabindex="6"><option value="">Select a number:</option>
+<option value="">-----</option>
+<option value="0-5">5 or fewer</option>
+<option value="6-20">6-20</option>
+<option value="21-50">21-50</option>
+<option value="51-100">51-100</option>
+<option value="101-300">101-300</option>
+<option value="301-1000">301-1000</option>
+<option value="Over 1000">Over 1000</option></select>
+</div></td></tr>
+<tr><th>New titles published per year:</th>
+<td><div class="errorbox-good"><select name="publisherInformation.titlesPerYear" style="width:200px;" tabindex="7"><option value="">Select a number:</option>
+<option value="">-----</option>
+<option value="0-5">5 or fewer</option>
+<option value="6-20">6-20</option>
+<option value="21-50">21-50</option>
+<option value="51-100">51-100</option>
+<option value="101-300">101-300</option>
+<option value="301-1000">301-1000</option>
+<option value="Over 1000">Over 1000</option></select>
+</div></td></tr>
+<tr><th>Account type:
+[<a href="http://books.google.com/support/partner/bin/answer.py?hl=en_US&amp;answer=18463" target="help">?</a>]</th>
+<td nowrap><div class="errorbox-good"><input type="radio" name="publisherInformation.accountType" value="Individual" id="publisherInformation_accountType_Individual" tabindex="8" onclick="displayAddressForAccountType()">
+<label for="publisherInformation_accountType_Individual">Individual
+&nbsp; - &nbsp;</label>
+<font size="2" color="#676767">You must be at least 18 years of age to participate in Google Books Partner Program</font>
+<br>
+<input type="radio" name="publisherInformation.accountType" value="Organization" id="publisherInformation_accountType_Organization" tabindex="9" onclick="displayAddressForAccountType()">
+<label for="publisherInformation_accountType_Organization">Business</label>
+</div></td></tr>
+
+<tr><th>Country or territory:</th>
+<td class="addr_input_col" id="countryCell"><div class="errorbox-good"><select name="publisherInformation.country" tabindex="14" id="countrySelector" onchange=""><option value="" selected>Select a country or territory:</option>
+<option value="">------</option>
+<option value="US">United States</option>
+<option value="AU">Australia</option> <option value="AT">Austria</option> <option value="BE">Belgium</option> <option value="BR">Brazil</option> <option value="CA">Canada</option> <option value="CN">China</option> <option value="DK">Denmark</option> <option value="FI">Finland</option> <option value="FR">France</option> <option value="DE">Germany</option> <option value="HK">Hong Kong</option> <option value="IT">Italy</option> <option value="JP">Japan</option> <option value="NL">Netherlands</option> <option value="NO">Norway</option> <option value="PT">Portugal</option> <option value="SG">Singapore</option> <option value="KR">South Korea</option> <option value="ES">Spain</option> <option value="SE">Sweden</option> <option value="CH">Switzerland</option> <option value="TW">Taiwan</option> <option value="GB">United Kingdom</option> 
+<option value="">------</option>
+
+<option value="AF">Afghanistan</option> <option value="AL">Albania</option> <option value="DZ">Algeria</option> <option value="AS">American Samoa</option> <option value="AD">Andorra</option> <option value="AO">Angola</option> <option value="AI">Anguilla</option> <option value="AQ">Antarctica</option> <option value="AG">Antigua and Barbuda</option> <option value="AR">Argentina</option> <option value="AM">Armenia</option> <option value="AW">Aruba</option> <option value="AU">Australia</option> <option value="AT">Austria</option> <option value="AZ">Azerbaijan</option> <option value="BS">Bahamas</option> <option value="BH">Bahrain</option> <option value="BD">Bangladesh</option> <option value="BB">Barbados</option> <option value="BY">Belarus</option> <option value="BE">Belgium</option> <option value="BZ">Belize</option> <option value="BJ">Benin</option> <option value="BM">Bermuda</option> <option value="BT">Bhutan</option> <option value="BO">Bolivia</option> <option value="BA">Bosnia and Herzegovina</option> <option value="BW">Botswana</option> <option value="BV">Bouvet Island</option> <option value="BR">Brazil</option> <option value="IO">British Indian Ocean Territory</option> <option value="BN">Brunei Darussalam</option> <option value="BG">Bulgaria</option> <option value="BF">Burkina Faso</option> <option value="BI">Burundi</option> <option value="KH">Cambodia</option> <option value="CM">Cameroon</option> <option value="CA">Canada</option> <option value="CV">Cape Verde</option> <option value="KY">Cayman Islands</option> <option value="CF">Central African Republic</option> <option value="TD">Chad</option> <option value="CL">Chile</option> <option value="CN">China</option> <option value="CX">Christmas Island</option> <option value="CC">Cocos (Keeling) Islands</option> <option value="CO">Colombia</option> <option value="KM">Comoros</option> <option value="CG">Congo</option> <option value="CD">Congo, Democratic Republic</option> <option value="CK">Cook Islands</option> <option value="CR">Costa Rica</option> <option value="CI">Cote d'Ivoire</option> <option value="HR">Croatia</option> <option value="CY">Cyprus</option> <option value="CZ">Czech Republic</option> <option value="DK">Denmark</option> <option value="DJ">Djibouti</option> <option value="DM">Dominica</option> <option value="DO">Dominican Republic</option> <option value="TL">East Timor</option> <option value="EC">Ecuador</option> <option value="EG">Egypt</option> <option value="SV">El Salvador</option> <option value="GQ">Equatorial Guinea</option> <option value="ER">Eritrea</option> <option value="EE">Estonia</option> <option value="ET">Ethiopia</option> <option value="FK">Falkland Islands (Malvinas)</option> <option value="FO">Faroe Islands</option> <option value="FJ">Fiji</option> <option value="FI">Finland</option> <option value="FR">France</option> <option value="GF">French Guiana</option> <option value="PF">French Polynesia</option> <option value="TF">French Southern Territories</option> <option value="GA">Gabon</option> <option value="GM">Gambia</option> <option value="GE">Georgia</option> <option value="DE">Germany</option> <option value="GH">Ghana</option> <option value="GI">Gibraltar</option> <option value="GR">Greece</option> <option value="GL">Greenland</option> <option value="GD">Grenada</option> <option value="GP">Guadeloupe</option> <option value="GU">Guam</option> <option value="GT">Guatemala</option> <option value="GN">Guinea</option> <option value="GW">Guinea-Bissau</option> <option value="GY">Guyana</option> <option value="HT">Haiti</option> <option value="HM">Heard and McDonald Islands</option> <option value="HN">Honduras</option> <option value="HK">Hong Kong</option> <option value="HU">Hungary</option> <option value="IS">Iceland</option> <option value="IN">India</option> <option value="ID">Indonesia</option> <option value="IQ">Iraq</option> <option value="IE">Ireland</option> <option value="IL">Israel</option> <option value="IT">Italy</option> <option value="JM">Jamaica</option> <option value="JP">Japan</option> <option value="JO">Jordan</option> <option value="KZ">Kazakhstan</option> <option value="KE">Kenya</option> <option value="KI">Kiribati</option> <option value="KW">Kuwait</option> <option value="KG">Kyrgyzstan</option> <option value="LA">Lao People's Democratic Republic</option> <option value="LV">Latvia</option> <option value="LB">Lebanon</option> <option value="LS">Lesotho</option> <option value="LR">Liberia</option> <option value="LY">Libya</option> <option value="LI">Liechtenstein</option> <option value="LT">Lithuania</option> <option value="LU">Luxembourg</option> <option value="MO">Macau</option> <option value="MK">Macedonia</option> <option value="MG">Madagascar</option> <option value="MW">Malawi</option> <option value="MY">Malaysia</option> <option value="MV">Maldives</option> <option value="ML">Mali</option> <option value="MT">Malta</option> <option value="MH">Marshall Islands</option> <option value="MQ">Martinique</option> <option value="MR">Mauritania</option> <option value="MU">Mauritius</option> <option value="YT">Mayotte</option> <option value="MX">Mexico</option> <option value="FM">Micronesia</option> <option value="MD">Moldova</option> <option value="MC">Monaco</option> <option value="MN">Mongolia</option> <option value="MS">Montserrat</option> <option value="MA">Morocco</option> <option value="MZ">Mozambique</option> <option value="NA">Namibia</option> <option value="NR">Nauru</option> <option value="NP">Nepal</option> <option value="NL">Netherlands</option> <option value="AN">Netherlands Antilles</option> <option value="NC">New Caledonia</option> <option value="NZ">New Zealand</option> <option value="NI">Nicaragua</option> <option value="NE">Niger</option> <option value="NG">Nigeria</option> <option value="NU">Niue</option> <option value="NF">Norfolk Island</option> <option value="MP">Northern Mariana Islands</option> <option value="NO">Norway</option> <option value="OM">Oman</option> <option value="PK">Pakistan</option> <option value="PW">Palau</option> <option value="PS">Palestinian Territory</option> <option value="PA">Panama</option> <option value="PG">Papua New Guinea</option> <option value="PY">Paraguay</option> <option value="PE">Peru</option> <option value="PH">Philippines</option> <option value="PN">Pitcairn</option> <option value="PL">Poland</option> <option value="PT">Portugal</option> <option value="PR">Puerto Rico</option> <option value="QA">Qatar</option> <option value="RE">Reunion</option> <option value="RO">Romania</option> <option value="RU">Russian Federation</option> <option value="RW">Rwanda</option> <option value="KN">Saint Kitts and Nevis</option> <option value="LC">Saint Lucia</option> <option value="VC">Saint Vincent and the Grenadines</option> <option value="WS">Samoa</option> <option value="SM">San Marino</option> <option value="ST">Sao Tome and Principe</option> <option value="SA">Saudi Arabia</option> <option value="SN">Senegal</option> <option value="CS">Serbia and Montenegro</option> <option value="SC">Seychelles</option> <option value="SL">Sierra Leone</option> <option value="SG">Singapore</option> <option value="SK">Slovakia</option> <option value="SI">Slovenia</option> <option value="SB">Solomon Islands</option> <option value="SO">Somalia</option> <option value="ZA">South Africa</option> <option value="GS">South Georgia and The South Sandwich Islands</option> <option value="KR">South Korea</option> <option value="ES">Spain</option> <option value="LK">Sri Lanka</option> <option value="SH">St. Helena</option> <option value="PM">St. Pierre and Miquelon</option> <option value="SR">Suriname</option> <option value="SJ">Svalbard and Jan Mayen Islands</option> <option value="SZ">Swaziland</option> <option value="SE">Sweden</option> <option value="CH">Switzerland</option> <option value="TW">Taiwan</option> <option value="TJ">Tajikistan</option> <option value="TZ">Tanzania</option> <option value="TH">Thailand</option> <option value="TG">Togo</option> <option value="TK">Tokelau</option> <option value="TO">Tonga</option> <option value="TT">Trinidad and Tobago</option> <option value="TN">Tunisia</option> <option value="TR">Turkey</option> <option value="TM">Turkmenistan</option> <option value="TC">Turks and Caicos Islands</option> <option value="TV">Tuvalu</option> <option value="UG">Uganda</option> <option value="UA">Ukraine</option> <option value="AE">United Arab Emirates</option> <option value="GB">United Kingdom</option> <option value="US">United States</option> <option value="UM">United States Minor Outlying Islands</option> <option value="UY">Uruguay</option> <option value="UZ">Uzbekistan</option> <option value="VU">Vanuatu</option> <option value="VA">Vatican</option> <option value="VE">Venezuela</option> <option value="VN">Viet Nam</option> <option value="VG">Virgin Islands (British)</option> <option value="VI">Virgin Islands (U.S.)</option> <option value="WF">Wallis and Futuna Islands</option> <option value="EH">Western Sahara</option> <option value="YE">Yemen</option> <option value="ZM">Zambia</option> <option value="ZW">Zimbabwe</option></select>
+</div>
+<small><a target="Print_FAQ" href="http://books.google.com/support/partner/bin/answer.py?answer=17861&amp;topic=322&amp;hl=en_US">More information for international publishers</a></small></td></tr>
+<tr><td></td>
+<td><font color="#676767" size="2">Cannot be changed after submitting this application. Please verify that you have made the correct selection.</font></td></tr></tbody></table></td></tr>
+<tr><td><h3 class="signup">Contact Information</h3>
+<table id="languageNotes" border="0" cellpadding="3" cellspacing="0" width="100%" style="display:none"><tr><td nowrap><div id="languageNotePerson" style="display: none; padding: 5px; background: rgb(226, 255, 228)"><span style="font-weight: 700; font-size: 1em; color: #008000">Note:</span>
+Contact name &amp; address must be in English.
+[
+<a href="http://books.google.com/support/partner/bin/answer.py?hl=en_US&amp;answer=48426" target="help">?</a>
+]</div></td></tr>
+<tr><td colspan="2" align="left" nowrap><div id="languageNoteCompany" style="display: block; padding: 5px; background: rgb(226, 255, 228)"><span style="font-weight: 700; font-size: 1em; color: #008000">Note:</span>
+Company name &amp; address must be in English.
+[
+<a href="http://books.google.com/support/partner/bin/answer.py?hl=en_US&amp;answer=48426" target="help">?</a>
+]</div></td></tr></table>
+<table><tr><td><table border="0" class="addr_form"><tr id="companyNameRowId"><td class="addr_label_col">Payee name:</td>
+<td class="addr_input_col"><div class="errorbox-good"><bdo dir="ltr"><input type="text" name="contactInput.asciiNameInput.companyName" value="" id="companyName" style="width:100%" maxlength="128" tabindex="15"></bdo>
+</div></td></tr>
+<tr id="fullNameRowId"><td class="addr_label_col">Contact name:</td>
+<td class="addr_input_col"><div class="errorbox-good"><bdo dir="ltr"><input type="text" name="contactInput.asciiNameInput.fullName" value="" id="fullName" style="width:100%" maxlength="60" tabindex="15"></bdo>
+</div>
+<div class="meta">Please do not use initials</div></td></tr></table>
+<script type="text/javascript" src="/partner/javascript/address/322641388-addressjs.js"></script>
+
+
+<script type="text/javascript" language="javascript">
+      _AF_AddressFormInit(
+         "en_US",
+         "/partner/addrform/resources",
+         "/addrform/autocomp",
+         {
+           MSG_VALID_VALUES :
+             "Valid values:",
+           MSG_SAMPLE_ZIP :
+             "Sample Zips of the selected country/region:",
+           MSG_SAMPLE_POSTAL_CODE :
+             "Sample postal codes of the selected country/region:",
+           MSG_VALID_VALUES_FOR_STATE:
+             "Valid values for \x27%state\x27:",
+           MSG_FROM_TO_TO:
+             "%from to %to",
+           MSG_VALID_VALUE_FOR_STATE_START_WITH:
+             "Valid values for \x27%state\x27 start with:",
+           MSG_EXAMPLE: 
+             "Example:",
+           MSG_DESCRIPTION: 
+             "Description:"
+         }
+      );
+
+      function _AF_ToggleChildren(node) {
+        var list = node.parentNode.childNodes;
+        for (var i=0; i < list.length; i++) {
+          var item = list.item(i);
+          if (item.nodeType == 1) {
+            item.style.display = (node == item) ? "none" : "";
+          }
+        }
+      }
+    </script>
+<style type="text/css">
+      .addr_tbody {
+        vertical-align: top;
+      }
+      .addr_elabel {
+        font-size: 70%;
+      }
+      .addr_eitem {
+        font-size: smaller;
+      }
+      .required {
+        color: #800;
+      }
+
+    
+      /* for auto complete */
+      .ac-renderer {
+        position: absolute;
+        background-color: #DDD;
+        border: 1px solid #999;
+      }
+
+      .ac-renderer div {
+        position: relative;
+        background-color: #EEE;
+        margin:3px;
+        padding: 1px 4px;
+        cursor: pointer;
+      }
+
+      .ac-renderer div b {
+        color: #00F;
+      }
+
+      .ac-renderer div.active {
+        background-color: #999;
+        color: #FFF;
+      }
+    
+    </style>
+<table class="addr_form"><colgroup id="contactInput.asciiAddressInput_label"></colgroup>
+<colgroup id="contactInput.asciiAddressInput_input"></colgroup>
+<tbody class="addr_tbody">
+
+<tr class="addr_tr"><td class="addr_label_col"></td>
+<td class="addr_input_col"><div style="display: none"><div class="errorbox-good"><input type="hidden" name="contactInput.asciiAddressInput.iso3166CountryCode" value="US" id="contactInput.asciiAddressInput_cmenu">
+</div></div>
+<div></div></td></tr>
+
+<tr class="addr_tr"><td class="addr_label_col"><div id="contactInput.asciiAddressInput_street1_label"><label for="contactInput.asciiAddressInput_street1">Street Address:
+</label></div>
+<div id="contactInput.asciiAddressInput_street2_label"><label for="contactInput.asciiAddressInput_street2"></label></div></td>
+<td class="addr_input_col"><div class="errorbox-good"><input type="text" name="contactInput.asciiAddressInput.street1" value="" id="contactInput.asciiAddressInput_street1" tabindex="15" autocomplete="off" maxlength="35" style="display: block; width: 100%">
+</div>
+<div class="errorbox-good"><input type="text" name="contactInput.asciiAddressInput.street2" value="" id="contactInput.asciiAddressInput_street2" tabindex="15" autocomplete="off" maxlength="35" style="display: block; width: 100%">
+</div>
+
+<div></div></td></tr>
+
+
+
+<tr class="addr_tr"><td class="addr_label_col"><label for="contactInput.asciiAddressInput_town">City/Town:
+<span id="city_required" style="display:none"></span></label></td>
+<td class="addr_input_col"><div class="errorbox-good"><input type="text" name="contactInput.asciiAddressInput.town" value="" id="contactInput.asciiAddressInput_town" tabindex="15" autocomplete="off" maxlength="35" style="width: 100%">
+</div>
+<div></div></td></tr>
+<tr class="addr_tr"><td class="addr_label_col"><div id="contactInput.asciiAddressInput_state_parent"><span class="state"><label for="contactInput.asciiAddressInput_state">State:</label></span>
+<span class="province" style="display:none"><label for="contactInput.asciiAddressInput_state">Province:</label></span>
+<span class="do_si" style="display:none"><label for="contactInput.asciiAddressInput_state">Metro/Province:</label></span>
+<span class="prefecture" style="display:none"><label for="contactInput.asciiAddressInput_state">Prefecture:</label></span>
+<span class="county" style="display:none"><label for="contactInput.asciiAddressInput_state">County:</label></span>
+<span class="district" style="display:none"><label for="contactInput.asciiAddressInput_state">District:</label></span>
+<span class="emirate" style="display:none"><label for="contactInput.asciiAddressInput_state">Emirate:</label></span>
+<span class="island" style="display:none"><label for="contactInput.asciiAddressInput_state">Island:</label></span>
+<span class="parish" style="display:none"><label for="contactInput.asciiAddressInput_state">Parish:</label></span>
+<span class="area" style="display:none"><label for="contactInput.asciiAddressInput_state">Area:</label></span>
+<span class="department" style="display:none"><label for="contactInput.asciiAddressInput_state">Department:</label></span>
+<span id="state_required" style="display:none"></span></div></td>
+<td class="addr_input_col"><div class="errorbox-good"><input type="text" name="contactInput.asciiAddressInput.state" value="" id="contactInput.asciiAddressInput_state" tabindex="15" autocomplete="off" maxlength="35" style="width: 100%">
+</div>
+<div></div></td></tr>
+<tr class="addr_tr"><td class="addr_label_col"><span id="contactInput.asciiAddressInput_zip_parent"><span class="zip"><label for="contactInput.asciiAddressInput_zip">ZIP:</label></span>
+<span class="postal" style="display:none"><label for="contactInput.asciiAddressInput_zip">Postal Code:</label></span>
+<span id="zip_required" style="display:none"></span></span>
+<a href="#" id="contactInput.asciiAddressInput_zip_help" target="_blank" tabindex="-1" title="Show Post Office postcode/zip search page in a new window">[?]</a></td>
+<td class="addr_input_col"><div class="errorbox-good"><span id="contactInput.asciiAddressInput_zipprefix"></span>
+<input type="text" name="contactInput.asciiAddressInput.zip" value="" id="contactInput.asciiAddressInput_zip" tabindex="15" autocomplete="off" maxlength="35" style="width: 100%">
+</div>
+<div></div></td></tr>
+<tr class="addr_tr"><td class="addr_label_col"><label for="contactInput.asciiAddressInput_country"></label></td>
+<td class="addr_input_col"><div class="errorbox-good"><input type="text" name="contactInput.asciiAddressInput.englishCountryName" disabled value="" id="contactInput.asciiAddressInput_country" tabindex="15" autocomplete="off" maxlength="35" style="width: 100%" readonly>
+</div>
+<div></div></td></tr>
+<input type="hidden" name="contactInput.asciiAddressInput.enableCaseChecking" value="false"></tbody></table>
+<script type="text/javascript">
+       _AF_AddressFormSetup( "contactInput.asciiAddressInput",
+                             true,
+                             "US",
+                             false,
+                             {
+                               state:
+                                  
+                                      "Select state"
+                                  ,
+                               province:
+                                  
+                                      "Select province"
+                                  ,
+                               prefecture: "Select prefecture",
+                               do_si: "Select metro/province",
+                               county: "Select county",
+                               district: "Select district",
+                               emirate: "Select emirate",
+                               island: "Select island",
+                               parish: "Select parish",
+                               area: "Select area",
+                               department: "Select department"
+                             },
+                             20,
+                             false,
+                             false,
+                             false,
+                             false,
+                             false,
+                             false,
+                             false,
+                             false,
+                             true,
+                             true,
+                             false,
+                             "15",
+                             35,
+                             false,
+                             "UTF-8",
+                             true,
+                             false,
+                             false,
+                             false,
+                             true,
+                             {
+                               name:"E",
+                               organization:"E",
+                               street1:"E",
+                               street2:"E",
+                               street3:"E",
+                               extra:"E",
+                               district:"E",
+                               city:"E",
+                               state:"E",
+                               zip:"E",
+                               country:"E"
+                             });
+  </script>
+<table border="0" class="addr_form"><tr><td class="addr_label_col">Phone:</td>
+<td class="addr_input_col"><div class="errorbox-good"><bdo dir="ltr"><input type="text" name="contactInput.phoneInput.phone" value="" id="phone" style="width:100%" maxlength="40" tabindex="15"></bdo>
+</div></td></tr>
+<tr><td class="addr_label_col">Fax:
+<p class="meta">optional</p></td>
+<td class="addr_input_col"><div class="errorbox-good"><bdo dir="ltr"><input type="text" name="contactInput.phoneInput.fax" value="" id="fax" style="width:100%" maxlength="40" tabindex="15"></bdo>
+</div></td></tr></table>
+<script type="text/javascript">
+    document.getElementById("contactInput.asciiAddressInput_street1").maxLength =
+        30;
+    document.getElementById("contactInput.asciiAddressInput_street2").maxLength =
+        30;
+    document.getElementById("contactInput.asciiAddressInput_town").maxLength =
+        30;
+    document.getElementById("contactInput.asciiAddressInput_state").maxLength =
+        30;
+    document.getElementById("contactInput.asciiAddressInput_zip").maxLength =
+        10;
+  </script></td></tr></table></td></tr>
+<tr><td><h3 class="signup">Program Information</h3>
+<table border="0" cellpadding="3" cellspacing="0" width="100%"><tbody><tr><th>Google Books display name:
+[<a href="http://books.google.com/support/partner/bin/answer.py?hl=en_US&amp;answer=106170" target="help">?</a>]</th>
+<td><div class="errorbox-good"><input type="text" name="publisherInformation.imprintName" tabindex="16" size="28" onchange="imprintNameTouched=true" id="imprintName" maxlength="28">
+<i><font size="1" color="#676767">Maximum 28 characters</font></i>
+</div>
+<font size="2" color="#676767">This will be the name displayed for the link to your website and/or logo</font></td></tr>
+<tr><th><b>Your website:</b><br>
+<span class="meta">optional</span></th>
+<td><div class="errorbox-good"><input type="text" name="publisherInformation.imprintUrl" size="30" maxlength="255" tabindex="17">
+</div>
+<br>
+<font size="2" color="#676767">Example: www.yourwebsite.com</font>
+<input type="hidden" name="publisherInformation.scanLibraryBooks" value="true"></td></tr>
+<tr><th>Email preference:</th>
+<td>We&#39;ll send you service announcements that relate to your agreement with Google.
+<br>
+<div class="errorbox-good"><input type="checkbox" name="announcementPreferenceInput.announcement" value="true" id="announcementPreference_announcement" tabindex="18">
+<label for="announcementPreference_announcement">Send me periodic newsletters with user tips and an occasional survey to help improve Google Books.</label>
+</div>
+<div class="errorbox-good"><input type="checkbox" name="announcementPreferenceInput.newsletter" value="true" id="announcementPreference_newsletters" tabindex="19">
+<label for="announcementPreference_newsletters">Also send me newsletters and announcements about other Google products.</label>
+</div>
+<div class="errorbox-good"><input type="checkbox" name="announcementPreferenceInput.expressLive" value="true" id="announcementPreference_expressLive" tabindex="20">
+<label for="announcementPreference_expressLive">Send me notifications when my books are pending addition to the index due to Express Live.</label>
+</div>
+<div class="errorbox-good"><input type="checkbox" name="announcementPreferenceInput.weeklyReports" value="true" id="announcementPreference_weeklyReports" tabindex="21">
+<label for="announcementPreference_weeklyReports">Send me copies of my account&#39;s weekly summary report.</label>
+</div></td></tr></tbody></table></td></tr></tbody></table>
+<input type="submit" name="save" value="Submit Information" tabindex="22" style="font-weight:bold;"></form></div>
+<br>
+<center><span class="copyright">&copy; 2010 Google -
+<a href="home">Home</a>
+-
+<a href="contact" target="_blank">Contact Us</a>
+-
+<a href="privacy-policy" target="_blank">Privacy Policy</a>
+</span></center>
+
+<script type="text/javascript">
+        // Inject event handlers
+        document.getElementById("fullName").onchange = updateImprintName;
+        document.getElementById("companyName").onchange = updateImprintName;
+        var c_cs = document.getElementById("countrySelector");
+        c_cs.onchange = updateCountry;
+        _AF_AddObserver("contactInput.asciiAddressInput", function (id) {
+          var country = _AF_GetCountry(id);
+          if (country != c_cs.value) {
+            c_cs.value = country;
+          }
+        });
+
+        // Initialize the form after the HTML is loaded.
+        displayMetadataForContentType();
+        updateCountry();
+        displayAddressForAccountType();
+      </script></body></html>

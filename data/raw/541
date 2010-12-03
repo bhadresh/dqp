@@ -1,0 +1,2126 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" >
+<!-- machid: pNzdlTFlrODRyd2NycS1MMmhPSHprZmhrUk5qN0ZaSzR4ZE5IWlVidTZVWnFPVTZQV3Zxd19R -->
+<head>
+        <script>
+      var yt = yt || {};
+      yt.timing = yt.timing || {};
+      yt.timing.cookieName = 'VISITOR_INFO1_LIVE';
+      yt.timing.tick = function(label) {
+        var timer = yt.timing.timer || {};
+        timer[label] = new Date().getTime();
+        yt.timing.timer = timer;
+      };
+        yt.timing.wff = true;
+
+        yt.timing['an'] = '';
+
+        yt.timing.tick('start');
+      
+      try {
+        yt.timing.pt = window.gtbExternal && window.gtbExternal.pageT() ||
+              window.external && window.external.pageT;
+      } catch(e) {}
+      if (navigator.userAgent.toLowerCase().indexOf('chrome') > -1) {
+        yt.timing.pt = window.chrome && window.chrome.csi && Math.floor(window.chrome.csi().pageT);
+      }
+    </script>
+
+    <script>
+      var yt = yt || {};
+      yt.preload = {};
+      yt.preload.start = function() {
+        var img = new Image();
+        yt.preload.videoConnection = img;
+        img.onload = img.onerror = function () {
+          delete yt.preload.videoConnection;
+        };
+        img.src = 'http:\/\/v1.lscache6.c.youtube.com\/generate_204?ip=67.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&algorithm=throttle-factor&itag=34&ipbits=8&burst=40&sver=3&expire=1291273200&key=yt1&signature=7584115559186C829B681AA0B6739309D5F9C336.70A5303A50E0D6ACA936EB5A72660D81240DDF6D&factor=1.25&id=cf1392bf82f04ac6';
+        img = null;
+      };
+      yt.preload.start();
+    </script>
+
+    <title>
+    YouTube
+        - Boise State Misses Game Winning Field Goal (HQ)
+  </title>
+
+        <link id="www-core-css" rel="stylesheet" href="http://s.ytimg.com/yt/cssbin/www-core-vflLiFWAo.css">
+
+
+  
+  
+
+    
+  <link rel="search" type="application/opensearchdescription+xml" href="http://www.youtube.com/opensearch?locale=en_US" title="YouTube Video Search">
+  <link rel="icon" href="http://s.ytimg.com/yt/favicon-vflZlzSbU.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="http://s.ytimg.com/yt/favicon-vflZlzSbU.ico" type="image/x-icon">
+    <link rel="canonical" href="/watch?v=zxOSv4LwSsY">
+    <link rel="alternate" media="handheld" href="http://m.youtube.com/watch?desktop_uri=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzxOSv4LwSsY%26amp%3Bfeature%3Daso&amp;amp=&amp;feature=aso&amp;v=zxOSv4LwSsY&amp;gl=US">
+    <link rel="shortlink" href="http://youtu.be/zxOSv4LwSsY">
+      <meta name="title" content="Boise State Misses Game Winning Field Goal (HQ)">
+
+      <meta name="description" content="Against Nevada">
+
+    <meta name="keywords" content="boise, state, field, goal, miss, nevada, broncos, wolf, pack">
+
+  <link rel="alternate" type="application/json+oembed" href="http://www.youtube.com/oembed?url=http%3A//www.youtube.com/watch?v%3DzxOSv4LwSsY&format=json" title="Boise State Misses Game Winning Field Goal (HQ)" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.youtube.com/oembed?url=http%3A//www.youtube.com/watch?v%3DzxOSv4LwSsY&format=xml" title="Boise State Misses Game Winning Field Goal (HQ)" />
+  <meta property="fb:app_id" content="87741124305" />
+    <meta property="og:title" content="Boise State Misses Game Winning Field Goal (HQ)" />
+    <meta property="og:description" content="Against Nevada" />
+  <meta property="og:type" content="video" />
+    <meta property="og:url" content="http://www.youtube.com/watch?v=zxOSv4LwSsY" />
+  <meta property="og:image" content="http://i3.ytimg.com/vi/zxOSv4LwSsY/default.jpg" />
+  <meta property="og:site_name" content="YouTube" />
+
+
+  <script id="legacy-user-datastore" style="behavior:url('#default#userdata')"></script>
+    <script>
+    var gYouTubePlayerReady = false;
+    if (!window['onYouTubePlayerReady']) {
+      window['onYouTubePlayerReady'] = function() {
+        gYouTubePlayerReady = true;
+      };
+    }
+  </script>
+      <script>
+      if (window.yt.timing) {
+        yt.timing.tick('ct');
+      }
+    </script>
+
+
+</head>
+<body class="date-20101118 en_US ltr is-english" dir="ltr">
+  <!--[if IE]><div id="ie"><![endif]-->
+  <!-- begin prepage section -->
+  <form name="logoutForm" method="post" action="/">
+    <input type="hidden" name="action_logout" value="1">
+  </form>
+  <!-- end prepage section -->
+  <div id="page" class="  watch ">
+      <div id="pagetop">
+    <!-- begin pagetop section -->
+    <div id="masthead-container">
+      
+
+  <div id="masthead" class="" dir="ltr">
+          <a href="/" title="YouTube home">
+    <img id="logo" class="master-sprite" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt="YouTube home">
+  </a>
+
+
+    <div id="masthead-utility" >
+      
+<a href="/videos?feature=mh">Browse</a><a href="http://upload.youtube.com/my_videos_upload" class="split">Upload</a>
+
+        <a class="start" href="https://www.google.com/accounts/LogoutWarning?continue=http%3A%2F%2Fwww.youtube.com%2Fcreate_account%3Fnext%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DzxOSv4LwSsY%2526amp%253Bfeature%253Daso&amp;ltmpl=sso&amp;service=youtube&amp;hl=en_US">Create Account</a><a class="end" href="https://www.google.com/accounts/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Den_US%26next%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DzxOSv4LwSsY%2526amp%253Bfeature%253Daso&amp;hl=en_US&amp;ltmpl=sso">Sign In</a>
+    </div>
+    
+
+  <form id="masthead-search" autocomplete="off" class="search-form" action="/results" method="get" name="searchForm" onsubmit="if(_gel('masthead-search-term').value == '') return false; ">
+<button onclick="if (_gel('masthead-search-term').value != '') { document['searchForm'].submit(); }; return false;;return false;" class="search-button yt-uix-button" type="button" id="search-btn" dir="ltr" tabindex="2"  role="button" aria-pressed="false"><span class="yt-uix-button-content">Search</span></button><div ><input id="masthead-search-term" class="search-term" name="search_query" value="" type="text" tabindex="1" onkeyup="goog.i18n.bidi.setDirAttribute(event,this)"  title="Search"></div>  </form>
+
+  </div>
+  
+
+
+    </div>
+
+    <div id="alerts" style="display:none">  
+</div>
+    <!-- end pagetop section -->
+  </div>
+  <div id="content" class="    player-new-ui ">
+      <!-- begin watchsearchclose section -->
+  <div id="watch-search-close-ie"></div>
+  <div id="watch-search-close">
+    <div class="tab tab-upper"><button type="button" class="master-sprite yt-uix-button" onclick=";return false;" data-button-action="yt.www.watch.sow.closeSearch" role="button" aria-pressed="false"><img class="yt-uix-button-icon-chevron-up" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> </button></div>
+    <div class="tab tab-lower"><button type="button" class="master-sprite yt-uix-button" onclick=";return false;" data-button-action="yt.www.watch.sow.closeContent" role="button" aria-pressed="false"><img class="yt-uix-button-icon-close" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> </button></div>
+  </div>
+  <div id="watch-search-close-tiny">
+    <button type="button" class="master-sprite yt-uix-button" onclick=";return false;" data-button-action="yt.www.watch.sow.closeSearch" role="button" aria-pressed="false"><img class="yt-uix-button-icon-chevron-up" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> </button>
+    <button type="button" class="master-sprite yt-uix-button" onclick=";return false;" data-button-action="yt.www.watch.sow.closeContent" role="button" aria-pressed="false"><img class="yt-uix-button-icon-close" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> </button>
+  </div>
+  <!-- end watchsearchclose section -->
+  <div id="watch-container">
+  <!-- begin contenttop section -->
+  <div id="watch-headline-container">
+      <div id="watch-headline" class="watch-headline">
+
+    <h1 id="watch-headline-title">
+      
+
+  <span id="eow-title" class="" dir="ltr" title="Boise State Misses Game Winning Field Goal (HQ)">
+    Boise State Misses Game Winning Field Goal (HQ)
+  </span>
+
+    </h1>
+
+    <div id="watch-headline-user-info">
+        <a id="watch-username" class="inline-block" href="/user/JackInBlackDawg"><strong>JackInBlackDawg</strong></a>
+      <span id="watch-video-count"
+            class="watch-expander yt-uix-expander yt-uix-expander-collapsed"
+            data-expander-action="yt.www.watch.watch5.handleToggleMoreFromUser">
+        <span class="watch-expander-head yt-uix-expander-head yt-rounded">
+          <button class="yt-uix-expander-arrow master-sprite" onclick="return false;"></button>
+31 videos
+        </span>
+      </span>
+
+        
+  
+    
+  
+  
+
+
+
+    
+    
+
+  <div data-subscription-type="user" data-subscription-xsrf="9bgdsS-4EmG7bsQxHgHDLz2qHTd8MA==" data-subscription-expandable-id="subscription-button-module-menu" data-subscription-username="JackInBlackDawg" data-subscription-menu-type="expander" class="subscription-container">
+    
+
+    
+
+  
+  
+
+  <button type="button" class="subscribe-button yt-uix-button yt-uix-tooltip" onclick=";return false;" title="Click to be notified of new videos from this channel" data-button-menu-id="subscription-menu-not-logged-in-627200" role="button" aria-pressed="false"><span class="yt-uix-button-content">Subscribe</span> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button>
+    <div id="subscription-menu-not-logged-in-627200" class="subscription-menu-not-logged-in" style="display:none;">
+        <strong><a href="https://www.google.com/accounts/ServiceLogin?uilel=3&service=youtube&passive=true&continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Den_US%26next%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DzxOSv4LwSsY%2526amp%253Bfeature%253Daso&hl=en_US&ltmpl=sso">Sign In</a> or <a href="https://www.google.com/accounts/LogoutWarning?continue=http%3A%2F%2Fwww.youtube.com%2Fcreate_account%3Fnext%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DzxOSv4LwSsY%2526amp%253Bfeature%253Daso&ltmpl=sso&service=youtube&hl=en_US">Sign Up</a> now!
+</strong> 
+
+    </div>
+
+        <div class="subscription-subscribed-container hid">
+    <span class="subscription-options-button subscription-expander yt-uix-expander yt-uix-expander-collapsed"
+          data-expander-action="yt.www.subscriptions.button.toggleMenu">
+      <span class="yt-uix-expander-head yt-rounded" style="display:inline-block">
+        <button class="yt-uix-expander-arrow master-sprite"
+                onclick="return false;"></button>
+          
+
+
+
+  <div  class="yt-alert yt-alert-success yt-alert-small yt-alert-naked yt-rounded">
+      <img src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" class="icon master-sprite" alt="Alert icon">
+
+    <div  class="yt-alert-content">
+            Subscribed
+    </div>
+
+  </div>
+
+      </span>
+    </span>
+  </div>
+
+  </div>
+
+    </div>
+
+        <div id="subscription-button-module-menu" class="hid subscription-menu-expandable subscription-menu">
+    <span class="subscription-menu-loader">Loading...</span>
+    <div class="subscription-menu-body"></div>
+  </div>
+
+
+    <div id="watch-more-from-user" class="collapsed">
+      <div id="watch-channel-discoverbox" class="yt-rounded">
+        <span id="watch-channel-loading">Loading...</span>
+      </div>
+    </div>
+
+  </div>
+
+  </div>
+  <!-- end contenttop section -->
+  <div id="watch-video-container">
+    <div id="watch-video" >
+          <script>
+      if (window.yt.timing) {
+        yt.timing.tick('bf');
+      }
+    </script>
+
+      <div id="watch-player" class="flash-player">
+          
+    
+  
+  
+  
+    
+    
+    
+  
+  
+  
+    
+  
+    
+    
+    
+  
+  
+
+
+
+  <script>
+    (function() {
+      var isIE = /*@cc_on!@*/false;
+      var swfHTML = (isIE) ? "<object height=\"38" + "5\" width=\"64" + "0\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" id=\"movie_player\" ><param name=\"movie\" value=\"http:\/\/s.ytimg.com\/yt\/swf\/watch_as3-vfllZotcC.swf\"><param name=\"flashvars\" value=\"rv.7.length_seconds=63&rv.2.thumbnailUrl=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FDviMiYowobE%2Fdefault.jpg&rv.0.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBULHZIBpnSI&rv.0.view_count=12062&enablecsi=1&rv.2.title=%28HD%29+Nevada+beats+Boise+State+34-31+in+OT+Kicker+Kyle+Brotzman+Field+Goal+11.26.2010&rv.6.author=tsez79&rv.3.view_count=132&is_doubleclick_tracked=1&rv.4.thumbnailUrl=http%3A%2F%2Fi3.ytimg.com%2Fvi%2FVfUaKsB9X7Y%2Fdefault.jpg&fmt_url_map=35%7Chttp%3A%2F%2Fv8.lscache1.c.youtube.com%2Fvideoplayback%3Fip%3D67.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26algorithm%3Dthrottle-factor%26itag%3D35%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1291273200%26key%3Dyt1%26signature%3D69C09ACDEEF21D7C50B0256A5D3387E51C3ABF14.39C260E58EE8248B7A6119F49DA284BDB4DB6566%26factor%3D1.25%26id%3Dcf1392bf82f04ac6%2C34%7Chttp%3A%2F%2Fv1.lscache6.c.youtube.com%2Fvideoplayback%3Fip%3D67.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26algorithm%3Dthrottle-factor%26itag%3D34%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1291273200%26key%3Dyt1%26signature%3D7584115559186C829B681AA0B6739309D5F9C336.70A5303A50E0D6ACA936EB5A72660D81240DDF6D%26factor%3D1.25%26id%3Dcf1392bf82f04ac6%2C18%7Chttp%3A%2F%2Fv19.lscache6.c.youtube.com%2Fvideoplayback%3Fip%3D67.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26algorithm%3Dthrottle-factor%26itag%3D18%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1291273200%26key%3Dyt1%26signature%3D05A69CA5D9E4EBDA7484F4F53FFCFC78F34057DA.17FBE90476309FF5DCAC19DA989B3950B33EF41B%26factor%3D1.25%26id%3Dcf1392bf82f04ac6%2C5%7Chttp%3A%2F%2Fv16.lscache4.c.youtube.com%2Fvideoplayback%3Fip%3D67.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26algorithm%3Dthrottle-factor%26itag%3D5%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1291273200%26key%3Dyt1%26signature%3DCC93A4D42030156A6444E9F4A7828F166A995A87.14142ECFA952153AD4C67C85B499104A8D8E28EB%26factor%3D1.25%26id%3Dcf1392bf82f04ac6&csi_page_type=watch&keywords=boise%2Cstate%2Cfield%2Cgoal%2Cmiss%2Cnevada%2Cbroncos%2Cwolf%2Cpack&cr=US&rv.1.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dde4kYT8d0aY&rv.6.thumbnailUrl=http%3A%2F%2Fi4.ytimg.com%2Fvi%2FoC1XfpZYI6Y%2Fdefault.jpg&rv.3.rating=5.0&fmt_list=35%2F854x480%2F9%2F0%2F115%2C34%2F640x360%2F9%2F0%2F115%2C18%2F640x360%2F9%2F0%2F115%2C5%2F320x240%2F7%2F0%2F0&rv.7.id=uE4hJNvYCYQ&rv.0.rating=4.46666666667&rv.4.rating=0.0&rv.3.title=Boise+State+Misses+Game+Winning+Field+Goal&rv.5.id=i4ikSzHLZCc&rv.0.featured=1&rv.0.id=BULHZIBpnSI&sdetail=f%3Aaso%2C&rv.5.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Di4ikSzHLZCc&rv.6.length_seconds=20&timestamp=1291248683&rv.0.author=AssociatedPress&rv.3.thumbnailUrl=http%3A%2F%2Fi1.ytimg.com%2Fvi%2F8_7ZSF1ueLg%2Fdefault.jpg&rv.2.author=KENFL74&rv.6.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoC1XfpZYI6Y&fmt_map=35%2F854x480%2F9%2F0%2F115%2C34%2F640x360%2F9%2F0%2F115%2C18%2F640x360%2F9%2F0%2F115%2C5%2F320x240%2F7%2F0%2F0&showpopout=1&hl=en_US&endscreen_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fendscreen-vflMuoQ6w.swf&rv.0.thumbnailUrl=http%3A%2F%2Fi3.ytimg.com%2Fvi%2FBULHZIBpnSI%2Fdefault.jpg&rv.5.length_seconds=23&rv.7.author=HostReviews&leanback_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fleanback_module-vflVrjX-f.swf&rv.1.length_seconds=18&rv.3.id=8_7ZSF1ueLg&rv.2.id=DviMiYowobE&rv.2.length_seconds=79&t=vjVQa1PpcFP2bJPJmm-9sxQh_Z6v7zD98rcYtNv6n_s%3D&rv.6.id=oC1XfpZYI6Y&vq=auto&rv.6.view_count=164&rv.3.author=TwistedWayne&rv.4.id=VfUaKsB9X7Y&rv.1.view_count=55461&rv.4.author=worldtopnews012&rv.7.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2FuE4hJNvYCYQ%2Fdefault.jpg&allow_embed=1&rv.5.title=Boise+State+Football+-++10%2F9%2F2010++vs.++Toledo&fmt_stream_map=35%7Chttp%3A%2F%2Fv8.lscache1.c.youtube.com%2Fvideoplayback%3Fip%3D67.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26algorithm%3Dthrottle-factor%26itag%3D35%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1291273200%26key%3Dyt1%26signature%3D69C09ACDEEF21D7C50B0256A5D3387E51C3ABF14.39C260E58EE8248B7A6119F49DA284BDB4DB6566%26factor%3D1.25%26id%3Dcf1392bf82f04ac6%7C%7Ctc.v8.cache1.c.youtube.com%2C34%7Chttp%3A%2F%2Fv1.lscache6.c.youtube.com%2Fvideoplayback%3Fip%3D67.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26algorithm%3Dthrottle-factor%26itag%3D34%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1291273200%26key%3Dyt1%26signature%3D7584115559186C829B681AA0B6739309D5F9C336.70A5303A50E0D6ACA936EB5A72660D81240DDF6D%26factor%3D1.25%26id%3Dcf1392bf82f04ac6%7C%7Ctc.v1.cache6.c.youtube.com%2C18%7Chttp%3A%2F%2Fv19.lscache6.c.youtube.com%2Fvideoplayback%3Fip%3D67.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26algorithm%3Dthrottle-factor%26itag%3D18%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1291273200%26key%3Dyt1%26signature%3D05A69CA5D9E4EBDA7484F4F53FFCFC78F34057DA.17FBE90476309FF5DCAC19DA989B3950B33EF41B%26factor%3D1.25%26id%3Dcf1392bf82f04ac6%7C%7Ctc.v19.cache6.c.youtube.com%2C5%7Chttp%3A%2F%2Fv16.lscache4.c.youtube.com%2Fvideoplayback%3Fip%3D67.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26algorithm%3Dthrottle-factor%26itag%3D5%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1291273200%26key%3Dyt1%26signature%3DCC93A4D42030156A6444E9F4A7828F166A995A87.14142ECFA952153AD4C67C85B499104A8D8E28EB%26factor%3D1.25%26id%3Dcf1392bf82f04ac6%7C%7Ctc.v16.cache4.c.youtube.com&rv.2.rating=5.0&rv.7.title=Boise+State+vs.+Nevada+Kyle+Brotzman+Field+Goal+Miss&rv.0.length_seconds=50&rv.1.id=de4kYT8d0aY&rv.6.title=Boise+State+vs.+Fresno+State+11%2F19%2F2010&rv.4.length_seconds=229&rv.1.thumbnailUrl=http%3A%2F%2Fi1.ytimg.com%2Fvi%2Fde4kYT8d0aY%2Fdefault.jpg&rv.5.view_count=702&length_seconds=128&feature=aso&enablejsapi=1&plid=AASWYkMY7SUQNgTI&tmi=1&rv.5.rating=5.0&rv.4.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVfUaKsB9X7Y&rv.1.author=xnickx5757&rv.1.rating=3.3829787234&rv.4.title=%28HD%29+Nevada+beats+Boise+State+34-31+in+OT+Kicker+Kyle+Brotzman+Field+Goal+11.26.2010&rv.5.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2Fi4ikSzHLZCc%2Fdefault.jpg&watermark=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Flogo-vfl_bP6ud.swf%2Chttp%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fhdlogo-vfloR6wva.swf&rv.0.title=No.+19+Nevada+Upsets+No.+3+Boise+State&rv.7.rating=5.0&rv.3.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8_7ZSF1ueLg&rv.2.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDviMiYowobE&rv.7.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuE4hJNvYCYQ&rv.2.view_count=13844&rv.4.view_count=722&video_id=zxOSv4LwSsY&fslarge=1&rv.6.rating=0.0&sk=094-RU7Vl08cG1yC69a_aDUxUOiD1o-rC&rv.1.title=Boise+State+vs.+Nevada+Kyle+Brotzman+Missed+Field+Goal...+or+did+he%3F++11%2F26%2F10&rv.7.view_count=552&rv.3.length_seconds=20&rv.5.author=tsez79\"><param name=\"allowscriptaccess\" value=\"always\"><param name=\"allowfullscreen\" value=\"true\"><param name=\"bgcolor\" value=\"#000000\">\n\n\n\n  <div  class=\"yt-alert yt-alert-error yt-alert-player yt-rounded\">\n      <img src=\"http:\/\/s.ytimg.com\/yt\/img\/pixel-vfl3z5WfW.gif\" class=\"icon master-sprite\" alt=\"Alert icon\">\n\n    <div  class=\"yt-alert-content\">\n            You need Adobe Flash Player to watch this video. <br> <a href=\"http:\/\/get.adobe.com\/flashplayer\/\">Download it from Adobe.<\/a>\n    <\/div>\n\n  <\/div>\n<\/object>" : "<embed height=\"38" + "5\" width=\"64" + "0\" type=\"application\/x-shockwave-flash\" src=\"http:\/\/s.ytimg.com\/yt\/swf\/watch_as3-vfllZotcC.swf\" id=\"movie_player\" flashvars=\"rv.7.length_seconds=63&rv.2.thumbnailUrl=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FDviMiYowobE%2Fdefault.jpg&rv.0.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBULHZIBpnSI&rv.0.view_count=12062&enablecsi=1&rv.2.title=%28HD%29+Nevada+beats+Boise+State+34-31+in+OT+Kicker+Kyle+Brotzman+Field+Goal+11.26.2010&rv.6.author=tsez79&rv.3.view_count=132&is_doubleclick_tracked=1&rv.4.thumbnailUrl=http%3A%2F%2Fi3.ytimg.com%2Fvi%2FVfUaKsB9X7Y%2Fdefault.jpg&fmt_url_map=35%7Chttp%3A%2F%2Fv8.lscache1.c.youtube.com%2Fvideoplayback%3Fip%3D67.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26algorithm%3Dthrottle-factor%26itag%3D35%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1291273200%26key%3Dyt1%26signature%3D69C09ACDEEF21D7C50B0256A5D3387E51C3ABF14.39C260E58EE8248B7A6119F49DA284BDB4DB6566%26factor%3D1.25%26id%3Dcf1392bf82f04ac6%2C34%7Chttp%3A%2F%2Fv1.lscache6.c.youtube.com%2Fvideoplayback%3Fip%3D67.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26algorithm%3Dthrottle-factor%26itag%3D34%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1291273200%26key%3Dyt1%26signature%3D7584115559186C829B681AA0B6739309D5F9C336.70A5303A50E0D6ACA936EB5A72660D81240DDF6D%26factor%3D1.25%26id%3Dcf1392bf82f04ac6%2C18%7Chttp%3A%2F%2Fv19.lscache6.c.youtube.com%2Fvideoplayback%3Fip%3D67.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26algorithm%3Dthrottle-factor%26itag%3D18%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1291273200%26key%3Dyt1%26signature%3D05A69CA5D9E4EBDA7484F4F53FFCFC78F34057DA.17FBE90476309FF5DCAC19DA989B3950B33EF41B%26factor%3D1.25%26id%3Dcf1392bf82f04ac6%2C5%7Chttp%3A%2F%2Fv16.lscache4.c.youtube.com%2Fvideoplayback%3Fip%3D67.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26algorithm%3Dthrottle-factor%26itag%3D5%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1291273200%26key%3Dyt1%26signature%3DCC93A4D42030156A6444E9F4A7828F166A995A87.14142ECFA952153AD4C67C85B499104A8D8E28EB%26factor%3D1.25%26id%3Dcf1392bf82f04ac6&csi_page_type=watch&keywords=boise%2Cstate%2Cfield%2Cgoal%2Cmiss%2Cnevada%2Cbroncos%2Cwolf%2Cpack&cr=US&rv.1.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dde4kYT8d0aY&rv.6.thumbnailUrl=http%3A%2F%2Fi4.ytimg.com%2Fvi%2FoC1XfpZYI6Y%2Fdefault.jpg&rv.3.rating=5.0&fmt_list=35%2F854x480%2F9%2F0%2F115%2C34%2F640x360%2F9%2F0%2F115%2C18%2F640x360%2F9%2F0%2F115%2C5%2F320x240%2F7%2F0%2F0&rv.7.id=uE4hJNvYCYQ&rv.0.rating=4.46666666667&rv.4.rating=0.0&rv.3.title=Boise+State+Misses+Game+Winning+Field+Goal&rv.5.id=i4ikSzHLZCc&rv.0.featured=1&rv.0.id=BULHZIBpnSI&sdetail=f%3Aaso%2C&rv.5.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Di4ikSzHLZCc&rv.6.length_seconds=20&timestamp=1291248683&rv.0.author=AssociatedPress&rv.3.thumbnailUrl=http%3A%2F%2Fi1.ytimg.com%2Fvi%2F8_7ZSF1ueLg%2Fdefault.jpg&rv.2.author=KENFL74&rv.6.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoC1XfpZYI6Y&fmt_map=35%2F854x480%2F9%2F0%2F115%2C34%2F640x360%2F9%2F0%2F115%2C18%2F640x360%2F9%2F0%2F115%2C5%2F320x240%2F7%2F0%2F0&showpopout=1&hl=en_US&endscreen_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fendscreen-vflMuoQ6w.swf&rv.0.thumbnailUrl=http%3A%2F%2Fi3.ytimg.com%2Fvi%2FBULHZIBpnSI%2Fdefault.jpg&rv.5.length_seconds=23&rv.7.author=HostReviews&leanback_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fleanback_module-vflVrjX-f.swf&rv.1.length_seconds=18&rv.3.id=8_7ZSF1ueLg&rv.2.id=DviMiYowobE&rv.2.length_seconds=79&t=vjVQa1PpcFP2bJPJmm-9sxQh_Z6v7zD98rcYtNv6n_s%3D&rv.6.id=oC1XfpZYI6Y&vq=auto&rv.6.view_count=164&rv.3.author=TwistedWayne&rv.4.id=VfUaKsB9X7Y&rv.1.view_count=55461&rv.4.author=worldtopnews012&rv.7.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2FuE4hJNvYCYQ%2Fdefault.jpg&allow_embed=1&rv.5.title=Boise+State+Football+-++10%2F9%2F2010++vs.++Toledo&fmt_stream_map=35%7Chttp%3A%2F%2Fv8.lscache1.c.youtube.com%2Fvideoplayback%3Fip%3D67.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26algorithm%3Dthrottle-factor%26itag%3D35%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1291273200%26key%3Dyt1%26signature%3D69C09ACDEEF21D7C50B0256A5D3387E51C3ABF14.39C260E58EE8248B7A6119F49DA284BDB4DB6566%26factor%3D1.25%26id%3Dcf1392bf82f04ac6%7C%7Ctc.v8.cache1.c.youtube.com%2C34%7Chttp%3A%2F%2Fv1.lscache6.c.youtube.com%2Fvideoplayback%3Fip%3D67.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26algorithm%3Dthrottle-factor%26itag%3D34%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1291273200%26key%3Dyt1%26signature%3D7584115559186C829B681AA0B6739309D5F9C336.70A5303A50E0D6ACA936EB5A72660D81240DDF6D%26factor%3D1.25%26id%3Dcf1392bf82f04ac6%7C%7Ctc.v1.cache6.c.youtube.com%2C18%7Chttp%3A%2F%2Fv19.lscache6.c.youtube.com%2Fvideoplayback%3Fip%3D67.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26algorithm%3Dthrottle-factor%26itag%3D18%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1291273200%26key%3Dyt1%26signature%3D05A69CA5D9E4EBDA7484F4F53FFCFC78F34057DA.17FBE90476309FF5DCAC19DA989B3950B33EF41B%26factor%3D1.25%26id%3Dcf1392bf82f04ac6%7C%7Ctc.v19.cache6.c.youtube.com%2C5%7Chttp%3A%2F%2Fv16.lscache4.c.youtube.com%2Fvideoplayback%3Fip%3D67.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26algorithm%3Dthrottle-factor%26itag%3D5%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1291273200%26key%3Dyt1%26signature%3DCC93A4D42030156A6444E9F4A7828F166A995A87.14142ECFA952153AD4C67C85B499104A8D8E28EB%26factor%3D1.25%26id%3Dcf1392bf82f04ac6%7C%7Ctc.v16.cache4.c.youtube.com&rv.2.rating=5.0&rv.7.title=Boise+State+vs.+Nevada+Kyle+Brotzman+Field+Goal+Miss&rv.0.length_seconds=50&rv.1.id=de4kYT8d0aY&rv.6.title=Boise+State+vs.+Fresno+State+11%2F19%2F2010&rv.4.length_seconds=229&rv.1.thumbnailUrl=http%3A%2F%2Fi1.ytimg.com%2Fvi%2Fde4kYT8d0aY%2Fdefault.jpg&rv.5.view_count=702&length_seconds=128&feature=aso&enablejsapi=1&plid=AASWYkMY7SUQNgTI&tmi=1&rv.5.rating=5.0&rv.4.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVfUaKsB9X7Y&rv.1.author=xnickx5757&rv.1.rating=3.3829787234&rv.4.title=%28HD%29+Nevada+beats+Boise+State+34-31+in+OT+Kicker+Kyle+Brotzman+Field+Goal+11.26.2010&rv.5.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2Fi4ikSzHLZCc%2Fdefault.jpg&watermark=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Flogo-vfl_bP6ud.swf%2Chttp%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fhdlogo-vfloR6wva.swf&rv.0.title=No.+19+Nevada+Upsets+No.+3+Boise+State&rv.7.rating=5.0&rv.3.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8_7ZSF1ueLg&rv.2.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDviMiYowobE&rv.7.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuE4hJNvYCYQ&rv.2.view_count=13844&rv.4.view_count=722&video_id=zxOSv4LwSsY&fslarge=1&rv.6.rating=0.0&sk=094-RU7Vl08cG1yC69a_aDUxUOiD1o-rC&rv.1.title=Boise+State+vs.+Nevada+Kyle+Brotzman+Missed+Field+Goal...+or+did+he%3F++11%2F26%2F10&rv.7.view_count=552&rv.3.length_seconds=20&rv.5.author=tsez79\" allowscriptaccess=\"always\" allowfullscreen=\"true\" bgcolor=\"#000000\" \/><noembed>\n\n\n\n  <div  class=\"yt-alert yt-alert-error yt-alert-player yt-rounded\">\n      <img src=\"http:\/\/s.ytimg.com\/yt\/img\/pixel-vfl3z5WfW.gif\" class=\"icon master-sprite\" alt=\"Alert icon\">\n\n    <div  class=\"yt-alert-content\">\n            You need Adobe Flash Player to watch this video. <br> <a href=\"http:\/\/get.adobe.com\/flashplayer\/\">Download it from Adobe.<\/a>\n    <\/div>\n\n  <\/div>\n<\/noembed>";
+        document.write(swfHTML);
+    })();
+  </script>
+
+      </div>
+      <!-- begin videoextra section -->
+      <!-- end videoextra section -->
+    </div>
+  </div>
+  <!-- begin contentbottom section -->
+  <div id="watch-main-container">
+    <div id="watch-main">
+      <div id="watch-panel">
+          
+
+
+
+  <div  id="flash10-promo-div" style="display: none;" class="yt-alert yt-alert-warn yt-rounded">
+      <img src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" class="icon master-sprite" alt="Alert icon">
+
+    <div  class="yt-alert-content">
+            Upgrade to Flash Player 10 for improved playback performance. <a href="http://www.adobe.com/go/getflashplayer/" onmousedown="urchinTracker('/Events/VideoWatch/GetFlashUpgrade');">Upgrade Now</a> or <a href="http://help.youtube.com/support/youtube/bin/answer.py?answer=95402">More Info</a>.
+
+    </div>
+
+      <button type="button" onclick="_hidediv(this.parentNode);" class="close master-sprite">
+        close
+      </button>
+  </div>
+
+
+          <div id="watch-privacy-contain">
+  </div>
+
+
+        <div id="watch-actions">
+                <div id="watch-actions-right">
+            <span class="watch-view-count">
+      <strong>253,118</strong>
+    </span>
+    <button title="Show video statistics" type="button" id="watch-insight-button" onclick=";return false;" class="yt-uix-tooltip reverse master-sprite yt-uix-button yt-uix-tooltip" data-button-action="yt.www.watch.watch5.stats" role="button" aria-pressed="false"><img class="yt-uix-button-icon-watch-insight" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> </button>
+
+      </div>
+<span class="yt-uix-button-group"><button title="I like this" type="button" class="master-sprite start reverse yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-like" data-button-action="yt.www.watch.watch5.like" role="button" aria-pressed="false"><img class="yt-uix-button-icon-watch-like" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content">Like</span></button><button title="I dislike this" type="button" class="master-sprite end reverse yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-unlike" data-button-action="yt.www.watch.watch5.unlike" role="button" aria-pressed="false"><img class="yt-uix-button-icon-watch-unlike" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> </button></span>      
+
+    
+
+    
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container   show-label watch" data-video-ids="zxOSv4LwSsY" data-feature="watch"><button type="button" class="master-sprite start reverse yt-uix-button yt-uix-tooltip" onclick=";return false;" title="Add to queue" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-tooltip-masked yt-uix-button yt-uix-tooltip" onclick=";return false;" title="Add to favorites or playlist" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+
+    <button title="Share this video" type="button" class="reverse yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-share" data-button-action="yt.www.watch.watch5.share" role="button" aria-pressed="false"><span class="yt-uix-button-content">Share</span></button>
+    <button title="Get video embed code" type="button" class="reverse yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-embed" data-button-action="yt.www.watch.watch5.embed" role="button" aria-pressed="false"><span class="yt-uix-button-content">Embed</span></button>
+    <button title="Flag as inappropriate" type="button" class="master-sprite reverse yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-flag" data-button-action="yt.www.watch.watch5.flag" role="button" aria-pressed="false"><img class="yt-uix-button-icon-watch-flag" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> </button>
+
+  <div id="watch-actions-share" class="hid">
+    <div class="watch-actions-share">
+      <div class="watch-actions-share-head">
+        <img src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" class="watch-actions-share-link-icon">
+        <input class="watch-actions-share-input" type="text">
+        <div class="watch-actions-share-options" onclick="yt.www.watch.watch5.updateShareURL();">
+          <label>
+            <input class="watch-actions-share-short" type="checkbox">
+Short URL
+          </label>
+        </div>
+      </div>
+      <button type="button" class="watch-share-button yt-uix-button" onclick="yt.window.popup('/share_inline?v=zxOSv4LwSsY', {height:350, width:450, scrollbars:true});;return false;"  role="button" aria-pressed="false"><img class="yt-uix-button-icon-watch-share icn_share_promoted_email" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content">Email</span></button>
+        <button type="button" class="watch-share-button yt-uix-button" onclick="yt.tracking.share('MYSPACE', 'zxOSv4LwSsY', 'en_US');yt.window.popup('http:\/\/www.myspace.com\/Modules\/PostTo\/Pages\/?t=Boise%20State%20Misses%20Game%20Winning%20Field%20Goal%20%28HQ%29&amp;u=http%3A\/\/www.youtube.com\/watch%3Fv%3DzxOSv4LwSsY%26feature%3Dshare&amp;l=1', {height:650, width:1024, scrollbars:true});;return false;"  role="button" aria-pressed="false"><img class="yt-uix-button-icon-watch-share icn_share_promoted_myspace" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content">MySpace</span></button>
+        <button type="button" class="watch-share-button yt-uix-button" onclick="yt.tracking.share('ORKUT', 'zxOSv4LwSsY', 'en_US');yt.window.popup('http:\/\/www.orkut.com\/FavoriteVideos.aspx?u=http%3A\/\/www.youtube.com\/watch%3Fv%3DzxOSv4LwSsY%26feature%3Dshare', {height:650, width:1024, scrollbars:true});;return false;"  role="button" aria-pressed="false"><img class="yt-uix-button-icon-watch-share icn_share_promoted_orkut" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content">orkut</span></button>
+        <button type="button" class="watch-share-button yt-uix-button" onclick="yt.tracking.share('HI5', 'zxOSv4LwSsY', 'en_US');yt.window.popup('http:\/\/www.hi5.com\/friend\/checkViewedVideo.do?t=Boise%20State%20Misses%20Game%20Winning%20Field%20Goal%20%28HQ%29&amp;url=http%3A\/\/www.youtube.com\/watch%3Fv%3DzxOSv4LwSsY%26feature%3Dshare&amp;embeddable=true&amp;simple=true', {height:475, width:800, scrollbars:true});;return false;"  role="button" aria-pressed="false"><img class="yt-uix-button-icon-watch-share icn_share_promoted_hi5" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content">hi5</span></button>
+        <button type="button" class="watch-share-button yt-uix-button" onclick="yt.tracking.share('BLOGGER', 'zxOSv4LwSsY', 'en_US');yt.window.popup('http:\/\/www.blogger.com\/blog-this.g?n=Boise%20State%20Misses%20Game%20Winning%20Field%20Goal%20%28HQ%29&amp;source=youtube&amp;b=%3Ciframe%20class%3D%22youtube-player%22%20type%3D%22text\/html%22%20width%3D%22425%22%20height%3D%22344%22%20src%3D%22http%3A\/\/www.youtube.com\/embed\/zxOSv4LwSsY%3Ffs%3D1%22%20frameborder%3D%220%22%3E%3C\/iframe%3E&amp;eurl=http%3A\/\/i3.ytimg.com\/vi\/zxOSv4LwSsY\/hqdefault.jpg', {height:468, width:768, scrollbars:true});;return false;"  role="button" aria-pressed="false"><img class="yt-uix-button-icon-watch-share icn_share_promoted_blogger" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content">Blogger</span></button>
+        <button type="button" class="watch-share-button yt-uix-button" onclick="yt.tracking.share('LIVE SPACES', 'zxOSv4LwSsY', 'en_US');yt.window.popup('http:\/\/spaces.live.com\/BlogIt.aspx?Title=YouTube - Boise%20State%20Misses%20Game%20Winning%20Field%20Goal%20%28HQ%29&amp;SourceURL=http%3A\/\/www.youtube.com\/watch%3Fv%3DzxOSv4LwSsY%26feature%3Dshare', {height:650, width:1024, scrollbars:true});;return false;"  role="button" aria-pressed="false"><img class="yt-uix-button-icon-watch-share icn_share_promoted_livespaces" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content">Live Spaces</span></button>
+        <button type="button" class="watch-share-button yt-uix-button" onclick="yt.tracking.share('BEBO', 'zxOSv4LwSsY', 'en_US');yt.window.popup('http:\/\/www.bebo.com\/c\/share?Url=http%3A\/\/www.youtube.com\/watch%3Fv%3DzxOSv4LwSsY%26feature%3Dshare&amp;Title=Boise%20State%20Misses%20Game%20Winning%20Field%20Goal%20%28HQ%29&amp;TUUID=c583051f-6b2d-41ec-8dd0-a3a0ee1656c1&amp;MID=8348657161', {height:436, width:626, scrollbars:true});;return false;"  role="button" aria-pressed="false"><img class="yt-uix-button-icon-watch-share icn_share_promoted_bebo" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content">Bebo</span></button>
+        <button type="button" class="watch-share-button yt-uix-button" onclick="yt.tracking.share('STUMBLEUPON', 'zxOSv4LwSsY', 'en_US');yt.window.popup('http:\/\/www.stumbleupon.com\/submit?url=http%3A\/\/www.youtube.com\/watch%3Fv%3DzxOSv4LwSsY%26feature%3Dshare&amp;title=Boise%20State%20Misses%20Game%20Winning%20Field%20Goal%20%28HQ%29', {height:650, width:1024, scrollbars:true});;return false;"  role="button" aria-pressed="false"><img class="yt-uix-button-icon-watch-share icn_share_promoted_stumbleupon" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content">StumbleUpon</span></button>
+    </div>
+  </div>
+
+  <div class="clear"></div>
+
+        </div>
+        <div id="watch-actions-area-container" class="collapsed">
+          <div id="watch-actions-area" class="yt-rounded">
+Loading...
+          </div>
+        </div>
+        <div id="watch-actions-error" class="hid">
+          
+
+
+
+  <div  class="yt-alert yt-alert-error yt-alert-small yt-alert-naked yt-rounded">
+      <img src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" class="icon master-sprite" alt="Alert icon">
+
+    <div  class="yt-alert-content">
+            This feature is not available right now. Please try again later.
+    </div>
+
+  </div>
+
+        </div>
+        <div id="watch-actions-close" class="hid">
+          <div class="close"><img src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" class="master-sprite close-button" onclick="yt.www.watch.watch5.hide();"/></div>
+        </div>
+        <div id="watch-actions-logged-out" class="hid">
+            <strong><a href="https://www.google.com/accounts/ServiceLogin?uilel=3&service=youtube&passive=true&continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Den_US%26next%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DzxOSv4LwSsY%2526amp%253Bfeature%253Daso&hl=en_US&ltmpl=sso">Sign In</a> or <a href="https://www.google.com/accounts/LogoutWarning?continue=http%3A%2F%2Fwww.youtube.com%2Fcreate_account%3Fnext%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DzxOSv4LwSsY%2526amp%253Bfeature%253Daso&ltmpl=sso&service=youtube&hl=en_US">Sign Up</a> now!
+</strong> 
+
+        </div>
+        <div id="watch-info" class="yt-rounded">
+          
+
+
+
+  <div id="watch-description" class="watch-expander yt-uix-expander yt-uix-expander-animated yt-uix-expander-collapsed" data-expander-action="yt.www.watch.watch5.handleToggleDescription">
+
+    <div  id="watch-description-rounded-top"  class="watch-expander-head yt-uix-expander-head yt-rounded">
+      <button class="yt-uix-expander-arrow master-sprite" onclick="return false;"></button>
+      <div class="watch-expander-head-content">
+        
+  <div class="watch-info-description">
+    <div class="watch-info-description-head">
+
+    <a class="watch-description-username" href="/user/JackInBlackDawg" onclick="yt.events.stopPropagation(event);"><strong>JackInBlackDawg</strong></a>
+
+
+
+    <span class="watch-description-separator">|</span>
+      <span id="eow-date-short" class="watch-video-date" >
+    November 26, 2010
+  </span>
+
+
+      <span class="watch-description-separator">|</span>
+      <span class="watch-likes-dislikes">
+<span class="likes">151</span> likes, <span class="dislikes">26</span> dislikes
+      </span>
+
+    </div>
+
+      
+    
+  <p id="eow-description-short" >Against Nevada</p>
+
+
+  </div>
+
+      </div>
+    </div>
+    <div class="watch-expander-body yt-uix-expander-body">
+      <div id="watch-description-body">
+        
+  <div class="watch-info-description">
+    <div class="watch-info-description-head">
+
+    <a class="watch-description-username" href="/user/JackInBlackDawg" onclick="yt.events.stopPropagation(event);"><strong>JackInBlackDawg</strong></a>
+
+
+
+    <span class="watch-description-separator">|</span>
+      <span id="eow-date" class="watch-video-date" >
+    November 26, 2010
+  </span>
+
+
+      <span class="watch-description-separator">|</span>
+      <span class="watch-likes-dislikes">
+<span class="likes">151</span> likes, <span class="dislikes">26</span> dislikes
+      </span>
+
+    </div>
+
+      
+    
+  <p id="eow-description" >Against Nevada</p>
+
+
+        <div id="watch-description-extras">
+    <h4>Category:</h4>
+      <p id="eow-category"><a href="/sports">Sports</a></p>
+
+
+
+      <h4>Tags:</h4>
+        <ul id="eow-tags" class="watch-info-tag-list">
+    <li><a href="/results?search_query=boise&amp;search=tag">boise</a></li>
+    <li><a href="/results?search_query=state&amp;search=tag">state</a></li>
+    <li><a href="/results?search_query=field&amp;search=tag">field</a></li>
+    <li><a href="/results?search_query=goal&amp;search=tag">goal</a></li>
+    <li><a href="/results?search_query=miss&amp;search=tag">miss</a></li>
+    <li><a href="/results?search_query=nevada&amp;search=tag">nevada</a></li>
+    <li><a href="/results?search_query=broncos&amp;search=tag">broncos</a></li>
+    <li><a href="/results?search_query=wolf&amp;search=tag">wolf</a></li>
+    <li><a href="/results?search_query=pack&amp;search=tag">pack</a></li>
+  </ul>
+
+
+
+
+
+    <br>
+
+  </div>
+
+  </div>
+
+      </div>
+    </div>
+
+
+        <div class="watch-extra-info">
+
+
+
+
+
+      <div id="watch-as-seen-on">
+        <span>As Seen On:</span>
+        <a href="/redirect?q=http%3A%2F%2Frivals.yahoo.com%2Fncaa%2Ffootball%2Fblog%2Fdr_saturday%2Fpost%2FNostalgia-When-B&amp;event=as_seen_on_redirect&amp;usg=mSnnhSCySe6ktFRUeQepPjVDSok=" rel="nofollow">rivals.yahoo.com</a>
+      </div>
+
+  </div>
+
+  </div>
+
+
+
+  <div class="clearR"></div>
+
+        </div>
+        <div id="watch-discussion">
+              <div id="comments-view"
+        data-type="highlights"
+        data-owner-viewing=""
+        data-disallow-ratings="False">
+          <div id="watch-comment-share-area" class="watch-comment-share-area yt-rounded hid">
+      <div class="close"><img src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" class="master-sprite close-button" onclick="yt.www.comments.watch5.cancelShare(this);return false;"/></div>
+      <div class="watch-comment-share-content">
+        <div>Link to this comment:</div>
+        <div>
+          <input type="text" class="watch-actions-share-input" />
+        </div>
+        <div>
+          <span>Share to:</span>
+            <img alt="" title="Facebook" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" class="icon-watch-comment-share icn_share_promoted_facebook" action="yt.window.popup('http:\/\/www.facebook.com\/sharer.php?u=http%3A\/\/www.youtube.com\/comment%3Flc%3D_COMMENT_ID_', {height:440, width:620, scrollbars:true});" />
+            <img alt="" title="Twitter" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" class="icon-watch-comment-share icn_share_promoted_twitter" action="yt.window.popup('http:\/\/twitter.com\/share?url=http%3A\/\/www.youtube.com\/comment%3Flc%3D_COMMENT_ID_&amp;text=Check%20out%20this%20comment%20%22_COMMENT_TEXT_%22&amp;via=youtube', {height:650, width:1024, scrollbars:true});" />
+            <img alt="" title="MySpace" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" class="icon-watch-comment-share icn_share_promoted_myspace" action="yt.window.popup('http:\/\/www.myspace.com\/Modules\/PostTo\/Pages\/?u=http%3A\/\/www.youtube.com\/comment%3Flc%3D_COMMENT_ID_&amp;l=1', {height:650, width:1024, scrollbars:true});" />
+        </div>
+      </div>
+    </div>
+
+
+            
+      <div class="comments-section">
+        <a class="comments-section-see-all" href="/video_response_view_all?v=zxOSv4LwSsY">see all</a>
+        <h4>Video Responses</h4>
+          <ul class="video-list">
+                  <li class="video-list-item "><a href="/watch?v=JAwoUDvM5xA&amp;feature=watch_response" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-JAwoUDvM5xA-9979500" ><span class="img"><img data-thumb="http://i3.ytimg.com/vi/JAwoUDvM5xA/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i3.ytimg.com/vi/JAwoUDvM5xA/default.jpg" onclick="" title="BCS Song"></span>
+<span class="video-time">3:51</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="JAwoUDvM5xA" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="BCS Song">BCS Song</span><span class="stat">by LifeWithRachel</span><span class="stat view-count">163 views
+</span></a></li>
+
+
+          </ul>
+      </div>
+    
+        
+      <div class="comments-section" onmouseover="if (yt.www &amp;&amp; yt.www.watch &amp;&amp; yt.www.watch.livecomments) yt.www.watch.livecomments.handleCommentMouseEvent(this, event);" onmouseout="if (yt.www &amp;&amp; yt.www.watch &amp;&amp; yt.www.watch.livecomments) yt.www.watch.livecomments.handleCommentMouseEvent(this, event);">
+        <a class="comments-section-see-all" href="/comment_servlet?all_comments=1&amp;v=zxOSv4LwSsY">see all</a>
+          <h4>All Comments (906)</h4>
+          <div id="comments-post">
+        <form id="comments-post-form"
+            class="input-collapsed">
+          <textarea class="comments-textarea"
+              onfocus="_addclass(_gel('comments-post-form'), 'input-focused');"
+              onblur="_removeclass(_gel('comments-post-form'), 'input-focused');">
+Respond to this video...
+          </textarea>
+          
+
+
+
+  <div  id="comments-post-form-alert" class="yt-alert yt-alert-warn yt-rounded">
+      <img src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" class="icon master-sprite" alt="Alert icon">
+
+    <div id="comments-post-form-alert-text" class="yt-alert-content">
+          <a href="https://www.google.com/accounts/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Den_US%26next%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DzxOSv4LwSsY%2526amp%253Bfeature%253Daso&amp;hl=en_US&amp;ltmpl=sso">Sign In</a> or <a href="https://www.google.com/accounts/LogoutWarning?continue=http%3A%2F%2Fwww.youtube.com%2Fcreate_account%3Fnext%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DzxOSv4LwSsY%2526amp%253Bfeature%253Daso&amp;ltmpl=sso&amp;service=youtube&amp;hl=en_US">Sign Up</a> now to post a comment!
+
+    </div>
+
+  </div>
+
+          <div class="clearR"></div>
+        </form>
+          <a id="watch-comments-sigin" href="https://www.google.com/accounts/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Den_US%26next%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DzxOSv4LwSsY%2526amp%253Bfeature%253Daso&amp;hl=en_US&amp;ltmpl=sso" style="display: none"></a>
+  </div>
+
+          <div id="live-comments-setting-scroll" class="live-comments-setting hid"><span id="live-comments-count"></span><a href="#" onclick="yt.UserPrefs.setFlag3(yt.UserPrefs.Flags.FLAG3_LIVE_COMMENTS_SCROLL, true); yt.UserPrefs.save(); yt.www.watch.livecomments.setScroll(true); return false;">Update automatically</a></div>
+          <div id="live-comments-setting-no-scroll" class="live-comments-setting hid"><a href="#" onclick="yt.UserPrefs.setFlag3(yt.UserPrefs.Flags.FLAG3_LIVE_COMMENTS_SCROLL, false); yt.UserPrefs.save(); yt.www.watch.livecomments.setScroll(false); return false;">Disable automatic updates</a></div>
+        <ul class="comment-list" id="live_comments">
+                <li
+      data-author-viewing=""
+      data-id="WXFihGpRTRO2SNcl70FO6e5oJUAKnYnvXcuj3qQl_Ds"
+      data-score="0"
+      data-author="chumsyalibumsy09"
+      data-pending="0"
+      data-blocked=""
+      data-flagged="False"
+      data-removed="False"
+        data-tag="N"
+      class="comment">
+    <div class="metadata">
+      <div>
+        <a class="author" href="/user/chumsyalibumsy09" title="chumsyalibumsy09">chumsyalibumsy09</a>
+      </div>
+      <div>
+        <span class="time">1 second ago</span>
+      </div>
+    </div>
+    <div class="content">
+
+        <div class="comment-text" dir="ltr">
+          <p><a class="watch-comment-atlink" href="/comment_search?username=icantdecryptthecode">@ICantDecryptTheCode</a> Do you ever play to lose the﻿ game?</p>
+
+        </div>
+
+        
+        <div class="metadata-inline">
+          <a class="author" href="/user/chumsyalibumsy09">chumsyalibumsy09</a>
+          <span class="time">1 second ago</span>
+        </div>
+    </div>
+  </li>
+ 
+      <li
+      data-author-viewing=""
+      data-id="WXFihGpRTRPFLcdPE9Unh3aHJa64KwqPA8Xpn3qPLIs"
+      data-score="0"
+      data-author="SuperSt3nmark25"
+      data-pending="0"
+      data-blocked=""
+      data-flagged="False"
+      data-removed="False"
+        data-tag="N"
+      class="comment">
+    <div class="metadata">
+      <div>
+        <a class="author" href="/user/SuperSt3nmark25" title="SuperSt3nmark25">SuperSt3nmark25</a>
+      </div>
+      <div>
+        <span class="time">8 seconds ago</span>
+      </div>
+    </div>
+    <div class="content">
+
+        <div class="comment-text" dir="ltr">
+          <p><a class="watch-comment-atlink" href="/comment_search?username=lkdot007">@LKdot007</a> yee﻿</p>
+
+        </div>
+
+        
+        <div class="metadata-inline">
+          <a class="author" href="/user/SuperSt3nmark25">SuperSt3nmark25</a>
+          <span class="time">8 seconds ago</span>
+        </div>
+    </div>
+  </li>
+ 
+      <li
+      data-author-viewing=""
+      data-id="WXFihGpRTRODWYm-kweEGtA7ma4VRoWI35raXVt4_yY"
+      data-score="0"
+      data-author="HisLastShot"
+      data-pending="0"
+      data-blocked=""
+      data-flagged="False"
+      data-removed="False"
+        data-tag="N"
+      class="comment">
+    <div class="metadata">
+      <div>
+        <a class="author" href="/user/HisLastShot" title="HisLastShot">HisLastShot</a>
+      </div>
+      <div>
+        <span class="time">21 seconds ago</span>
+      </div>
+    </div>
+    <div class="content">
+
+        <div class="comment-text" dir="ltr">
+          <p>Aubrun beats south carolina... and they destroy the ducks, there weak and﻿ theres no comparrison of play between the two.</p>
+<p>War Damn Eagle</p>
+
+        </div>
+
+        
+        <div class="metadata-inline">
+          <a class="author" href="/user/HisLastShot">HisLastShot</a>
+          <span class="time">21 seconds ago</span>
+        </div>
+    </div>
+  </li>
+ 
+      <li
+      data-author-viewing=""
+      data-id="WXFihGpRTRMQRazRFRcAp_6nxgNdqniAFTQoUx9uvNo"
+      data-score="0"
+      data-author="Drewbul1"
+      data-pending="0"
+      data-blocked=""
+      data-flagged="False"
+      data-removed="False"
+        data-tag="N"
+      class="comment">
+    <div class="metadata">
+      <div>
+        <a class="author" href="/user/Drewbul1" title="Drewbul1">Drewbul1</a>
+      </div>
+      <div>
+        <span class="time">1 minute ago</span>
+      </div>
+    </div>
+    <div class="content">
+
+        <div class="comment-text" dir="ltr">
+          <p>Ha i like how they put Boise﻿ St. up by 3 points, so it said 4th :00 Boise St. 34 Nevada 31.....then they take the points back lol</p>
+
+        </div>
+
+        
+        <div class="metadata-inline">
+          <a class="author" href="/user/Drewbul1">Drewbul1</a>
+          <span class="time">1 minute ago</span>
+        </div>
+    </div>
+  </li>
+ 
+      <li
+      data-author-viewing=""
+      data-id="WXFihGpRTRMQEXqocGWGYsnKBXU_LpC0vxek4ecnCuk"
+      data-score="0"
+      data-author="TYlLlElR"
+      data-pending="0"
+      data-blocked=""
+      data-flagged="False"
+      data-removed="False"
+        data-tag="N"
+      class="comment">
+    <div class="metadata">
+      <div>
+        <a class="author" href="/user/TYlLlElR" title="TYlLlElR">TYlLlElR</a>
+      </div>
+      <div>
+        <span class="time">1 minute ago</span>
+      </div>
+    </div>
+    <div class="content">
+
+        <div class="comment-text" dir="ltr">
+          <p>I feel sorry for this guy but﻿ that was a HUGE FAIL! </p>
+
+        </div>
+
+        
+        <div class="metadata-inline">
+          <a class="author" href="/user/TYlLlElR">TYlLlElR</a>
+          <span class="time">1 minute ago</span>
+        </div>
+    </div>
+  </li>
+ 
+      <li
+      data-author-viewing=""
+      data-id="WXFihGpRTRPTimdvsIeEiiTVV_MP_aDCihGg-JOYgcE"
+      data-score="0"
+      data-author="LKdot007"
+      data-pending="0"
+      data-blocked=""
+      data-flagged="False"
+      data-removed="False"
+        data-tag="N"
+      class="comment">
+    <div class="metadata">
+      <div>
+        <a class="author" href="/user/LKdot007" title="LKdot007">LKdot007</a>
+      </div>
+      <div>
+        <span class="time">2 minutes ago</span>
+      </div>
+    </div>
+    <div class="content">
+
+        <div class="comment-text" dir="ltr">
+          <p>﻿ fuck boise state. its all abou the oregon ducks</p>
+
+        </div>
+
+        
+        <div class="metadata-inline">
+          <a class="author" href="/user/LKdot007">LKdot007</a>
+          <span class="time">2 minutes ago</span>
+        </div>
+    </div>
+  </li>
+ 
+      <li
+      data-author-viewing=""
+      data-id="WXFihGpRTRM3vDHzB-CT5vK1TydLYxx80o2mqUBgrIY"
+      data-score="0"
+      data-author="redcloud301"
+      data-pending="0"
+      data-blocked=""
+      data-flagged="False"
+      data-removed="False"
+        data-tag="N"
+      class="comment">
+    <div class="metadata">
+      <div>
+        <a class="author" href="/user/redcloud301" title="redcloud301">redcloud301</a>
+      </div>
+      <div>
+        <span class="time">3 minutes ago</span>
+      </div>
+    </div>
+    <div class="content">
+
+        <div class="comment-text" dir="ltr">
+          <p>All of those that are saying he failed: You all most likely can&#39;t make a field goal like that, so stfu. He&#39;s﻿ human, humans make mistakes. That mistake just happened at the worst time possible. So stfu, you&#39;ll never be as good as him.</p>
+
+        </div>
+
+        
+        <div class="metadata-inline">
+          <a class="author" href="/user/redcloud301">redcloud301</a>
+          <span class="time">3 minutes ago</span>
+        </div>
+    </div>
+  </li>
+ 
+      <li
+      data-author-viewing=""
+      data-id="WXFihGpRTROaN5WHpPHcL7AhcIzMwaBfLneUR5ke4-0"
+      data-score="0"
+      data-author="lilwubba"
+      data-pending="0"
+      data-blocked=""
+      data-flagged="False"
+      data-removed="False"
+        data-tag="N"
+      class="comment">
+    <div class="metadata">
+      <div>
+        <a class="author" href="/user/lilwubba" title="lilwubba">lilwubba</a>
+      </div>
+      <div>
+        <span class="time">4 minutes ago</span>
+      </div>
+    </div>
+    <div class="content">
+
+        <div class="comment-text" dir="ltr">
+          <p>What happended to the &quot;great&quot; Broncos offense in OT though. Its﻿ not all his fault afterwards. Just Saying.</p>
+
+        </div>
+
+        
+        <div class="metadata-inline">
+          <a class="author" href="/user/lilwubba">lilwubba</a>
+          <span class="time">4 minutes ago</span>
+        </div>
+    </div>
+  </li>
+ 
+      <li
+      data-author-viewing=""
+      data-id="WXFihGpRTRMyMiQNxCDvDKeQgof54n7bJXlzSRgAxk8"
+      data-score="0"
+      data-author="BluKing6"
+      data-pending="0"
+      data-blocked=""
+      data-flagged="False"
+      data-removed="False"
+        data-tag="N"
+      class="comment">
+    <div class="metadata">
+      <div>
+        <a class="author" href="/user/BluKing6" title="BluKing6">BluKing6</a>
+      </div>
+      <div>
+        <span class="time">4 minutes ago</span>
+      </div>
+    </div>
+    <div class="content">
+
+        <div class="comment-text" dir="ltr">
+          <p><a class="watch-comment-atlink" href="/comment_search?username=001snipe">@001snipe</a> The two bowls you won were Fiesta bowls in &#39;06 and &#39;09. In &#39;09 you beat TCU, who is also a weak SOS team so that can be thrown out the door. In &#39;06 undefeated BSU barely squeaked by a victory against a two loss OU team. That is far more of a statement, and it stands by what I think. BSU could win in a AQ conference,﻿ but they wouldn&#39;t go undefeated.</p>
+
+        </div>
+
+        
+        <div class="metadata-inline">
+          <a class="author" href="/user/BluKing6">BluKing6</a>
+          <span class="time">4 minutes ago</span>
+        </div>
+    </div>
+  </li>
+ 
+
+        </ul>
+      </div>
+    
+          <div class="comments-section">
+      <a class="comments-section-see-all" href="/comment_servlet?all_comments=1&amp;v=zxOSv4LwSsY">View all Comments &raquo;</a>
+      <div class="comments-pagination">
+            
+  
+    <div class="yt-uix-pager">
+
+
+      <button href="/comment_servlet?all_comments=1&amp;v=zxOSv4LwSsY&amp;page=1" type="button" class="yt-uix-pager-selected yt-uix-button" onclick="return false;;window.location.href=this.getAttribute('href');return false;" data-page="1" role="button" aria-pressed="false"><span class="yt-uix-button-content">1</span></button>&nbsp;
+      <button href="/comment_servlet?all_comments=1&amp;v=zxOSv4LwSsY&amp;page=2" type="button" class=" yt-uix-button" onclick="return yt.www.comments.watch5.showPageFromElement(this);;window.location.href=this.getAttribute('href');return false;" data-page="2" role="button" aria-pressed="false"><span class="yt-uix-button-content">2</span></button>&nbsp;
+      <button href="/comment_servlet?all_comments=1&amp;v=zxOSv4LwSsY&amp;page=3" type="button" class=" yt-uix-button" onclick="return yt.www.comments.watch5.showPageFromElement(this);;window.location.href=this.getAttribute('href');return false;" data-page="3" role="button" aria-pressed="false"><span class="yt-uix-button-content">3</span></button>&nbsp;
+      <button href="/comment_servlet?all_comments=1&amp;v=zxOSv4LwSsY&amp;page=4" type="button" class=" yt-uix-button" onclick="return yt.www.comments.watch5.showPageFromElement(this);;window.location.href=this.getAttribute('href');return false;" data-page="4" role="button" aria-pressed="false"><span class="yt-uix-button-content">4</span></button>&nbsp;
+      <button href="/comment_servlet?all_comments=1&amp;v=zxOSv4LwSsY&amp;page=5" type="button" class=" yt-uix-button" onclick="return yt.www.comments.watch5.showPageFromElement(this);;window.location.href=this.getAttribute('href');return false;" data-page="5" role="button" aria-pressed="false"><span class="yt-uix-button-content">5</span></button>&nbsp;
+      <button href="/comment_servlet?all_comments=1&amp;v=zxOSv4LwSsY&amp;page=6" type="button" class=" yt-uix-button" onclick="return yt.www.comments.watch5.showPageFromElement(this);;window.location.href=this.getAttribute('href');return false;" data-page="6" role="button" aria-pressed="false"><span class="yt-uix-button-content">6</span></button>&nbsp;
+      <button href="/comment_servlet?all_comments=1&amp;v=zxOSv4LwSsY&amp;page=7" type="button" class=" yt-uix-button" onclick="return yt.www.comments.watch5.showPageFromElement(this);;window.location.href=this.getAttribute('href');return false;" data-page="7" role="button" aria-pressed="false"><span class="yt-uix-button-content">7</span></button>&nbsp;
+
+          <a href="/comment_servlet?all_comments=1&v=zxOSv4LwSsY&page=2" class="yt-uix-pager-link" data-page="2" onclick="return yt.www.comments.watch5.showPageFromElement(this);">Next</a>
+
+    </div>
+
+
+      </div>
+  </div>
+
+    </div>
+      <div id="comments-actions">
+    <div id="comments-actions-container">
+      <div>
+<button type="button" class="master-sprite yt-uix-button" onclick=";return false;" data-button-action="yt.www.comments.watch5.reply" role="button" aria-pressed="false"><img class="yt-uix-button-icon-watch-comment-reply" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content">Reply</span></button><button title="Vote Up" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-comment-vote-up" data-vote-increment="1" data-button-action="yt.www.comments.watch5.vote" role="button" aria-pressed="false"><img class="yt-uix-button-icon-watch-comment-vote-up" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> </button><button title="Vote Down" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-comment-vote-down" data-vote-increment="-1" data-button-action="yt.www.comments.watch5.vote" role="button" aria-pressed="false"><img class="yt-uix-button-icon-watch-comment-vote-down" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> </button><button type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" title="Flag for spam" data-button-action="yt.www.comments.watch5.flag" role="button" aria-pressed="false"><img class="yt-uix-button-icon-watch-comment-flag" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> </button><button type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" title="Share" data-button-action="yt.www.comments.watch5.share" role="button" aria-pressed="false"><img class="yt-uix-button-icon-watch-comment-share" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> </button>      </div>
+    <div>
+<button type="button" id="watch-comment-block-user" onclick=";return false;" class=" yt-uix-button" data-button-action="yt.www.comments.watch5.block" role="button" aria-pressed="false"><span class="yt-uix-button-content">Block User</span></button><button type="button" id="watch-comment-unblock-user" onclick=";return false;" class=" yt-uix-button" data-button-action="yt.www.comments.watch5.unblock" role="button" aria-pressed="false"><span class="yt-uix-button-content">Unblock User</span></button><button onclick=";return false;" title="Remove" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" id="watch-comment-remove-link"  role="button" aria-pressed="false"><img class="yt-uix-button-icon-watch-comment-remove" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> </button>      </div>
+    </div>
+  </div>
+
+    <div id="comments-loading" class="hid">Loading...</div>
+
+        </div>
+      </div>
+
+      <div id="watch-sidebar">
+        
+
+
+  <div class="watch-module">
+    <div class="watch-module-body">
+      <h4 class="first">Suggestions</h4>
+      <ul id="watch-related" class="video-list">
+        
+  <div id="ppv-container" class="">
+        
+
+        <li class="video-list-item last watch-ppv-vid"><a href="/watch?v=BULHZIBpnSI&amp;feature=fvwk" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-BULHZIBpnSI-5859407" ><span class="img"><img data-thumb="http://i3.ytimg.com/vi/BULHZIBpnSI/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i3.ytimg.com/vi/BULHZIBpnSI/default.jpg" onclick="" title="No. 19 Nevada Upsets No. 3 Boise State"></span>
+<span class="video-time">0:50</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="BULHZIBpnSI" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="No. 19 Nevada Upsets No. 3 Boise State">No. 19 Nevada Upsets No. 3 Boise State</span><span class="stat">by AssociatedPress</span><span class="stat alt">Featured Video</span><span class="stat view-count">12,062 views
+</span></a></li>
+
+  </div>
+
+            <li class="video-list-item "><a href="/watch?v=de4kYT8d0aY&amp;feature=related" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-de4kYT8d0aY-8565825" ><span class="img"><img data-thumb="http://i1.ytimg.com/vi/de4kYT8d0aY/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i1.ytimg.com/vi/de4kYT8d0aY/default.jpg" onclick="" title="Boise State vs. Nevada Kyle Brotzman Missed Field Goal... or did he?  11/26/10"></span>
+<span class="video-time">0:18</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="de4kYT8d0aY" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="Boise State vs. Nevada Kyle Brotzman Missed Field Goal... or did he?  11/26/10">Boise State vs. Nevada Kyle Brotzman Missed Fie...</span><span class="stat">by xnickx5757</span><span class="stat view-count">55,461 views
+</span></a></li>
+            <li class="video-list-item "><a href="/watch?v=DviMiYowobE&amp;feature=related" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-DviMiYowobE-3746971" ><span class="img"><img data-thumb="http://i1.ytimg.com/vi/DviMiYowobE/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i1.ytimg.com/vi/DviMiYowobE/default.jpg" onclick="" title="(HD) Nevada beats Boise State 34-31 in OT Kicker Kyle Brotzman Field Goal 11.26.2010"></span>
+<span class="video-time">1:19</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="DviMiYowobE" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="(HD) Nevada beats Boise State 34-31 in OT Kicker Kyle Brotzman Field Goal 11.26.2010">(HD) Nevada beats Boise State 34-31 in OT Kicke...</span><span class="stat">by KENFL74</span><span class="stat view-count">13,844 views
+</span></a></li>
+            <li class="video-list-item "><a href="/watch?v=8_7ZSF1ueLg&amp;feature=related" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-8_7ZSF1ueLg-4678984" ><span class="img"><img data-thumb="http://i1.ytimg.com/vi/8_7ZSF1ueLg/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i1.ytimg.com/vi/8_7ZSF1ueLg/default.jpg" onclick="" title="Boise State Misses Game Winning Field Goal"></span>
+<span class="video-time">0:20</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="8_7ZSF1ueLg" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="Boise State Misses Game Winning Field Goal">Boise State Misses Game Winning Field Goal</span><span class="stat">by TwistedWayne</span><span class="stat view-count">132 views
+</span></a></li>
+            <li class="video-list-item "><a href="/watch?v=VfUaKsB9X7Y&amp;feature=related" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-VfUaKsB9X7Y-1029323" ><span class="img"><img data-thumb="http://i3.ytimg.com/vi/VfUaKsB9X7Y/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i3.ytimg.com/vi/VfUaKsB9X7Y/default.jpg" onclick="" title="(HD) Nevada beats Boise State 34-31 in OT Kicker Kyle Brotzman Field Goal 11.26.2010"></span>
+<span class="video-time">3:49</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="VfUaKsB9X7Y" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="(HD) Nevada beats Boise State 34-31 in OT Kicker Kyle Brotzman Field Goal 11.26.2010">(HD) Nevada beats Boise State 34-31 in OT Kicke...</span><span class="stat">by worldtopnews012</span><span class="stat view-count">722 views
+</span></a></li>
+            <li class="video-list-item "><a href="/watch?v=i4ikSzHLZCc&amp;feature=related" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-i4ikSzHLZCc-3134035" ><span class="img"><img data-thumb="http://i2.ytimg.com/vi/i4ikSzHLZCc/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i2.ytimg.com/vi/i4ikSzHLZCc/default.jpg" onclick="" title="Boise State Football -  10/9/2010  vs.  Toledo"></span>
+<span class="video-time">0:23</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="i4ikSzHLZCc" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="Boise State Football -  10/9/2010  vs.  Toledo">Boise State Football -  10/9/2010  vs.  Toledo</span><span class="stat">by tsez79</span><span class="stat view-count">702 views
+</span></a></li>
+            <li class="video-list-item "><a href="/watch?v=oC1XfpZYI6Y&amp;feature=related" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-oC1XfpZYI6Y-5866889" ><span class="img"><img data-thumb="http://i4.ytimg.com/vi/oC1XfpZYI6Y/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i4.ytimg.com/vi/oC1XfpZYI6Y/default.jpg" onclick="" title="Boise State vs. Fresno State 11/19/2010"></span>
+<span class="video-time">0:20</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="oC1XfpZYI6Y" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="Boise State vs. Fresno State 11/19/2010">Boise State vs. Fresno State 11/19/2010</span><span class="stat">by tsez79</span><span class="stat view-count">164 views
+</span></a></li>
+            <li class="video-list-item "><a href="/watch?v=uE4hJNvYCYQ&amp;feature=related" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-uE4hJNvYCYQ-8179536" ><span class="img"><img data-thumb="http://i2.ytimg.com/vi/uE4hJNvYCYQ/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i2.ytimg.com/vi/uE4hJNvYCYQ/default.jpg" onclick="" title="Boise State vs. Nevada Kyle Brotzman Field Goal Miss"></span>
+<span class="video-time">1:03</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="uE4hJNvYCYQ" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="Boise State vs. Nevada Kyle Brotzman Field Goal Miss">Boise State vs. Nevada Kyle Brotzman Field Goal...</span><span class="stat">by HostReviews</span><span class="stat view-count">552 views
+</span></a></li>
+            <li class="video-list-item "><a href="/watch?v=J4hlVkwmAjY&amp;feature=related" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-J4hlVkwmAjY-7797410" ><span class="img"><img data-thumb="http://i3.ytimg.com/vi/J4hlVkwmAjY/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i3.ytimg.com/vi/J4hlVkwmAjY/default.jpg" onclick="" title="Boise State Misses Game Winning Field Goal"></span>
+<span class="video-time">2:08</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="J4hlVkwmAjY" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="Boise State Misses Game Winning Field Goal">Boise State Misses Game Winning Field Goal</span><span class="stat">by VideoKing1400</span><span class="stat view-count">19 views
+</span></a></li>
+            <li class="video-list-item "><a href="/watch?v=RW-pF0a70Ws&amp;feature=related" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-RW-pF0a70Ws-4649756" ><span class="img"><img data-thumb="http://i3.ytimg.com/vi/RW-pF0a70Ws/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i3.ytimg.com/vi/RW-pF0a70Ws/default.jpg" onclick="" title="Boise State Misses Game Winning Field Goal [HD]"></span>
+<span class="video-time">2:08</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="RW-pF0a70Ws" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="Boise State Misses Game Winning Field Goal [HD]">Boise State Misses Game Winning Field Goal [HD]</span><span class="stat">by ke204</span><span class="stat view-count">309 views
+</span></a></li>
+            <li class="video-list-item "><a href="/watch?v=i7BD0BrwfpM&amp;feature=related" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-i7BD0BrwfpM-6314590" ><span class="img"><img data-thumb="http://i2.ytimg.com/vi/i7BD0BrwfpM/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i2.ytimg.com/vi/i7BD0BrwfpM/default.jpg" onclick="" title="Boise State field goal tryout"></span>
+<span class="video-time">0:16</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="i7BD0BrwfpM" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="Boise State field goal tryout">Boise State field goal tryout</span><span class="stat">by ktm105113</span><span class="stat view-count">177 views
+</span></a></li>
+            <li class="video-list-item "><a href="/watch?v=uJ2O87CsxN0&amp;feature=related" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-uJ2O87CsxN0-4066461" ><span class="img"><img data-thumb="http://i2.ytimg.com/vi/uJ2O87CsxN0/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i2.ytimg.com/vi/uJ2O87CsxN0/default.jpg" onclick="" title="Boise State misses game winning field goal"></span>
+<span class="video-time">0:12</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="uJ2O87CsxN0" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="Boise State misses game winning field goal">Boise State misses game winning field goal</span><span class="stat">by codPWNUproductions</span><span class="stat view-count">1,345 views
+</span></a></li>
+            <li class="video-list-item "><a href="/watch?v=2iQFL8KHqjk&amp;feature=related" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-2iQFL8KHqjk-3517345" ><span class="img"><img data-thumb="http://i3.ytimg.com/vi/2iQFL8KHqjk/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i3.ytimg.com/vi/2iQFL8KHqjk/default.jpg" onclick="" title="Overtime Nevada Wolf Pack vs Boise State Broncos 2010 Kyle Brotzman storm the field"></span>
+<span class="video-time">3:52</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="2iQFL8KHqjk" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="Overtime Nevada Wolf Pack vs Boise State Broncos 2010 Kyle Brotzman storm the field">Overtime Nevada Wolf Pack vs Boise State Bronco...</span><span class="stat">by SlimHonke</span><span class="stat view-count">16,728 views
+</span></a></li>
+            <li class="video-list-item "><a href="/watch?v=rScviGVMnPA&amp;feature=related" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-rScviGVMnPA-5732589" ><span class="img"><img data-thumb="http://i3.ytimg.com/vi/rScviGVMnPA/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i3.ytimg.com/vi/rScviGVMnPA/default.jpg" onclick="" title="ECU Beats Boise State In Hawaii Bowl 2007 Highlight Video"></span>
+<span class="video-time">5:40</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="rScviGVMnPA" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="ECU Beats Boise State In Hawaii Bowl 2007 Highlight Video">ECU Beats Boise State In Hawaii Bowl 2007 Highl...</span><span class="stat">by bigbenecu</span><span class="stat view-count">12,610 views
+</span></a></li>
+            <li class="video-list-item "><a href="/watch?v=_QHQ0A8OIwo&amp;feature=related" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-_QHQ0A8OIwo-6582590" ><span class="img"><img data-thumb="http://i4.ytimg.com/vi/_QHQ0A8OIwo/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i4.ytimg.com/vi/_QHQ0A8OIwo/default.jpg" onclick="" title="ECU Beats Boise State - WITN Sports"></span>
+<span class="video-time">1:14</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="_QHQ0A8OIwo" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="ECU Beats Boise State - WITN Sports">ECU Beats Boise State - WITN Sports</span><span class="stat">by witntv</span><span class="stat view-count">7,829 views
+</span></a></li>
+            <li class="video-list-item "><a href="/watch?v=dmhUaxXvR0c&amp;feature=related" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-dmhUaxXvR0c-2074472" ><span class="img"><img data-thumb="http://i1.ytimg.com/vi/dmhUaxXvR0c/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i1.ytimg.com/vi/dmhUaxXvR0c/default.jpg" onclick="" title="Boise State at Nevada in overtime"></span>
+<span class="video-time">0:31</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="dmhUaxXvR0c" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="Boise State at Nevada in overtime">Boise State at Nevada in overtime</span><span class="stat">by MrSonics13</span><span class="stat view-count">847 views
+</span></a></li>
+            <li class="video-list-item "><a href="/watch?v=c-b-dvOmUoY&amp;feature=related" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-c-b-dvOmUoY-4313725" ><span class="img"><img data-thumb="http://i4.ytimg.com/vi/c-b-dvOmUoY/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i4.ytimg.com/vi/c-b-dvOmUoY/default.jpg" onclick="" title="Boise State vs. Nevada Highlights 2010"></span>
+<span class="video-time">3:44</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="c-b-dvOmUoY" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="Boise State vs. Nevada Highlights 2010">Boise State vs. Nevada Highlights 2010</span><span class="stat">by RATMrocks17</span><span class="stat view-count">2,653 views
+</span></a></li>
+            <li class="video-list-item "><a href="/watch?v=DiCG5Zh6e00&amp;feature=related" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-DiCG5Zh6e00-7211689" ><span class="img"><img data-thumb="http://i1.ytimg.com/vi/DiCG5Zh6e00/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i1.ytimg.com/vi/DiCG5Zh6e00/default.jpg" onclick="" title="Boise State missed field goal"></span>
+<span class="video-time">0:35</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="DiCG5Zh6e00" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="Boise State missed field goal">Boise State missed field goal</span><span class="stat">by blakelease</span><span class="stat view-count">579 views
+</span></a></li>
+            <li class="video-list-item "><a href="/watch?v=x55Qg1lz7W4&amp;feature=related" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-x55Qg1lz7W4-9691161" ><span class="img"><img data-thumb="http://i1.ytimg.com/vi/x55Qg1lz7W4/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i1.ytimg.com/vi/x55Qg1lz7W4/default.jpg" onclick="" title="Boise State Field"></span>
+<span class="video-time">3:30</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="x55Qg1lz7W4" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="Boise State Field">Boise State Field</span><span class="stat">by smurffan12</span><span class="stat view-count">2,033 views
+</span></a></li>
+            <li class="video-list-item "><a href="/watch?v=6PYo3SumJYs&amp;feature=related" class="video-list-item-link">
+
+
+
+
+    
+
+
+    
+
+
+      
+
+    
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb-with-addto video-thumb ux-thumb-96" id="video-thumb-6PYo3SumJYs-6736461" ><span class="img"><img data-thumb="http://i3.ytimg.com/vi/6PYo3SumJYs/default.jpg" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" thumb="http://i3.ytimg.com/vi/6PYo3SumJYs/default.jpg" onclick="" title="Brock / Fieldturf field replacement at Boise State's Broncos stadium. http://brock-international.com"></span>
+<span class="video-time">3:26</span>  
+
+
+
+
+
+<span dir="ltr" class="yt-uix-button-group addto-container short video-actions" data-video-ids="6PYo3SumJYs" data-feature="thumbnail"><button type="button" class="master-sprite start yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-action="yt.www.addtomenu.add" role="button" aria-pressed="false"><img class="yt-uix-button-icon-addto" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> <span class="yt-uix-button-content"><span class="addto-label">Add to</span></span></button><button type="button" class="end yt-uix-button yt-uix-button-short yt-uix-tooltip" onclick=";return false;" title="" data-button-menu-id="shared-addto-menu" data-button-action="" role="button" aria-pressed="false"> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""></button></span>
+<span class="video-in-quicklist">Added to queue</span></span>
+<span dir="ltr" class="title" title="Brock / Fieldturf field replacement at Boise State's Broncos stadium. http://brock-international.com">Brock / Fieldturf field replacement at Boise St...</span><span class="stat">by dansawyer1</span><span class="stat view-count">2,469 views
+</span></a></li>
+      </ul>
+      <ul id="watch-more-related" class="video-list hid"></ul>
+      <span class="hid" id="watch-more-related-loading">
+Loading more suggestions...
+      </span>
+        <button type="button" id="watch-more-related-button" onclick="yt.www.watch.watch5.handleLoadMoreRelated();return false;" class=" yt-uix-button"  role="button" aria-pressed="false"><span class="yt-uix-button-content">Load more suggestions</span></button>
+    </div>
+  </div>
+
+      </div>
+      <div class="clear"></div>
+    </div>
+  </div>
+    <form method="post" action="/watch_ajax?action_like_video=1" name="likeForm" class="hid">
+    
+    <input type="hidden" name="video_id" value="zxOSv4LwSsY" />
+  </form>
+  <form method="post" action="/watch_ajax?action_dislike_video=1" name="unlikeForm" class="hid">
+    
+    <input type="hidden" name="video_id" value="zxOSv4LwSsY" />
+  </form>
+  <div id="watch-add-faves" style="display: none;">
+    <img class="watch-check-grn-circle" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif">
+    <span class="watch-action-response">
+This video has been <strong>added</strong> to your <a href="/my_favorites">Favorites</a>.
+    </span>
+  </div>
+  <div id="watch-remove-faves" style="display: none;">
+    <span class="watch-action-response hid">
+This video has been <strong>removed</strong> from your <a href="/my_favorites">Favorites</a>.
+    </span>
+    <span class="watch-action-response">
+You dislike this video. Thanks for the feedback!
+    </span>
+  </div>
+
+  <div id="watch-search">
+  <div id="search-section-header">
+    <span id="watch-search-options" class="floatL"></span>
+    <span class="name">
+      <span class="search-query">&ldquo;<span id="watch-search-query"></span>&rdquo;</span>
+results
+      <span id="watch-search-count"></span>
+    </span>
+    <div class="clear"></div>
+  </div>
+  <div id="watch-search-body-loading">
+    <div class="watch-next-list-body-loading">Loading...</div>
+  </div>
+  <div id="watch-search-body"></div>
+</div>
+
+  <div id="baseDiv" style="visibility: hidden; height: 0px; padding: 0px; overflow: hidden;"></div>
+  <!-- end contentbottom section -->
+  </div>
+
+  </div>
+  <div id="pagebottom">
+    <!-- begin pagebottom section -->
+    <div id="footer-container">
+        <div id="footer">
+    <ul class="footer-links">
+      <li><a href="http://www.google.com/support/youtube/bin/static.py?p=watch&amp;page=start.cs&amp;hl=en_US">Help</a>
+</li>
+      <li><a href="/t/about">About</a></li>
+      <li><a href="http://www.google.com/support/youtube/bin/request.py?contact_type=abuse&amp;hl=en_US">Safety</a></li>
+      <li><a href="/t/privacy_at_youtube">Privacy</a></li>
+      <li><a href="/t/terms">Terms</a></li>
+      <li><a href="/t/dmca_policy">Copyright</a></li>
+      <li><a href="/t/uploaders_partners">Uploaders &amp; Partners</a></li>
+        <li><a href="http://code.google.com/apis/youtube/overview.html">Developers</a></li>
+        <li><a href="/t/advertising_overview" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'Advertising');">Advertising</a></li>
+    </ul>
+
+    <p class="footer-info">
+      <a href="http://www.google.com/tools/feedback/intl/en/error.html" onclick="return yt.www.feedback.start('en');" id="reportbug">Report a bug</a>
+    </p>
+      <ul class="pickers">
+      <li>Language:
+  <a href="#" onclick="yt.www.masthead.loadPicker('language-picker', ''); return false;">English</a>
+</li>
+      <li>Location:
+  <a href="#" onclick="yt.www.masthead.loadPicker('region-picker', ''); return false;">Worldwide</a>
+</li>
+      <li>Safety mode:
+  <a href="#" onclick="yt.www.masthead.loadPicker('safetymode-picker', ''); return false;">
+
+Off
+
+  </a>
+</li>
+  </ul>
+    <div id="picker-container"></div>
+  <div id="picker-loading" style="display: none">Loading...</div>
+
+
+  </div>
+
+    </div>
+        
+
+
+  
+  
+
+
+
+  <div id="quicklist" class="hid passive editable" data-active-ajax-url="" data-quicklist-ajax-url="/list_ajax?action_get_quicklist=1" data-loaded-ajax-url="/list_ajax?action_get_quicklist=1">
+    <div id="quicklist-bar-container">
+      <div id="quicklist-bar">
+        
+
+
+
+  <div  id="quicklist-notifications" style="display: none;" class="yt-alert yt-alert-success yt-alert-small yt-alert-naked yt-rounded">
+      <img src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" class="icon master-sprite" alt="Alert icon">
+
+    <div  class="yt-alert-content">
+    </div>
+
+  </div>
+
+<span id="quicklist-info"><span class="quicklist-active yt-uix-button-group"><button type="button" class="master-sprite yt-uix-tooltip yt-uix-tooltip-masked start start-edge yt-uix-button yt-uix-tooltip" onclick=";return false;" title="Previous video" data-button-action="yt.www.watch.quicklist.prev" role="button" aria-pressed="false"><img class="yt-uix-button-icon-quicklist-prev" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> </button><button type="button" class="master-sprite yt-uix-tooltip yt-uix-tooltip-masked end yt-uix-button" onclick=";return false;" id="quicklist-next-button" data-button-action="yt.www.watch.quicklist.next" role="button" aria-pressed="false"><img class="yt-uix-button-icon-quicklist-next" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> </button></span><span class="quicklist-passive"><button type="button" class="master-sprite yt-uix-tooltip yt-uix-tooltip-masked  yt-uix-button yt-uix-tooltip" onclick=";return false;" title="Play videos" data-button-action="yt.www.watch.quicklist.play" role="button" aria-pressed="false"><img class="yt-uix-button-icon-quicklist-play" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> </button></span><span id="quicklist-title">Queue (<span>0</span>)
+</span><button type="button" class="yt-uix-button-masked reverse yt-uix-button" onclick=";return false;"  role="button" aria-activedescendant="" aria-haspopup="true" aria-pressed="false" aria-expanded="false"><span class="yt-uix-button-content">Options</span> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""><div style="display:none;" class="yt-uix-button-menu">  <div id="quicklist-options-menu" class="">
+
+    <div id="quicklist-extras-menu">
+        <ul>
+      <li><span class="yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clear()">
+Clear all videos from your Queue
+      </span></li>
+  </ul>
+
+    </div>
+
+    <ul>
+      <li><span class="yt-uix-button-menu-item" onclick="window.location.href='http://www.google.com/support/youtube/bin/answer.py?answer=146749'">Learn more</span></li>
+    </ul>
+  </div>
+</div></button></span>
+
+<span id="quicklist-controls" class="yt-uix-button-group"><button type="button" class="master-sprite yt-uix-tooltip yt-uix-tooltip-masked start quicklist-active yt-uix-button yt-uix-button-toggle" onclick=";return false;" id="quicklist-autoplay-button" data-button-action="yt.www.watch.quicklist.autoplay" role="button" aria-pressed="false"><img class="yt-uix-button-icon-quicklist-autoplay" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> </button><button type="button" class="master-sprite yt-uix-tooltip yt-uix-tooltip-masked start quicklist-active yt-uix-button yt-uix-button-toggle" onclick=";return false;" id="quicklist-shuffle-button" data-button-action="yt.www.watch.quicklist.shuffle" role="button" aria-pressed="false"><img class="yt-uix-button-icon-quicklist-shuffle" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> </button><button type="button" class="master-sprite yt-uix-tooltip yt-uix-tooltip-masked end end-edge yt-uix-button" onclick=";return false;" id="quicklist-toggle-button" data-button-action="yt.www.watch.quicklist.toggle" role="button" aria-pressed="false"><img class="yt-uix-button-icon-quicklist-toggle" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> </button></span>      </div>
+    </div>
+
+<div id="quicklist-tray-container"><div id="quicklist-tray" class="yt-uix-slider yt-uix-slider-fluid"><button class="yt-uix-button quicklist-tray-button yt-uix-slider-prev" onclick="return false;"><img class="yt-uix-slider-prev-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt="Previous"></button><button class="yt-uix-button quicklist-tray-button yt-uix-slider-next" onclick="return false;"><img class="yt-uix-slider-next-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt="Next"></button><div class="yt-uix-slider-body"><div id="quicklist-tray-content" class="yt-uix-slider-slide"><ol class="video-list"></ol><ol id="quicklist-help"><li class="empty">Your queue is empty. Add videos to your queue using this button: <img src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" class="addto-button-help"><br> or <a href="https://www.google.com/accounts/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Den_US%26next%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DzxOSv4LwSsY%2526amp%253Bfeature%253Daso&amp;hl=en_US&amp;ltmpl=sso">sign in</a> to load a different list.</li></ol></div><div class="yt-uix-slider-shade-left"></div><div class="yt-uix-slider-shade-right"></div></div></div><div id="quicklist-save"></div><div id="quicklist-saved"></div><div id="quicklist-lists"></div><div id="quicklist-loading"><img src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""><span>Loading...</span></div><div id="quicklist-saving"><img src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""><span>Saving...</span></div><div id="quicklist-template" style="display: none;" data-video-thumb-url="http://i4.ytimg.com/vi/__video_encrypted_id__/default.jpg" data-play-video-href="/watch?v=__video_encrypted_id__&amp;feature=BF&amp;playnext=1&amp;list=QL"><!--        <li class="quicklist-item yt-uix-slider-slide-unit __classes__" data-video-id="__video_encrypted_id__"><a href="__video_url__">
+
+
+
+
+
+
+
+
+
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb ux-thumb-96" id="video-thumb-__video_encrypted_id__-6028347" ><span class="img"><img src="__video_thumb_url__" onclick="" title="__video_title__"></span>
+</span>
+<span class="quicklist-hidden-thumb hid">
+
+
+
+
+
+
+
+
+
+
+
+    
+
+  
+  
+  
+
+<span class="video-thumb ux-thumb-64" id="video-thumb-__video_encrypted_id__-240472" ><span class="img"><img src="__video_thumb_url__" onclick="" title="__video_title__"></span>
+</span>
+</span><span class="screen"></span><span class="count "><strong>__list_position__</strong></span><span class="play"><img class="master-sprite" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif"></span><button type="button" class="master-sprite delete yt-uix-button" onclick="yt.www.watch.quicklist.onQuickDeleteClick('__video_encrypted_id__', event);;return false;"  role="button" aria-pressed="false"><img class="yt-uix-button-icon-quicklist-delete" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif" alt=""> </button></a><span dir="ltr" class="title yt-uix-slider-title"><span>__video_title__<span class="uploader">by __video_username__</span></span></span></li>--></div></div>  </div>
+
+
+    <div id="shared-addto-menu" style="display: none;">
+      <form method="post" action="/addto_ajax">
+    <ul class="addto-menu">
+      
+
+      
+    
+
+
+
+    
+
+    <li>
+      <span class="yt-uix-button-menu-item " onclick="yt.www.addtomenu.saveToQueue(this);">
+          Add to queue
+      </span>
+    </li>
+    <li>
+      <span class="yt-uix-button-menu-item " onclick="">
+          <a href="https://www.google.com/accounts/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Den_US%26next%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DzxOSv4LwSsY%2526amp%253Bfeature%253Daso&amp;hl=en_US&amp;ltmpl=sso">Sign in</a> to add this to a playlist
+
+      </span>
+    </li>
+
+
+      <li class="yt-uix-button-menu-item addto-item addto-create-container" style="display: none;">
+        <input type="text" class="addto-create-name" value="" size="25">
+      </li>
+    </ul>
+  </form>
+
+  </div>
+
+
+    <!-- end pagebottom section -->
+  </div>
+
+  </div>
+          
+    <script id="www-core-js" src="http://s.ytimg.com/yt/jsbin/www-core-vflxVCeXj.js"></script>
+
+
+  <!-- begin postpage section -->
+  <script>
+    if (window['gYouTubePlayerReady']) {
+      onYouTubePlayerReady();
+      yt.registerGlobal('gYouTubePlayerReady');
+    }
+    
+    yt.setConfig({
+      'XSRF_TOKEN': 'O-6B64zkbtxDXFNNEzyWzt-Soox8MTI5MTMzNTA4Mw==',
+      'XSRF_FIELD_NAME': 'session_token'
+    });
+    yt.pubsub.subscribe('init', yt.www.xsrf.populateSessionToken);
+
+
+    yt.setConfig('XSRF_QL_PAIR', 'session_token=MJO26qKKGgFS3dkaZJq70q9KIyt8MA==');
+  
+    yt.setConfig('XSRF_REDIRECT_TOKEN', 'OE4PRrP44zU4iyQgV2Z0fMGxr1x8MTI5MTMzNTA4Mw==');
+
+
+    yt.setConfig('LOGGED_IN', false);
+  </script>
+
+        <script>
+    (function() {
+      var swfConfig = {"url": "http:\/\/s.ytimg.com\/yt\/swf\/watch_as3-vfllZotcC.swf", "min_version": "8.0.0", "args": {"rv.7.length_seconds": 63, "rv.2.thumbnailUrl": "http:\/\/i1.ytimg.com\/vi\/DviMiYowobE\/default.jpg", "rv.0.url": "http:\/\/www.youtube.com\/watch?v=BULHZIBpnSI", "rv.0.view_count": 12062, "enablecsi": "1", "rv.2.title": "(HD) Nevada beats Boise State 34-31 in OT Kicker Kyle Brotzman Field Goal 11.26.2010", "rv.6.author": "tsez79", "rv.3.view_count": 132, "is_doubleclick_tracked": "1", "rv.4.thumbnailUrl": "http:\/\/i3.ytimg.com\/vi\/VfUaKsB9X7Y\/default.jpg", "fmt_url_map": "35|http:\/\/v8.lscache1.c.youtube.com\/videoplayback?ip=67.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&algorithm=throttle-factor&itag=35&ipbits=8&burst=40&sver=3&expire=1291273200&key=yt1&signature=69C09ACDEEF21D7C50B0256A5D3387E51C3ABF14.39C260E58EE8248B7A6119F49DA284BDB4DB6566&factor=1.25&id=cf1392bf82f04ac6,34|http:\/\/v1.lscache6.c.youtube.com\/videoplayback?ip=67.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&algorithm=throttle-factor&itag=34&ipbits=8&burst=40&sver=3&expire=1291273200&key=yt1&signature=7584115559186C829B681AA0B6739309D5F9C336.70A5303A50E0D6ACA936EB5A72660D81240DDF6D&factor=1.25&id=cf1392bf82f04ac6,18|http:\/\/v19.lscache6.c.youtube.com\/videoplayback?ip=67.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&algorithm=throttle-factor&itag=18&ipbits=8&burst=40&sver=3&expire=1291273200&key=yt1&signature=05A69CA5D9E4EBDA7484F4F53FFCFC78F34057DA.17FBE90476309FF5DCAC19DA989B3950B33EF41B&factor=1.25&id=cf1392bf82f04ac6,5|http:\/\/v16.lscache4.c.youtube.com\/videoplayback?ip=67.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&algorithm=throttle-factor&itag=5&ipbits=8&burst=40&sver=3&expire=1291273200&key=yt1&signature=CC93A4D42030156A6444E9F4A7828F166A995A87.14142ECFA952153AD4C67C85B499104A8D8E28EB&factor=1.25&id=cf1392bf82f04ac6", "csi_page_type": "watch", "keywords": "boise,state,field,goal,miss,nevada,broncos,wolf,pack", "cr": "US", "rv.1.url": "http:\/\/www.youtube.com\/watch?v=de4kYT8d0aY", "rv.6.thumbnailUrl": "http:\/\/i4.ytimg.com\/vi\/oC1XfpZYI6Y\/default.jpg", "rv.3.rating": "5.0", "fmt_list": "35\/854x480\/9\/0\/115,34\/640x360\/9\/0\/115,18\/640x360\/9\/0\/115,5\/320x240\/7\/0\/0", "rv.7.id": "uE4hJNvYCYQ", "rv.0.rating": "4.46666666667", "rv.4.rating": "0.0", "rv.3.title": "Boise State Misses Game Winning Field Goal", "rv.5.id": "i4ikSzHLZCc", "rv.0.featured": 1, "rv.0.id": "BULHZIBpnSI", "sdetail": "f:aso,", "rv.5.url": "http:\/\/www.youtube.com\/watch?v=i4ikSzHLZCc", "rv.6.length_seconds": 20, "timestamp": 1291248683, "rv.0.author": "AssociatedPress", "rv.3.thumbnailUrl": "http:\/\/i1.ytimg.com\/vi\/8_7ZSF1ueLg\/default.jpg", "rv.2.author": "KENFL74", "rv.6.url": "http:\/\/www.youtube.com\/watch?v=oC1XfpZYI6Y", "fmt_map": "35\/854x480\/9\/0\/115,34\/640x360\/9\/0\/115,18\/640x360\/9\/0\/115,5\/320x240\/7\/0\/0", "showpopout": 1, "hl": "en_US", "endscreen_module": "http:\/\/s.ytimg.com\/yt\/swf\/endscreen-vflMuoQ6w.swf", "rv.0.thumbnailUrl": "http:\/\/i3.ytimg.com\/vi\/BULHZIBpnSI\/default.jpg", "rv.5.length_seconds": 23, "rv.7.author": "HostReviews", "leanback_module": "http:\/\/s.ytimg.com\/yt\/swf\/leanback_module-vflVrjX-f.swf", "rv.1.length_seconds": 18, "rv.3.id": "8_7ZSF1ueLg", "rv.2.id": "DviMiYowobE", "rv.2.length_seconds": 79, "t": "vjVQa1PpcFP2bJPJmm-9sxQh_Z6v7zD98rcYtNv6n_s=", "rv.6.id": "oC1XfpZYI6Y", "vq": "auto", "rv.6.view_count": 164, "rv.3.author": "TwistedWayne", "rv.4.id": "VfUaKsB9X7Y", "rv.1.view_count": 55461, "rv.4.author": "worldtopnews012", "rv.7.thumbnailUrl": "http:\/\/i2.ytimg.com\/vi\/uE4hJNvYCYQ\/default.jpg", "allow_embed": 1, "rv.5.title": "Boise State Football -  10\/9\/2010  vs.  Toledo", "fmt_stream_map": "35|http:\/\/v8.lscache1.c.youtube.com\/videoplayback?ip=67.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&algorithm=throttle-factor&itag=35&ipbits=8&burst=40&sver=3&expire=1291273200&key=yt1&signature=69C09ACDEEF21D7C50B0256A5D3387E51C3ABF14.39C260E58EE8248B7A6119F49DA284BDB4DB6566&factor=1.25&id=cf1392bf82f04ac6||tc.v8.cache1.c.youtube.com,34|http:\/\/v1.lscache6.c.youtube.com\/videoplayback?ip=67.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&algorithm=throttle-factor&itag=34&ipbits=8&burst=40&sver=3&expire=1291273200&key=yt1&signature=7584115559186C829B681AA0B6739309D5F9C336.70A5303A50E0D6ACA936EB5A72660D81240DDF6D&factor=1.25&id=cf1392bf82f04ac6||tc.v1.cache6.c.youtube.com,18|http:\/\/v19.lscache6.c.youtube.com\/videoplayback?ip=67.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&algorithm=throttle-factor&itag=18&ipbits=8&burst=40&sver=3&expire=1291273200&key=yt1&signature=05A69CA5D9E4EBDA7484F4F53FFCFC78F34057DA.17FBE90476309FF5DCAC19DA989B3950B33EF41B&factor=1.25&id=cf1392bf82f04ac6||tc.v19.cache6.c.youtube.com,5|http:\/\/v16.lscache4.c.youtube.com\/videoplayback?ip=67.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&algorithm=throttle-factor&itag=5&ipbits=8&burst=40&sver=3&expire=1291273200&key=yt1&signature=CC93A4D42030156A6444E9F4A7828F166A995A87.14142ECFA952153AD4C67C85B499104A8D8E28EB&factor=1.25&id=cf1392bf82f04ac6||tc.v16.cache4.c.youtube.com", "rv.2.rating": "5.0", "rv.7.title": "Boise State vs. Nevada Kyle Brotzman Field Goal Miss", "rv.0.length_seconds": 50, "rv.1.id": "de4kYT8d0aY", "rv.6.title": "Boise State vs. Fresno State 11\/19\/2010", "rv.4.length_seconds": 229, "rv.1.thumbnailUrl": "http:\/\/i1.ytimg.com\/vi\/de4kYT8d0aY\/default.jpg", "rv.5.view_count": 702, "length_seconds": 128, "feature": "aso", "enablejsapi": 1, "plid": "AASWYkMY7SUQNgTI", "tmi": "1", "rv.5.rating": "5.0", "rv.4.url": "http:\/\/www.youtube.com\/watch?v=VfUaKsB9X7Y", "rv.1.author": "xnickx5757", "rv.1.rating": "3.3829787234", "rv.4.title": "(HD) Nevada beats Boise State 34-31 in OT Kicker Kyle Brotzman Field Goal 11.26.2010", "rv.5.thumbnailUrl": "http:\/\/i2.ytimg.com\/vi\/i4ikSzHLZCc\/default.jpg", "watermark": "http:\/\/s.ytimg.com\/yt\/swf\/logo-vfl_bP6ud.swf,http:\/\/s.ytimg.com\/yt\/swf\/hdlogo-vfloR6wva.swf", "rv.0.title": "No. 19 Nevada Upsets No. 3 Boise State", "rv.7.rating": "5.0", "rv.3.url": "http:\/\/www.youtube.com\/watch?v=8_7ZSF1ueLg", "rv.2.url": "http:\/\/www.youtube.com\/watch?v=DviMiYowobE", "rv.7.url": "http:\/\/www.youtube.com\/watch?v=uE4hJNvYCYQ", "rv.2.view_count": 13844, "rv.4.view_count": 722, "video_id": "zxOSv4LwSsY", "fslarge": "1", "rv.6.rating": "0.0", "sk": "094-RU7Vl08cG1yC69a_aDUxUOiD1o-rC", "rv.1.title": "Boise State vs. Nevada Kyle Brotzman Missed Field Goal... or did he?  11\/26\/10", "rv.7.view_count": 552, "rv.3.length_seconds": 20, "rv.5.author": "tsez79"}, "url_v9as2": "http:\/\/s.ytimg.com\/yt\/swf\/watch-vfl9NK0W7.swf", "params": {"allowscriptaccess": "always", "allowfullscreen": "true", "bgcolor": "#000000"}, "attrs": {"width": "640", "id": "movie_player", "height": "385"}, "url_v8": "http:\/\/s.ytimg.com\/yt\/swf\/watch_v8-vfl3DwnUN.swf"};
+      var forceUpdate = false;
+      yt.setConfig('SWF_CONFIG', swfConfig);
+      yt.setMsg('FLASH_UPGRADE', '\n\n\n\n  <div  class=\"yt-alert yt-alert-error yt-alert-player yt-rounded\">\n      <img src=\"http:\/\/s.ytimg.com\/yt\/img\/pixel-vfl3z5WfW.gif\" class=\"icon master-sprite\" alt=\"Alert icon\">\n\n    <div  class=\"yt-alert-content\">\n            You need to upgrade your Adobe Flash Player to watch this video. <br> <a href=\"http:\/\/get.adobe.com\/flashplayer\/\">Download it from Adobe.<\/a>\n    <\/div>\n\n  <\/div>\n');
+      yt.flash.update(swfConfig, forceUpdate);
+    })();
+  </script>
+
+
+      
+    <script id="www-livecomments" src="http://s.ytimg.com/yt/jsbin/www-livecomments-vflDdBQC3.js"></script>
+
+
+
+  <script>
+    document.title = 'YouTube - Boise State Misses Game Winning Field Goal (HQ)';
+
+    yt.setConfig({
+      'VIDEO_ID': 'zxOSv4LwSsY',
+      'VIDEO_USERNAME': 'JackInBlackDawg',
+      'VIDEO_LANGUAGE': 'EN',
+      'BLOCK_USER_XSRF': '',
+      'SUBSCRIBE_AXC': '',
+
+      'IS_WIDESCREEN': false,
+      'IS_HD_AVAILABLE': false,
+      'IS_3D_VIDEO': false,
+      'PREFER_LOW_QUALITY': false,
+      'WIDE_PLAYER_STYLES': ["watch-wide-mode"],
+      'EMBED_URL': 'http:\/\/www.youtube.com\/v\/zxOSv4LwSsY?fs=1&hl=en_US',
+      'IFRAME_EMBED_URL': 'http:\/\/www.youtube.com\/embed\/zxOSv4LwSsY',
+      'SHARE_URL': 'http:\/\/www.youtube.com\/watch?v=zxOSv4LwSsY',
+      'SHARE_URL_SHORT': 'http:\/\/youtu.be\/zxOSv4LwSsY',
+      'COMMENT_SHARE_URL': 'http:\/\/www.youtube.com\/comment?lc=_COMMENT_ID_',
+      'ALLOW_EMBED': true,
+      'ALLOW_RATINGS': true,
+      'AJAX_MODE': false,
+      'SEARCH_ON_WATCH_MODE': false,
+      'SEARCH_ON_WATCH_TINY_UI': false,
+
+      'HAS_ACTIVE_QUICKLIST': false,
+
+      'LIST_TYPE': null,
+      'LIST_PLAY_NEXT_URL': null,
+      'LIST_PLAY_NEXT_URL_WITH_SHUFFLE': null,
+      'LIST_AUTO_PLAY_ON': false,
+      'LIST_AUTO_PLAY_VALUE': 1,
+      'SHUFFLE_VALUE': null,
+      'SHUFFLE_ENABLED': false,
+      'SEQUENTIAL_VIDEO_LIST': [],
+      'SHUFFLED_VIDEO_LIST': [],
+      'FULL_SEQUENTIAL_VIDEO_LIST': [],
+      'FULL_SHUFFLED_VIDEO_LIST': [],
+      'RELATED_VIDEOS_SHOWN': 'BULHZIBpnSI|de4kYT8d0aY|DviMiYowobE|8_7ZSF1ueLg|VfUaKsB9X7Y|i4ikSzHLZCc|oC1XfpZYI6Y|uE4hJNvYCYQ|J4hlVkwmAjY|RW-pF0a70Ws|i7BD0BrwfpM|uJ2O87CsxN0|2iQFL8KHqjk|rScviGVMnPA|_QHQ0A8OIwo|dmhUaxXvR0c|c-b-dvOmUoY|DiCG5Zh6e00|x55Qg1lz7W4|6PYo3SumJYs',
+      'PPS_CAN_RATE_VIDEO': false,
+      'PPS_SHOW_VPPA_CONFIRM_RATING': false,
+
+      'LOCALE' : 'US',
+      'LANGUAGE' : 'en',
+
+      'SHOW_SUBSCRIBE_UPSELL': true,
+
+      'WATCH5': true,
+
+
+
+
+      'ENABLE_IFRAME_SHARING_BUTTONS_WATCH': true,
+      'THIRD_PARTY_DOMAIN': 's.youtube-3rd-party.com',
+      'FACEBOOK_APP_ID': 87741124305,
+      'ROOT_URL': 'http:\/\/www.youtube.com\/',
+
+
+      'PLAY_ALL_MAX': 45,
+      'PLAYER_CONFIG': {"url": "http:\/\/s.ytimg.com\/yt\/swf\/watch_as3-vfllZotcC.swf", "min_version": "8.0.0", "args": {"rv.7.length_seconds": 63, "rv.2.thumbnailUrl": "http:\/\/i1.ytimg.com\/vi\/DviMiYowobE\/default.jpg", "rv.0.url": "http:\/\/www.youtube.com\/watch?v=BULHZIBpnSI", "rv.0.view_count": 12062, "enablecsi": "1", "rv.2.title": "(HD) Nevada beats Boise State 34-31 in OT Kicker Kyle Brotzman Field Goal 11.26.2010", "rv.6.author": "tsez79", "rv.3.view_count": 132, "is_doubleclick_tracked": "1", "rv.4.thumbnailUrl": "http:\/\/i3.ytimg.com\/vi\/VfUaKsB9X7Y\/default.jpg", "fmt_url_map": "35|http:\/\/v8.lscache1.c.youtube.com\/videoplayback?ip=67.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&algorithm=throttle-factor&itag=35&ipbits=8&burst=40&sver=3&expire=1291273200&key=yt1&signature=69C09ACDEEF21D7C50B0256A5D3387E51C3ABF14.39C260E58EE8248B7A6119F49DA284BDB4DB6566&factor=1.25&id=cf1392bf82f04ac6,34|http:\/\/v1.lscache6.c.youtube.com\/videoplayback?ip=67.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&algorithm=throttle-factor&itag=34&ipbits=8&burst=40&sver=3&expire=1291273200&key=yt1&signature=7584115559186C829B681AA0B6739309D5F9C336.70A5303A50E0D6ACA936EB5A72660D81240DDF6D&factor=1.25&id=cf1392bf82f04ac6,18|http:\/\/v19.lscache6.c.youtube.com\/videoplayback?ip=67.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&algorithm=throttle-factor&itag=18&ipbits=8&burst=40&sver=3&expire=1291273200&key=yt1&signature=05A69CA5D9E4EBDA7484F4F53FFCFC78F34057DA.17FBE90476309FF5DCAC19DA989B3950B33EF41B&factor=1.25&id=cf1392bf82f04ac6,5|http:\/\/v16.lscache4.c.youtube.com\/videoplayback?ip=67.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&algorithm=throttle-factor&itag=5&ipbits=8&burst=40&sver=3&expire=1291273200&key=yt1&signature=CC93A4D42030156A6444E9F4A7828F166A995A87.14142ECFA952153AD4C67C85B499104A8D8E28EB&factor=1.25&id=cf1392bf82f04ac6", "csi_page_type": "watch", "keywords": "boise,state,field,goal,miss,nevada,broncos,wolf,pack", "cr": "US", "rv.1.url": "http:\/\/www.youtube.com\/watch?v=de4kYT8d0aY", "rv.6.thumbnailUrl": "http:\/\/i4.ytimg.com\/vi\/oC1XfpZYI6Y\/default.jpg", "rv.3.rating": "5.0", "fmt_list": "35\/854x480\/9\/0\/115,34\/640x360\/9\/0\/115,18\/640x360\/9\/0\/115,5\/320x240\/7\/0\/0", "rv.7.id": "uE4hJNvYCYQ", "rv.0.rating": "4.46666666667", "rv.4.rating": "0.0", "rv.3.title": "Boise State Misses Game Winning Field Goal", "rv.5.id": "i4ikSzHLZCc", "rv.0.featured": 1, "rv.0.id": "BULHZIBpnSI", "sdetail": "f:aso,", "rv.5.url": "http:\/\/www.youtube.com\/watch?v=i4ikSzHLZCc", "rv.6.length_seconds": 20, "timestamp": 1291248683, "rv.0.author": "AssociatedPress", "rv.3.thumbnailUrl": "http:\/\/i1.ytimg.com\/vi\/8_7ZSF1ueLg\/default.jpg", "rv.2.author": "KENFL74", "rv.6.url": "http:\/\/www.youtube.com\/watch?v=oC1XfpZYI6Y", "fmt_map": "35\/854x480\/9\/0\/115,34\/640x360\/9\/0\/115,18\/640x360\/9\/0\/115,5\/320x240\/7\/0\/0", "showpopout": 1, "hl": "en_US", "endscreen_module": "http:\/\/s.ytimg.com\/yt\/swf\/endscreen-vflMuoQ6w.swf", "rv.0.thumbnailUrl": "http:\/\/i3.ytimg.com\/vi\/BULHZIBpnSI\/default.jpg", "rv.5.length_seconds": 23, "rv.7.author": "HostReviews", "leanback_module": "http:\/\/s.ytimg.com\/yt\/swf\/leanback_module-vflVrjX-f.swf", "rv.1.length_seconds": 18, "rv.3.id": "8_7ZSF1ueLg", "rv.2.id": "DviMiYowobE", "rv.2.length_seconds": 79, "t": "vjVQa1PpcFP2bJPJmm-9sxQh_Z6v7zD98rcYtNv6n_s=", "rv.6.id": "oC1XfpZYI6Y", "vq": "auto", "rv.6.view_count": 164, "rv.3.author": "TwistedWayne", "rv.4.id": "VfUaKsB9X7Y", "rv.1.view_count": 55461, "rv.4.author": "worldtopnews012", "rv.7.thumbnailUrl": "http:\/\/i2.ytimg.com\/vi\/uE4hJNvYCYQ\/default.jpg", "allow_embed": 1, "rv.5.title": "Boise State Football -  10\/9\/2010  vs.  Toledo", "fmt_stream_map": "35|http:\/\/v8.lscache1.c.youtube.com\/videoplayback?ip=67.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&algorithm=throttle-factor&itag=35&ipbits=8&burst=40&sver=3&expire=1291273200&key=yt1&signature=69C09ACDEEF21D7C50B0256A5D3387E51C3ABF14.39C260E58EE8248B7A6119F49DA284BDB4DB6566&factor=1.25&id=cf1392bf82f04ac6||tc.v8.cache1.c.youtube.com,34|http:\/\/v1.lscache6.c.youtube.com\/videoplayback?ip=67.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&algorithm=throttle-factor&itag=34&ipbits=8&burst=40&sver=3&expire=1291273200&key=yt1&signature=7584115559186C829B681AA0B6739309D5F9C336.70A5303A50E0D6ACA936EB5A72660D81240DDF6D&factor=1.25&id=cf1392bf82f04ac6||tc.v1.cache6.c.youtube.com,18|http:\/\/v19.lscache6.c.youtube.com\/videoplayback?ip=67.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&algorithm=throttle-factor&itag=18&ipbits=8&burst=40&sver=3&expire=1291273200&key=yt1&signature=05A69CA5D9E4EBDA7484F4F53FFCFC78F34057DA.17FBE90476309FF5DCAC19DA989B3950B33EF41B&factor=1.25&id=cf1392bf82f04ac6||tc.v19.cache6.c.youtube.com,5|http:\/\/v16.lscache4.c.youtube.com\/videoplayback?ip=67.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&algorithm=throttle-factor&itag=5&ipbits=8&burst=40&sver=3&expire=1291273200&key=yt1&signature=CC93A4D42030156A6444E9F4A7828F166A995A87.14142ECFA952153AD4C67C85B499104A8D8E28EB&factor=1.25&id=cf1392bf82f04ac6||tc.v16.cache4.c.youtube.com", "rv.2.rating": "5.0", "rv.7.title": "Boise State vs. Nevada Kyle Brotzman Field Goal Miss", "rv.0.length_seconds": 50, "rv.1.id": "de4kYT8d0aY", "rv.6.title": "Boise State vs. Fresno State 11\/19\/2010", "rv.4.length_seconds": 229, "rv.1.thumbnailUrl": "http:\/\/i1.ytimg.com\/vi\/de4kYT8d0aY\/default.jpg", "rv.5.view_count": 702, "length_seconds": 128, "feature": "aso", "enablejsapi": 1, "plid": "AASWYkMY7SUQNgTI", "tmi": "1", "rv.5.rating": "5.0", "rv.4.url": "http:\/\/www.youtube.com\/watch?v=VfUaKsB9X7Y", "rv.1.author": "xnickx5757", "rv.1.rating": "3.3829787234", "rv.4.title": "(HD) Nevada beats Boise State 34-31 in OT Kicker Kyle Brotzman Field Goal 11.26.2010", "rv.5.thumbnailUrl": "http:\/\/i2.ytimg.com\/vi\/i4ikSzHLZCc\/default.jpg", "watermark": "http:\/\/s.ytimg.com\/yt\/swf\/logo-vfl_bP6ud.swf,http:\/\/s.ytimg.com\/yt\/swf\/hdlogo-vfloR6wva.swf", "rv.0.title": "No. 19 Nevada Upsets No. 3 Boise State", "rv.7.rating": "5.0", "rv.3.url": "http:\/\/www.youtube.com\/watch?v=8_7ZSF1ueLg", "rv.2.url": "http:\/\/www.youtube.com\/watch?v=DviMiYowobE", "rv.7.url": "http:\/\/www.youtube.com\/watch?v=uE4hJNvYCYQ", "rv.2.view_count": 13844, "rv.4.view_count": 722, "video_id": "zxOSv4LwSsY", "fslarge": "1", "rv.6.rating": "0.0", "sk": "094-RU7Vl08cG1yC69a_aDUxUOiD1o-rC", "rv.1.title": "Boise State vs. Nevada Kyle Brotzman Missed Field Goal... or did he?  11\/26\/10", "rv.7.view_count": 552, "rv.3.length_seconds": 20, "rv.5.author": "tsez79"}, "url_v9as2": "http:\/\/s.ytimg.com\/yt\/swf\/watch-vfl9NK0W7.swf", "params": {"allowscriptaccess": "always", "allowfullscreen": "true", "bgcolor": "#000000"}, "attrs": {"width": "640", "id": "movie_player", "height": "385"}, "url_v8": "http:\/\/s.ytimg.com\/yt\/swf\/watch_v8-vfl3DwnUN.swf"}    });
+
+    yt.setMsg({
+      'LOADING': 'Loading...',
+      'AUTOPLAY_ON': 'Autoplay (on)',
+      'AUTOPLAY_OFF': 'Autoplay (off)',
+      'SHUFFLE_ON': 'Shuffle (on)',
+      'SHUFFLE_OFF': 'Shuffle (off)',
+      'SUBSCRIBE_UPSELL_MESSAGE': 'If you like JackInBlackDawg\'s videos, subscribe!\n',
+      'VPPA_CONFIRM': 'Please confirm that you consent to sharing this activity with the public.',
+      'QUEUE_EMPTY': 'Add a video to your watch queue by selecting from the menu in the video\'s thumbnail.',        'QUEUE_CLEAR': 'Are you sure you wish to continue?',
+      'ADD_TO_WATCH_QUEUE': 'Add to queue',
+
+      'DEFAULT_TWITTER_MESSAGE': 'Check this video out',
+      'TWITTER_VIDEO_TITLE': 'Boise State Misses Game Winning Field Goal (HQ)',
+      'BUZZ_BUTTON_TOOLTIP': 'Post to Google Buzz'
+    });
+
+    
+
+yt.setMsg({
+  'UNBLOCK_USER': "Are you sure you want to unblock this user?",
+  'BLOCK_USER': "Are you sure you want to block this user?"
+});
+yt.setConfig('BLOCK_USER_XSRF', '');
+
+
+
+      yt.setConfig({
+    'COMMENTS_THRESHHOLD': -5,
+    'COMMENTS_FILTER': 0,
+    'COMMENTS_PAGE_SIZE': 10,
+    'COMMENTS_COUNT': 906,
+    'COMMENTS_PPS_CAN_POST_OR_REACT_TO_COMMENT': false,
+    'COMMENTS_PPS_SHOW_VPPA_CONFIRM': false
+  });
+  yt.setMsg({
+    'COMMENT_OK': 'OK',
+    'COMMENT_BLOCKED': 'You have been blocked by the owner of this video.',
+    'COMMENT_CAPTCHAFAIL': 'The response to the letters on the image was not correct, please try again.',
+    'COMMENT_PENDING': 'Comment Pending Approval!',
+    'COMMENT_ERROR': 'Error, try again'
+  });
+  
+  yt.pubsub.subscribe('init', yt.www.comments.watch5.addCommentMouseListener);
+
+      yt.pubsub.subscribe('init', function() {
+      yt.setMsg({
+        'LC_COUNT_NEW_COMMENTS': '$count more comments since you started viewing. <a href=\"#\" onclick=\"yt.www.watch.livecomments.showNewComments(); return false;\">Show them.<\/a>'
+      });
+
+    var enableScrolling = !!yt.UserPrefs.getFlag3(yt.UserPrefs.Flags.FLAG3_LIVE_COMMENTS_SCROLL);
+    yt.www.watch.livecomments.init('zxOSv4LwSsY', '1291248683', 15000, enableScrolling, 'live_comments', 'live-comments-setting-scroll', 'live-comments-setting-no-scroll', 'live-comments-count');
+  });
+
+
+
+
+    yt.pubsub.subscribe('init', yt.www.watch.sow.resizeForSearch);
+    yt.events.listen(window, 'resize', yt.www.watch.sow.resizeForSearch);
+
+      function tn_load(index) {
+    if (window.yt.timing && yt.timing.handleThumbnailLoad){
+      yt.timing.handleThumbnailLoad(index);
+    }
+  }
+
+
+
+
+    yt.pubsub.subscribe('init', yt.www.watch.player.enableVideoQualityDisplay);
+    yt.pubsub.subscribe('init', yt.www.watch.player.handleHashArgumentsOnWatchLoad);
+    yt.pubsub.subscribe('init', yt.www.watch.flagging.maybeShowFlaggingPannel);
+
+
+    yt.pubsub.subscribe('init', function() {
+      var description = _gel('watch-description');
+      if (!_hasclass(description, 'yt-uix-expander-collapsed')) {
+        yt.www.watch.watch5.handleToggleDescription(description);
+      }
+    });
+
+
+
+
+      yt.pubsub.subscribe('init', function() {
+        yt.flash.showDivIfVersionNotSupported('flash10-promo-div',[9,0,115]);
+        var showCount = yt.UserPrefs.get('ftuc');
+        if (!showCount) {
+          showCount = 0;
+        }
+        yt.UserPrefs.set('ftuc', parseInt(showCount, 10) + 1);
+        yt.UserPrefs.save();
+      });
+  </script>
+
+  
+    <script>
+      yt.www.ads.pyv.showPpvOnWatch();
+    </script>
+
+
+
+
+
+
+    
+      <script>
+      yt.setConfig('TIMING_ACTION', 'watch5');
+    </script>
+
+
+
+  <script>
+    
+
+
+
+  yt.setMsg({
+    'QUEUE_CLEAR': 'Are you sure you wish to continue?',
+    'ERROR_OCCURRED': 'Sorry, an error occurred.',
+    'NEXT_VIDEO_TOOLTIP': 'Next video:<br> &#8220;${next_video_title}&#8221;',
+    'NEXT_VIDEO_NOTHUMB_TOOLTIP': 'Next video',
+    'SHOW_PLAYLIST_TOOLTIP': 'Show playlist',
+    'HIDE_PLAYLIST_TOOLTIP': 'Hide playlist',
+    'AUTOPLAY_ON_TOOLTIP': 'Turn autoplay off',
+    'AUTOPLAY_OFF_TOOLTIP': 'Turn autoplay on',
+    'SHUFFLE_ON_TOOLTIP': 'Turn shuffle off',
+    'SHUFFLE_OFF_TOOLTIP': 'Turn shuffle on',
+    'QUICKLIST_PLAYLIST_SAVED': 'Playlist saved!',
+    'QUICKLIST_ADDED_TO_FAVORITES': 'Added to favorites',
+    'QUICKLIST_ADDED_TO_PLAYLIST': 'Added to playlist',
+    'QUICKLIST_ADDED_TO_QUEUE': 'Added to queue'   });
+
+
+  yt.setConfig({
+    'QUICKLIST_PLAYING_INDEX': -1,
+    'ENABLE_CLIENT_VIDEO_CACHE': false   });
+
+    yt.www.watch.quicklist.init();
+
+
+
+
+        yt.pubsub.subscribe('init', yt.www.thumbnaildelayload.init);
+
+
+
+        yt.setTimeout(function() {
+          window.yt.www.suggest.install(document.searchForm,
+              document.searchForm.search_query,
+              'en','close',
+              '',
+              'Web search',
+              -1,
+              null);
+            }, 100);
+
+
+  </script>
+
+  
+
+
+  <!-- end postpage section -->
+  <!--[if IE]></div><![endif]-->
+</body>
+
+</html>

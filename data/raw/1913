@@ -1,0 +1,596 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Google Gadgets:&nbsp;
+WeatherBug Sidebar Gadget</title>
+<link href="/desktop/styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+a.selected {
+  font-weight: bold;
+  color: #666;
+  text-decoration: none;
+}
+
+p#nav {
+  line-height: 1.4em;
+}
+
+table.gadget {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+table.gadget td img {
+  border: 1px solid #000;
+  margin: 4px 0px;
+}
+
+body {
+  margin-top: 0px;
+}
+
+table.gadget td input {
+  font-size: 11px;
+  width: 82px;
+}
+
+table.header {
+  margin-bottom: 10px;
+}
+
+table.header h3 {
+  margin-bottom: 0px;
+}
+
+table.header hr {
+  color: #ccc;
+  background-color: #ccc;
+  border-bottom: 1px solid #ccc;
+  height: 1px;
+  margin-top: 0px;
+}
+
+.disclaimer {
+  color: #999;
+}
+
+div.errorheader {
+  color: red;
+  font-weight: bold;
+}
+
+div.errormsg {
+  color: red;
+}
+
+td.button-left {
+  width: 6px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-left_sm.gif');
+  background-repeat: none;
+}
+
+td.button-center {
+  padding-left: 10px;
+  padding-right: 14px;
+  padding-bottom: 3px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-center_sm.gif')
+    ;
+  background-repeat: repeat-x;
+}
+
+td.button-center a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: arial;
+  padding-bottom: 6px;
+}
+
+td.button-right {
+  width: 9px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-right_sm.gif');
+  background-repeat: none;
+}
+
+.linkon {
+  color: #0000cc;
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: normal
+}
+
+.linkoff {
+  font-weight: bold
+}
+
+.review_author {
+  font-weight: bold
+}
+
+td.download-button-left {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_left.gif');
+  background-repeat: none;
+}
+
+td.download-button-center {
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  height: 22px;
+  background: url('/images/add_button_middle.gif');
+  background-repeat: repeat-x;
+}
+
+td.download-button-center a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
+
+td.download-button-right {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_right.gif');
+  background-repeat: none;
+}
+
+.similar-gadget {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.screenshot-image {
+  border: 1px solid #bbcced;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+pre.terms {
+  height:200;
+  width:600;
+  overflow: auto;
+  border-style:inset;
+  border-color:graytext;
+  border-width: thin;
+  text-wrap: unrestricted;
+  white-space: -moz-pre-wrap; /* Moz */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  white-space: pre-wrap; /* CSS3  */
+  word-wrap: break-word; /* IE 5.5+ */
+}
+
+table.confirmation-table td {
+  vertical-align: top;
+}
+
+.gadgetError {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FBE3E4;
+  color: #D12F19;
+  border-color: #FBC2C4;
+}
+
+.gadgetWarning {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FFF6BF;
+  color: #817134;
+  border-color: #FFD324;
+}
+
+</style>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+<script type="text/javascript">
+    _uacct="UA-18007-1";
+    _uanchor=1;
+    urchinTracker();
+  </script></head>
+<body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><a href="/?hl=en"><img src="/en/images/logo3.gif" border="0" height="55" vspace="12" width="150" alt="Google Desktop"></a></td>
+<td width="100%" style="padding-left:12px;padding-top:12px;" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="right" nowrap><font face="Arial, sans-serif" size="-1"><a href="https://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/weatherbug.html">Sign In</a></font></td></tr>
+<tr><td><img alt="" width="1" height="1"></td></tr></table>
+<table cellpadding="0" cellspacing="0" width="100%"><tr><td bgcolor="#3399cc"><img alt="" height="1" width="1"></td></tr></table>
+<table cellspacing="0" cellpadding="2" border="0" width="100%"><tr><td bgcolor="#e8f4f7">&nbsp;
+<font size="3"><b>Google Gadgets</b></font></td></tr></table></td></tr></table>
+<table cellspacing="0" width="100%"><tr valign="top"><td><td nowrap valign="top" width="160"><p id="nav"><font size="-1">Google Gadgets
+<br>
+
+&nbsp;&nbsp;&bull;
+<a href='/plugins/?hl=en'>All</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/news.html?hl=en'>News</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/tools.html?hl=en'>Tools</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/communication.html?hl=en'>Communication</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/finance.html?hl=en'>Finance</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/fun_games.html?hl=en'>Fun & Games</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/google.html?hl=en'>Google</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/sports.html?hl=en'>Sports</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/lifestyle.html?hl=en'>Lifestyle</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/technology.html?hl=en'>Technology</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href="/plugins/c/sidebar/holiday.html?hl=en"><b><font color="red">Holidays</font></b></a>
+<br>
+<br>
+<a href='/plugins/c/index/all.html?hl=en'>Indexing Plugins</a>
+<br>
+<br>
+<br>
+<a href="http://groups.google.com/group/Google-Desktop">Desktop Search Forum</a></font></p>
+<p><font size="-1"><b>For Developers</b>
+<br>
+
+&nbsp;&nbsp;
+<a href='/downloadsdksubmit?hl=en'>Download SDK</a><br>
+&nbsp;&nbsp;
+<a href="/dev/index.html">Developer Guide</a><br>
+&nbsp;&nbsp;
+<a href="/dev/kb.html">FAQ</a><br>
+&nbsp;&nbsp;
+<a href='/pluginsubmit?hl=en'>Submit Software</a><br>
+
+&nbsp;&nbsp;
+<a href="http://groups.google.com/group/Google-Desktop-Developer">Developer Forum</a><br>
+&nbsp;&nbsp;
+<a href='/authors?hl=en'>Hall of Fame</a><br>
+&nbsp;&nbsp;
+<a href='/ambassadors?hl=en'>Ambassadors</a> <br>
+<br>
+<br>
+<br>
+<img src="/images/rss_small.gif" alt="RSS Feed for Latest Gadgets">
+<a href="/feeds/gadgets.xml?hl=en&amp;type=rss" type="application/rss+xml">Latest Gadgets</a>
+<br>
+<br>
+<br>
+<br></font></p></td>
+<td id="dots" width="10"></td></td>
+<td><table><tr style="height:10px;"></tr>
+<tr id="gadgetDetails"><td id="gadgetImage" valign="top" align="center"><img alt="WeatherBug Sidebar Gadget" src="/plugins/images/weatherbug.gif" class="screenshot-image"></td>
+<td id="gadgetDetails" valign="top"><h3>WeatherBug Sidebar Gadget</h3>
+Weather information for your Google Desktop.
+<br>
+<p><a href="http://www.weatherbug.com/">Learn more</a>
+-
+<a href="http://groups.google.com/group/Google-Desktop-Plugin-WeatherBug">Discuss this gadget</a></p>
+<table cellpadding="2" cellspacing="2"><tr><td><strong>Author:</strong></td>
+<td>WeatherBug</td></tr>
+<tr><td><strong>Size:</strong></td>
+<td>652KB</td></tr>
+<tr><td><strong>Version:</strong></td>
+<td>1.0.0.1</td></tr>
+<tr><td><strong>Date:</strong></td>
+<td>September 27, 2006</td></tr></table>
+<p><b>This gadget requires  <a href="http://desktop.google.com?hl=en"> Google Desktop  4  or above. </a></b></p>
+<div style="width: 250;"><table cellpadding="0" cellspacing="0"><tr><td class="button-left"></td>
+<td class="button-center"><a href="/url?id=weatherbug">Download gadget</a></td>
+<td class="button-right"></td></tr></table></div>
+<br>
+<a href="http://www.google.com/ig/add?moduleurl=http://desktop.google.com/gow/gadgets/weatherbug.xml">Add this gadget to your iGoogle page</a></td></tr>
+<tr id="reviewsAndComments"><td valign="top" colspan="2"><script type="text/javascript" src="/gadgetComments.js">
+</script>
+<div style="min-width: 600; max-width: 800"><table width="100%"><tr><td><span id="commentsSpan" class="linkoff">Reviews</span></td>
+<td align="right">
+
+<a href="http://desktop.google.com/plugins/i/weatherbug.html?start=20">Next &raquo;</a></td></tr></table>
+<hr size="1" noshade>
+<a href="http://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/weatherbug.html">Sign in</a> to write a comment
+<br><br>
+<div id="comments">
+
+<table id="review 1" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Cookie</b>
+&nbsp;</td>
+<td><div id="abuse1" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=FseNYwcrC8Oh8ynnrWEMowJugx_dkzk_bQAAAIBdwH5vsurIJVJLt11S1ZwK1L0pBa1gKOVEfeJsXDz3ML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4SmlZDnEhnmlHXIk95-mquPnM&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Where is the windchill factor?  Remember it&#39;s winter!!!!
+<br>
+<br> <table id="review 2" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse2" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=LYkjmQxBRSpeocEBC0mKjeyBrBbdkzk_bQAAAEIeuPk8YnFKjwHZLJkyZxc-nDQ1APXM5NoMqRL0MFCTML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4Smq0TtCwSPwAmnMkGeYUbTpQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Excellent addition to Kubuntu 10.10 desktop.  Just wish the refresh period was configurable.
+<br>
+<br> <table id="review 3" cellpadding="0" cellspacing="0"><tr>
+<td><b>Mike</b>
+&nbsp;</td>
+<td><div id="abuse3" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=93nEHNYmHU7EN5hXDSsuHY3sD4Pdkzk_bQAAAJh402dLYBjdVwP8PYjBFt4r-vn2Jx2U2O8jkxR_1jeqML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4SmvJ3xuosPcFTHi-exBVU8Zk&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+This gadget is nice and has many cool features but it will not stay set to the location I choose. I can set it for a station nearby and it switches to number one on the list for the city by itself. *Ahem* Buggy App?
+<br>
+<br> <table id="review 4" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse4" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=N8iOU9RcxT9fxwG-GFuV80ihgDHdkzk_bQAAAHQgj7eUbk5riWPJ-M3OLdPW2UFY8X2GjzbrMGw5bkrpML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4Smk_9_IFblvPsPSiDJ9YkyNA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Nice, but in the UK, although it might sound odd, we use Imperial measurements for wind speed, and then metric for temperature.  Perhaps it could be changed in the future to set these as separate options? 
+<br>
+<br> <table id="review 5" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>carlyle</b>
+&nbsp;</td>
+<td><div id="abuse5" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=Pb_0BYtl6jRvRK03-Kzn6Cl_Tn3dkzk_bQAAAOAyuFNT2P6KAo0ccYSJq1FkRsh29vpmAW4ui3dHGVI7ML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4SmtUq-ED2eWtguox_8gtiju8&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+This is by far the best weather gadget, but the fact that you have to reselect your location everytime you restart the computer is quite anoying.
+<br>
+<br> <table id="review 6" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse6" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=hsvFD3bx4cbo8tWOUjNb5oNKzvHdkzk_bQAAANajb4KtUE4sd3cNPx5_w87iROyTlCQ-oMl35jwHrMfWML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4SmnECsgATtEjrak82ijb7Abo&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+please tern it on for iran
+<br>
+<br> <table id="review 7" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Sheri</b>
+&nbsp;</td>
+<td><div id="abuse7" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=erNg_WCH36XXFmOhB-iyhNoYyJDdkzk_bQAAAOohhwyh2Fe4COmrUNkiAbUOSJGhcAe44jb-5h35CPsiML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4Smn-dLEl6wuFtJ9cs4DSb4JE&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I love this gadget. It would be nice to have the option to change the shape of it though and make it more of a long rectangle across the top of the screen. It takes up too much room on the sidebar. Would like to have the forecast to the side of the current conditions :)
+<br>
+<br> <table id="review 8" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Ken</b>
+&nbsp;</td>
+<td><div id="abuse8" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=v3-FQBnYAChNt8xZjkIA7XBDYqLdkzk_bQAAAOohhwyh2Fe4COmrUNkiAbXhzelCjVc7WY0uc0NE_1p_ML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4SmnPQ6NBGZ8WCdre0zvBG8Ls&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Nice display, too bad you have to reenter the location and units (Celcius)every time you reboot.  If it stored this information it would be much more useful.
+<br>
+<br> <table id="review 9" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse9" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=5e9aPC6I4VItOsg1fDmZm5Uv8f_dkzk_bQAAAMxdVxoX6pu1FzOop8PhDF9HxOKSC3x_ZtG39IhHQzv3ML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4SmuaRToAG21N-xLCYGCLCfAk&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I like it as well as any of them -- it doesn&#39;t refresh automatically, but I haven&#39;t gotten any others to work either.
+<br>
+<br> <table id="review 10" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Hootie</b>
+&nbsp;</td>
+<td><div id="abuse10" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=kpl8O0GDRAdy8lAkGjFXNjXR7kHdkzk_bQAAALH0D_uX7cjWl4XGUyKVpn3-WmFHGheVTX-JmlAaGJbpML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4SmiIr0Q5FSU1ssQPjH46ofQ8&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+This works great! I mean, 4 stars!
+<br>
+<br> <table id="review 11" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Alutsyah</b>
+&nbsp;</td>
+<td><div id="abuse11" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=ZKvAgnCRyqNKLJG1jKjRauh_z1Pdkzk_bQAAALp9HUZoOi-qjdjNBEm2jv8ngv6TL1uIfidpHQFda6jwML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4Smjf1IXrT-xRRu1kiYJfhyvk&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I love this kind of weather gadget: simple, complete and easily comprehensible. But the one thing disturbing me is if the name of place is too long, then it should be shown in two or more lines, or at least you can simplified it by using dots, like this: &quot;Soekarno Hat...&quot; 
+<br>
+<br> <table id="review 12" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse12" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=P2dCRYghNXAeq-gPBhFmIHo0bKDdkzk_bQAAAJh402dLYBjdVwP8PYjBFt47-uX7PuhPT0Agh3NsduuTML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4SmsqvW9wEj-IbLKw77zJcduE&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Nice gadget when it works, but it has a bad bug.  It intermittently loses the location information so you have to reset it.  If the developer would simply fix this one problem, which has been reported for quite some time now, then this would be a worthwhile addition to your desktop.  As it is, it will just frustrate the heck out of you.
+<br>
+<br> <table id="review 13" cellpadding="0" cellspacing="0"><tr>
+<td><b>Rich</b>
+&nbsp;</td>
+<td><div id="abuse13" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=nq9oQoFs-wQFBn5xESmAFXMMBMTdkzk_bQAAANajb4KtUE4sd3cNPx5_w84WaPpRJIyEByHot2DeSQx8ML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4SmsYfvfbtTVK5G-rCe-bspaQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I downloaded this seeming innocuous gadget when I had my old Thinkpad. I now wouldn&#39;t think of downloading this thing because (despite what weatherchannel says) I couldnty get rid of the thing when I wanted.....BEWARE!!
+<br>
+<br> <table id="review 14" cellpadding="0" cellspacing="0"><tr>
+<td><b>Hugo</b>
+&nbsp;</td>
+<td><div id="abuse14" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=DnscZSOaFlZeV1eBH84hJ8pO2bbdkzk_bQAAAHVwuwtk0xiX4NFL22TZTJshHSXrA9KSPlO04_MsUjV7ML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4Smtul59rnyAiKEVMLrTly3co&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Lindo,pero no guarda la configuracion
+<br>
+<br> <table id="review 15" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse15" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=ts0lSu9V5ffOPRKF-Mm5mt6QHa3dkzk_bQAAADByBjHmSTQl5Er2xPnD0hTDCeRLukceNIJ0HmPPdMJuML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4Smv2BTJbi7X5VCBOWF4YcZAg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Doesn&#39;t work on my ubuntu 9.10. I can&#39;t set my homecity in this gadget....
+<br>
+<br> <table id="review 16" cellpadding="0" cellspacing="0"><tr>
+<td><b>anthony</b>
+&nbsp;</td>
+<td><div id="abuse16" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=lu57HmeEotacyUvRzxJqdjhynAzdkzk_bQAAAHVwuwtk0xiX4NFL22TZTJvxzOv3Y63b1XBlqZaRmSTQML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4Smsu255zgxv83STSB3nYcWWg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+id rather show my city and not the reporting station.
+<br>
+<br> <table id="review 17" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>ilk</b>
+&nbsp;</td>
+<td><div id="abuse17" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=MznFhQMdjKXWeazAPOyQhbzzAVzdkzk_bQAAAFn_SY6VxzqAHus-iV1unpZ5RBqjr9V-C1kIHB7avnvUML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4SmnoQq-AaGGFFwGa6J5z9Nik&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+
+http://adanahaber.rsfblog.org/
+<br>
+<br> <table id="review 18" cellpadding="0" cellspacing="0"><tr>
+<td><b>mRwoniu</b>
+&nbsp;</td>
+<td><div id="abuse18" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=NwIuphpljetl8opTIbV8reN3H3Xdkzk_bQAAAMxdVxoX6pu1FzOop8PhDF8RV7fvIm2Ors_qOYi8h2p8ML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4Smi0W2oL-ROgP-bX1bt1pOAE&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I can not find the city of nanjing 
+<br>
+<br> <table id="review 19" cellpadding="0" cellspacing="0"><tr>
+<td><b>Wiesia</b>
+&nbsp;</td>
+<td><div id="abuse19" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=YIqauDurzPkkwS-zqdfoW0ESzzXdkzk_bQAAAHVwuwtk0xiX4NFL22TZTJsC6YreDp37RSW5LEMLTTGSML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4SmqZ4pUFywVQe31_QfrsnYhE&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+AAAAAAAAA I want Celsius and stay that way. It shows in Cels but is F ? . it is this bit only enoying me :)
+ 
+<br>
+<br> <table id="review 20" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse20" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=G1olqy3YP_PwW38jb0f7q_bhsJfdkzk_bQAAAHQgj7eUbk5riWPJ-M3OLdPPHpV_IWuRhXRN9IrWoqlBML2zIlphLcOeqzPRURzHnMdQ8qWcl_f3qkLZxQ-QcKzFnh0bEnjWaVIrXUMHWHCb_LgvYKtDRFoOFaYwnq4SmmJ_m7TfbdN3yz30dirD5tg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+This works great on my Ubuntu Linux desktop with our local weather station .9 miles away. The Windows version can&#39;t find the weather station by zip code. I&#39;m removing it. I was hoping it would run equally well under Windows.
+<br>
+<br>
+<div align="right">
+
+<a href="http://desktop.google.com/plugins/i/weatherbug.html?start=20">Next &raquo;</a></div></div>
+<form action="/submitcomment" method="POST" name="commentForm" id="commentForm"><div id="writeComment" style="display:none"><table><tr><td valign="top">Rate gadget:</td>
+<td><table cellspacing="0" cellpadding="0"><tr><td><img alt="" src="/images/rateStarsLeft.gif"></td>
+<td><img alt="" id="star1" src="/images/rateStarOff.gif" onclick="setStars(1)" onmouseover="showStars(1)" onmouseout="showStars()"></td>
+<td><img alt="" id="star2" src="/images/rateStarOff.gif" onclick="setStars(2)" onmouseover="showStars(2)" onmouseout="showStars()"></td>
+<td><img alt="" id="star3" src="/images/rateStarOff.gif" onclick="setStars(3)" onmouseover="showStars(3)" onmouseout="showStars()"></td>
+<td><img alt="" id="star4" src="/images/rateStarOff.gif" onclick="setStars(4)" onmouseover="showStars(4)" onmouseout="showStars()"></td>
+<td><img alt="" id="star5" src="/images/rateStarOff.gif" onclick="setStars(5)" onmouseover="showStars(5)" onmouseout="showStars()"></td>
+<td><img alt="" src="/images/rateStarsRight.gif"></td></tr></table></td></tr>
+<tr><td valign="top">Your name:</td>
+<td><b></b>
+&nbsp;
+<input type="checkbox" name="anonymous" value="true" id="anonymous">
+Anonymous</td></tr>
+<tr><td valign="top">Comments:</td>
+<td><textarea name="reviewText" rows="4" cols="25" id="reviewText" style="border: 1px solid #bbcced"></textarea></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="rating" value="0" id="rating" style="display:none;">
+<input type="hidden" name="pluginId" value="weatherbug" id="pluginId">
+<input type="submit" value="Post Comment">
+<input type="reset" value="Discard" onclick="showComments()"></td></tr>
+<tr style="height:20px;"></tr></table></div></form>
+<div id="abuseLinkDiv"></div></div></td></tr></table></td>
+<td id="recommendations"><b>You might also like...</b>
+<hr noshade size="1">
+<table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/newweather_2413.html?hl=en"><img alt="New Weather" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/newweather_2413_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/newweather_2413.html?hl=en">New Weather</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=newweather_2413">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/weatherm.html?hl=en"><img alt="Weather" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/weatherm_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/weatherm.html?hl=en">Weather</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=weatherm">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/windfinderggadget096.html?hl=en"><img alt="Windfinder Gadget" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/windfinderggadget096_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/windfinderggadget096.html?hl=en">Windfinder Gadget</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=windfinderggadget096">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/2804_danielmajor12.html?hl=en"><img alt="Dealing With Debt" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/2804_danielmajor12_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/2804_danielmajor12.html?hl=en">Dealing With Debt</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=2804_danielmajor12">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/weatherjapan.html?hl=en"><img alt="Japan Weather" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/weatherjapan_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/weatherjapan.html?hl=en">Japan Weather</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=weatherjapan">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/3175_jsoares.html?hl=en"><img alt="Your Information Mall" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/3175_jsoares_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/3175_jsoares.html?hl=en">Your Information Mall</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=3175_jsoares">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table>
+<br>
+<br></td></tr>
+<tr><td colspan="5" align="center" id="footer">&copy;  2010  Google
+-
+<a href="/privacypolicy.html">Privacy Policy</a>
+-
+<a href="http://www.google.com/accounts/TOS?hl=en">Terms of Service</a>
+-
+<a href="/copyrights.html">Copyright Notices</a></td></tr></table></body></html>

@@ -1,0 +1,810 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>GT Solar International, Inc.: NASDAQ:SOLR quotes & news - Google Finance</title>
+<meta name="Description" content="Get detailed financial information on GT Solar International, Inc. (NASDAQ:SOLR) including real-time stock quotes, historical charts & financial news, all for free!">
+<link rel="stylesheet" type="text/css" href="/finance/s/i3gpPu9Jou8/styles/finance_us.css">
+<style>#gbar,#guser{font-size:13px;padding-right:8px;padding-top:4px !important}#gbar{padding-left:8px;float:left;height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}#gbs,.gbm{background:#fff;left:0;position:absolute;text-align:left;visibility:hidden;z-index:1000}.gbm{border:1px solid;border-color:#c9d7f1 #36c #36c #a2bae7;z-index:1001}.gb1{margin-right:.5em}.gb1,.gb3{zoom:1}.gb2{display:block;padding:.2em .5em}.gb2,.gb3{text-decoration:none;border-bottom:none}a.gb1,a.gb2,a.gb3,a.gb4{color:#00c !important}.gbi .gb3,.gbi .gb2,.gbi .gb4{color:#dd8e27 !important}.gbf .gb3,.gbf .gb2,.gbf .gb4{color:#900 !important}a.gb2:hover{background:#36c;color:#fff !important}div#gbar{padding-left:0}</style>
+<script>(function(){function i(a,b,d){var c="on"+b;if(a.addEventListener)a.addEventListener(b,d,false);else if(a.attachEvent)a.attachEvent(c,d);else{var f=a[c];a[c]=function(){var g=f.apply(this,arguments),e=d.apply(this,arguments);return g==undefined?e:e==undefined?g:e&&g}}};var j,k,l,m=window.gbar={},n={};function _tvs(a,b){return a||b}function _tvn(a,b){var d=parseInt(a,10);return isNaN(d)?b:d}function _tvf(a,b){var d=parseFloat(a);return isNaN(d)?b:d}function _tvb(a,b){return a=="true"?true:a=="false"?false:b}var o,p,q;function r(a){var b=window.b&&(document.forms[0].f||"").value;if(b)a.href=a.href.replace(/([?&])q=[^&]*|$/,function(d,c){return(c||"&")+"q="+encodeURIComponent(b)})}l=r;
+function s(a,b,d,c,f,g){var e=document.getElementById(a);if(e){var h=e.style;h.left=c?"auto":b+"px";h.right=c?b+"px":"auto";h.top=d+"px";h.visibility=p?"hidden":"visible";if(f&&g){h.width=f+"px";h.height=g+"px"}else{s(o,b,d,c,e.offsetWidth,e.offsetHeight);p=p?"":a}}}
+var w=function(a){a=a||window.event;var b,d=a.target||a.srcElement;a.cancelBubble=true;if(o!=null)t(d);else{b=document.createElement(Array.every||window.createPopup?"iframe":"div");b.frameBorder="0";o=b.id="gbs";b.src="javascript:''";d.parentNode.appendChild(b);i(document,"click",u);t(d);n.a&&n.a(function(){var c=document.getElementById("gbli");if(c){var f=c.parentNode;v(f,c);var g=c.e;f.removeChild(c);n.g(f,g);b.style.height=f.offsetHeight+"px"}})}};
+function t(a){var b=0;if(a.className!="gb3")a=a.parentNode;var d=a.getAttribute("aria-owns")||"gbi",c=a.offsetWidth,f=a.offsetTop>20?46:24;if(document.getElementById("tphdr"))f-=3;var g=false;do b+=a.offsetLeft||0;while(a=a.offsetParent);a=(document.documentElement.clientWidth||document.body.clientWidth)-b-c;var e;c=document.body;var h=document.defaultView;if(h&&h.getComputedStyle){if(c=h.getComputedStyle(c,""))e=c.direction}else e=c.currentStyle?c.currentStyle.direction:c.style.direction;e=e=="rtl";
+if(d=="gbi"){c=document.getElementById("gbi");v(c,document.getElementById("gbli")||c.firstChild);if(e){b=a;g=true}}else if(!e){b=a;g=true}p!=d&&u();s(d,b,f,g)}var u=function(){p&&s(p,0,0)};function v(a,b){for(var d,c=window.d;c&&(d=c.pop());){var f=a,g=d,e=b;if(!q){q="gb2";if(n.a){var h=n.c(f);if(h)q=h}}f.insertBefore(g,e).className=q}}
+var x=function(a,b,d){if((b=document.getElementById(b))&&a){a.className="gb4";var c=document.createElement("span");c.appendChild(a);c.appendChild(document.createTextNode(" | "));c.id=d;b.appendChild(c)}};m.qs=l;m.setContinueCb=k;m.pc=j;m.tg=w;m.close=u;m.addLink=x;})();
+</script>
+<link rel="icon"
+        type="image/vnd.microsoft.icon" href="/finance/favicon.ico">
+<script>(function(){function a(c){this.t={};this.tick=function(e,f,b){b=b?b:(new Date).getTime();this.t[e]=[b,f]};this.tick("start",null,c)}var d=new a;window.jstiming={Timer:a,load:d};try{var g=null;if(window.chrome&&window.chrome.csi)g=Math.floor(window.chrome.csi().pageT);if(g==null)if(window.gtbExternal)g=window.gtbExternal.pageT();if(g==null)if(window.external)g=window.external.pageT;if(g)window.jstiming.pt=g}catch(h){};function i(c){window.jstiming&&window.jstiming.load.tick(c)}window._tck=i;})();
+</script>
+<script type="text/javascript">var google=google||{};var _cleardot = '/finance/s/m4C5KaofCbA/images/cleardot.gif';</script>
+<script type="text/javascript" src="/finance/s/HctJl7DXpjg/js/finance-opt.js?hl=en&gl=us"></script>
+<script type="text/javascript">
+(function(){var d=navigator.userAgent.toLowerCase().indexOf("msie")!=-1;function e(){for(var a=document.styleSheets,b=a.length-1;b>=0;--b){var c=a[b].href;if(c)if(c.indexOf("styles/finance_")!=-1||c.indexOf("styles_")!=-1)return a[b]}return null}function f(){var a=e();if(a){a=a.rules;return a.length>0&&a[a.length-1].selectorText==".lastFinanceRule"}return false}
+function g(){if(document.scripts)for(var a=0;a<document.scripts.length;++a){var b=document.scripts[a];if(b&&b.src.indexOf("/js/gen_finance.js")!=-1)return b}return null}function _chkCssJs(){if(d){if(typeof _lastFinanceFn!="function"){var a=g();if(a&&a.src){var b=a.src.indexOf("?")!=-1?"&":"?";a.src+=b+"zx="+Math.random()}}if(!f())if((a=e())&&a.href){b=a.href.indexOf("?")!=-1?"&":"?";a.href+=b+"zx="+Math.random()}}};_chkCssJs();})();
+  
+    _setStickyUrlParams("");
+  </script>
+<style>
+html {
+min-height: 100%; margin-bottom: 0.01em;
+}
+.blogref a:link,.blogref a:active,.blogref a:visited,.blogref {color:#7777CC}
+.lac {text-decoration:underline; color:#00C; cursor:pointer;}
+.lnac {text-decoration:none; color:#A1A1A1; cursor:text;}
+.imgac {cursor:pointer; border:0px;}
+.imgnac {cursor:none; border:0px;}
+.r {
+margin-top:-2px; margin-left:30px; margin-bottom:0px; margin-right:5px;
+padding:7px 10px 10px 10px; line-height:1.3em; position:absolute; display:none; z-index:10;
+border:2px solid #9DDF99; background-color:#FFF;
+}
+</style>
+</head>
+<body>
+<div class=g-doc id=outer-wrapper>
+<div id=body-wrapper>
+<div id=gbar><nobr><a href="http://www.google.com/search?q=NASDAQ:SOLR&sa=N&hl=en&tab=ew" onclick=gbar.qs(this) class=gb1>Web</a> <a href="http://www.google.com/images?q=NASDAQ:SOLR&source=og&sa=N&hl=en&tab=ei" onclick=gbar.qs(this) class=gb1>Images</a> <a href="http://www.google.com/search?q=NASDAQ:SOLR&tbo=u&tbs=vid:1&source=og&sa=N&hl=en&tab=ev" onclick=gbar.qs(this) class=gb1>Videos</a> <a href="http://maps.google.com/maps?q=NASDAQ:SOLR&sa=N&hl=en&tab=el" onclick=gbar.qs(this) class=gb1>Maps</a> <a href="http://www.google.com/search?q=NASDAQ:SOLR&tbo=u&tbs=nws:1&source=og&sa=N&hl=en&tab=en" onclick=gbar.qs(this) class=gb1>News</a> <a href="http://www.google.com/search?q=NASDAQ:SOLR&tbo=u&tbs=shop:1&source=og&sa=N&hl=en&tab=ef" onclick=gbar.qs(this) class=gb1>Shopping</a> <a href="http://mail.google.com/mail/?hl=en&tab=em" class=gb1>Gmail</a> <a href="http://www.google.com/intl/en/options/" onclick="this.blur();gbar.tg(event);return !1" aria-haspopup=true class=gb3><u>more</u> <small>&#9660;</small></a><div class=gbm id=gbi><a href="http://www.google.com/search?q=NASDAQ:SOLR&tbo=u&tbs=bks:1&source=og&sa=N&hl=en&tab=ep" onclick=gbar.qs(this) class=gb2>Books</a> <b class=gb2>Finance</b> <a href="http://translate.google.com/translate_t?q=NASDAQ:SOLR&sa=N&hl=en&tab=eT" onclick=gbar.qs(this) class=gb2>Translate</a> <a href="http://scholar.google.com/scholar?q=NASDAQ:SOLR&sa=N&hl=en&tab=es" onclick=gbar.qs(this) class=gb2>Scholar</a> <a href="http://www.google.com/search?q=NASDAQ:SOLR&tbo=u&tbs=blg:1&source=og&sa=N&hl=en&tab=eb" onclick=gbar.qs(this) class=gb2>Blogs</a> <a href="http://www.google.com/search?q=NASDAQ:SOLR&tbo=u&tbs=mbl:1&source=og&sa=N&hl=en&tab=eY" onclick=gbar.qs(this) class=gb2>Updates</a> <div class=gb2><div class=gbd></div></div><a href="http://www.youtube.com/results?q=NASDAQ:SOLR&sa=N&hl=en&tab=e1" onclick=gbar.qs(this) class=gb2>YouTube</a> <a href="http://www.google.com/calendar/render?hl=en&tab=ec" class=gb2>Calendar</a> <a href="http://picasaweb.google.com/lh/view?q=NASDAQ:SOLR&sa=N&hl=en&tab=eq" onclick=gbar.qs(this) class=gb2>Photos</a> <a href="http://docs.google.com/?hl=en&tab=eo" class=gb2>Documents</a> <a href="http://www.google.com/reader/view/?hl=en&tab=ey" class=gb2>Reader</a> <a href="http://sites.google.com/?hl=en&tab=e3" class=gb2>Sites</a> <a href="http://groups.google.com/groups?q=NASDAQ:SOLR&sa=N&hl=en&tab=eg" onclick=gbar.qs(this) class=gb2>Groups</a> <div class=gb2><div class=gbd></div></div><a href="http://www.google.com/intl/en/options/" class=gb2>even more &raquo;</a> </div></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.com/support/finance?hl=en-US" class=gb4>Help</a> | <a href="https://www.google.com/accounts/Login?hl=en&continue=http://www.google.com/finance%3Fq%3DNASDAQ:SOLR&service=finance" class=gb4>Sign in</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div>
+<script>window.locale={hl:'en',gl:'us',locale:'en-US'};</script>
+<div class="g-section g-tpl-75-25 g-split search-header">
+<div class="g-unit g-first">
+<div class=sfe-logo>
+<a href="/finance">
+<img src="/finance/s/M4XFgDr56u4/images/logo_us.gif" alt="Google Finance.">
+</a>
+</div>
+<div class=sfe-search>
+<form method=GET action="/finance" name=f>
+<input name=q id=searchbox autocomplete=off size=40 maxlength=2048
+             type=text tabindex=1 title="Quote search input"
+             value="NASDAQ:SOLR">
+<input type=submit value="Get quotes" >
+<br>
+<span class="searchExample">
+Example: "CSCO" or "Google"</span>
+</form>
+</div>
+</div>
+<div class="g-unit promo">
+</div>
+</div>
+<div class="g-section g-tpl-nav-main">
+<div class="g-unit g-first" id="left-nav">
+<ul id=navmenu>
+<li class="nav-selected nav-expanded">Company
+<li class=navsub>
+<div>Summary
+</div>
+<li class=navsub>
+<a id="nav-cn" 
+  href="/finance/company_news?q=NASDAQ:SOLR">News
+</a>
+<li class=navsub>
+<a id="nav-co" 
+  href="/finance/option_chain?q=NASDAQ:SOLR">Option chain
+</a>
+<li class=navsub>
+<a id="nav-cr" 
+  href="/finance/related?q=NASDAQ:SOLR">Related companies
+</a>
+<li class=navsub>
+<a id="nav-ch" 
+  href="/finance/historical?q=NASDAQ:SOLR">Historical prices
+</a>
+<li class=navsub>
+<a id="nav-cf" 
+  href="/finance?q=NASDAQ:SOLR&amp;fstype=ii">Financials
+</a>
+<li class=nav-item>
+<a id="nav-m" 
+  href="/finance">
+<div>Markets</div></a>
+<li class=nav-item>
+<a id="nav-n" 
+  href="/finance/market_news">
+<div>News</div></a>
+<li class=nav-item>
+<a href="https://www.google.com/accounts/ServiceLogin?hl=en&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com%3A80%2Ffinance%2Fportfolio%3Faction%3Dview" >
+<div>Portfolios</div></a>
+<li class=nav-item>
+<a id="nav-s" 
+  href="/finance/stockscreener">
+<div>Stock screener</div></a>
+<li class=nav-item>
+<a id="nav-q" 
+  href="/finance/domestic_trends">
+<div>Google Domestic Trends</div></a>
+</ul>
+<div id=rq-box>
+<h4>Recent quotes</h4>
+<div id=rq-toggle></div>
+<div id=rq-table></div>
+<a id=rq-create href="https://www.google.com/accounts/ServiceLogin?hl=en&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com%2Ffinance%3Fq%3DNASDAQ%3ASOLR" >Sign in to create portfolio</a>
+</div>
+<script>
+setTimeout(
+function() {try{google.finance.renderRecentQuotes();}catch(e){}}, 200);
+</script>
+<form id=new_pform_nav
+      action=/finance/portfolio/create?hash= method=post>
+<input id=new_pform_name type=hidden name=pname />
+<input id=new_pform_cids type=hidden name=pcids />
+<input id=is_logged_in type=hidden name=is_logged_in
+           value=0 />
+</form>
+<div id=ra-target></div>
+</div>
+<div class="g-unit sfe-break-left" id="rt-content">
+<!-- a -->
+<script>
+(function() {
+if (_finance_chart) {
+var el = document.getElementById('chart_anchor');
+if (el) {
+el.innerHTML = '';
+}
+_finance_chart = null;
+}
+})();
+var _ticker = 'NASDAQ:SOLR';
+var _slHeight = 221;
+var _companyName = 'GT Solar International, Inc.';
+var _displayVolume = true;
+var _companyId = 715904;
+_s_Store._numToDisplay = 6;
+_comparison_charts_Store._numToDisplay = 8;
+_comparison_charts_Store._allowMultiTimezoneCompare = true;
+function onCompanyLoad() {
+_external_target = "";
+_emitFlashChartOnLoad(
+"/finance/s/OFspRxwQDQg/chart9.swf?hl=en&gl=us",
+_ticker, "chart_anchor", "market-data-div",
+_chartConfigObject);
+google.finance.onCompanyLoad();
+_initAutoFocus();
+if (google.finance.initTechnicals) {
+google.finance.initTechnicals(true);
+}
+}
+</script>
+<div class=g-wrap>
+<div class="g-section sfe-break-bottom-8">
+<div class="g-tpl-67-33 g-split hdg top" id=companyheader>
+<div class="g-unit g-first"><h3>GT Solar International, Inc.&nbsp;</h3>(Public, NASDAQ:SOLR)&nbsp;&nbsp;
+<a href="/finance/portfolio?action=add&amp;addticker=NASDAQ%3ASOLR" class=norm>Watch this stock</a>
+&nbsp;&nbsp;
+</div><div class="g-unit norm">Find more results for<b>
+<a href="?noIL=1&q=SOLR" id=searchmore>SOLR</a></b>
+</div>
+</div>
+</div>
+
+<div id=ra-src class=hide>
+<div id=ra-target></div>
+</div>
+<script>
+google.finance.renderRecentActivities();
+_ac_register(function (input, event) {
+if (input.id == 'add_comparison_symbol') {
+_comparison_charts_Store.baseTicker = "NASDAQ:SOLR";
+return _comparison_charts_Store;
+}
+});
+var _prefs=_prefs||{};_prefs.hash="";
+_prefs.feeds=_prefs.feeds||{};
+_prefs.ch=_prefs.ch||{};
+_prefs.ch_compare=_prefs.ch_compare||{};
+_eventid = 'kOT2TOKGIIKCqwOR8pmUAw';
+var google = google || {};
+google.finance = google.finance || {};
+google.finance.data = {common:{rq:{ct:""},up:"chg",down:"chr",linktargetInternal:"",hash:"",dfp:"http://ad-g.doubleclick.net/adi/com.gf.company/technology;fe=nasdaq;ft=solr;fm=small;sz=300x250;dcopt=ist;myd=ad"},company:{news:{clusters:[{imp:2,idx:0,id:0,ed:"7 minutes ago",tt:1291248349,lead_story_url:"http://www.techrockz.com/2010/12/01/nasdaq-technology-sector-stocks-in-focus-sify-solr-ritt-lscc-ipgp/",a:[{t:"NASDAQ technology sector stocks in focus (SIFY, SOLR, RITT, LSCC, IPGP)",u:"http://www.techrockz.com/2010/12/01/nasdaq-technology-sector-stocks-in-focus-sify-solr-ritt-lscc-ipgp/",s:"TechRockz",d:"7 minutes ago",tt:1291248349,fid:760457}],score:11.232437133789062},{nrel:3,imp:2,idx:1,id:17593825194132,ed:"2 hours ago",tt:1291240357,lead_story_url:"http://www.forbes.com/2010/12/01/todays-big-gainers-bpz-migp-hsft-solr-marketnewsvideo.html",a:[{t:"Today\x26#39;s Big Gainers: BPZ, MIGP, HSFT, SOLR",u:"http://www.forbes.com/2010/12/01/todays-big-gainers-bpz-migp-hsft-solr-marketnewsvideo.html",s:"Forbes",d:"2 hours ago",tt:1291240357,fid:757457}],score:10.377682685852051},{imp:2,idx:2,id:0,ed:"4 hours ago",tt:1291231438,lead_story_url:"http://www.efreepressrelease.com/2010/127/top-semiconductor-stocks-surging-onnn-altr-solr-ovti/",a:[{t:"Top Semiconductor Stocks Surging (ONNN, ALTR, SOLR, OVTI)",u:"http://www.efreepressrelease.com/2010/127/top-semiconductor-stocks-surging-onnn-altr-solr-ovti/",s:"EFPR",d:"4 hours ago",tt:1291231438,fid:755457}],score:11.445146560668945},{nrel:2,imp:3,idx:3,id:17593825294283,ed:"5 hours ago",tt:1291229581,lead_story_url:"http://www.toonicestocks.com/news/705-nasdaq-stocks-continues-their-upswing-sifysrls-eurx-solr-bios",a:[{t:"NASDAQ Stocks Continues their Upswing (SIFY,SRLS, EURX, SOLR, BIOS)",u:"http://www.toonicestocks.com/news/705-nasdaq-stocks-continues-their-upswing-sifysrls-eurx-solr-bios",s:"TooNiceStocks",d:"5 hours ago",tt:1291229581,fid:754457}],score:9.5649042129516602},{nrel:1,imp:2,idx:4,id:17593825262406,ed:"5 hours ago",tt:1291228974,lead_story_url:"http://www.streetinsider.com/Special+Reports/Unusual+11+Mid-Day+Movers+1201%3A+MIGP,+LTON,+REDF,+SIFY,+BPZ,+SOLR+Higher%3B+APWR,+SCMR,+MCOX,+CNLG,+UTI+Lower/6136725.html",a:[{t:"Unusual 11 Mid-Day Movers 12/01: MIGP, LTON, REDF, SIFY, BPZ, SOLR Higher; APWR, SCMR, MCOX, CNLG, UTI Lower",u:"http://www.streetinsider.com/Special+Reports/Unusual+11+Mid-Day+Movers+1201%3A+MIGP,+LTON,+REDF,+SIFY,+BPZ,+SOLR+Higher%3B+APWR,+SCMR,+MCOX,+CNLG,+UTI+Lower/6136725.html",s:"StreetInsider.com",d:"5 hours ago",tt:1291228974,fid:753457}],score:10.059990882873535},{nrel:32,imp:1,idx:5,id:17593825224955,ed:"10 hours ago",tt:1291212347,lead_story_url:"http://www.businesswire.com/news/home/20101201005991/en/GT-Solar-Receives-Orders-Sapphire-Crystallization-Furnaces",a:[{t:"GT Solar Receives First Orders for Sapphire Crystallization Furnaces",u:"http://www.businesswire.com/news/home/20101201005991/en/GT-Solar-Receives-Orders-Sapphire-Crystallization-Furnaces",s:"Business Wire",d:"10 hours ago",tt:1291212347,fid:742457},{t:"GT Solar wins first LED orders of $84 million",u:"http://www.reuters.com/article/idUSTRE6B03NC20101201",s:"Reuters"},{t:"GT Solar Surges on First Orders for Sapphire Crystal Furnaces",u:"http://www.bloomberg.com/news/2010-12-01/gt-solar-surges-on-first-orders-for-sapphire-crystal-furnaces.html",s:"Bloomberg"},{t:"GT Solar books $84M in orders for LED equipment",u:"http://moneycentral.msn.com/inc/news/providerredir.asp?feed=AP\x26date=20101201\x26id=12468779",s:"MSN Money"},{t:"GT Solar International",u:"http://www.investors.com/NewsAndAnalysis/Article/555424/201012011853/GT-Solar-International.aspx",s:"Investor's Business Daily"},{t:"First-Hour Big Gainers (OVTI, SOLR, CNX)",u:"http://www.efreepressrelease.com/2010/127/first-hour-big-gainers-ovti-solr-cnx/",s:"EFPR"}],score:23.469924926757812},{idx:6,id:2034432,tt:1291212180,lead_story_url:"http://stocks.us.reuters.com/stocks/keyDevelopments.asp?rpc=66\x26symbol=SOLR.O\x26timestamp=20101201140300",a:[{t:"GT Solar International, Inc. Receives First Orders For Sapphire Crystallization Furna",u:"http://stocks.us.reuters.com/stocks/keyDevelopments.asp?rpc=66\x26symbol=SOLR.O\x26timestamp=20101201140300",s:"Reuters Key Development",d:"10 hours ago",tt:1291212180}],score:2},{nrel:5,imp:1,idx:7,id:17593824998661,ed:"Nov 30, 2010",tt:1291126923,lead_story_url:"http://www.marketwatch.com/story/gt-solar-to-participate-in-investor-events-2010-11-30?reflink=MW_news_stmp",a:[{t:"GT Solar to Participate in Investor Events",u:"http://www.marketwatch.com/story/gt-solar-to-participate-in-investor-events-2010-11-30?reflink=MW_news_stmp",s:"MarketWatch",d:"Nov 30, 2010",tt:1291126923,fid:741457},{t:"UBS AG (NYSE: UBS) Cuts Estimates on GT Solar (NASDAQ: SOLR)",u:"http://www.americanbankingnews.com/2010/11/30/ubs-ag-nyse-ubs-cuts-estimates-on-gt-solar-nasdaq-solr/",s:"American Banking News"}],score:16.410697937011719},{nrel:4,imp:2,idx:8,id:17593824618953,ed:"Nov 29, 2010",tt:1291056085,lead_story_url:"http://www.forbes.com/2010/11/29/analyst-moves-ppl-solr-marketnewsvideo.html",a:[{t:"UBS Takes GT Solar Target Down To $9.50",u:"http://www.forbes.com/2010/11/29/analyst-moves-ppl-solr-marketnewsvideo.html",s:"Forbes",d:"Nov 29, 2010",tt:1291056085,fid:739457},{t:"Analyst Moves: PPL, SOLR",u:"http://www.marketnewsvideo.com/story/201011/analyst-moves-ppl-solr-ppl-solr-c-ubs-Downgrades112910/",s:"MarketNewsVideo.com"},{t:"UBS LOWERED ITS ESTIMATES FOR GT SOLAR TO ACCOUNT FOR INCREASED SOLAR FURNACE COMPETITION (SOLR)",u:"http://www.zacks.com/research/get_news.php?id=333l5579",s:"Zacks.com"}],score:11.708534240722656},{imp:2,idx:9,id:0,ed:"Nov 29, 2010",tt:1291038346,lead_story_url:"http://theotcinvestor.com/capitalize-on-clean-energy-with-techprecision-corporation-otc-bb-tpcs-888/",a:[{t:"Capitalize on Clean Energy with TechPrecision Corporation (OTC-BB: TPCS)",u:"http://theotcinvestor.com/capitalize-on-clean-energy-with-techprecision-corporation-otc-bb-tpcs-888/",s:"TheOTCInvestor.com",d:"Nov 29, 2010",tt:1291038346,fid:735457}],score:10.514360427856445},{idx:10,id:-1}],result_start_num:1,result_end_num:0,result_total_articles:16},related:{cols:[0,1,4,30,34,31,32,5,2,33,3],rows:[{id:715904,values:["SOLR","GT Solar Intl., Inc.","7.69","+1.00","chg","14.95","","1.16B","NASDAQ","715904","SOLR"]},{id:707027,values:["FSLR","First Solar, Inc.","126.74","+3.89","chg","3.17","","10.86B","NASDAQ","707027","FSLR"]},{id:712139,values:["TSL","Trina Solar Limited (ADR)","22.39","+0.07","chg","0.31","","3.12B","NYSE","712139","TSL"]},{id:658274,values:["WFR","MEMC Electronic Materials, Inc.","11.91","+0.34","chg","2.94","","2.71B","NYSE","658274","WFR"]},{id:394640,values:["MUEL","Paul Mueller Company","15.00","-0.25","chr","-1.64","","19.37M","PINK","394640","MUEL"]},{id:484757,values:["RBN","Robbins \x26 Myers, Inc.","31.87","+0.86","chg","2.77","","1.05B","NYSE","484757","RBN"]},{id:713705,values:["JASO","JA Solar Hldgs. Co., Ltd. (ADR)","6.96","+0.02","chg","0.29","","1.18B","NASDAQ","713705","JASO"]},{id:170112,values:["ENER","Energy Conversion Devices, Inc.","4.53","+0.04","chg","0.89","","225.76M","NASDAQ","170112","ENER"]},{id:716047,values:["LDK","LDK Solar Co., Ltd.","10.16","+0.16","chg","1.60","","1.34B","NYSE","716047","LDK"]},{id:103440,values:["COHR","Coherent, Inc.","42.78","+1.47","chg","3.56","","1.06B","NASDAQ","103440","COHR"]},{id:700007,values:["HOKU","Hoku Corporation","2.41","-0.13","chr","-5.12","","132.66M","NASDAQ","700007","HOKU"]}],visible_cols:[0,1,4,30,34,31,32,5]},related_str:"715904,707027,712139,658274,394640,484757,713705,170112,716047,103440,700007",perf:[{u:"/finance?q=INDEXDJX:.DJI",name:"Dow Jones",cp:"2.27",p:"11,255.78",cid:983582},{u:"/finance?q=INDEXNASDAQ:.IXIC",name:"Nasdaq",cp:"2.05",p:"2,549.43",cid:13756934},{u:"/finance?catid=us-66529330",name:"Technology",cp:"2.16",cid:0},{u:"/finance?q=NASDAQ:SOLR",name:"SOLR",cp:"14.95",p:"7.69",cid:715904}]},stickyUrlArgs:"",chart:{_5d:"EXCHANGE%3DNASDAQ\nMARKET_OPEN_MINUTE=570\nMARKET_CLOSE_MINUTE=960\nINTERVAL=120\nCOLUMNS=DATE,CLOSE,VOLUME\nDATA=\nTIMEZONE_OFFSET=-300\na1290609000,7.24,18342\n1,7.24,19333\n2,7.23,13190\n3,7.19,10650\n4,7.15,22700\n5,7.14,21105\n6,7.15,815\n7,7.1499,5700\n8,7.1597,18756\n9,7.15,13535\n10,7.11,20721\n11,7.11,12642\n12,7.11,6100\n13,7.15,11246\n14,7.15,3499\n15,7.13,4270\n16,7.13,7402\n17,7.15,7860\n18,7.15,9700\n19,7.15,2716\n20,7.15,5907\n21,7.1579,9100\n22,7.155,8729\n23,7.16,4910\n24,7.18,15232\n25,7.2,9796\n26,7.16,17293\n27,7.16,11620\n28,7.16,23073\n29,7.15,8400\n30,7.14,38209\n31,7.15,6000\n32,7.15,11950\n33,7.15,47250\n34,7.1592,9950\n35,7.18,36000\n36,7.16,20930\n37,7.16,800\n38,7.16,5052\n39,7.18,30023\n40,7.19,6900\n41,7.19,1200\n42,7.2,12674\n43,7.2,8495\n44,7.18,7333\n45,7.1901,6250\n46,7.1999,9700\n47,7.1905,9428\n48,7.205,12023\n49,7.21,11067\n50,7.19,11727\n51,7.2,6300\n52,7.21,3632\n53,7.21,2800\n54,7.21,8750\n55,7.18,25917\n56,7.185,2300\n57,7.19,800\n58,7.19,56351\n59,7.19,5700\n60,7.19,8700\n61,7.2,6952\n62,7.2,1136\n63,7.2,6373\n64,7.2,7270\n65,7.2,835\n66,7.2,2800\n67,7.2,3000\n68,7.2,1500\n69,7.175,22300\n70,7.17,3020\n71,7.1896,6338\n72,7.19,2300\n73,7.19,700\n74,7.19,2380\n75,7.19,1250\n76,7.195,7088\n77,7.2,5665\n78,7.1901,2114\n79,7.1961,3538\n80,7.2,3100\n82,7.2,600\n83,7.19,500\n84,7.19,27033\n85,7.19,4300\n86,7.195,4325\n87,7.19,7700\n88,7.19,26344\n89,7.185,6220\n90,7.185,9800\n91,7.19,800\n92,7.18,100\n93,7.18,600\n94,7.18,6922\n95,7.18,6000\n96,7.18,300\n97,7.185,800\n98,7.18,4700\n99,7.189,1500\n100,7.185,4505\n101,7.1801,4671\n102,7.1801,1400\n103,7.19,1700\n104,7.19,300\n105,7.19,4095\n106,7.19,4000\n107,7.2,1700\n108,7.1939,14272\n109,7.2,500\n110,7.19,1105\n111,7.19,1500\n112,7.2,1100\n113,7.19,2055\n114,7.2,500\n115,7.2,200\n116,7.2,1700\n117,7.2,10385\n118,7.2,1900\n119,7.2,771\n120,7.2,7600\n121,7.2,1300\n122,7.2,500\n123,7.2,7356\n124,7.2,4470\n125,7.2,79160\n126,7.1933,3550\n127,7.19,11840\n128,7.19,740\n129,7.2,1300\n130,7.2,16020\n131,7.2005,532\n132,7.21,7200\n133,7.2,8500\n134,7.2,300\n135,7.19,11260\n136,7.19,700\n137,7.19,320\n138,7.2,650\n139,7.2,2400\n140,7.195,825\n141,7.2,1081\n142,7.2,200\n143,7.1929,2000\n144,7.2,2464\n145,7.21,15899\n146,7.2,1200\n147,7.21,9100\n148,7.19,42644\n149,7.19,11164\n150,7.19,500\n151,7.199,2450\n152,7.2,11122\n153,7.19,1600\n154,7.2,1772\n155,7.19,2400\n156,7.19,3100\n157,7.1912,2876\n158,7.18,23870\n159,7.18,9159\n160,7.18,8400\n161,7.19,44360\n162,7.18,429\n163,7.18,1100\n164,7.185,1700\n165,7.18,1214\n166,7.1829,1300\n167,7.18,11140\n168,7.18,9125\n169,7.18,2400\n170,7.18,2200\n171,7.18,582\n172,7.17,34106\n173,7.16,29294\n174,7.1599,19422\n175,7.15,7300\n176,7.17,8232\n177,7.17,3200\n178,7.18,7300\n179,7.18,4900\n180,7.175,3075\n181,7.18,8296\n182,7.18,7170\n183,7.17,5106\n184,7.17,4563\n185,7.17,48655\n186,7.15,20009\n187,7.16,32888\n188,7.139,23544\n189,7.15,22580\n190,7.145,7500\n191,7.15,3800\n192,7.15,16087\n193,7.16,21812\n194,7.16,13445\n195,7.16,71206\n196,7.17,100\na1290781800,7.11,14718\n1,7.09,18836\n2,7.14,3675\n3,7.12,7100\n4,7.0901,35200\n5,7.1,9119\n6,7.1,3100\n7,7.11,4700\n8,7.06,18740\n9,7.09,8600\n10,7.09,9800\n11,7.1,24691\n12,7.06,19383\n13,7.04,12825\n14,7.07,3200\n15,7.09,2600\n16,7.095,4100\n17,7.0699,10940\n18,7.065,14504\n19,7.06,900\n20,7.08,1898\n21,7.09,2600\n22,7.1,2416\n23,7.1,100\n24,7.0901,192626\n25,7.09,2510\n26,7.095,100\n27,7.1,11654\n28,7.09,5800\n29,7.07,5790\n30,7.07,100\n31,7.075,1300\n32,7.08,3206\n33,7.0701,5800\n34,7.079,1248\n35,7.1,29057\n36,7.1,4100\n37,7.0999,700\n38,7.08,900\n39,7.0701,13500\n40,7.07,3710\n41,7.06,5846\n42,7.06,2550\n43,7.055,100\n44,7.05,1100\n45,7.0501,1000\n46,7.05,1500\n47,7.06,7605\n48,7.06,8488\n49,7.1,6900\n50,7.09,500\n51,7.075,4000\n52,7.0799,300\n53,7.09,8002\n54,7.09,1800\n55,7.085,500\n56,7.09,6050\n57,7.0901,6600\n58,7.09,2800\n59,7.09,16263\n60,7.09,3750\n61,7.1,800\n62,7.0996,4777\n63,7.09,3400\n64,7.08,9475\n65,7.0855,25615\n66,7.07,19600\n67,7.07,7000\n68,7.08,5763\n69,7.08,2000\n70,7.085,400\n71,7.09,2802\n72,7.1,4500\n73,7.095,1730\n74,7.09,12100\n75,7.1,15032\n76,7.08,32175\n77,7.07,4218\n78,7.09,5500\n79,7.09,2370\n80,7.09,500\n81,7.0801,3800\n82,7.085,1800\n83,7.09,1000\n84,7.085,1975\n85,7.09,12000\n86,7.095,4550\n87,7.095,6837\n88,7.0901,5089\n89,7.09,2678\n90,7.09,1710\n91,7.09,2094\n92,7.09,2507\n93,7.09,1500\n94,7.0995,475\n95,7.09,500\n96,7.09,1694\n97,7.09,6551\n98,7.09,1378\n99,7.09,16447\n100,7.09,1550\n101,7.095,4476\n102,7.095,2900\n103,7.0902,18637\n104,7.095,23013\n105,7.09,80233\na1291041000,7.04,52025\n1,7.02,21736\n2,7,56849\n3,7,72845\n4,6.9798,27509\n5,6.9675,45349\n6,7,11925\n7,7,3300\n8,6.99,12600\n9,7.0004,19045\n10,7,15790\n11,7,25313\n12,7.01,20480\n13,6.98,71367\n14,6.9738,3529\n15,6.96,4798\n16,6.95,24252\n17,6.99,19643\n18,6.99,13588\n19,6.9709,6300\n20,6.98,4200\n21,6.97,1800\n22,6.9501,7675\n23,6.97,9415\n24,6.98,7200\n25,6.96,6620\n26,6.96,4685\n27,6.965,8550\n28,6.97,1200\n29,6.96,11400\n30,6.94,31596\n31,6.94,1250\n32,6.97,25457\n33,6.95,7600\n34,6.94,8210\n35,6.965,13950\n36,6.96,2600\n37,6.9781,22632\n38,6.98,13000\n39,7,41104\n40,7.0101,25219\n41,7.01,31800\n42,7.0007,45306\n43,7,16118\n44,6.99,3300\n45,6.99,9000\n46,6.9899,3106\n47,6.97,12291\n48,6.99,4300\n49,7,9500\n50,7.02,45930\n51,7.01,40773\n52,7.005,8800\n53,7,3400\n54,7,2900\n55,7.01,1200\n56,7,10200\n57,7,7070\n58,7,3300\n59,7.02,34680\n60,7.0296,1460\n61,7.03,13998\n62,7,48799\n63,7.0264,22650\n64,7.03,7977\n65,7.035,10600\n66,7.04,6333\n67,7.04,17400\n68,7.0399,3361\n69,7.02,32956\n70,7.02,1100\n71,7.02,16942\n72,7.01,125200\n73,7.01,29980\n74,7.02,1370\n75,7.02,18150\n76,7.02,7000\n77,7.01,8200\n78,7.015,13500\n79,7.01,5800\n80,7.01,2222\n81,7.01,3189\n82,7.01,5900\n83,7,138790\n84,7.008,11272\n86,7.01,2524\n87,7.0082,3100\n88,7.009,6164\n89,7.01,3850\n90,7,3700\n91,7,16950\n92,6.99,7600\n93,6.995,1300\n94,6.99,6450\n95,6.9999,7700\n96,7,23400\n97,6.999,4235\n98,7,1100\n99,7,3885\n100,6.99,4800\n101,6.9801,11561\n102,6.98,3000\n103,6.98,1500\n104,6.98,3800\n105,6.9894,1700\n106,6.9898,2800\n107,6.98,500\n108,6.99,1000\n109,6.96,26621\n110,6.96,6436\n111,6.9687,1100\n112,6.96,1000\n113,6.9699,3380\n114,6.965,145\n115,6.965,900\n116,6.99,39093\n117,7,44193\n118,7.0099,17520\n119,6.99,12845\n120,7.01,3250\n121,7,3205\n122,6.975,92432\n123,6.9701,4340\n124,6.97,6100\n125,6.96,1800\n126,6.965,900\n127,6.96,4200\n128,6.96,3700\n129,6.96,500\n130,6.96,2400\n131,6.96,500\n132,6.9595,10065\n133,6.95,2300\n134,6.955,11700\n135,6.96,11800\n136,6.96,760\n137,6.9585,22558\n138,6.95,1200\n139,6.9591,2400\n140,6.95,3100\n141,6.961,21034\n142,6.96,2438\n143,6.96,400\n144,6.96,16392\n145,6.96,11400\n146,6.965,31274\n147,6.97,11938\n148,6.96,1115\n149,6.965,3900\n150,6.9719,28486\n151,6.97,4836\n152,6.97,2836\n153,6.97,2500\n154,6.961,23375\n155,6.9601,23560\n156,6.9579,9600\n157,6.94,47115\n158,6.949,3600\n159,6.949,11111\n160,6.94,4150\n161,6.945,1400\n162,6.94,3540\n163,6.94,2950\n164,6.95,1100\n165,6.95,17281\n166,6.95,57550\n167,6.975,32797\n168,7,25729\n169,7,9100\n170,7,18423\n171,7,87557\n172,6.99,26300\n173,6.979,22700\n174,6.98,6839\n175,6.99,4670\n176,6.99,8070\n177,6.98,2989\n178,6.99,28450\n179,6.97,15400\n180,6.975,5500\n181,6.97,5966\n182,6.98,8400\n183,6.98,53700\n184,6.98,15300\n185,6.98,4700\n186,6.985,6404\n187,6.97,17919\n188,6.99,12600\n189,6.99,6800\n190,6.99,6257\n191,6.99,12222\n192,6.9825,11030\n193,7,46934\n194,6.986,52850\n195,6.97,99671\n720,6.93,14251\n721,6.86,40542\n722,6.88,24133\n723,6.8718,6488\n724,6.87,20008\n725,6.86,46210\n726,6.8218,1565\n727,6.91,3000\n728,6.89,5555\n729,6.9,7463\n730,6.91,20415\n731,6.92,8670\n732,6.88,14638\n733,6.87,19510\n734,6.8812,18146\n735,6.88,2600\n736,6.88,5400\n737,6.865,11250\n738,6.85,10221\n739,6.835,17190\n740,6.84,19408\n741,6.84,12352\n742,6.83,19690\n743,6.8,40036\n744,6.83,27256\n745,6.84,8625\n746,6.83,18677\n747,6.825,7300\n748,6.815,12275\n749,6.835,5720\n750,6.83,7534\n751,6.81,12600\n752,6.81,2200\n753,6.8,4900\n754,6.8,4100\n755,6.785,12350\n756,6.78,5180\n757,6.785,4000\n758,6.78,26419\n759,6.78,5802\n760,6.785,4700\n761,6.775,9320\n762,6.765,12625\n763,6.765,14700\n764,6.75,40951\n765,6.74,13018\n766,6.73,12940\n767,6.75,18108\n768,6.72,24325\n769,6.7207,5315\n770,6.73,15000\n771,6.73,18450\n772,6.715,103469\n773,6.72,3752\n774,6.725,22181\n775,6.725,4800\n776,6.725,23748\n777,6.725,21600\n778,6.73,11765\n779,6.72,19400\n780,6.72,4500\n781,6.718,5890\n782,6.7009,17900\n783,6.69,14805\n784,6.7,15325\n785,6.7099,11000\n786,6.705,22250\n787,6.7,4115\n788,6.71,15842\n789,6.71,12300\n790,6.705,8672\n791,6.705,8350\n792,6.705,7240\n793,6.7,44784\n794,6.72,35290\n795,6.72,4100\n796,6.715,11920\n797,6.715,1700\n798,6.72,13710\n799,6.71,11100\n800,6.71,2200\n801,6.715,2000\n802,6.715,1050\n803,6.73,13900\n804,6.725,1750\n805,6.7299,3200\n806,6.73,9465\n807,6.725,1600\n808,6.72,4300\n809,6.72,1400\n810,6.72,1900\n811,6.72,19170\n812,6.72,8780\n813,6.73,37200\n814,6.72,22486\n815,6.71,16600\n816,6.7101,1750\n817,6.73,19750\n818,6.73,6100\n819,6.73,3495\n820,6.73,6200\n821,6.725,8000\n822,6.73,6950\n823,6.735,8075\n824,6.73,2525\n825,6.7302,4570\n826,6.73,2238\n827,6.75,38712\n828,6.75,2600\n829,6.76,69774\n830,6.765,7499\n831,6.7867,14900\n832,6.7881,15899\n833,6.78,1500\n834,6.79,1500\n835,6.795,5297\n836,6.81,8700\n837,6.81,4970\n838,6.81,5200\n839,6.81,8000\n840,6.8,47864\n841,6.785,5900\n842,6.78,9000\n843,6.78,5646\n844,6.79,8950\n845,6.788,3000\n846,6.79,47318\n847,6.7704,6753\n848,6.79,27663\n849,6.79,1600\n850,6.8,5330\n851,6.8,5750\n852,6.7919,3650\n853,6.785,12800\n854,6.765,13799\n855,6.77,27306\n856,6.7901,15077\n857,6.79,7600\n858,6.791,7324\n859,6.8,2712\n860,6.79,17241\n861,6.7719,10000\n862,6.79,7430\n863,6.775,8194\n864,6.761,3455\n865,6.7601,1300\n866,6.78,27060\n867,6.76,15173\n868,6.75,3400\n869,6.73,12300\n870,6.74,38000\n871,6.73,4900\n872,6.74,32625\n873,6.73,2755\n874,6.7315,1400\n875,6.735,1100\n876,6.73,15495\n877,6.72,8300\n878,6.725,5200\n879,6.72,17675\n880,6.725,2950\n881,6.725,9017\n882,6.71,6827\n883,6.7215,25632\n884,6.71,27484\n885,6.71,2400\n886,6.72,2700\n887,6.71,2800\n888,6.71,7350\n889,6.705,9040\n890,6.71,4900\n898,6.67,4700\n899,6.66,23900\n900,6.661,15622\n901,6.6597,76372\n902,6.67,59134\n903,6.67,15731\n904,6.665,62784\n905,6.695,185176\n906,6.71,105726\n907,6.7,53899\n908,6.71,67486\n909,6.72,67608\n910,6.74,29940\n911,6.7367,12920\n912,6.73,15382\n913,6.6901,78550\n914,6.69,4300\n915,6.69,99455\n916,6.69,6430\na1291213800,7.05,58485\n1,7.1101,70977\n2,7.1,87748\n3,7.105,52180\n4,7.13,161937\n5,7.2,51232\n6,7.25,12100\n7,7.32,32428\n8,7.32,23980\n9,7.3,115303\n10,7.23,43650\n11,7.22,22930\n12,7.21,18176\n13,7.2399,152473\n14,7.2799,23611\n15,7.29,16751\n16,7.31,54859\n17,7.33,60956\n18,7.3101,27801\n19,7.34,23739\n20,7.3301,18600\n21,7.3199,41367\n22,7.26,67853\n23,7.285,28552\n24,7.295,47133\n25,7.28,22221\n26,7.27,10050\n27,7.27,9700\n28,7.2101,107311\n29,7.21,27260\n30,7.195,48719\n31,7.24,30972\n32,7.24,14574\n33,7.25,19503\n34,7.26,19700\n35,7.26,16028\n36,7.27,14532\n37,7.28,23049\n38,7.3,37394\n39,7.2875,47293\n40,7.29,20238\n41,7.3,73805\n42,7.28,78500\n43,7.26,50320\n44,7.26,120612\n45,7.23,31123\n46,7.23,16097\n47,7.22,24438\n48,7.2299,68237\n49,7.22,30475\n50,7.205,63127\n51,7.23,155965\n52,7.25,24389\n53,7.2505,4309\n54,7.26,700\n55,7.25,16747\n56,7.2381,12705\n57,7.23,5219\n58,7.24,6670\n59,7.23,1200\n60,7.25,14900\n61,7.26,24732\n62,7.26,30731\n63,7.25,30231\n64,7.27,15988\n65,7.26,2269\n66,7.2582,17418\n67,7.255,2450\n68,7.2505,6386\n69,7.26,6400\n70,7.25,2800\n71,7.26,57531\n72,7.2599,47933\n73,7.2867,17864\n74,7.28,8493\n75,7.29,31421\n76,7.33,30926\n77,7.35,42210\n78,7.3499,44217\n79,7.34,23516\n80,7.34,20762\n81,7.34,28084\n82,7.35,87214\n83,7.32,13423\n84,7.31,12732\n85,7.31,13700\n86,7.312,22902\n87,7.3101,4800\n88,7.315,4404\n89,7.3281,15948\n90,7.32,5500\n91,7.3305,10600\n92,7.35,42219\n93,7.36,23327\n94,7.36,18308\n95,7.3701,10107\n96,7.415,48838\n97,7.415,77912\n98,7.43,42924\n99,7.4295,37777\n100,7.42,11042\n101,7.43,13967\n102,7.4196,8808\n103,7.43,6395\n104,7.4199,22951\n105,7.43,7286\n106,7.43,17700\n107,7.44,14561\n108,7.45,28446\n109,7.44,11308\n110,7.4499,31501\n111,7.4725,26648\n112,7.49,35576\n113,7.5,26042\n114,7.52,61675\n115,7.49,57660\n116,7.48,32500\n117,7.5,19658\n118,7.49,13976\n119,7.4801,14605\n120,7.46,18584\n121,7.48,30307\n122,7.48,9100\n123,7.4701,11900\n124,7.48,15336\n125,7.49,6504\n126,7.49,15086\n127,7.49,6500\n128,7.4899,29786\n129,7.49,15500\n130,7.4899,3900\n131,7.49,22160\n132,7.49,5331\n133,7.51,24756\n134,7.53,46877\n135,7.5499,33160\n136,7.52,53543\n137,7.54,12643\n138,7.56,17839\n139,7.56,11924\n140,7.54,26856\n141,7.57,15406\n142,7.6,54225\n143,7.59,55464\n144,7.61,13700\n145,7.64,27133\n146,7.63,37222\n147,7.66,38257\n148,7.65,60067\n149,7.63,33707\n150,7.62,14760\n151,7.63,31789\n152,7.63,23384\n153,7.64,15932\n154,7.6487,30231\n155,7.645,16900\n156,7.66,34146\n157,7.7,53025\n158,7.705,59066\n159,7.66,43096\n160,7.658,36834\n161,7.6596,23547\n162,7.665,14244\n163,7.6691,55045\n164,7.67,20490\n165,7.69,34517\n166,7.685,37895\n167,7.71,49648\n168,7.775,67065\n169,7.79,29814\n170,7.805,72313\n171,7.81,117516\n172,7.79,37443\n173,7.7792,51080\n174,7.78,25880\n175,7.77,25270\n176,7.73,113173\n177,7.735,39456\n178,7.735,38480\n179,7.72,48495\n180,7.7,66633\n181,7.6986,95479\n182,7.7,73930\n183,7.6999,24525\n184,7.7,19470\n185,7.69,27536\n186,7.69,38389\n187,7.6892,14358\n188,7.7,55672\n189,7.7,32782\n190,7.7,72319\n191,7.69,33673\n192,7.69,23387\n193,7.6987,42243\n194,7.68,90776\n195,7.69,100527\n196,7.69,2471\n",_5Y:"EXCHANGE%3DNASDAQ\nMARKET_OPEN_MINUTE=570\nMARKET_CLOSE_MINUTE=960\nINTERVAL=604800\nCOLUMNS=DATE,CLOSE,VOLUME,CDAYS\nDATA=\nTIMEZONE_OFFSET=-240\na1217016000,12.59,34009900,5\n1,11.88,8353300,5\n2,11.98,4437800,5\n3,13.06,2886600,5\n4,13.86,4297300,5\n5,12.6,7877800,5\n6,10.9,6285500,4\n7,9.23,5469200,5\n8,11.89,6104600,5\n9,9.6,3116300,5\n10,9.11,8099100,5\n11,5.72,6177500,5\n12,6.18,6564800,5\n13,4.36,2473600,5\n14,4.61,3788000,5\nTIMEZONE_OFFSET=-300\na1226091600,4.49,5958300,5\n1,2.71,6002891,5\n2,2.49,4717662,5\na1227895200,3.52,3407381,4\na1228510800,3.13,2161572,5\n1,3,2252272,5\n2,3.04,2177219,5\n3,2.62,1632052,4\n4,3.63,2188244,4\n5,4.11,3647806,5\n6,4.46,3304494,5\n7,3.49,2119704,4\n8,3.63,3304397,5\n9,5.27,6864703,5\n10,5.13,4762928,5\n11,4.22,2493790,4\n12,4.27,3239182,5\n13,4.02,3619605,5\nTIMEZONE_OFFSET=-240\na1236974400,3.89,3033578,5\n1,4.22,3919354,5\n2,6.64,10242898,5\n3,6.72,13684927,5\na1239307200,6.97,4747802,4\na1239998400,6.74,8278229,5\n1,6.58,6970689,5\n2,7.49,5617649,5\n3,7.98,8495814,5\n4,5.37,12030894,5\n5,6.25,5862288,5\n6,6.42,5397021,4\n7,6.3,4986978,5\n8,6.89,7502313,5\n9,5.8,9971611,5\n10,5.73,6670754,5\na1246564800,5.41,5350301,4\na1247256000,4.77,5443266,5\n1,5.44,3960953,5\n2,6.16,6572822,5\n3,6.2,6320982,5\n4,6.5,12054386,5\n5,5.5,5595545,5\n6,5.38,4937490,5\n7,5.27,5095490,5\n8,5.19,4205349,5\n9,5.35,2988723,4\n10,5.86,4344796,5\n11,5.69,2558819,5\n12,5.28,5052243,5\n13,5.71,1968402,5\n14,5.51,2247199,5\n15,5.57,2805357,5\n16,5.25,3590994,5\nTIMEZONE_OFFSET=-300\na1257541200,5.24,2908636,5\n1,4.72,6146667,5\n2,4.74,2702161,5\na1259344800,4.83,1441589,4\na1259960400,5.01,3731776,5\n1,5.62,7018250,5\n2,5.69,5416239,5\na1261677600,5.67,2525123,4\na1262293200,5.56,2236975,4\na1262984400,5.95,4688777,5\n1,5.73,5115145,5\n2,6.1,6883147,4\n3,5.75,5355028,5\n4,5.97,12435718,5\n5,5.77,3836786,5\n6,5.62,1646599,4\n7,5.95,3738974,5\n8,5.38,4971449,5\n9,5.31,20962133,5\nTIMEZONE_OFFSET=-240\na1269028800,5.06,5455880,5\n1,5.37,5607903,5\na1270152000,5.21,5110769,4\na1270843200,5.39,6643120,5\n1,5.64,8671250,5\n2,5.65,5332825,5\n3,5.83,6360031,5\n4,5.01,10658149,5\n5,5.44,5462785,5\n6,5.59,7972591,5\n7,5.46,8531203,5\n8,5.31,3930788,4\n9,5.45,5255195,5\n10,5.91,6113160,5\n11,6.05,10004012,5\n12,5.65,5445172,5\n13,6.11,3997476,4\n14,5.95,4594887,5\n15,6.71,5241908,5\n16,6.48,6395242,5\n17,8,18942689,5\n18,7.95,11796192,5\n19,7.64,14180289,5\n20,7.7,9424926,5\n21,8.78,9641144,5\n22,7.28,45861827,4\n23,7.82,23416600,5\n24,8.01,16962078,5\n25,8.32,17207170,5\n26,8.34,12559304,5\n27,9.07,20031961,5\n28,8.4,10217749,5\n29,8.23,8392566,5\n30,8.84,11530951,5\nTIMEZONE_OFFSET=-300\na1289595600,8.64,24422102,5\n1,7.21,25030613,5\n2,7.09,9888296,4\n",corp_actions:"[]",related_items:[{ticker:"INDEXDJX:.DJI",name:"Dow Jones",timezone_offset:-18000,is_index:true,different_market_session:false},{ticker:"INDEXNASDAQ:.IXIC",name:"Nasdaq",timezone_offset:-18000,is_index:true,different_market_session:false},{ticker:"NASDAQ:FSLR",name:"FSLR",timezone_offset:-18000,is_index:false},{ticker:"NYSE:TSL",name:"TSL",timezone_offset:-18000,is_index:false},{ticker:"NYSE:WFR",name:"WFR",timezone_offset:-18000,is_index:false},{ticker:"PINK:MUEL",name:"MUEL",timezone_offset:-18000,is_index:false},{ticker:"NYSE:RBN",name:"RBN",timezone_offset:-18000,is_index:false},{ticker:"NASDAQ:JASO",name:"JASO",timezone_offset:-18000,is_index:false},{ticker:"NASDAQ:ENER",name:"ENER",timezone_offset:-18000,is_index:false}]}};
+google.finance.data.numberFormat = [{'threshold':1000000, 'symbol':'M'}, {'threshold':1000000000,'symbol':'B'}, {'threshold':1000000000000,'symbol':'T'}] ;
+if (_s_Store) {
+_s_Store._allowMatchAdvancedSearch = true;
+var _fieldToDisplayNameMap = {GrossMargin:"Gross margin&nbsp;(%)",Return1Week:"1w return",Return156Week:"156w return",NextYearEPS:"Next year EPS",LTDebtToAssetsYear:"LT debt/assets (Recent&nbsp;yr)&nbsp;(%)",RevenueGrowthRate5Years:"5y revenue growth rate",EarningsAfterTaxes:"Earnings after taxes",DividendPerShare:"Div per share",MarketCap:"Market cap",NetProfitMarginPercent:"Net profit margin&nbsp;(%)",Float:"Float",EarningsBeforeTaxes:"Earnings before taxes",QuotePercChange:"Quote change&nbsp;(%)",TotalDebtToEquityYear:"Total debt/equity (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToCapitalQuarter:"Total debt/capital (Recent&nbsp;qtr)&nbsp;(%)",LTDebtToCapitalQuarter:"LT debt/capital (Recent&nbsp;qtr)&nbsp;(%)",EPSGrowthRate10Years:"10y EPS growth rate",Beta:"Beta",ReturnOnAssetsPTM:"Return on assets (PTM)&nbsp;(%)",CapitalGain:"Capital gain",BetaDown:"Beta down from RAS",IncomeDividend:"Income dividend",RevenueGrowthRate10Years:"10y revenue growth rate",MarketCapShareBasis:"Market cap share basis",IAD:"Div rate indicated annual",Return4Week:"4w return",Price150DayAverage:"150d avg price",EPSGrowthRate5Years:"5y EPS growth rate",ReturnOnAssetsTTM:"Return on assets (TTM)&nbsp;(%)",TotalDebtToAssetsYear:"Total debt/assets (Recent&nbsp;yr)&nbsp;(%)",Volume:"Volume",DividendRecentQuarter:"Div recent quarter",CurrentRatioYear:"Current ratio",Low52Week:"52w low",ExpenseRatio:"Expense ratio",Price13WeekPercChange:"13w&nbsp;price change&nbsp;(%)",Price1DayPercChange:"1d&nbsp;price change&nbsp;(%)",ReturnOnEquity5Years:"Return on equity (5&nbsp;yr&nbsp;avg)&nbsp;(%)",TotalDebtToCapitalYear:"Total debt/capital (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToAssetsQuarter:"Total debt/assets (Recent&nbsp;qtr)&nbsp;(%)",NavChange:"Nav change",OperatingMargin:"Operating margin&nbsp;(%)",DPSRecentYear:"Div per share (Recent&nbsp;yr)",ANI:"Earnings after taxes (Recent&nbsp;yr)",AverageVolume:"Average volume",High52Week:"52w high",Return13Week:"13w return",PriceToCashFlowPerShare:"Price to cash flow per share",ATAXRATE:"Tax rate (Recent&nbsp;yr)",Price26WeekPercChange:"26w&nbsp;price change&nbsp;(%)",QuoteChange:"Quote change",NetIncomeChangePerc:"Net income change&nbsp;(%)",ReturnOnInvestment5Years:"Return on investment (5&nbsp;yr&nbsp;avg)&nbsp;(%)",PE:"P/E ratio",ReturnOnInvestmentYear:"Return on investment (Recent&nbsp;yr)&nbsp;(%)",Price200DayAverage:"200d avg price",DividendNextQuarter:"Div next quarter",EBITD:"EBITDA",PriceYTDPercChange:"YTD&nbsp;price change&nbsp;(%)",ReturnOnInvestmentTTM:"Return on investment (TTM)&nbsp;(%)",NavChangePercent:"Nav change&nbsp;(%)",EBITDMargin:"EBITDA margin&nbsp;(%)",LTDebtToEquityQuarter:"LT debt/equity (Recent&nbsp;qtr)&nbsp;(%)",BetaRAS:"Beta from RAS",PriceSales:"Price to sales",NetAssets:"Net assets",ReturnOnEquityTTM:"Return on equity (TTM)&nbsp;(%)",CashPerShareYear:"Cash/share",ReturnOnAssets5Years:"Return on assets (5&nbsp;yr&nbsp;avg)&nbsp;(%)",ReturnDay:"1d return",Return52Week:"52w return",ForwardPE1Year:"1y fwd P/E",NetIncomeGrowthRate5Years:"5y net income growth rate",DividendYield:"Div yield&nbsp;(%)",Dividend:"Div from cash flow",BetaUp:"Beta up from RAS",LTDebtToCapitalYear:"LT debt/capital (Recent&nbsp;yr)&nbsp;(%)",nprice:"Price from RAS",Return260Week:"260w return",ReturnOnEquityQuarter:"Return on equity (Recent&nbsp;qtr)&nbsp;(%)",ACOGS:"Cost of goods sold",LTDebtToAssetsQuarter:"LT debt/assets (Recent&nbsp;qtr)&nbsp;(%)",PriceToBook:"Price to book",LTDebtToEquityYear:"LT debt/equity (Recent&nbsp;yr)&nbsp;(%)",ReturnYTD:"Return YTD",ReturnOnEquityYear:"Return on equity (Recent&nbsp;yr)&nbsp;(%)",ReturnOnAssetsQuarter:"Return on assets (Recent&nbsp;qtr)&nbsp;(%)",TotalDebtToEquityQuarter:"Total debt/equity (Recent&nbsp;qtr)&nbsp;(%)",NavPrior:"Nav prior",AINTCOV:"Interest coverage",EPS:"EPS",ReturnOnInvestmentQuarter:"Return on investment (Recent&nbsp;qtr)&nbsp;(%)",QuoteLast:"Last price",Price50DayAverage:"50d avg price",Price4WeekPercChange:"4w&nbsp;price change&nbsp;(%)",ReturnOnAssetsYear:"Return on assets (Recent&nbsp;yr)&nbsp;(%)",MarketCapRAS:"Mkt cap from RAS",Price52WeekPercChange:"52w&nbsp;price change&nbsp;(%)",ShortInterestRatioPercent:"Short interest ratio&nbsp;(%)",InstitutionalPercentHeld:"Institutional percent held",BookValuePerShareYear:"Book value/share",ReturnOnEquityPTM:"Return on equity (PTM)&nbsp;(%)"};
+_s_Store._asStore._addStrings(_fieldToDisplayNameMap);
+}
+if (_s_Store) {
+_s_Store._allowMultipleInBox = true;
+}
+_regOnLoad(onCompanyLoad);
+google.finance.renderRecentQuotes();
+</script>
+<script>
+title = "SOLR: {LAST} {CHANGE} ({CHANGE_PCT}%) - GT Solar International, Inc.";_aQ("NASD:SOLR", "715904",title);_aQ("NASD:SOLR","715904");_aQ("NASD:FSLR","707027");_aQ("NYSE:TSL","712139");_aQ("NYSE:WFR","658274");_aQ("PINK:MUEL","394640");_aQ("NYSE:RBN","484757");_aQ("NASD:JASO","713705");_aQ("NASD:ENER","170112");_aQ("NYSE:LDK","716047");_aQ("NASD:COHR","103440");_aQ("NASD:HOKU","700007");
+</script>
+<script>
+_chartConfigObject.expandButtonEnabled = true;
+</script>
+<div class="g-section g-tpl-right-1">
+<div class="g-unit g-first">
+<div class=g-c>
+<div id=r-perf class="g-section g-tpl-67-33 g-split nwp">
+<div id=r-perf-quotes class="g-unit g-first"></div>
+<div id=r-perf-charts class=g-unit></div>
+</div>
+<script>google.finance.renderRelativePerformance();</script>
+</div>
+</div>
+<div class=g-unit>
+<div id=market-data-div style="display:none" class="nwp g-floatfix">
+<div id=price-panel style="float:left">
+<div>
+<span class="pr">
+<span id="ref_715904_l">7.69</span>
+</span>
+<div id=price-change class=nwp>
+<span class="ch bld"><span class="chg" id="ref_715904_c">+1.00</span>
+<span class="chg" id="ref_715904_cp">(14.95%)</span>
+</span>
+</div>
+</div>
+<div>After Hours:&nbsp;<span class=bld id="ref_715904_el">7.65</span>
+<span id="ref_715904_ec" class="chr">-0.04</span>
+<span id="ref_715904_ecp" class="chr">(-0.52%)</span>
+<div id="ref_715904_elt">Dec 1, 5:57PM EST&nbsp;&nbsp;<div class=mdata-dis>
+<span class=dis-large><nobr>NASDAQ real-time data -
+<a href=
+  "http://www.google.com/help/stock_disclaimer.html#realtime"
+  class=dis-large>Disclaimer</a>
+</nobr></span>
+<div>Currency in USD</div>
+</div>
+</div>
+</div>
+</div>
+<div id=snap-panel
+       class=goog-inline-block style="overflow:hidden;height:82px">
+<ol id=snap-data class=id-snap-data>
+<li>
+<span class="goog-inline-block key" data-snapfield="range">Range</span>
+<span class="goog-inline-block val">7.03 - 7.84</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="range_52week">52 week</span>
+<span class="goog-inline-block val">4.81 - 10.00</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="open">Open</span>
+<span class="goog-inline-block val">7.05</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="vol_and_avg">Vol / Avg.</span>
+<span class="goog-inline-block val">7.63M/3.24M</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="market_cap">Mkt cap</span>
+<span class="goog-inline-block val">1.16B</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="pe_ratio">P/E</span>
+<span class="goog-inline-block val">8.75</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="latest_dividend-dividend_yield">Div/yield</span>
+<span class="goog-inline-block val">&nbsp;&nbsp;&nbsp;&nbsp;-</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="eps">EPS</span>
+<span class="goog-inline-block val">0.88</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="shares">Shares</span>
+<span class="goog-inline-block val">150.94M</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="beta">Beta</span>
+<span class="goog-inline-block val">&nbsp;&nbsp;&nbsp;&nbsp;-</span>
+</ol>
+</div>
+</div>
+<script>google.finance.renderMarketData();</script>
+</div>
+</div>
+<div class="g-section g-tpl-right-1 sfe-break-top-5">
+<div class="g-unit g-first">
+<div class=g-c><div>
+<div id=newstabsgroup>
+<div id=news-tabs class=hide>
+<div class="goog-tab goog-tab-selected"><a id=news_tab_title class=t>
+<b class=t><b class=t>News</b></b></a></div>
+<div class=goog-tab><a id=blogs_tab_title class=t>
+<b class=t><b class=t>Blogs</b></b></a></div>
+<div class=goog-tab><a id=plot_feeds_title class=t>
+<b class=t><b class=t>Feeds</b></b></a></div>
+</div>
+<div id=tabs-clear class=goog-tab-bar-clear class=hide></div>
+<div id=news_div_cont style="display:none"></div>
+<div id=blogs_div_cont style="display:none"></div>
+<div id=plot_feed_div_cont style="display:none"></div>
+</div>
+<div class="sfe-section clf" id=news-footer>
+<div id=news-sidebar-footer class="g-section g-tpl-67-33 g-split">
+<div class="g-unit g-first">
+<a href="/finance/company_news?q=NASDAQ:SOLR" >All news for GT Solar International, Inc. &raquo;</a>
+</div><div class=g-unit>
+<a href="/finance/company_news?q=NASDAQ:SOLR&output=rss">Subscribe</a>
+<a href="/finance/company_news?q=NASDAQ:SOLR&output=rss"><img class=SP_subscribe src="/finance/s/m4C5KaofCbA/images/cleardot.gif" alt="Subscribe." id=rss
+        width=15 height=15 /></a>
+</div>
+</div>
+</div>
+</div>
+<div id=ad class="sfe-break-top sfe-break-bottom-16">
+<div id=ad-label class=invisible>Advertisement</div>
+<div id=ad-target class=ads-300-250></div>
+</div>
+<div class="g-section g-tpl-25-75 g-split hdg">
+<div class="g-unit g-first">
+<h3>Events</h3>
+</div>
+<div class="g-unit">
+<div class=sfe-break-right-em>
+<img src="/finance/s/m4C5KaofCbA/images/cleardot.gif"
+               width=16 height=16 class=SP_calendar id=calendar alt="">
+<a onclick="_GF_click('', 'add_ical', 'SOLR', '')" href="http://www.google.com/calendar/render?hl=en&cid=http://www.google.com:80%2Ffinance%2Fevents%3Fq%3DNASDAQ%3ASOLR%26output%3Dical" >Add SOLR to my calendars</a>
+</div>
+</div>
+</div>
+<div class="events sfe-section">
+<div class=event>
+<div class="bld date">Nov 16, 2010</div>
+<div>GT SOLAR INTERNATIONAL INC at Jefferies &amp; Co. Global Clean Technology Conference
+</div>
+</div>
+<div class=event>
+<div class="bld date">Nov 11, 2010</div>
+<div>GT SOLAR INTERNATIONAL INC at Goldman Sachs Clean Energy Conference
+</div>
+</div>
+<div class=event>
+<div class="bld date">Nov 9, 2010</div>
+<div>Cleantech Conference
+</div>
+</div>
+<div class=event>
+<div class="bld date">Nov 8, 2010</div>
+<div>Q2 2011 GT SOLAR INTERNATIONAL INC Earnings Conference Call -
+<a onclick="_GF_click('', 'webcast', 'SOLR', '')" href="http://web.servicebureau.net/conf/meta?i=1113210269&amp;c=2343&amp;m=was&amp;u=/w_ccbn.xsl&amp;date_ticker=SOLR"  class=time>
+<img alt="Webcast" src="/finance/s/m4C5KaofCbA/images/cleardot.gif"
+                width=19 height=16 class=SP_webcast id=webcast>
+</a>
+</div>
+</div>
+<div class=event>
+<div class="bld date">Nov 8, 2010</div>
+<div>Q2 2011 GT SOLAR INTERNATIONAL INC Earnings Release
+</div>
+</div>
+<table><tr>
+<td>
+<a href="http://www.dailyfinance.com/event/SOLR/usa" >
+More events from DailyFinance &raquo;</a>&nbsp;
+&nbsp;&nbsp;<nobr>
+</td>
+</tr></table>
+</div>
+<div class=hdg><h3>Key stats and ratios</h3></div>
+<div class=sfe-section>
+<table class="quotes rgt nwp" width="100%">
+<thead><tr>
+<td width=50%>
+<td class=colHeader>Q4 (Oct &#39;10)
+<td class=colHeader>2010
+</tr></thead>
+<tr>
+<td class="lft name">Net profit margin
+<td class=period>18.66%
+<td class=period>16.03%
+<tr>
+<td class="lft name">Operating margin
+<td class=period>29.94%
+<td class=period>26.45%
+<tr>
+<td class="lft name">EBITD margin
+<td class=period>-
+<td class=period>27.71%
+<tr>
+<td class="lft name">Return on average assets
+<td class=period>21.08%
+<td class=period>11.88%
+<tr>
+<td class="lft name">Return on average equity
+<td class=period>72.20%
+<td class=period>66.89%
+<tr>
+<td class="lft name">Employees
+<td class=period>384
+<td class=period>-
+<tr>
+<td class="lft name">Carbon Disclosure Rating
+<td class=period>-
+<td class=period>
+-
+</table>
+<div class=sfe-break-top>
+<a id="similar" href="/finance/similar?q=NASDAQ:SOLR" >Screen stocks with similar metrics &raquo;</a></div>
+</div>
+<div class=hdg><h3>Address</h3></div>
+<div class=sfe-section>243 Daniel Webster Highway<br/>Merrimack, NH 03054<br/>United States
+- <a href="http://maps.google.com/maps?q=243+Daniel+Webster+Highway+Merrimack+03054+United+States%20(GT+Solar+International%2C+Inc.)" >Map</a><br/>+1-603-8835200 (Phone)<br>+1-603-5956993 (Fax)<br>
+</div>
+<div class=hdg><h3>Website links</h3></div>
+<div class=sfe-section><div class=item>Company website:<br>
+<a id=fs-chome href="http://www.gtsolar.com/" >
+http://www.gtsolar.com/
+</a>
+</div>
+<div class=item><a id=fs- href="http://www.gtsolar.com/index.php?m=newsfeed&h=english" >News Releases</a></div>
+<div class=item><a id=fs- href="http://investor.gtsolar.com/phoenix.zhtml?c=211850&p=irol-irhome" >Investor Relations</a></div>
+<div class=item><a id=fs- href="http://investor.gtsolar.com/phoenix.zhtml?c=211850&p=irol-reportsother" >Financial Information</a></div>
+<div class=item><a id=fs- href="http://www.gtsolar.com/index.php?m=about" >Corporate History/Profile</a></div>
+<div class=item><a id=fs- href="http://www.gtsolar.com/index.php?m=about&h=management" >Executives</a></div>
+<div class=item><a id=fs- href="http://www.gtsolar.com/index.php?m=products" >Products/Services</a></div>
+<div class=item><a id=fs- href="http://www.gtsolar.com/index.php?m=careers" >Employment Opportunities</a></div>
+</div>
+<div class=hdg><h3>External links</h3></div>
+<div class=sfe-section>
+<div class=item><a id=m-analyst
+                 href=http://www.marketwatch.com/tools/quotes/snapshot.asp?symb=SOLR&pg=analyst >Analyst Estimates</a> - <font color="#6F6F6F">MarketWatch</font></div>
+<div class=item><a id=m-sec
+                 href=http://google.brand.edgar-online.com?sym=SOLR >SEC Filings</a> - <font color="#6F6F6F">EDGAR Online</font></div>
+<div class=item><a id=m-hold
+                 href=http://moneycentral.msn.com/investor/invsub/ownership/ownership.asp?Symbol=SOLR >Major Holders</a> - <font color="#6F6F6F">MSN Money</font></div>
+<div class=item><a id=m-research
+                 href=http://finance.yahoo.com/q/rr?s=SOLR >Research Reports</a> - <font color="#6F6F6F">Yahoo Finance</font></div>
+<div class=item><a href="//groups.google.com/groups/finance?cid=715904&hl=en" >Discussion Group</a> - <font color="#6F6F6F">Google Finance</font></div>
+</div>
+</div>
+</div>
+<div class=g-unit>
+<div id=top-section class="g-c sfe-break-right">
+<div id=chart-section>
+<div>
+<div id=compare-bar-wrapper>
+<div id=compare-bar class="id-compare-bar g-section">
+</div>
+</div>
+<div id=chart_anchor class=id-chart_anchor>
+<script>
+var _minZoomDays = 1;
+var _timeZoneOffset = '-18000';
+_chartConfigObject.hasVolume = _displayVolume;
+_chartConfigObject.hasNews = true;
+_chartConfigObject.hasExtendedHours = true;
+_chartConfigObject.hasDefaultZoomSetting = true;
+_chartConfigObject.hasVerticalScaleSetting = true;
+_chartConfigObject.displayVolume = 'true';
+_chartConfigObject.displayNewsPins = 'true';
+_chartConfigObject.displayDividends = 'true';
+_chartConfigObject.displaySplits = 'true';
+_chartConfigObject.displayExtendedHours = 'false';
+_chartConfigObject.enableCustomDateEntry = true
+_chartConfigObject.defaultZoomDays = '3';
+_chartConfigObject.snapping = false;
+_chartConfigObject.verticalScaling = 'maximized';
+_chartConfigObject.sparklineType = 'dynamic';
+// set _minZoomDays and _minZoomDaysNoIntraDay in each page before emit the
+// chart to passing the value to chart, otherwise default value will be use.
+_chartConfigObject.minZoomDaysNormal = _minZoomDays;
+_chartConfigObject.minZoomDaysNoIntraDay = _minZoomDaysNoIntraDay;
+_chartConfigObject.enableIndicator = true;
+_chartConfigObject.companyId = '715904';
+_chartConfigObject.enableRealtimeChart = true;
+_chartConfigObject.isMarketOpenState = 0;
+_chartConfigObject.stateRemainingMinutes = 857;
+_chartConfigObject.delayedMinutes = 0;
+_chartConfigObject.delayedMinutes = Math.max(
+_chartConfigObject.delayedMinutes,
+15);
+_chartConfigObject.enableChartTypeSetting = true;
+_chartConfigObject.lineStyle = 'IntervalBasedLine';
+_chartConfigObject.defaultInterval = '86400';
+_chartConfigObject.enableIndicatorSetting = true;
+_chartConfigObject.biasSetting = '';
+_chartConfigObject.emaSetting = '';
+_chartConfigObject.kdjSetting = '';
+_chartConfigObject.macdSetting = '';
+_chartConfigObject.rsiSetting = '';
+_chartConfigObject.smaSetting = '';
+_chartConfigObject.vmaSetting = '';
+_chartConfigObject.cciSetting = '';
+_chartConfigObject.williamsPercentRSetting = '';
+_chartConfigObject.bollingerBandsSetting = '';
+_chartConfigObject.fastStochasticSetting = '';
+_chartConfigObject.slowStochasticSetting = '';
+_chartConfigObject.companyCurrency = 'USD';
+_chartConfigObject.displayDividendsUnits = 'true';
+var configStringFromCookie = '{}';
+var configString = unescape(configStringFromCookie);
+var obj = eval('(' + configString + ')');
+for (var attribute in obj) {
+_chartConfigObject[attribute] = obj[attribute];
+}
+_external_target = "";
+_emitFlashChart(
+"/finance/s/OFspRxwQDQg/chart9.swf?hl=en&gl=us",
+_ticker, _chartConfigObject,"http:\x2F\x2Fwww.google.com:80");
+</script>
+<noscript>
+<div id=image_chart style="display:block;">
+<table>
+<tr><td class=itxt align=left>
+</td></tr>
+<tr><td>
+<img alt="Chart." src="/finance/getchart?q=SOLR&x=NASD&p=3d&i=240" width="500" height="322">
+</td></tr>
+</table>
+</div>
+</noscript>
+</div>
+<div class="g-section g-tpl-67-33 g-split sfe-break-bottom-8"
+      style="padding-top:1px">
+<div id="chart-footer-links" class="g-unit g-first id-chart-footer-links">
+<a id="settings-link" class="chart-footer-link"
+            href="javascript:google.finance.clickSettingsLink();">
+Settings</a>
+<span>|</span>
+<a id="plot-feeds-link" class="chart-footer-link"
+            href="javascript:google.finance.clickPlotFeedsLink();">
+Plot&nbsp;feeds</a>
+<span>|</span>
+<a id="technicals-link" class="chart-footer-link"
+            href="javascript:google.finance.clickTechnicalsLink();">
+Technicals</a>
+<span>|</span>
+<span style="white-space:nowrap;">
+<img width="16" hight="9" alt="Link to chart icon."
+            id="link-to-chart-img" class="SP_link"
+            src="/finance/s/m4C5KaofCbA/images/cleardot.gif" />
+<a id="link-to-chart-link" class="chart-footer-link"
+            href="javascript:google.finance.clickLinkToChartLink();">
+Link&nbsp;to&nbsp;this&nbsp;chart</a>
+</span>
+</div>
+<div class="g-unit">
+<span class="chart-dis">Volume delayed by 15 mins.
+</span>
+</div>
+</div>
+<div id=settings-panel-wrapper>
+<div id=settings-panel class=sfe-section style="display:none"></div>
+</div>
+<div style="height:1em;"></div>
+</div>
+</div>
+</div>
+<div class="g-c sfe-break-right">
+<div id=related class=hide>
+<div class="hdg">
+<div class="g-section g-tpl-50-50 g-split gf-control">
+<div class="g-unit g-first"><h3>Related companies</h3>&nbsp;Show:
+<select id=related-select>
+<option value=mrq >
+Most Recent Quarter
+</option>
+<option value=mra selected>
+Most Recent Annual
+</option>
+</select>
+</div>
+<div class=g-unit>
+<span id=related-edit-col class=linkbtn>Add or remove columns</span>
+<button id=related-save style="display:none">Save changes</button>
+<button id=related-cancel style="display:none">Cancel</button>
+</div>
+</div>
+</div>
+<div id=related-table class=gf-table-scroll-x style="padding-bottom:15px;">
+</div>
+<div class=sfe-section>Sector: <a id=sector href="?catid=us-66529330" >Technology</a> &gt; Industry: <a href="?catid=us-55119621" >Semiconductors</a>
+</div>
+</div>
+<div id=reorder><div class=mid-reorder>
+<div id=blogs-section
+>
+<div id=blogs>
+<div class=hdg><div class=float>
+<h3>GT Solar International, Inc. discussed on blogs</h3></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class="sfe-section news">
+<div class=item>
+<a id="b-p-5" href="http://daytradingstockblog.blogspot.com/2010/12/stocks-to-buy-12210-december-2-2010.html" rel="nofollow" >Stock Market Analysis: Stocks to Buy 12/2/10 December 2, 2010</a>
+<span class=src>- tweid05@gmail.com (Tim)</span>
+<span class=src>- Stock Market Analysis</span>
+- 4 hours ago
+</div>
+<div class=item>
+<a id="b-p-5" href="http://topstockspick.blogspot.com/2010/12/stocks-to-buy-12012010-december-01-2010.html" rel="nofollow" >Top Stocks Pick: Stocks to Buy 12/01/2010, December 01, 2010</a>
+<span class=src>- Ahsan Haque</span>
+<span class=src>- Top Stocks Pick</span>
+- 10 hours ago
+</div>
+<div class=sfe-break-top>
+<a id="b-m-" href="http://www.google.com/blogsearch?hl=en&q=%22GT+Solar+International%2C+Inc.%22" >More blog posts about GT Solar International, Inc. &raquo; </a>
+</div>
+</div>
+</div>
+</div>
+<div id=discussions-section
+>
+</div><script>_tck('aft');</script>
+<div id=summary-section
+>
+<div id=summary>
+<div class=hdg><div class=float>
+<h3>Description</h3></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class=sfe-section>
+<div class=companySummary>
+GT Solar International, Inc. through its subsidiaries is a global provider of polysilicon production technology, crystalline ingot growth systems and related photovoltaic manufacturing services for the solar industry. Its customers include various solar companies, as well as companies in the chemical industry. The Company�s principal products include chemical vapor deposition (CVD) reactors and related equipment used to produce polysilicon, the key raw material used in silicon-based solar wafers and cells, and directional solidification systems (DSS) furnaces and related equipment used to cast multicrystalline ingots by melting and cooling polysilicon in a controlled process. These ingots are used to make photovoltaic (PV) wafers, which are, in turn, used to make solar cells. It operates under two segments: Polysilicon Business and Photovoltaic Business.
+<div class=sfe-break-top>
+<a id=m-rprofile href="http://stocks.us.reuters.com/stocks/fullDescription.asp?rpc=66&symbol=SOLR.O" >
+More from Reuters &raquo;
+</a></div>
+</div>
+</div>
+</div>
+</div>
+<div id=mgmt-section
+>
+<div id=management style="margin-bottom:1.5em;">
+<div class=hdg><div class=float>
+<h3>Officers and directors</h3></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class=sfe-section>
+<table id=mgmt-table width=100%><tbody>
+<tr >
+<td class="p linkbtn">Matthew E. Massengill
+<td class=i>
+<td class=t>Chairman of the Board
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 49<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SOLR.O&officerId=1243096" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Thomas Gutierrez
+<td class=i>
+<td class=t>President, Chief Executive Officer, Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 61<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SOLR.O&officerId=1413456" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Richard J. Gaynor
+<td class=i>
+<td class=t>Chief Financial Officer, Vice President
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 50<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SOLR.O&officerId=1444159" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">John Tattersfield
+<td class=i>
+<td class=t>Vice President - Operations
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 47<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SOLR.O&officerId=1224692" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Hoil Kim
+<td class=i>
+<td class=t>Vice President, Chief Administrative Officer, General Counsel, Secretary
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 52<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SOLR.O&officerId=1275398" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">David W. Keck
+<td class=i>
+<td class=t>Vice President and General Manager - Polysilicon
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 45<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SOLR.O&officerId=961024" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Jeffrey John Ford
+<td class=i>
+<td class=t>Vice President and General Manager - Asia
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 54<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SOLR.O&officerId=961025" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">David C. Gray Ph.D.
+<td class=i>
+<td class=t>Vice President, General Manager - Photovoltaic Business North America and Europe
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 44<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SOLR.O&officerId=1292471" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Ernest L. Godshalk III
+<td class=i>
+<td class=t>Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 65<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SOLR.O&officerId=961027" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Fusen Ernie Chen Ph.D.
+<td class=i>
+<td class=t>Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 51<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SOLR.O&officerId=1202216" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+</table>
+<div class=gb>
+<a href="http://stocks.us.reuters.com/stocks/officersDirectors.asp?symbol=SOLR.O&WTmodLOC=C4-Officers-5" >
+Full list on Reuters &raquo;</a></div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+<!-- b -->
+</div>
+</div>
+<div id=footer>
+<center>
+<div class=footerBorder>
+<div class=editions>Google Finance Beta available in:
+<a href="http://www.google.com.hk/finance?hl=zh-TW" >&#39321;&#28207;&#29256; (Hong Kong)</a>&nbsp;-
+<a href="http://www.google.ca/finance" >Canada</a>&nbsp;-
+<a href="http://www.google.com/finance" >U.S.</a>&nbsp;-
+<a href="http://www.google.com/finance?gl=cn&amp;hl=zh-CN" >&#31616;&#20307;&#20013;&#25991; (China)</a>&nbsp;-
+<a href="http://www.google.co.uk/finance" >U.K.</a>
+</div>
+<div class=footerDisclaimer>
+Information is provided 'as is' and solely for informational purposes, not
+for trading purposes or advice, and may be delayed.<br/>
+To see all exchange delays, please
+<a href=
+    "http://www.google.com/intl/en-US/help/stock_disclaimer.html"
+  style="color:#7777cc">see disclaimer</a>.
+<br><br>
+</div>
+<div class=footerLinks>
+&copy;2010 Google &nbsp;&nbsp;
+<a href="http://www.google.com" class=q>Google Home</a>
+- <a href="http://googlefinanceblog.blogspot.com/">Blog</a>
+- <a href=
+  "http://www.google.com/support/finance?hl=en-US"
+ class=q>Help</a>
+- <a href="http://www.google.com/intl/en-US/privacy.html" class=q>Privacy Policy</a>
+- <a href="http://www.google.com/accounts/TOS?loc=us" class=q>Terms of Service</a><br><br><br>
+</div>
+</div>
+</center>
+</div>
+</div>
+</div>
+</body>
+</html>

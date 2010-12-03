@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel='alternate' type='application/rss+xml' title='The Digg Blog - All Topics' href='/feed/blog' />
+<link rel='alternate' type='application/rss+xml' title='The Digg Blog - Company Blog' href='/feed/blog/company' />
+<link rel='alternate' type='application/rss+xml' title='The Digg Blog - Technology Blog' href='/feed/blog/technology' />
+<link rel='alternate' type='application/rss+xml' title='The Digg Blog - Community Blog' href='/feed/blog/community' />
+<link rel='alternate' type='application/rss+xml' title='The Digg Blog - Partnership Blog' href='/feed/blog/partnership' />
+<script src="http://widgets.digg.com/buttons.js" type="text/javascript"></script>
+<link rel='image_src' href='http://about.digg.com/sites/all/themes/diggzen/images/digg_logo.gif' />
+<link rel="shortcut icon" href="/files/favicon.ico" type="image/x-icon" />
+    <title>Introducing Digg&#039;s Streaming API | Digg About</title>
+    <link type="text/css" rel="stylesheet" media="all" href="http://developers.diggstatic.com/files/css/css_1b9d439e48a9248e3aff28d46c125fbc.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="http://developers.diggstatic.com/files/css/css_21d7563d293931751d673dd355a97fce.css" />
+    <script type="text/javascript"> </script>
+  </head>
+  <body class="not-front not-logged-in page-node node-type-blog no-sidebars has-sidebar">
+
+    <div id="header-wrapper">
+      <div id="header" class="group">
+	<span><a class="header-logo" href="/">Digg About</a></span>
+	<ul class="float-right"><li class="menu-10745 first"><a href="/developers" title="">Developers</a></li>
+<li class="menu-10746"><a href="/ads" title="">Advertisers</a></li>
+<li class="menu-10747"><a href="/publisher" title="">Publishers</a></li>
+<li class="menu-10748 last"><a href="/mobile" title="">Mobile</a></li>
+</ul>      </div>
+    </div>
+
+    <div class="group" id="main-content">
+      
+<div class="sidebar">
+  <div>
+    <div>
+    <ul class="menu"><li class="leaf first"><a href="/about" title="">What is Digg</a></li>
+<li class="leaf"><a href="/team" title="">Employees</a></li>
+<li class="leaf"><a href="/blog" title="">Blog</a></li>
+<li class="leaf"><a href="/press" title="">Press</a></li>
+<li class="leaf"><a href="/faq" title="">FAQ</a></li>
+<li class="leaf"><a href="http://jobs.digg.com" title="">Jobs</a></li>
+<li class="leaf"><a href="/terms-use" title="">Terms of Use</a></li>
+<li class="leaf last"><a href="/privacy" title="">Privacy Policy</a></li>
+</ul>  </div>
+</div>
+<div class="blurb">
+    <h4><a href="/contact">Contact Digg</a></h4>
+    <div>
+    <p>Comments? Questions? <a href="/contact">Contact us</a>  on <a href="http://digg.com">digg.com</a></p>
+  </div>
+</div>
+</div>
+
+      <div class="content-container">
+	<h1>Introducing Digg&#039;s Streaming API</h1>
+			          <div>
+            <div class="horizontal-menu group"><a href="/blog">&lt;&lt; Back to Blog</a></div>          </div>
+          	<div>
+  <div class="post-thumbnail">
+    <div class="picture">
+  <a href="http://digg.com/lethain"><img src="http://developers.diggstatic.com/serve/usericon/1659849/l" alt="lethain" title="lethain"  class="user-picture" /></a></div>
+  </div>
+    <div class="group">
+        <div class="post-meta">
+              <span>Submitted by <a href="http://digg.com/lethain" title="View profile">Will&nbsp;Larson</a> on October 29, 2010 - 1:05pm</span>
+            <div>
+      <ul class="links inline"><li class="taxonomy_term_1 first last"><a href="/blog/company" rel="tag" title="The official Digg blog for company updates, research, new features and all kinds of other stuff in, on, around and about Digg.">Company</a></li>
+</ul>    </div>
+      </div>
+    <div class="post-body">
+    <p>Digg has had an API for a while now, and we've learned quite a few important lessons along the way. In particular, two of these lesson have stood out. First, external developers will surprise us with their creativity time and time again. Second, it's impossible for that amazing creativity to innovate if our API's  functionality always trails the functionality on our site.</p>
+<p>Today we're releasing a new API feature which we hope will ease the process of using Digg's data, and also freeing developers to model and store the data however they want. As such, we're excited to announce the Digg Streaming API.
+</p>
+<p>Our Streaming API provides any developer with full access to a real-time stream of all submissions, Diggs and comments occurring on our site. You can connect to the stream via client side JavaScript, or you can setup a script to pull all our content into your own databases to expose however you want.
+</p>
+<p>If you've used <a href="http://dev.twitter.com/pages/streaming_api">Twitter's Streaming API</a> then you already understand the opportunity that awaits. If not, we're pretty sure that if you spend a few minutes playing around with the API that you'll find your curiosity sparked.
+</p>
+<h2>Using the API</h2>
+<p>The simplest way to get started with the Digg Streaming API is just follow this link <a href="http://services.digg.com/2.0/stream?types=comment&amp;return_after=10">http://services.digg.com/2.0/stream?types=comment&amp;return_after=1</a>. After a moment or two a comment should have shown up. The API is documented on <a href="http://developers.digg.com/version2/stream">developers.digg.com</a>, but let's take a look at the different supported parameters:
+</p>
+<ol>
+<li>
+     <em>return_after</em> indicates the number of events after which to close the connection. By default the value is unlimited, unless you specify <em>format=javascript</em>, which forces the number of events to be 1 (to support JSON-P, more on that below).
+ </li>
+<li>
+     <em>types</em> specifies the type of events to include in the event stream, and should be a comma-separated list containing these values "digg", "submission" and "comment". By default streams receive all three kinds of events.
+ </li>
+<li>
+     <em>format</em> determines the format of responses, and may be one of "json", "javascript" or "event-stream". If format is "javascript", then you must also specify the parameter "callback" with the name of the JavaScript function to wrap the response in (also note that if format is "javascript" then "return_after" is forced to have a value of 1). "event-stream" is an <a href="http://www.w3.org/TR/eventsource/">exciting format</a> which allows some modern browsers to interact with streams of data (older browsers will have to rely on JSON-P and long-polling).
+ </li>
+</ol>
+<p>
+<h4>To help you get started, we've put together a couple of examples:</h4>
+</p>
+<ol>
+<li>
+     <a href="http://tigris.duruk.net">a streaming example using web-sockets</a> by <a href="http://twitter.com/cduruk">Can Duruk</a>, with <a href="http://github.com/cduruk/tigris">the code available on Github</a>
+ </li>
+<li>
+     an <a href="http://andrew.hedges.name/widgets/#diggstream">OS X Dashboard Widget</a> by <a href="http://twitter.com/segdeha">Andrew Hedges</a>
+ </li>
+<li>
+     and two examples, <a href="http://github.com/lethain/digg-streaming">Python loading Digg Streaming API data into Redis and a Chrome browser extension</a> by <a href="http://twitter.com/lethain">Will Larson.</a>
+ </li>
+</ol>
+<p>
+<h5>As always, if you have any issues with our API, please contact us on the <a href="http://groups.google.com/group/diggapi">DiggAPI  forum on GoogleGroups</a>.</h5>
+</p>
+<h2>Our Implementation</h2>
+<p>To round out this post we wanted to discuss the implementation behind the Digg Streaming API.  From development until deployment, the project took only a couple of days, and that's really a testament to the versatility of open source software these days. In particular, our API servers all run <a href="http://www.tornadoweb.org/">Tornado</a>, the asynchronous HTTP server used originally by Friendfeed, and collecting and distributing the notifications is handled by <a href="http://code.google.com/p/redis/">Redis</a>.
+</p>
+<p>As each event comes into our system, we publish them to a Redis queue corresponding to the event type. Every Tornado process (we run at least one per core per server for the machines which serve the API) subscribes to the Redis queues for every event type, so each process will receive a notification for every event. Upon receiving the event, the process will check if it has any connected subscribers listening for that event type, and if so will send the notification down the existing connection to the client in the appropriate JSON/JSON-P/Event-Stream format.
+</p>
+<p>And then, well, no, I guess that's really all there is to it. All in all, it may be a neat experience but underneath is a very simple implementation. We're looking forward to seeing what amazing ideas the Digg Streaming API helps bring to fruition, and again, please let us know if you run into an issues by contacting us on the <a href="http://groups.google.com/group/diggapi">DiggAPI  GoogleGroup</a>.
+</p>
+<p>Thanks,</p>
+<p>WIll</p>
+<div class="digg_button" style="float: left; padding-right: 5px; "><a href="http://digg.com/submit?url=http%3A%2F%2Fabout.digg.com%2Fblog%2Fintroducing-diggs-streaming-api&amp;title=Introducing+Digg%27s+Streaming+API" rel="external" rev="news, tech_news" class="DiggThisButton DiggCompact"><span style="display: none;">Digg has had an API for a while now, and we've learned quite a few important lessons along the way. In particular, two of these lesson have stood out. First, external developers will surprise us with their creativity time and time again....</span></a></div>  </div>
+  </div>
+<div id="comment-wrapper">
+  <h3 class="item-list-title"><a href="http://digg.com/news/technology/introducing_digg_s_streaming_api_digg_about" class="story-permalink">Top Comments on Digg</a></h3><ul class="comment-list item-list"><li class="relative comment-row first"><div class="comment-owner indent"><a href="http://digg.com/lethain">lethain</a></div><div class="comment-text indent"><a href="http://digg.com/news/technology/introducing_digg_s_streaming_api_digg_about/20101029210702:ceb859278e0d4a33bb09b45113125a8f#20101029210702:ceb859278e0d4a33bb09b45113125a8f" class="comment-permalink">Check out http://tigris.duruk.net/ as a great example!</a></div><div class="image-left digg-counts"><a href="http://digg.com/news/technology/introducing_digg_s_streaming_api_digg_about/20101029210702:ceb859278e0d4a33bb09b45113125a8f#20101029210702:ceb859278e0d4a33bb09b45113125a8f" class="comment-permalink">52</a></div></li>
+<li class="relative comment-row"><div class="comment-owner indent"><a href="http://digg.com/grafenberg">grafenberg</a></div><div class="comment-text indent"><a href="http://digg.com/news/technology/introducing_digg_s_streaming_api_digg_about/20101030061240:89723df81f1249a4bc4de829d6939d2a#20101030061240:89723df81f1249a4bc4de829d6939d2a" class="comment-permalink">Wow, now we can watch in real time as bots abuse and game the system to promote stories to the FP. 
+
+I just watched http://digg.com/avonjobsuk digg 30 stories in like 4 seconds.</a></div><div class="image-left digg-counts"><a href="http://digg.com/news/technology/introducing_digg_s_streaming_api_digg_about/20101030061240:89723df81f1249a4bc4de829d6939d2a#20101030061240:89723df81f1249a4bc4de829d6939d2a" class="comment-permalink">16</a></div></li>
+<li class="relative comment-row"><div class="comment-owner indent"><a href="http://digg.com/davidtc">davidtc</a></div><div class="comment-text indent"><a href="http://digg.com/news/technology/introducing_digg_s_streaming_api_digg_about/20101029210702:ceb859278e0d4a33bb09b45113125a8f#20101030031243:6d5a1f70f09342669918f05c60602142" class="comment-permalink">It&#039;s funny to see.
+
+http://i.imgur.com/Xdht0.jpg
+
+Nope, no blind digging problem at all. Pretty sad it took about 10 seconds to see it in action.</a></div><div class="image-left digg-counts"><a href="http://digg.com/news/technology/introducing_digg_s_streaming_api_digg_about/20101029210702:ceb859278e0d4a33bb09b45113125a8f#20101030031243:6d5a1f70f09342669918f05c60602142" class="comment-permalink">14</a></div></li>
+<li class="relative comment-row"><div class="comment-owner indent"><a href="http://digg.com/cduruk">cduruk</a></div><div class="comment-text indent"><a href="http://digg.com/news/technology/introducing_digg_s_streaming_api_digg_about/20101029210702:ceb859278e0d4a33bb09b45113125a8f#20101029212125:50951357057c46fe879472593f63ec2d" class="comment-permalink">Mind, blown.</a></div><div class="image-left digg-counts"><a href="http://digg.com/news/technology/introducing_digg_s_streaming_api_digg_about/20101029210702:ceb859278e0d4a33bb09b45113125a8f#20101029212125:50951357057c46fe879472593f63ec2d" class="comment-permalink">13</a></div></li>
+<li class="relative comment-row last"><div class="comment-owner indent"><a href="http://digg.com/ltgenpanda">ltgenpanda</a></div><div class="comment-text indent"><a href="http://digg.com/news/technology/introducing_digg_s_streaming_api_digg_about/20101029215107:e66adf324dfc4870be301da7b210d0d9#20101029215107:e66adf324dfc4870be301da7b210d0d9" class="comment-permalink">Thanks Will for this! You promised that something exciting was coming this week and it is indeed! This certainly removes a LOT of limitations existing on the  rest of the API. 
+
+Is there any plans to increase the limitations on the total count of items returned by rest of the API? As you know, we cannot use the stream to &quot;catch-up&quot; on the old events we missed, and if the events we missed are beyond the limit imposed by the total count on the various methods, it becomes impossible to discover them. For example, last time I checked -- getTopNews would only give 445 ish stories, so I had to add a topic argument and get 10 sets of 445ish stories. Here again, topics with less activity bring very old stories while very active topics bring very less. So, after establishing a highest possible minimum (oldest) date from the 10 sets, stories older than that date had to weeded out, to maintain the consistency across the various topics. In-spite of all of these, only about 25 or so days worth of stories were discoverable.</a></div><div class="image-left digg-counts"><a href="http://digg.com/news/technology/introducing_digg_s_streaming_api_digg_about/20101029215107:e66adf324dfc4870be301da7b210d0d9#20101029215107:e66adf324dfc4870be301da7b210d0d9" class="comment-permalink">12</a></div></li>
+</ul></div>
+</div>
+      </div>
+
+    </div>
+
+    <div id="footer" class="group">
+      <a class="footer-logo">Digg About</a>
+      <ul><li class="menu-10749 first"><a href="/about" title="">About Digg</a></li>
+<li class="menu-10750"><a href="/advertiser" title="">Advertise</a></li>
+<li class="menu-10751"><a href="/partnership" title="">Partners</a></li>
+<li class="menu-10752"><a href="/developers" title="">API &amp; Resources</a></li>
+<li class="menu-10753"><a href="/blog" title="">Blogs</a></li>
+<li class="menu-10754"><a href="/contact" title="">Contact Us</a></li>
+<li class="menu-10756"><a href="/faq" title="">Help &amp; FAQ</a></li>
+<li class="menu-10757"><a href="/terms-use" title="">Terms of Service</a></li>
+<li class="menu-10755"><a href="http://jobs.digg.com" title="">Jobs</a></li>
+<li class="menu-10758"><a href="/privacy" title="">Privacy</a></li>
+<li class="menu-10759 last"><a href="/community-guidelines" title="">Community Guidelines</a></li>
+</ul>    </div>
+
+    <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-15265884-1");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+    <script type="text/javascript" src="http://developers.diggstatic.com/files/js/js_16a053e9af25a90d7ce3191e9ec8d72f.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "CTools": { "pageId": "page-2023a402dce89b5450d607833b435006" }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+    Drupal.behaviors.diggLightbox = function (context) {
+      $('a.lightbox', context).fancybox({
+        'hideOnContentClick': false,
+        'zoomSpeedIn':  100,
+        'zoomSpeedOut': 50,
+        'width': 860,
+        'height': 525,
+        'overlayShow': true,
+        'overlayOpacity': 0.75,
+        'callbackOnClose': function() {
+          $('#fancy_content').empty();
+        },
+       });
+    };
+    
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      Drupal.behaviors.reloadInvites = function (context) {
+        $('.token-reload', context).click(function () {
+          $.getJSON($(this).attr('href'), function (data) {
+            if (data.error_code) {
+              $('.token-reload').replaceWith('<div class="messages error">' + data.error + '</div>');
+            }
+            else {
+              status = 'Follow+us+on+Digg!+' + data.link;
+              html = '<strong>Here is your link:</strong> <p class="code-snippet">' + data.link + '</p><ul><li><div class="group"><a href="http://www.twitter.com/home?source=Digg&status=' + status + '" class="btn btn-default">Tweet This</a></div><li><br /><strong>Blog This</strong><p class="form-text">I\'d like to invite all my readers to join me on the new Digg! Use this access code to get early access to the alpha site: ' + data.link + '</p></ul>';
+              $('.token-reload').replaceWith(html);
+            }
+        });
+        return false;
+      });
+    };
+    
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+
+  </body>
+</html>

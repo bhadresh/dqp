@@ -1,0 +1,586 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Google Gadgets:&nbsp;
+Gmail</title>
+<link href="/desktop/styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+a.selected {
+  font-weight: bold;
+  color: #666;
+  text-decoration: none;
+}
+
+p#nav {
+  line-height: 1.4em;
+}
+
+table.gadget {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+table.gadget td img {
+  border: 1px solid #000;
+  margin: 4px 0px;
+}
+
+body {
+  margin-top: 0px;
+}
+
+table.gadget td input {
+  font-size: 11px;
+  width: 82px;
+}
+
+table.header {
+  margin-bottom: 10px;
+}
+
+table.header h3 {
+  margin-bottom: 0px;
+}
+
+table.header hr {
+  color: #ccc;
+  background-color: #ccc;
+  border-bottom: 1px solid #ccc;
+  height: 1px;
+  margin-top: 0px;
+}
+
+.disclaimer {
+  color: #999;
+}
+
+div.errorheader {
+  color: red;
+  font-weight: bold;
+}
+
+div.errormsg {
+  color: red;
+}
+
+td.button-left {
+  width: 6px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-left_sm.gif');
+  background-repeat: none;
+}
+
+td.button-center {
+  padding-left: 10px;
+  padding-right: 14px;
+  padding-bottom: 3px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-center_sm.gif')
+    ;
+  background-repeat: repeat-x;
+}
+
+td.button-center a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: arial;
+  padding-bottom: 6px;
+}
+
+td.button-right {
+  width: 9px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-right_sm.gif');
+  background-repeat: none;
+}
+
+.linkon {
+  color: #0000cc;
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: normal
+}
+
+.linkoff {
+  font-weight: bold
+}
+
+.review_author {
+  font-weight: bold
+}
+
+td.download-button-left {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_left.gif');
+  background-repeat: none;
+}
+
+td.download-button-center {
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  height: 22px;
+  background: url('/images/add_button_middle.gif');
+  background-repeat: repeat-x;
+}
+
+td.download-button-center a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
+
+td.download-button-right {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_right.gif');
+  background-repeat: none;
+}
+
+.similar-gadget {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.screenshot-image {
+  border: 1px solid #bbcced;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+pre.terms {
+  height:200;
+  width:600;
+  overflow: auto;
+  border-style:inset;
+  border-color:graytext;
+  border-width: thin;
+  text-wrap: unrestricted;
+  white-space: -moz-pre-wrap; /* Moz */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  white-space: pre-wrap; /* CSS3  */
+  word-wrap: break-word; /* IE 5.5+ */
+}
+
+table.confirmation-table td {
+  vertical-align: top;
+}
+
+.gadgetError {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FBE3E4;
+  color: #D12F19;
+  border-color: #FBC2C4;
+}
+
+.gadgetWarning {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FFF6BF;
+  color: #817134;
+  border-color: #FFD324;
+}
+
+</style>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+<script type="text/javascript">
+    _uacct="UA-18007-1";
+    _uanchor=1;
+    urchinTracker();
+  </script></head>
+<body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><a href="/?hl=en"><img src="/en/images/logo3.gif" border="0" height="55" vspace="12" width="150" alt="Google Desktop"></a></td>
+<td width="100%" style="padding-left:12px;padding-top:12px;" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="right" nowrap><font face="Arial, sans-serif" size="-1"><a href="https://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/gmailgadget.html">Sign In</a></font></td></tr>
+<tr><td><img alt="" width="1" height="1"></td></tr></table>
+<table cellpadding="0" cellspacing="0" width="100%"><tr><td bgcolor="#3399cc"><img alt="" height="1" width="1"></td></tr></table>
+<table cellspacing="0" cellpadding="2" border="0" width="100%"><tr><td bgcolor="#e8f4f7">&nbsp;
+<font size="3"><b>Google Gadgets</b></font></td></tr></table></td></tr></table>
+<table cellspacing="0" width="100%"><tr valign="top"><td><td nowrap valign="top" width="160"><p id="nav"><font size="-1">Google Gadgets
+<br>
+
+&nbsp;&nbsp;&bull;
+<a href='/plugins/?hl=en'>All</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/news.html?hl=en'>News</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/tools.html?hl=en'>Tools</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/communication.html?hl=en'>Communication</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/finance.html?hl=en'>Finance</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/fun_games.html?hl=en'>Fun & Games</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/google.html?hl=en'>Google</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/sports.html?hl=en'>Sports</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/lifestyle.html?hl=en'>Lifestyle</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/technology.html?hl=en'>Technology</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href="/plugins/c/sidebar/holiday.html?hl=en"><b><font color="red">Holidays</font></b></a>
+<br>
+<br>
+<a href='/plugins/c/index/all.html?hl=en'>Indexing Plugins</a>
+<br>
+<br>
+<br>
+<a href="http://groups.google.com/group/Google-Desktop">Desktop Search Forum</a></font></p>
+<p><font size="-1"><b>For Developers</b>
+<br>
+
+&nbsp;&nbsp;
+<a href='/downloadsdksubmit?hl=en'>Download SDK</a><br>
+&nbsp;&nbsp;
+<a href="/dev/index.html">Developer Guide</a><br>
+&nbsp;&nbsp;
+<a href="/dev/kb.html">FAQ</a><br>
+&nbsp;&nbsp;
+<a href='/pluginsubmit?hl=en'>Submit Software</a><br>
+
+&nbsp;&nbsp;
+<a href="http://groups.google.com/group/Google-Desktop-Developer">Developer Forum</a><br>
+&nbsp;&nbsp;
+<a href='/authors?hl=en'>Hall of Fame</a><br>
+&nbsp;&nbsp;
+<a href='/ambassadors?hl=en'>Ambassadors</a> <br>
+<br>
+<br>
+<br>
+<img src="/images/rss_small.gif" alt="RSS Feed for Latest Gadgets">
+<a href="/feeds/gadgets.xml?hl=en&amp;type=rss" type="application/rss+xml">Latest Gadgets</a>
+<br>
+<br>
+<br>
+<br></font></p></td>
+<td id="dots" width="10"></td></td>
+<td><table><tr style="height:10px;"></tr>
+<tr id="gadgetDetails"><td id="gadgetImage" valign="top" align="center"><img alt="Gmail" src="/plugins/images/GmailGadget.gif" class="screenshot-image"></td>
+<td id="gadgetDetails" valign="top"><h3>Gmail</h3>
+Gmail on your desktop
+<br>
+<p>
+<a href="http://groups.google.com/group/Google-Desktop">Discuss this gadget</a></p>
+<table cellpadding="2" cellspacing="2"><tr><td><strong>Author:</strong></td>
+<td>Google</td></tr>
+<tr><td><strong>Size:</strong></td>
+<td>84KB</td></tr>
+<tr><td><strong>Version:</strong></td>
+<td>1.0.0.4</td></tr>
+<tr><td><strong>Date:</strong></td>
+<td>November 14, 2008</td></tr></table>
+<p><b>This gadget requires  <a href="http://desktop.google.com?hl=en"> Google Desktop  5  or above. </a></b></p>
+<div style="width: 250;"><table cellpadding="0" cellspacing="0"><tr><td class="button-left"></td>
+<td class="button-center"><a href="/url?id=gmailgadget">Download gadget</a></td>
+<td class="button-right"></td></tr></table></div>
+</td></tr>
+<tr id="reviewsAndComments"><td valign="top" colspan="2"><script type="text/javascript" src="/gadgetComments.js">
+</script>
+<div style="min-width: 600; max-width: 800"><table width="100%"><tr><td><span id="commentsSpan" class="linkoff">Reviews</span></td>
+<td align="right">
+
+<a href="http://desktop.google.com/plugins/i/gmailgadget.html?start=20">Next &raquo;</a></td></tr></table>
+<hr size="1" noshade>
+<a href="http://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/gmailgadget.html">Sign in</a> to write a comment
+<br><br>
+<div id="comments">
+
+<table id="review 1" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Brandon</b>
+&nbsp;</td>
+<td><div id="abuse1" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=vCHTGjguO3R_NWOq1XrV6GdAWmbdkzk_TgAAADCgaHsqbzOTvWZidN35I5LJzWbJGLPW-mOoeBIJ0SV-k2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajRAJG9ZqRfe5aoRX2J_bJC&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Wish it showed your signature correctly. It shows it as quoted text. Also wish there was some sort of notification. Either a tone it would play or a pop up window. Both would be ideal.
+<br>
+<br> <table id="review 2" cellpadding="0" cellspacing="0"><tr>
+<td><b>mingyuan</b>
+&nbsp;</td>
+<td><div id="abuse2" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=SG53iBdLYcqQy4lgy3a83UHUW3_dkzk_TgAAAESVgvbp8sIyq4PbPijD4hbNN6iRkK503f4NVGXl9-uOk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagQ5DD_OPQRwaagRI9ei4wi&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+When you compose mail with this gadget, your signature will not show in the email
+<br>
+<br> <table id="review 3" cellpadding="0" cellspacing="0"><tr>
+<td><b>keke</b>
+&nbsp;</td>
+<td><div id="abuse3" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=AIvrJJ7HZ_alv4ihcXYG76B_LBLdkzk_TgAAAFn_SY6VxzqAHus-iV1unpbOfFQ2rGS-H_58W42J_2Eak2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmaiZdJydAaTgvZupopVSO3np&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+it is really good. but one problem. how to upload the files if in need? and it is right cnant do refrse it self.  need hand work . not so much good this one 
+<br>
+<br> <table id="review 4" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Mark</b>
+&nbsp;</td>
+<td><div id="abuse4" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=QVki8Z1xHPeqtNcw_9CgBw1_9O_dkzk_TgAAAIBdwH5vsurIJVJLt11S1Zy0XmEhUF66GO8aWUqANtKqk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmaixKZojIYexDl_oRKMVD7BX&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+The gadget seems to be trying to be a fully functioned email interface when all I want is to be alerted of new mail.
+
+I&#39;d like an option to remove my name, the &#39;inbox&#39; title and message count/scroll line in order to save some screen real estate.
+
+Also, it &#39;flashes/blinks&#39; when it updates which is distracting.
+<br>
+<br> <table id="review 5" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse5" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=E1wO7mRQF9Ajeq1V5q9poSimnTTdkzk_TgAAAOohhwyh2Fe4COmrUNkiAbVwmSTP3my71a6Up3mz54mFk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmah4M9pg0KHSGQY4pH4X09xt&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+How do you scroll down? What good is this thing?
+<br>
+<br> <table id="review 6" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse6" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=ozZbrNxf5E6v3K1CUFbI0NJW1Sjdkzk_TgAAALp9HUZoOi-qjdjNBEm2jv9yu_XELK13eMNg13ek6FHwk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajepzE2sRZmQSlaLc7d8S55&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+helps me out a lot thank u 
+<br>
+<br> <table id="review 7" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse7" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=OPeTTjTUnoExYSQjxGnsD-4ofVvdkzk_TgAAAIBdwH5vsurIJVJLt11S1ZyJY9rwXaKCJdzPAC9gZXsMk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmai4RcRfC1MN95uDCFtU3xTm&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Excellent gadget! A lot more functional than others I&#39;ve tried. (If only there was a Twitter gadget this good!) My only suggestion would be having the ability to move messages to folders.
+<br>
+<br> <table id="review 8" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Erica</b>
+&nbsp;</td>
+<td><div id="abuse8" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=4LZSYRE1n1HYvqe6ytNjZYWGfVLdkzk_TgAAAG5q8TcNm0rPrbcTIGEuiRvsVknU7jdiDbsMDXGTsEfMk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagSQPh1jgAiWKDKm9KhhV_u&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I Love this gadget, if only it would let me download it!
+<br>
+<br> <table id="review 9" cellpadding="0" cellspacing="0"><tr>
+<td><b>Nirvana</b>
+&nbsp;</td>
+<td><div id="abuse9" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=AxsuHMeeE_2-B_-JMpDuH_MddAvdkzk_TgAAAMgcMkEIudNMoRCRGsMXKfPyDqWDcjzUUEEFf7itzPKek2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmag009lilpH8Xbs9HZ6uCrCG&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+how to attach the files with this gadget
+<br>
+<br> <table id="review 10" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Dominic</b>
+&nbsp;</td>
+<td><div id="abuse10" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=BvkZHVHFlICPXQQ5_eag30uFAyfdkzk_TgAAALB3huRIFem81kRXB8QiVV_yhsGxTwMEXiPT4zkDpjNik2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmah-tVHzwhapz89tZ5TmZ1jG&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Love this one. Simple and easy to use. No need to open any browser, it does it all in a brilliant way. The only missing feature as rajeesh identified is the fact that the images cannot be downloaded in the messages. If this would be added, I&#39;d give it 5 stars.
+<br>
+<br> <table id="review 11" cellpadding="0" cellspacing="0"><tr>
+<td><b>rajeesh</b>
+&nbsp;</td>
+<td><div id="abuse11" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=_Y3r-UzfBE8aAAtJR8mTKVGAR6Xdkzk_TgAAAJh402dLYBjdVwP8PYjBFt4CdcAy-dE2ZuYD4i04h2SBk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajF1cBVUPzMXljbOTU8WssV&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+how to show images in our mail (throuh this gadget) 
+<br>
+<br> <table id="review 12" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse12" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=VeMWD8F2XaY0c3DBpf5vOFo3JsDdkzk_TgAAADCgaHsqbzOTvWZidN35I5LW8MmjtwpwEEyvcqSfxeAyk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajGNp3-OVDpJ3i8T3-EK2jS&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#12513;&#12540;&#12523;&#12450;&#12489;&#12524;&#12473;&#12363;&#12425;&#12450;&#12489;&#12524;&#12473;&#24115;&#12398;&#21517;&#21069;&#12434;&#34920;&#31034;&#12375;&#12390;&#12367;&#12428;&#12383;&#12425;&#12356;&#12356;&#12398;&#12395;&#12392;&#24605;&#12356;&#12414;&#12377;&#12290;
+&#12354;&#12392;&#12289;&#12521;&#12505;&#12523;&#12398;&#30331;&#37682;&#12364;&#12391;&#12365;&#12394;&#12356;&#12398;&#12418;&#19981;&#20415;&#12384;&#12394;&#12392;&#12290;
+<br>
+<br> <table id="review 13" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse13" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=fVqskwQ90Ok7wbYx098tRbvgET3dkzk_TgAAADByBjHmSTQl5Er2xPnD0hRA6SQz7FalqpVPR04dXrpok2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmai4e-1aosiIyBL5KIMSHOXR&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+you can&#39;t chat which is really a downside or does anyone know how?
+<br>
+<br> <table id="review 14" cellpadding="0" cellspacing="0"><tr>
+<td><b>god</b>
+&nbsp;</td>
+<td><div id="abuse14" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=hnzlXDAQX_EgW49unmKntrTzsnvdkzk_TgAAALB3huRIFem81kRXB8QiVV-4smBxoKuBZFz146yzAJssk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmai7-B9ZQi_boa69H2VzMcul&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#27809;&#26377;&#20013;&#25991;
+<br>
+<br> <table id="review 15" cellpadding="0" cellspacing="0"><tr>
+<td><b>shifei</b>
+&nbsp;</td>
+<td><div id="abuse15" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=449wQWKqdFMkUl5VHqMaftAMksvdkzk_TgAAANikjPRBRdP3Ln2R1TjG54bl2BHXXYXd-JpVSJVtQpJuk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmaiVFKdUPGqR4Q3qQobkldQz&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#22909;&#20687;&#37038;&#20214;&#19981;&#33021;&#21450;&#26102;&#25910;&#21040;&#26700;&#38754;&#24037;&#20855;&#65292;&#37117;&#35201;&#21047;&#26032;&#12290;
+<br>
+<br> <table id="review 16" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Justin</b>
+&nbsp;</td>
+<td><div id="abuse16" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=7fctxhbN0jpmnnFmTn8jH-dg25Ldkzk_TgAAAPwKvpra1-64rU19tESh6QSjj_El9Jrql2o1sxpEpkXCk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmaiMSOnxgeB6j1FCH6sZ8ojH&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I have multiple Gmail accounts, so I have more than one Gmail gadget. I would like to be able to change the heading to something other than &quot;username&quot;. Otherwise, love this gadget.
+<br>
+<br> <table id="review 17" cellpadding="0" cellspacing="0"><tr>
+<td><b>Tony</b>
+&nbsp;</td>
+<td><div id="abuse17" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=brLN8vMC2_7qK1tKOEOu--cYupTdkzk_TgAAAKmxl-h-SBY4m9r8OaURH5vP2zodkvbC84EO13cCl8tLk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmahg7eRoGme7qKfhl36i_ymv&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Love this gadget but it needs to refresh for incoming email
+<br>
+<br> <table id="review 18" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>insider</b>
+&nbsp;</td>
+<td><div id="abuse18" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=4KXzb4nseeEYzd_eIxeF8-M9L3Ldkzk_TgAAADByBjHmSTQl5Er2xPnD0hSwR81Z9y_ZYvzsMPT9Iupbk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmajvx4izh_e61r53TmPNDP5D&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#1054;&#1090;&#1083;&#1080;&#1095;&#1085;&#1099;&#1081; &#1075;&#1072;&#1076;&#1078;&#1077;&#1090;!!!
+&#1055;&#1086;&#1078;&#1077;&#1083;&#1072;&#1085;&#1080;&#1103; &#1082; &#1076;&#1072;&#1083;&#1100;&#1085;&#1077;&#1081;&#1096;&#1077;&#1081; &#1088;&#1072;&#1079;&#1088;&#1072;&#1073;&#1086;&#1090;&#1082;&#1077;:
+1. &#1042;&#1086;&#1079;&#1084;&#1086;&#1078;&#1085;&#1086;&#1089;&#1090;&#1100; &#1086;&#1090;&#1084;&#1077;&#1095;&#1072;&#1090;&#1100; &#1085;&#1077;&#1089;&#1082;&#1086;&#1083;&#1100;&#1082;&#1086; &#1089;&#1086;&#1086;&#1073;&#1097;&#1077;&#1085;&#1080;&#1081; &#1076;&#1083;&#1103; &#1074;&#1099;&#1087;&#1086;&#1083;&#1085;&#1077;&#1085;&#1080;&#1103; &#1089; &#1085;&#1080;&#1084;&#1080; &#1088;&#1072;&#1079;&#1083;&#1080;&#1095;&#1085;&#1099;&#1093; &#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1080;&#1081;;
+2. &#1044;&#1086;&#1073;&#1072;&#1074;&#1080;&#1090;&#1100; &#1082;&#1085;&#1086;&#1087;&#1082;&#1080; &quot;&#1089;&#1087;&#1072;&#1084;&quot; &#1080; &quot;&#1091;&#1076;&#1072;&#1083;&#1080;&#1090;&#1100;&quot; &#1074; &#1086;&#1082;&#1085;&#1086; &#1087;&#1088;&#1086;&#1089;&#1084;&#1086;&#1090;&#1088;&#1072; &#1089;&#1086;&#1086;&#1073;&#1097;&#1077;&#1085;&#1080;&#1081;;
+3. &#1055;&#1077;&#1088;&#1077;&#1074;&#1086;&#1076; &#1080;&#1085;&#1090;&#1077;&#1088;&#1092;&#1077;&#1081;&#1089;&#1072; &#1085;&#1072; &#1076;&#1088;&#1091;&#1075;&#1080;&#1077; &#1103;&#1079;&#1099;&#1082;&#1080;, &#1074; &#1090;&#1086;&#1084; &#1095;&#1080;&#1089;&#1083;&#1077; &#1085;&#1072; &#1088;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;.
+<br>
+<br> <table id="review 19" cellpadding="0" cellspacing="0"><tr>
+<td><b>Chen</b>
+&nbsp;</td>
+<td><div id="abuse19" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=H7U15atYnHXWYfzoooYk-kxzF93dkzk_TQAAAKCIO6VCgEe_mFK2J2iILPoX5nJn65cU5CWQSmhNU3_XdMNA4Gj4aAEtwM81PGOiQqvEXjnNgJGbm8MLxB8_h2_Y0d1ZsGsJlwwJVuDEllsm&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+why can&#39;t send email with attached files
+<br>
+<br> <table id="review 20" cellpadding="0" cellspacing="0"><tr>
+<td><b>van</b>
+&nbsp;</td>
+<td><div id="abuse20" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=3nFOg0O0dUKIYP5-oESAMhKIANvdkzk_TgAAADCgaHsqbzOTvWZidN35I5JN0PPQa6sEHEn0Yp883JEdk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmahoHPtAS--bwjio_8mKmnxQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+like my tool bar,but every time i log off all my gadgets, disappear and others are their ,how can i maintain that all gadgets will remain. 
+<br>
+<br>
+<div align="right">
+
+<a href="http://desktop.google.com/plugins/i/gmailgadget.html?start=20">Next &raquo;</a></div></div>
+<form action="/submitcomment" method="POST" name="commentForm" id="commentForm"><div id="writeComment" style="display:none"><table><tr><td valign="top">Rate gadget:</td>
+<td><table cellspacing="0" cellpadding="0"><tr><td><img alt="" src="/images/rateStarsLeft.gif"></td>
+<td><img alt="" id="star1" src="/images/rateStarOff.gif" onclick="setStars(1)" onmouseover="showStars(1)" onmouseout="showStars()"></td>
+<td><img alt="" id="star2" src="/images/rateStarOff.gif" onclick="setStars(2)" onmouseover="showStars(2)" onmouseout="showStars()"></td>
+<td><img alt="" id="star3" src="/images/rateStarOff.gif" onclick="setStars(3)" onmouseover="showStars(3)" onmouseout="showStars()"></td>
+<td><img alt="" id="star4" src="/images/rateStarOff.gif" onclick="setStars(4)" onmouseover="showStars(4)" onmouseout="showStars()"></td>
+<td><img alt="" id="star5" src="/images/rateStarOff.gif" onclick="setStars(5)" onmouseover="showStars(5)" onmouseout="showStars()"></td>
+<td><img alt="" src="/images/rateStarsRight.gif"></td></tr></table></td></tr>
+<tr><td valign="top">Your name:</td>
+<td><b></b>
+&nbsp;
+<input type="checkbox" name="anonymous" value="true" id="anonymous">
+Anonymous</td></tr>
+<tr><td valign="top">Comments:</td>
+<td><textarea name="reviewText" rows="4" cols="25" id="reviewText" style="border: 1px solid #bbcced"></textarea></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="rating" value="0" id="rating" style="display:none;">
+<input type="hidden" name="pluginId" value="gmailgadget" id="pluginId">
+<input type="submit" value="Post Comment">
+<input type="reset" value="Discard" onclick="showComments()"></td></tr>
+<tr style="height:20px;"></tr></table></div></form>
+<div id="abuseLinkDiv"></div></div></td></tr></table></td>
+<td id="recommendations"><b>You might also like...</b>
+<hr noshade size="1">
+<table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/gmailicon_codenamema.html?hl=en"><img alt="GMail Icon" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/gmailicon_codenamema_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/gmailicon_codenamema.html?hl=en">GMail Icon</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=gmailicon_codenamema">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/gmailsms_fwd.html?hl=en"><img alt="GMail to SMS Forwarder" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/gmailsms_fwd_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/gmailsms_fwd.html?hl=en">GMail to SMS Forwarder</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=gmailsms_fwd">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/gmailnotifier.html?hl=en"><img alt="Gmail Notifier" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/gmailnotifier_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/gmailnotifier.html?hl=en">Gmail Notifier</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=gmailnotifier">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/gmail.html?hl=en"><img alt="Larry&#39;s Gmail Indexer" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/gmail_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/gmail.html?hl=en">Larry&#39;s Gmail Indexer</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=gmail">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/gmailspace_463.html?hl=en"><img alt="GMail Space Count" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/gmailspace_463_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/gmailspace_463.html?hl=en">GMail Space Count</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=gmailspace_463">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/urlmetrix_cumakt.html?hl=en"><img alt="URLmetrix desktop" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/urlmetrix_cumakt_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/urlmetrix_cumakt.html?hl=en">URLmetrix desktop</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=urlmetrix_cumakt">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table>
+<br>
+<br></td></tr>
+<tr><td colspan="5" align="center" id="footer">&copy;  2010  Google
+-
+<a href="/privacypolicy.html">Privacy Policy</a>
+-
+<a href="http://www.google.com/accounts/TOS?hl=en">Terms of Service</a>
+-
+<a href="/copyrights.html">Copyright Notices</a></td></tr></table></body></html>

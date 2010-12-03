@@ -1,0 +1,935 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+<script type="text/javascript">serverResponseTimeDelta=window.external&&window.external.pageT?window.external.pageT:-1;pageStartTime=new Date().getTime();</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Suggest a feature for Gmail - Gmail Help</title>
+<meta name="google-site-verification"
+content="l0nCskQHeO/C11y6qeq7ngDGZ0QVdN1hX7F4SGj3PHg=" />
+<link rel="icon" href="//www.google.com/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="http://mail.google.com/support/bin/resource/all.css?v=244_7" />
+<script type="text/javascript">
+var internal = 0;
+var hc_protocol = "http://";
+var hc_page_info = " static";
+var country = 'US';
+var countryGroup = 'Americas';
+var autoExpand = '';
+var global_error_general = "Sorry, we weren't able to submit your information. Please try again.";
+var hc_urchin = "UA-18500-28";
+var global_hc_bookmark = new Array("add","remove","toggle");
+global_hc_bookmark.add = new Array();
+global_hc_bookmark.remove = new Array();
+global_hc_bookmark.toggle = new Array();
+global_hc_bookmark["add"].url = "";
+global_hc_bookmark["add"].token = "";
+global_hc_bookmark["remove"].url = "";
+global_hc_bookmark["remove"].token = "";
+global_hc_bookmark["toggle"].url = "";
+global_hc_bookmark["toggle"].token = "";
+</script>
+<script
+src="//mail.google.com/support/bin/resource/js_variables.js?v=2&hl=en"
+type="text/javascript"></script>
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script
+src="//mail.google.com/support/bin/resource/search_util.js"
+type="text/javascript"></script>
+<script type="text/javascript">
+enableSearchSuggest("010027795882673884414:prd07c4ncak");
+</script>
+<script
+src="//mail.google.com/support/bin/resource/js_minified.js?v=64"
+type="text/javascript"></script>
+<script src='//www.google-analytics.com/ga.js'
+type='text/javascript'></script>
+<script type="text/javascript">
+var analytics_async = 0;
+</script>
+<script
+src="//mail.google.com/support/bin/resource/urchin_util.js?v=7"
+type="text/javascript"></script>
+<script type="text/javascript">
+var cookiePathArray = [];
+</script>
+<script type="text/javascript">
+urchinTracker('\x2Fsupport\x2Fbin\x2Fstatic.py?page=suggestions.cs\x26hl=en');
+</script>
+</head>
+<body onload="
+makeRequest('/support/bin/stats?r='+serverResponseTimeDelta+'&l='+(new Date().getTime()-pageStartTime)); 
+"
+dir="ltr"
+class=" static_page ltr lang_en show_leftnav other  other  modules_widescreen new-ui ">
+<a href="#content" class="skiplink">Skip to content</a>
+<div class="wrapper" id="baseDiv">
+<div class="one_google">
+<a href="https://www.google.com/accounts/Login?continue=http%3A%2F%2Fmail.google.com%2Fsupport%2Fbin%2Fstatic.py%3Fpage%3Dsuggestions.cs&/">Sign in</a>
+</div>
+<div id="hc_error"></div>
+<div class="header_wrapper">
+<table class="header">
+<tr><td class="logo">
+<a href="http://mail.google.com/?hl=en"
+onclick="track('Header', 'Logo')">
+<img src="//www.google.com/intl/en/help/hc/images/logos/gmail_logo.gif" alt="Google" height="40"  class="logo" />
+</a>
+</td><td class="header_right">
+<form name="search_form"
+id="search_form"
+title="Search Help"
+method="get" action="/support/bin/search.py"
+onsubmit="track('Search Help', document.getElementById('query').value);"
+class="">
+<input type="hidden" name="ctx" value="en:searchbox" />
+<input size="24"
+type="text" name="query"
+class="searchbox"
+autocomplete="off"
+title="Search"
+value=""
+id="query" />
+<input type="submit"
+value="Search Help" />
+</form>
+</td>
+</tr>
+</table>
+</div>
+<div class="header_bar">
+<h1>Gmail Help</h1>
+<div class="clear"></div>
+</div>
+<table class="layout" border="0"><tr>
+<td class="left_column">
+<ul class="leftnav">
+<li class="">
+<a href="http://mail.google.com/support/"
+onclick='track("Left Nav", "Help topics");'>Help articles</a>
+</li>
+<li class="forum">
+<a href="http://www.google.com/support/forum/p/Gmail?hl=en&utm_source=HC&utm_medium=leftnav&utm_campaign=gmail"
+onclick='track("Left Nav", "u2u");'>Help forum</a>
+</li>
+<li>
+<a onclick="track('Checklist 29487', 'Leftnav');setCookies_default('p13n_box_34_Checklist', 1, '','30');" href="/support/bin/static.py?page=checklist.cs">Gmail security checklist</a>
+<div class="progressbar-small">
+<div class="progress-green" id="cl-progress" style="width:0;">
+</div>
+</div>
+<span class="progress-cont">
+<strong id="cl-count">0</strong> of <strong>18</strong> items
+(<strong id="cl-pct"></strong>%)
+</span>
+</li>
+<li class="LeftNav_New first">
+<a href="http://mail.google.com/mail/help/about_whatsnew.html"  onclick="track('LeftNav', 'New');">What's New</a>
+</li>
+<li class="LeftNav_Blog">
+<a href="http://gmailblog.blogspot.com/?utm_source=us-en-gmnav&utm_medium=et&utm_content=gmnav"  onclick="track('LeftNav', 'Blog');">Gmail Blog</a>
+</li>
+<li class="LeftNav_Org">
+<a href="http://www.google.com/apps/intl/en/business/messaging.html#utm_medium=et&utm_source=gmail-en-hcnav"  onclick="track('LeftNav', 'Org');">For work or school</a>
+</li>
+<li class="LeftNav_Appstatus_Dashboard">
+<a href="http://www.google.com/appsstatus#hl=en"  onclick="track('LeftNav', 'Appstatus_Dashboard');">Gmail service status</a>
+</li>
+</td>
+<td class="content new-ui">
+<div class="inner_content">
+<p class="breadcrumbs">
+<a href="http://mail.google.com/?hl=en">Gmail</a>
+&rsaquo;
+<a href="http://mail.google.com/support/">Help articles</a>
+&rsaquo; Suggest a feature for Gmail
+&nbsp;</p>
+<div id="hcError" style="display:none"></div>
+<a name="content"></a>
+<div id="page-content">
+<div id="zippy-dropdown-container"
+class="zippy-dropdown-container-hide"></div>
+<script type="text/javascript">
+function report_suggestion(issue, bucket) {
+setCookies_default(issue,"1","","1"); 
+new_location = '?page=suggestions.cs&issue='+issue+'&bucket='+bucket;
+window.location.href = new_location;
+}
+</script>
+<div class="votepage">
+<h2>Suggest a feature for Gmail</h2>
+<p><p>Thank you for taking an interest in the development of Gmail. We appreciate hearing from Gmail users as we improve the Gmail experience.</p>
+<p>If you have feedback about Google Buzz, you can submit and vote for feature suggestions <a href="http://productideas.appspot.com/#16/e=4a51a" onclick="track('BuzzArticle','productIdeas');">here</a>. If your feature request is not shown, please share it in the "I have a better idea" section. </p>
+</p>
+<noscript>To contact us through this form, please <a href="http://www.google.com/support/bin/answer.py?hl=en&answer=23852">enable JavaScript</a> in your browser.</noscript>
+<a id="a_16933" class="zippy zippy-expand"
+><h4>Personalization</h4></a>
+<table cellspacing="2" cellpadding="3" id="16933"
+class="suggestions_table" width="95%">
+<tr class="dark">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>More themes/create your own themes</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('189329', '16933');"/>
+</td>
+</tr>
+<tr class="light">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Personalization of messages</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('116859', '16933');"/>
+</td>
+</tr>
+<tr class="dark">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Additional chat emoticons</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('116860', '16933');"/>
+</td>
+</tr>
+</table>
+<a id="a_16935" class="zippy zippy-expand"
+><h4>Organization</h4></a>
+<table cellspacing="2" cellpadding="3" id="16935"
+class="suggestions_table" width="95%">
+<tr class="dark">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>More functional Labels</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('189330', '16935');"/>
+</td>
+</tr>
+<tr class="light">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Disable auto-adding contacts</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('189331', '16935');"/>
+</td>
+</tr>
+<tr class="dark">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Filter by contact group</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('189332', '16935');"/>
+</td>
+</tr>
+<tr class="light">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Change the Label system to Folders</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('116862', '16935');"/>
+</td>
+</tr>
+<tr class="dark">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>More functional Contacts list</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('116864', '16935');"/>
+</td>
+</tr>
+<tr class="light">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Sort messages by size, date, sender, etc.</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('116865', '16935');"/>
+</td>
+</tr>
+</table>
+<a id="a_16936" class="zippy zippy-expand"
+><h4>Integration with other Google products</h4></a>
+<table cellspacing="2" cellpadding="3" id="16936"
+class="suggestions_table" width="95%">
+<tr class="dark">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Calendar</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('116867', '16936');"/>
+</td>
+</tr>
+<tr class="light">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Docs</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('189333', '16936');"/>
+</td>
+</tr>
+<tr class="dark">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Maps</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('189334', '16936');"/>
+</td>
+</tr>
+<tr class="light">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Groups</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('116868', '16936');"/>
+</td>
+</tr>
+<tr class="dark">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Reader</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('116869', '16936');"/>
+</td>
+</tr>
+<tr class="light">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Picasa</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('116870', '16936');"/>
+</td>
+</tr>
+<tr class="dark">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Blogger</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('116872', '16936');"/>
+</td>
+</tr>
+</table>
+<a id="a_16937" class="zippy zippy-expand"
+><h4>Helpful additions</h4></a>
+<table cellspacing="2" cellpadding="3" id="16937"
+class="suggestions_table" width="95%">
+<tr class="dark">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Read Receipts</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('116876', '16937');"/>
+</td>
+</tr>
+<tr class="light">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Schedule sending of messages</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('189336', '16937');"/>
+</td>
+</tr>
+<tr class="dark">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Discard drafts to trash</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('189337', '16937');"/>
+</td>
+</tr>
+<tr class="light">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Increase Tasks features</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('189338', '16937');"/>
+</td>
+</tr>
+<tr class="dark">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Forward multiple messages at once</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('189339', '16937');"/>
+</td>
+</tr>
+<tr class="light">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Add notes to messages</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('116882', '16937');"/>
+</td>
+</tr>
+<tr class="dark">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Better message search functionality (i.e. Wildcard and partial word search)</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('116884', '16937');"/>
+</td>
+</tr>
+<tr class="light">
+<td width="400" valign="top" style="padding-top:7px">
+<strong>Have Gmail do the laundry</strong>
+</td>
+<td width="180" nowrap="nowrap" style="white-space:nowrap" align="center">
+<input type="button" value="Suggest it" onclick="report_suggestion('116885', '16937');"/>
+</td>
+</tr>
+</table>
+<br/><br/>
+<script type="text/javascript">
+function selectSubCategory(id, number){
+var selects = document.getElementById(id + "_options").getElementsByTagName('select');
+for (var i=0; i<selects.length; i++) {
+selects[i].style.display = "none";
+selects[i].selectedIndex = 0;
+}
+var catForm = document.categorizer;
+catForm['extra.survey.cat' + number].value =
+catForm[id].value;
+showLayer(catForm[id].options[document.categorizer[id].selectedIndex].value);
+}
+function showTextBox() {
+document.getElementById("categorizer_openbox_div").style.display = "";
+document.getElementById("submit").style.display = "";
+}
+</script>
+<form name="categorizer" method="post" class="contact_form_categorizer"
+action="http://services.google.com/helpcenter/forms/universal_survey">
+<input type="hidden"
+name="extra.Language"
+id="extra.Language"
+value="en" />
+<input type="hidden"
+name="extra.AutoDetectedBrowser"
+id="extra.AutoDetectedBrowser"
+value="Other" />
+<input type="hidden"
+name="extra.AutoDetectedOS"
+id="extra.AutoDetectedOS"
+value="Other" />
+<input type="hidden"
+name="extra.survey.helpcenter_id"
+id="extra.survey.helpcenter_id"
+value="34" />
+<input type="hidden"
+name="extra.survey.sid"
+id="extra.survey.sid"
+value="" />
+<input type="hidden"
+name="extra.survey.u2u_sid"
+id="extra.survey.u2u_sid"
+value="" />
+<input type="hidden"
+name="extra.survey.request_time"
+id="extra.survey.request_time"
+value="1291248756" />
+<input type="hidden"
+name="extra.confirm_url"
+id="extra.confirm_url"
+value="http://mail.google.com/support/bin/request.py" />
+<input type="hidden"
+name="validate_form"
+id="validate_form"
+value="yes" />
+<input type="hidden"
+name="extra.confirm"
+id="extra.confirm"
+value="categorizer
+" />
+<input type="hidden"
+name="extra.survey.survey_referrer"
+id="extra.survey.survey_referrer"
+value="HC" />
+<input type="hidden"
+name="extra.survey.survey_id"
+id="extra.survey.survey_id"
+value="categorizer
+" />
+<input type="hidden" name="extra.survey.survey_id" value="categorizer" />
+<h2 class="page_heading">I have another idea</h2>
+<div class="categorizer">
+<input type="hidden" name="extra.survey.cat1"
+id="extra.survey.cat1"
+value="" />
+<input type="hidden" name="extra.survey.cat2"
+id="extra.survey.cat2" />
+<input type="hidden" name="extra.survey.cat3"
+id="extra.survey.cat3" />
+<input type="hidden" name="extra.survey.cat4"
+id="extra.survey.cat4" />
+<input type="hidden" name="extra.survey.cat5"
+id="extra.survey.cat5" />
+<select name="extra.TempCat1"
+id="suggestions"
+onchange="selectSubCategory('suggestions',
+1);showTextBox();">
+<option value="">Please select one</option>
+<option value="alternate_access" >Alternate access</option>
+<option value="appearance" >Interface and settings</option>
+<option value="contacts" >Contacts and chat</option>
+<option value="product_integrations" >Google product integrations</option>
+<option value="other3" >Other</option>
+<option value="organization" >Message Organization</option>
+<option value="sending_and_receiving" >Sending and receiving</option>
+</select>
+<div id="suggestions_options">
+<select name="extra.TempCat2"
+id="alternate_access"
+onchange="selectSubCategory('alternate_access',
+2);"
+style="display: none;">
+<option value="">Please select one</option>
+<option value="imap" >IMAP</option>
+<option value="mobile" >Mobile</option>
+<option value="pop" >POP</option>
+<option value="other" >Other</option>
+</select>
+<div id="alternate_access_options">
+<select name="extra.TempCat3"
+id="imap"
+onchange="selectSubCategory('imap',
+3);"
+style="display: none;">
+<option value="">Please select one</option>
+<option value="importing" >Importing</option>
+<option value="options1" >Options</option>
+<option value="supported_clients1" >Supported clients</option>
+</select>
+<div id="imap_options">
+</div>
+<select name="extra.TempCat3"
+id="mobile"
+onchange="selectSubCategory('mobile',
+3);"
+style="display: none;">
+<option value="">Please select one</option>
+<option value="sms" >SMS</option>
+<option value="supported_clients2" >Supported clients</option>
+</select>
+<div id="mobile_options">
+</div>
+<select name="extra.TempCat3"
+id="pop"
+onchange="selectSubCategory('pop',
+3);"
+style="display: none;">
+<option value="">Please select one</option>
+<option value="options2" >Options</option>
+<option value="gmail_features" >Gmail features</option>
+<option value="supported_clients" >Supported clients</option>
+</select>
+<div id="pop_options">
+</div>
+</div>
+<select name="extra.TempCat2"
+id="appearance"
+onchange="selectSubCategory('appearance',
+2);"
+style="display: none;">
+<option value="">Please select one</option>
+<option value="gmail_interface" >Gmail interface</option>
+<option value="settings" >Settings</option>
+<option value="other0" >Other</option>
+</select>
+<div id="appearance_options">
+<select name="extra.TempCat3"
+id="gmail_interface"
+onchange="selectSubCategory('gmail_interface',
+3);"
+style="display: none;">
+<option value="">Please select one</option>
+<option value="appearance" >Appearance</option>
+<option value="customization" >Customization</option>
+<option value="search_options" >Search options</option>
+<option value="sorting" >Sorting</option>
+</select>
+<div id="gmail_interface_options">
+</div>
+<select name="extra.TempCat3"
+id="settings"
+onchange="selectSubCategory('settings',
+3);"
+style="display: none;">
+<option value="">Please select one</option>
+<option value="languages" >Languages</option>
+<option value="custom_from" >Custom From</option>
+<option value="keyboard_shortcuts" >Keyboard shortcuts</option>
+<option value="labs" >Labs</option>
+<option value="additional_options" >Additional options</option>
+<option value="spam" >Spam</option>
+</select>
+<div id="settings_options">
+</div>
+</div>
+<select name="extra.TempCat2"
+id="contacts"
+onchange="selectSubCategory('contacts',
+2);"
+style="display: none;">
+<option value="">Please select one</option>
+<option value="autocomplete" >Auto-complete</option>
+<option value="chat" >Chat</option>
+<option value="contact_manager" >Contact manager</option>
+<option value="other1" >Other</option>
+</select>
+<div id="contacts_options">
+<select name="extra.TempCat3"
+id="chat"
+onchange="selectSubCategory('chat',
+3);"
+style="display: none;">
+<option value="">Please select one</option>
+<option value="chatlist" >Chat list options</option>
+<option value="advanced_features" >Advanced features</option>
+</select>
+<div id="chat_options">
+</div>
+<select name="extra.TempCat3"
+id="contact_manager"
+onchange="selectSubCategory('contact_manager',
+3);"
+style="display: none;">
+<option value="">Please select one</option>
+<option value="interface" >Interface</option>
+<option value="editing_contacts" >Editing contacts</option>
+<option value="importing_exporting" >Importing/Exporting</option>
+<option value="contact_groups" >Contact groups</option>
+</select>
+<div id="contact_manager_options">
+</div>
+</div>
+<select name="extra.TempCat2"
+id="product_integrations"
+onchange="selectSubCategory('product_integrations',
+2);"
+style="display: none;">
+<option value="">Please select one</option>
+<option value="calendar" >Calendar</option>
+<option value="docs" >Docs</option>
+<option value="groups" >Groups</option>
+<option value="reader" >Reader</option>
+<option value="picasa" >Picasa</option>
+<option value="blogger" >Blogger</option>
+<option value="orkut" >Orkut</option>
+<option value="talk" >Google Talk</option>
+<option value="other2" >Other</option>
+</select>
+<div id="product_integrations_options">
+</div>
+<select name="extra.TempCat2"
+id="organization"
+onchange="selectSubCategory('organization',
+2);"
+style="display: none;">
+<option value="">Please select one</option>
+<option value="archive" >Archive and delete</option>
+<option value="labels" >Labels and filters</option>
+<option value="conversations" >Conversations and sorting</option>
+<option value="other4" >Other</option>
+</select>
+<div id="organization_options">
+<select name="extra.TempCat3"
+id="archive"
+onchange="selectSubCategory('archive',
+3);"
+style="display: none;">
+<option value="">Please select one</option>
+<option value="storage" >Storage</option>
+<option value="archiving" >Archiving</option>
+<option value="deleting" >Deleting</option>
+</select>
+<div id="archive_options">
+</div>
+<select name="extra.TempCat3"
+id="labels"
+onchange="selectSubCategory('labels',
+3);"
+style="display: none;">
+<option value="">Please select one</option>
+<option value="filter" >Filter options</option>
+<option value="label_functionality" >Label functionality</option>
+</select>
+<div id="labels_options">
+</div>
+<select name="extra.TempCat3"
+id="conversations"
+onchange="selectSubCategory('conversations',
+3);"
+style="display: none;">
+<option value="">Please select one</option>
+<option value="conversations" >Conversations and threading</option>
+<option value="sorting" >Sorting</option>
+</select>
+<div id="conversations_options">
+</div>
+</div>
+<select name="extra.TempCat2"
+id="sending_and_receiving"
+onchange="selectSubCategory('sending_and_receiving',
+2);"
+style="display: none;">
+<option value="">Please select one</option>
+<option value="attachments" >Attachments</option>
+<option value="customization" >Customization</option>
+<option value="composing" >Composing and delivery</option>
+<option value="spam" >Spam controls</option>
+</select>
+<div id="sending_and_receiving_options">
+<select name="extra.TempCat3"
+id="attachments"
+onchange="selectSubCategory('attachments',
+3);"
+style="display: none;">
+<option value="">Please select one</option>
+<option value="limits" >Limits</option>
+<option value="types" >Types</option>
+<option value="options3" >Options</option>
+</select>
+<div id="attachments_options">
+</div>
+<select name="extra.TempCat3"
+id="customization"
+onchange="selectSubCategory('customization',
+3);"
+style="display: none;">
+<option value="">Please select one</option>
+<option value="signatures" >Signatures</option>
+<option value="templates" >Templates</option>
+<option value="message_formatting" >Message formatting</option>
+</select>
+<div id="customization_options">
+</div>
+<select name="extra.TempCat3"
+id="composing"
+onchange="selectSubCategory('composing',
+3);"
+style="display: none;">
+<option value="">Please select one</option>
+<option value="sending_options" >Sending options</option>
+<option value="draft_options" >Draft options</option>
+<option value="forwarding" >Forwarding</option>
+<option value="composing" >Composing</option>
+</select>
+<div id="composing_options">
+</div>
+</div>
+</div>
+</div>
+<div id="categorizer_openbox_div" style="display:none">
+<textarea cols="40" rows="5" maxlength="512"
+name="extra.survey.OpenBox"
+id="categorizer_openbox"
+wrap="soft"
+class="categorizer_openbox"></textarea>
+</div>
+<input type="submit" name="submit" id="submit" value="Suggest it" style="display:none" />
+</form>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</td>
+<td class="right_column">
+<div id="kiRecentfix" class="recentfix" style="display:none">
+<h2>Recently Implemented Suggestions</h2>
+<ul>
+<li>
+Rich text signatures
+</li>
+<li>
+<a href="http://mail.google.com/support/bin/answer.py?hl=en&answer=5900">
+Have the option to disable Conversation View
+</a>
+</li>
+<li>
+To-do list
+</li>
+<li>
+Import messages from my other email accounts
+</li>
+<li>
+Import contacts from other email accounts
+</li>
+<li>
+Colorful background skins
+</li>
+<li>
+Import addresses into my Contacts list
+</li>
+<li>
+<a href="http://mail.google.com/support/bin/answer.py?hl=de&answer=14002">
+Search my Contacts list
+</a>
+</li>
+<li>
+<a href="http://mail.google.com/support/bin/answer.py?hl=de&answer=6587">
+Save my message drafts
+</a>
+</li>
+<li>
+Automatic email forwards
+</li>
+<li>
+Free automatic forwarding
+</li>
+<li>
+Free POP access
+</li>
+<li>
+New message notifier
+</li>
+<li>
+Signature options
+</li>
+<li>
+Support for more browsers
+</li>
+<li>
+Extra paid storage
+</li>
+<li>
+IMAP access
+</li>
+<li>
+Multi-person chat
+</li>
+</ul>
+</div>
+<script type="text/javascript">showLayerDefault('kiRecentfix');</script>
+</td>
+</tr></table>
+<div style="clear:both"></div>
+<div class="footer-nav">
+<p>
+<a href="http://mail.google.com/?hl=en"
+onclick="track('Footer', 'Product home')">Gmail</a>
+-
+<a href="/support/bin/request.py?contact_type=contact_policy"
+onclick="track('Footer', 'Contacting us')">Contacting Us</a>
+-
+<a href="http://www.google.com/support/?hl=en"
+onclick="track('Footer', 'Help with other products')">Help with other Google products</a>
+</p>
+<div><p>
+<span class="footer-copyright">
+&copy;2010 Google
+</span>
+<span>
+- 
+<a href="http://www.google.com/intl/en/"
+onclick="track('Footer', 'GoogleHome');
+">Google Home</a>
+</span>
+<span>
+- 
+<a href="http://www.google.com/intl/en/privacy.html"
+onclick="track('Footer', 'PrivacyPolicy');
+">Privacy Policy</a>
+</span>
+<span>
+- 
+<a href="http://mail.google.com/mail/help/intl/en/terms_of_use.html"
+onclick="track('Footer', 'Terms');
+">Terms of Service</a>
+</span>
+<span>
+- 
+<a href="http://mail.google.com/mail/help/intl/en/program_policies.html"
+onclick="track('Footer', 'ProgramPolicies');
+">Program Policies</a>
+</span>
+</p></div>
+</div>
+</div>
+<script type="text/javascript">
+googlehelp.Links.initLinks(
+[autoExpand, browser, browserGroup, os, osGroup, country], internal);
+if (googlehelp.initEls) {
+if (autoExpand) {
+googlehelp.initEls([autoExpand], userSettings, userSettingsDropdownText);
+} else {
+googlehelp.initEls([autoExpand, browser, browserGroup, os, osGroup,
+country, countryGroup], userSettings, userSettingsDropdownText);
+}
+}
+</script>
+<script
+src="//mail.google.com/support/bin/resource/js_validate_static.js?v=16"
+type="text/javascript"></script>
+<script type="text/javascript">
+track('LeftNav',
+'New - Impression');
+track('LeftNav',
+'Blog - Impression');
+track('LeftNav',
+'Org - Impression');
+track('LeftNav',
+'Appstatus_Dashboard - Impression');
+</script>
+<script type="text/javascript">
+var appsstatusConditions = 
+{"title": "Google Apps Status", "num_to_get": "1", "hours_to_display": "24", "products": [
+{"1": "1"}
+], "url": [
+{"en": "http://www.google.com/appsstatus/json/en", "cs": "http://www.google.com/appsstatus/json/cs", "da": "http://www.google.com/appsstatus/json/da", "de": "http://www.google.com/appsstatus/json/de", "en_uk": "http://www.google.com/appsstatus/json/en_GB", "es": "http://www.google.com/appsstatus/json/es", "fi": "http://www.google.com/appsstatus/json/fi", "fr": "http://www.google.com/appsstatus/json/fr", "hi": "http://www.google.com/appsstatus/json/hi", "hu": "http://www.google.com/appsstatus/json/hu", "id": "http://www.google.com/appsstatus/json/id", "it": "http://www.google.com/appsstatus/json/it", "jp": "http://www.google.com/appsstatus/json/ja", "ko": "http://www.google.com/appsstatus/json/ko", "nl": "http://www.google.com/appsstatus/json/nl", "no": "http://www.google.com/appsstatus/json/no", "pl": "http://www.google.com/appsstatus/json/pl", "pt": "http://www.google.com/appsstatus/json/pt_PT", "br": "http://www.google.com/appsstatus/json/pt_BR", "ru": "http://www.google.com/appsstatus/json/ru", "sv": "http://www.google.com/appsstatus/json/sv", "th": "http://www.google.com/appsstatus/json/th", "tr": "http://www.google.com/appsstatus/json/tr", "uk": "http://www.google.com/appsstatus/json/uk", "vi": "http://www.google.com/appsstatus/json/vi", "cn": "http://www.google.com/appsstatus/json/zh", "b5": "http://www.google.com/appsstatus/json/zh_TW"}
+]}
+;
+fillAppsStatus('appsstatus',
+'http://www.google.com/appsstatus/json/en',
+appsstatusConditions,
+2);
+</script>
+<script type="text/javascript">
+function updateProgBar(manual) {
+var percent = (totalListCompleted * 100)/totalListItems;
+var prog = document.getElementById('cl-progress');
+var count = document.getElementById('cl-count');
+var pct = document.getElementById('cl-pct');
+var comp = document.getElementById('cl-comp');
+var lcomp = document.getElementById('list-comp');
+if (prog) {prog.style.width = percent + '%';}
+if (count) {count.innerHTML = totalListCompleted;}
+if (pct) {pct.innerHTML = Math.round(percent);}
+// Completed entire checklist
+if (manual && totalListCompleted == totalListItems) {
+if (lcomp) lcomp.style.display = 'block';
+track('Checklist 29487', 'Completed tab ');
+track('Checklist 29487', 'Completed checklist');
+// Completed a tab
+} else {
+if (lcomp) lcomp.style.display = 'none';
+if (totalOSItems > 0 && comp) {
+if (totalOSItems == totalOSCompleted) {
+comp.style.display = 'block';
+if (manual) {
+track('Checklist 29487', 'Completed tab ');
+}
+} else {
+comp.style.display = 'none';
+}
+}
+}
+}
+function calcProgress(el) {
+if (el.checked) {
+totalListCompleted = totalListCompleted + 1;
+totalOSCompleted = totalOSCompleted + 1;
+track('Checklist 29487', el.id);
+} else {
+totalOSCompleted = totalOSCompleted -1;
+totalListCompleted = totalListCompleted - 1;
+}
+updateProgBar(1);
+}
+var totalListItems = 18;
+var totalListCompleted = 0;
+var totalOSItems = 0;
+var totalOSCompleted = 0;
+updateProgBar(0);
+</script>
+<script src="//www.google.com/sidewiki/static/sidebar_element/sidebar-element-compiled.js"></script>
+<script defer="defer">
+var sidebarElement = new google.elements.sidewiki.SidebarElement(
+window.location.href,false);
+sidebarElement.bindToElement("sidewiki-open-ui-button");
+</script>
+</body>
+</html>

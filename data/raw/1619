@@ -1,0 +1,439 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>HANG SENG INDEX: INDEXHANGSENG:.HSI quotes & news - Google Finance</title>
+<meta name="Description" content="Get detailed financial information on HANG SENG INDEX (INDEXHANGSENG:.HSI) including real-time stock quotes, historical charts & financial news, all for free!">
+<link rel="stylesheet" type="text/css" href="/finance/s/i3gpPu9Jou8/styles/finance_us.css">
+<style>#gbar,#guser{font-size:13px;padding-right:8px;padding-top:4px !important}#gbar{padding-left:8px;float:left;height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}#gbs,.gbm{background:#fff;left:0;position:absolute;text-align:left;visibility:hidden;z-index:1000}.gbm{border:1px solid;border-color:#c9d7f1 #36c #36c #a2bae7;z-index:1001}.gb1{margin-right:.5em}.gb1,.gb3{zoom:1}.gb2{display:block;padding:.2em .5em}.gb2,.gb3{text-decoration:none;border-bottom:none}a.gb1,a.gb2,a.gb3,a.gb4{color:#00c !important}.gbi .gb3,.gbi .gb2,.gbi .gb4{color:#dd8e27 !important}.gbf .gb3,.gbf .gb2,.gbf .gb4{color:#900 !important}a.gb2:hover{background:#36c;color:#fff !important}div#gbar{padding-left:0}</style>
+<script>(function(){function i(a,b,d){var c="on"+b;if(a.addEventListener)a.addEventListener(b,d,false);else if(a.attachEvent)a.attachEvent(c,d);else{var f=a[c];a[c]=function(){var g=f.apply(this,arguments),e=d.apply(this,arguments);return g==undefined?e:e==undefined?g:e&&g}}};var j,k,l,m=window.gbar={},n={};function _tvs(a,b){return a||b}function _tvn(a,b){var d=parseInt(a,10);return isNaN(d)?b:d}function _tvf(a,b){var d=parseFloat(a);return isNaN(d)?b:d}function _tvb(a,b){return a=="true"?true:a=="false"?false:b}var o,p,q;function r(a){var b=window.b&&(document.forms[0].f||"").value;if(b)a.href=a.href.replace(/([?&])q=[^&]*|$/,function(d,c){return(c||"&")+"q="+encodeURIComponent(b)})}l=r;
+function s(a,b,d,c,f,g){var e=document.getElementById(a);if(e){var h=e.style;h.left=c?"auto":b+"px";h.right=c?b+"px":"auto";h.top=d+"px";h.visibility=p?"hidden":"visible";if(f&&g){h.width=f+"px";h.height=g+"px"}else{s(o,b,d,c,e.offsetWidth,e.offsetHeight);p=p?"":a}}}
+var w=function(a){a=a||window.event;var b,d=a.target||a.srcElement;a.cancelBubble=true;if(o!=null)t(d);else{b=document.createElement(Array.every||window.createPopup?"iframe":"div");b.frameBorder="0";o=b.id="gbs";b.src="javascript:''";d.parentNode.appendChild(b);i(document,"click",u);t(d);n.a&&n.a(function(){var c=document.getElementById("gbli");if(c){var f=c.parentNode;v(f,c);var g=c.e;f.removeChild(c);n.g(f,g);b.style.height=f.offsetHeight+"px"}})}};
+function t(a){var b=0;if(a.className!="gb3")a=a.parentNode;var d=a.getAttribute("aria-owns")||"gbi",c=a.offsetWidth,f=a.offsetTop>20?46:24;if(document.getElementById("tphdr"))f-=3;var g=false;do b+=a.offsetLeft||0;while(a=a.offsetParent);a=(document.documentElement.clientWidth||document.body.clientWidth)-b-c;var e;c=document.body;var h=document.defaultView;if(h&&h.getComputedStyle){if(c=h.getComputedStyle(c,""))e=c.direction}else e=c.currentStyle?c.currentStyle.direction:c.style.direction;e=e=="rtl";
+if(d=="gbi"){c=document.getElementById("gbi");v(c,document.getElementById("gbli")||c.firstChild);if(e){b=a;g=true}}else if(!e){b=a;g=true}p!=d&&u();s(d,b,f,g)}var u=function(){p&&s(p,0,0)};function v(a,b){for(var d,c=window.d;c&&(d=c.pop());){var f=a,g=d,e=b;if(!q){q="gb2";if(n.a){var h=n.c(f);if(h)q=h}}f.insertBefore(g,e).className=q}}
+var x=function(a,b,d){if((b=document.getElementById(b))&&a){a.className="gb4";var c=document.createElement("span");c.appendChild(a);c.appendChild(document.createTextNode(" | "));c.id=d;b.appendChild(c)}};m.qs=l;m.setContinueCb=k;m.pc=j;m.tg=w;m.close=u;m.addLink=x;})();
+</script>
+<link rel="icon"
+        type="image/vnd.microsoft.icon" href="/finance/favicon.ico">
+<script>(function(){function a(c){this.t={};this.tick=function(e,f,b){b=b?b:(new Date).getTime();this.t[e]=[b,f]};this.tick("start",null,c)}var d=new a;window.jstiming={Timer:a,load:d};try{var g=null;if(window.chrome&&window.chrome.csi)g=Math.floor(window.chrome.csi().pageT);if(g==null)if(window.gtbExternal)g=window.gtbExternal.pageT();if(g==null)if(window.external)g=window.external.pageT;if(g)window.jstiming.pt=g}catch(h){};function i(c){window.jstiming&&window.jstiming.load.tick(c)}window._tck=i;})();
+</script>
+<script type="text/javascript">var google=google||{};var _cleardot = '/finance/s/m4C5KaofCbA/images/cleardot.gif';</script>
+<script type="text/javascript" src="/finance/s/HctJl7DXpjg/js/finance-opt.js?hl=en&gl=us"></script>
+<script type="text/javascript">
+(function(){var d=navigator.userAgent.toLowerCase().indexOf("msie")!=-1;function e(){for(var a=document.styleSheets,b=a.length-1;b>=0;--b){var c=a[b].href;if(c)if(c.indexOf("styles/finance_")!=-1||c.indexOf("styles_")!=-1)return a[b]}return null}function f(){var a=e();if(a){a=a.rules;return a.length>0&&a[a.length-1].selectorText==".lastFinanceRule"}return false}
+function g(){if(document.scripts)for(var a=0;a<document.scripts.length;++a){var b=document.scripts[a];if(b&&b.src.indexOf("/js/gen_finance.js")!=-1)return b}return null}function _chkCssJs(){if(d){if(typeof _lastFinanceFn!="function"){var a=g();if(a&&a.src){var b=a.src.indexOf("?")!=-1?"&":"?";a.src+=b+"zx="+Math.random()}}if(!f())if((a=e())&&a.href){b=a.href.indexOf("?")!=-1?"&":"?";a.href+=b+"zx="+Math.random()}}};_chkCssJs();})();
+  
+    _setStickyUrlParams("");
+  </script>
+<style>
+html {
+min-height: 100%; margin-bottom: 0.01em;
+}
+.blogref a:link,.blogref a:active,.blogref a:visited,.blogref {color:#7777CC}
+.lac {text-decoration:underline; color:#00C; cursor:pointer;}
+.lnac {text-decoration:none; color:#A1A1A1; cursor:text;}
+.imgac {cursor:pointer; border:0px;}
+.imgnac {cursor:none; border:0px;}
+.r {
+margin-top:-2px; margin-left:30px; margin-bottom:0px; margin-right:5px;
+padding:7px 10px 10px 10px; line-height:1.3em; position:absolute; display:none; z-index:10;
+border:2px solid #9DDF99; background-color:#FFF;
+}
+</style>
+</head>
+<body>
+<div class=g-doc id=outer-wrapper>
+<div id=body-wrapper>
+<div id=gbar><nobr><a href="http://www.google.com/search?q=INDEXHANGSENG:.HSI&sa=N&hl=en&tab=ew" onclick=gbar.qs(this) class=gb1>Web</a> <a href="http://www.google.com/images?q=INDEXHANGSENG:.HSI&source=og&sa=N&hl=en&tab=ei" onclick=gbar.qs(this) class=gb1>Images</a> <a href="http://www.google.com/search?q=INDEXHANGSENG:.HSI&tbo=u&tbs=vid:1&source=og&sa=N&hl=en&tab=ev" onclick=gbar.qs(this) class=gb1>Videos</a> <a href="http://maps.google.com/maps?q=INDEXHANGSENG:.HSI&sa=N&hl=en&tab=el" onclick=gbar.qs(this) class=gb1>Maps</a> <a href="http://www.google.com/search?q=INDEXHANGSENG:.HSI&tbo=u&tbs=nws:1&source=og&sa=N&hl=en&tab=en" onclick=gbar.qs(this) class=gb1>News</a> <a href="http://www.google.com/search?q=INDEXHANGSENG:.HSI&tbo=u&tbs=shop:1&source=og&sa=N&hl=en&tab=ef" onclick=gbar.qs(this) class=gb1>Shopping</a> <a href="http://mail.google.com/mail/?hl=en&tab=em" class=gb1>Gmail</a> <a href="http://www.google.com/intl/en/options/" onclick="this.blur();gbar.tg(event);return !1" aria-haspopup=true class=gb3><u>more</u> <small>&#9660;</small></a><div class=gbm id=gbi><a href="http://www.google.com/search?q=INDEXHANGSENG:.HSI&tbo=u&tbs=bks:1&source=og&sa=N&hl=en&tab=ep" onclick=gbar.qs(this) class=gb2>Books</a> <b class=gb2>Finance</b> <a href="http://translate.google.com/translate_t?q=INDEXHANGSENG:.HSI&sa=N&hl=en&tab=eT" onclick=gbar.qs(this) class=gb2>Translate</a> <a href="http://scholar.google.com/scholar?q=INDEXHANGSENG:.HSI&sa=N&hl=en&tab=es" onclick=gbar.qs(this) class=gb2>Scholar</a> <a href="http://www.google.com/search?q=INDEXHANGSENG:.HSI&tbo=u&tbs=blg:1&source=og&sa=N&hl=en&tab=eb" onclick=gbar.qs(this) class=gb2>Blogs</a> <a href="http://www.google.com/search?q=INDEXHANGSENG:.HSI&tbo=u&tbs=mbl:1&source=og&sa=N&hl=en&tab=eY" onclick=gbar.qs(this) class=gb2>Updates</a> <div class=gb2><div class=gbd></div></div><a href="http://www.youtube.com/results?q=INDEXHANGSENG:.HSI&sa=N&hl=en&tab=e1" onclick=gbar.qs(this) class=gb2>YouTube</a> <a href="http://www.google.com/calendar/render?hl=en&tab=ec" class=gb2>Calendar</a> <a href="http://picasaweb.google.com/lh/view?q=INDEXHANGSENG:.HSI&sa=N&hl=en&tab=eq" onclick=gbar.qs(this) class=gb2>Photos</a> <a href="http://docs.google.com/?hl=en&tab=eo" class=gb2>Documents</a> <a href="http://www.google.com/reader/view/?hl=en&tab=ey" class=gb2>Reader</a> <a href="http://sites.google.com/?hl=en&tab=e3" class=gb2>Sites</a> <a href="http://groups.google.com/groups?q=INDEXHANGSENG:.HSI&sa=N&hl=en&tab=eg" onclick=gbar.qs(this) class=gb2>Groups</a> <div class=gb2><div class=gbd></div></div><a href="http://www.google.com/intl/en/options/" class=gb2>even more &raquo;</a> </div></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.com/support/finance?hl=en-US" class=gb4>Help</a> | <a href="https://www.google.com/accounts/Login?hl=en&continue=http://www.google.com/finance%3Fq%3DINDEXHANGSENG:.HSI&service=finance" class=gb4>Sign in</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div>
+<script>window.locale={hl:'en',gl:'us',locale:'en-US'};</script>
+<div class="g-section g-tpl-75-25 g-split search-header">
+<div class="g-unit g-first">
+<div class=sfe-logo>
+<a href="/finance">
+<img src="/finance/s/M4XFgDr56u4/images/logo_us.gif" alt="Google Finance.">
+</a>
+</div>
+<div class=sfe-search>
+<form method=GET action="/finance" name=f>
+<input name=q id=searchbox autocomplete=off size=40 maxlength=2048
+             type=text tabindex=1 title="Quote search input"
+             value="INDEXHANGSENG:.HSI">
+<input type=submit value="Get quotes" >
+<br>
+<span class="searchExample">
+Example: "CSCO" or "Google"</span>
+</form>
+</div>
+</div>
+<div class="g-unit promo">
+</div>
+</div>
+<div class="g-section g-tpl-nav-main">
+<div class="g-unit g-first" id="left-nav">
+<ul id=navmenu>
+<li class="nav-selected nav-expanded">Index
+<li class=navsub>
+<div>Summary
+</div>
+<li class=navsub>
+<a id="nav-idn" 
+  href="/finance/company_news?q=INDEXHANGSENG:.HSI">News
+</a>
+<li class=navsub>
+<a id="nav-idh" 
+  href="/finance/historical?q=INDEXHANGSENG:.HSI">Historical prices
+</a>
+<li class=nav-item>
+<a id="nav-m" 
+  href="/finance">
+<div>Markets</div></a>
+<li class=nav-item>
+<a id="nav-n" 
+  href="/finance/market_news">
+<div>News</div></a>
+<li class=nav-item>
+<a href="https://www.google.com/accounts/ServiceLogin?hl=en&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com%3A80%2Ffinance%2Fportfolio%3Faction%3Dview" >
+<div>Portfolios</div></a>
+<li class=nav-item>
+<a id="nav-s" 
+  href="/finance/stockscreener">
+<div>Stock screener</div></a>
+<li class=nav-item>
+<a id="nav-q" 
+  href="/finance/domestic_trends">
+<div>Google Domestic Trends</div></a>
+</ul>
+<div id=rq-box>
+<h4>Recent quotes</h4>
+<div id=rq-toggle></div>
+<div id=rq-table></div>
+<a id=rq-create href="https://www.google.com/accounts/ServiceLogin?hl=en&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com%2Ffinance%3Fq%3DINDEXHANGSENG%3A.HSI" >Sign in to create portfolio</a>
+</div>
+<script>
+setTimeout(
+function() {try{google.finance.renderRecentQuotes();}catch(e){}}, 200);
+</script>
+<form id=new_pform_nav
+      action=/finance/portfolio/create?hash= method=post>
+<input id=new_pform_name type=hidden name=pname />
+<input id=new_pform_cids type=hidden name=pcids />
+<input id=is_logged_in type=hidden name=is_logged_in
+           value=0 />
+</form>
+<div id=ra-target></div>
+</div>
+<div class="g-unit sfe-break-left" id="rt-content">
+<!-- a -->
+<script>
+(function() {
+if (_finance_chart) {
+var el = document.getElementById('chart_anchor');
+if (el) {
+el.innerHTML = '';
+}
+_finance_chart = null;
+}
+})();
+var _ticker = 'INDEXHANGSENG:.HSI';
+var _slHeight = 221;
+var _companyName = 'HANG SENG INDEX';
+var _displayVolume = false;
+var _companyId = 13414271;
+_s_Store._numToDisplay = 6;
+_comparison_charts_Store._numToDisplay = 8;
+_comparison_charts_Store._allowMultiTimezoneCompare = true;
+function onCompanyLoad() {
+_external_target = "";
+_emitFlashChartOnLoad(
+"/finance/s/OFspRxwQDQg/chart9.swf?hl=en&gl=us",
+_ticker, "chart_anchor", "market-data-div",
+_chartConfigObject);
+google.finance.onCompanyLoad();
+_initAutoFocus();
+if (google.finance.initTechnicals) {
+google.finance.initTechnicals(true);
+}
+}
+</script>
+<div class=g-wrap>
+<div class="g-section sfe-break-bottom-8">
+<div class="g-tpl-67-33 g-split hdg top" id=companyheader>
+<div class="g-unit g-first"><h3>HANG SENG INDEX</h3>&nbsp;&nbsp;
+<a href="/finance/portfolio?action=add&amp;addticker=INDEXHANGSENG%3A.HSI" class=norm>Watch this index</a>
+</div><div class="g-unit norm">Find more results for<b>
+<a href="?noIL=1&q=.HSI" id=searchmore>.HSI</a></b>
+</div>
+</div>
+</div>
+
+<div id=ra-src class=hide>
+<div id=ra-target></div>
+</div>
+<script>
+google.finance.renderRecentActivities();
+_ac_register(function (input, event) {
+if (input.id == 'add_comparison_symbol') {
+_comparison_charts_Store.baseTicker = "INDEXHANGSENG:.HSI";
+return _comparison_charts_Store;
+}
+});
+var _prefs=_prefs||{};_prefs.hash="";
+_prefs.feeds=_prefs.feeds||{};
+_prefs.ch=_prefs.ch||{};
+_prefs.ch_compare=_prefs.ch_compare||{};
+_eventid = 'gOT2TO7THouErAOF9-j0CA';
+var google = google || {};
+google.finance = google.finance || {};
+google.finance.data = {common:{rq:{ct:""},up:"chg",down:"chr",linktargetInternal:"",hash:"",dfp:"http://ad-g.doubleclick.net/adi/com.gf.company/default;fe=indexhangseng;ft=_hsi;sz=300x250;dcopt=ist;myd=ad"},company:{news:{clusters:[{imp:3,idx:0,id:0,ed:"11 hours ago",tt:1291208989,lead_story_url:"http://www.chinavestor.com/technical-analysis/pre-market-report/72632-china-stocks-open-december-higher-in-asia.html",a:[{t:"China stocks open December higher in Asia",u:"http://www.chinavestor.com/technical-analysis/pre-market-report/72632-china-stocks-open-december-higher-in-asia.html",s:"Chinavestor.com",d:"11 hours ago",tt:1291208989,fid:2082457}],score:6.4973344802856445},{imp:1,idx:1,id:0,ed:"11 hours ago",tt:1291208939,lead_story_url:"http://galaxystocks.com/2636/business-news/asian-stock-market-rose-hang-seng-index-up-in-triple-digits/",a:[{t:"Asian Stock Market Rose: Hang Seng index up in Triple Digits",u:"http://galaxystocks.com/2636/business-news/asian-stock-market-rose-hang-seng-index-up-in-triple-digits/",s:"Galaxy Stocks",d:"11 hours ago",tt:1291208939,fid:2081457}],score:14.727035522460938},{nrel:1,imp:3,idx:2,id:17593825092249,ed:"13 hours ago",tt:1291198468,lead_story_url:"http://www.sharecast.com/cgi-bin/sharecast/story.cgi?story_id=3869531",a:[{t:"Asia: Hang Seng reverses decline, Nikkei nudges up",u:"http://www.sharecast.com/cgi-bin/sharecast/story.cgi?story_id=3869531",s:"ShareCast",d:"13 hours ago",tt:1291198468,fid:2080457}],score:7.1506142616271973},{nrel:1,imp:3,idx:3,id:17593825089322,ed:"22 hours ago",tt:1291168577,lead_story_url:"http://www.rttnews.com/Content/AsianCommentary.aspx?Id=1494115\x26SM=1",a:[{t:"Hong Kong Stocks Bracing For Early Dip",u:"http://www.rttnews.com/Content/AsianCommentary.aspx?Id=1494115\x26SM=1",s:"RTT News",d:"22 hours ago",tt:1291168577,fid:2077457}],score:5.7019567489624023},{imp:3,idx:4,id:0,ed:"Nov 30, 2010",tt:1291119142,lead_story_url:"http://www.chinavestor.com/technical-analysis/pre-market-report/72627-china-stocks-end-november-in-the-red.html",a:[{t:"China stocks end November in the red",u:"http://www.chinavestor.com/technical-analysis/pre-market-report/72627-china-stocks-end-november-in-the-red.html",s:"Chinavestor.com",d:"Nov 30, 2010",tt:1291119142,fid:2076457}],score:9.2977180480957031},{nrel:19,imp:1,idx:5,id:17593824007027,ed:"Nov 29, 2010",tt:1291011647,lead_story_url:"http://www.businessweek.com/news/2010-11-30/hong-kong-s-stocks-decline-on-europe-debt-chinese-rate-concern.html",a:[{t:"Hong Kong\x26#39;s Stocks Decline on Europe Debt, Chinese Rate Concern",u:"http://www.businessweek.com/news/2010-11-30/hong-kong-s-stocks-decline-on-europe-debt-chinese-rate-concern.html",s:"BusinessWeek",d:"Nov 29, 2010",tt:1291011647,fid:2073457},{t:"Hong Kong Stocks Rise as Chinese Developers Gain; Wharf Jumps",u:"http://www.sfgate.com/cgi-bin/article.cgi?f=%2Fg%2Fa%2F2010%2F12%2F01%2Fbloomberg1376-LCQ9800D9L3501-38H47095ODU8BERB57JJ8APNU1.DTL",s:"San Francisco Chronicle"},{t:"China stocks mixed in Asia, Nov 29",u:"http://www.chinavestor.com/technical-analysis/pre-market-report/72621-china-stocks-mixed-in-asia-nov-29.html",s:"Chinavestor.com"},{t:"Hong Kong Market May Test Support At 23,000 Points",u:"http://www.rttnews.com/Content/AsianCommentary.aspx?Id=1492774\x26SM=1",s:"RTT News"},{t:"Hang Seng Index gains 1pc at close",u:"http://www.thestandard.com.hk/breaking_news_detail.asp?id=19458\x26icid=a\x26d_str=",s:"The Standard"},{t:"HONG KONG STOCKS: The Hang Seng Index ended the down",u:"http://www.automatedtrader.net/real-time-news/62811/hong-kong-stocks-the-hang-seng-index-ended-the-down",s:"Automated Trader"}],score:14.154062271118164},{nrel:1,imp:3,idx:6,id:17593824358424,ed:"Nov 29, 2010",tt:1290994799,lead_story_url:"http://www.rttnews.com/ArticleView.aspx?Id=1491443",a:[{t:"Hong Kong Shares May See Continued Pressure",u:"http://www.rttnews.com/ArticleView.aspx?Id=1491443",s:"RTT News",d:"Nov 29, 2010",tt:1290994799,fid:2067457}],score:4.3455781936645508},{nrel:0,imp:2,idx:7,id:17593823692580,ed:"Nov 26, 2010",tt:1290777038,lead_story_url:"http://galaxystocks.com/2417/business-news/the-global-stock-market-fell-hang-seng-index-dropped-in-triple-digits-commodities-face-losses-due-to-rose-in-dollar/",a:[{t:"The Global Stock Market fell: Hang Seng Index dropped in Triple Digits: Commodities face losses due to rose in Dollar",u:"http://galaxystocks.com/2417/business-news/the-global-stock-market-fell-hang-seng-index-dropped-in-triple-digits-commodities-face-losses-due-to-rose-in-dollar/",s:"Galaxy Stocks",d:"Nov 26, 2010",tt:1290777038,fid:2066457}],score:13.507823944091797},{nrel:0,imp:2,idx:8,id:17593821665467,ed:"Nov 22, 2010",tt:1290391669,lead_story_url:"http://www.bloomberg.com/news/2010-11-24/hong-kong-stocks-rise-led-by-banks-developers-ping-an-jumps.html",a:[{t:"Hong Kong Stocks Rise, Led by Banks, Developers; Ping An Jumps",u:"http://www.bloomberg.com/news/2010-11-24/hong-kong-stocks-rise-led-by-banks-developers-ping-an-jumps.html",s:"Bloomberg",d:"Nov 22, 2010",tt:1290391669,fid:2054457},{t:"Hong Kong Stocks Rise After US Jobs Report; Li \x26amp; Fung Gains",u:"http://www.businessweek.com/news/2010-11-25/hong-kong-stocks-rise-after-u-s-jobs-report-li-fung-gains.html",s:"BusinessWeek"},{t:"Hang Seng lower, property dips on tightening worry",u:"http://www.marketwatch.com/story/hang-seng-lower-property-dips-on-tightening-worry-2010-11-25",s:"MarketWatch"},{t:"Soft Start Tipped For Hong Kong Stocks",u:"http://www.rttnews.com/Content/AsianCommentary.aspx?Id=1488880\x26SM=1",s:"RTT News"},{t:"HONG KONG STOCKS: The Hang Seng Index is seen in",u:"http://www.automatedtrader.net/real-time-news/62545/hong-kong-stocks-the-hang-seng-index-is-seen-in",s:"Automated Trader"},{t:"Hang Seng Index Dips Below 23,000",u:"http://pacificepoch.com/china-investment-research/articles/hang-seng-index-dips-below-23000/",s:"Pacific Epoch"}],score:13.798430442810059},{nrel:0,imp:2,idx:9,id:17593820204197,ed:"Nov 19, 2010",tt:1290131785,lead_story_url:"http://www.rttnews.com/Content/AsianCommentary.aspx?Id=1485535\x26SM=1",a:[{t:"Hong Kong Shares May Extend Rebound",u:"http://www.rttnews.com/Content/AsianCommentary.aspx?Id=1485535\x26SM=1",s:"RTT News",d:"Nov 19, 2010",tt:1290131785,fid:2041457},{t:"HONG KONG STOCKS: The Hang Seng Index edged lower in Friday trading, falling 0.13% to close at 23,605.71.",u:"http://www.automatedtrader.net/real-time-news/62013/hong-kong-stocks-the-hang-seng-index-edged-lower-in-friday-trading---falling-013-to-close-at-23-60571",s:"Automated Trader"},{t:"Hang Seng closes 0.13pc lower",u:"http://www.thestandard.com.hk/breaking_news_detail.asp?id=19396",s:"The Standard"}],score:10.96125316619873},{idx:10,id:-1}],result_start_num:1,result_end_num:0,result_total_articles:16}},stickyUrlArgs:"",chart:{_5d:"EXCHANGE%3DINDEXHANGSENG\nMARKET_OPEN_MINUTE=600\nMARKET_CLOSE_MINUTE=960\nINTERVAL=120\nCOLUMNS=DATE,CLOSE,VOLUME\nDATA_SESSIONS=[MORNING,600,750],[AFTERNOON,870,960]\nDATA=\nTIMEZONE_OFFSET=480\na1290650400,23110.02,0\n1,23149.16,0\n2,23172.5,0\n3,23165.78,0\n4,23183.41,0\n5,23152.38,0\n6,23136.41,0\n7,23135.75,0\n8,23141.34,0\n9,23150.29,0\n10,23140.22,0\n11,23143.94,0\n12,23145.61,0\n13,23139.5,0\n14,23129.81,0\n15,23119.82,0\n16,23109.52,0\n17,23109.8,0\n18,23117.34,0\n19,23103.03,0\n20,23102.68,0\n21,23108.92,0\n22,23104.97,0\n23,23085.3,0\n24,23080.12,0\n25,23066.5,0\n26,23064.42,0\n27,23078.6,0\n28,23109,0\n29,23106.81,0\n30,23117.77,0\n31,23120.14,0\n32,23125.48,0\n33,23129.18,0\n34,23121.09,0\n35,23112.45,0\n36,23117.48,0\n37,23134.99,0\n38,23153.7,0\n39,23157.14,0\n40,23160.64,0\n41,23133.26,0\n42,23137.14,0\n43,23144.58,0\n44,23147.97,0\n45,23149.08,0\n46,23151.64,0\n47,23153.34,0\n48,23159.33,0\n49,23151.36,0\n50,23158.48,0\n51,23175.77,0\n52,23180.72,0\n53,23167.91,0\n54,23166.39,0\n55,23172.42,0\n56,23183.67,0\n57,23190.17,0\n58,23202.88,0\n59,23191.99,0\n60,23192.5,0\n61,23187.84,0\n62,23184.15,0\n63,23190.13,0\n64,23191.41,0\n65,23198.07,0\n66,23217.02,0\n67,23227.33,0\n68,23248.75,0\n69,23246.09,0\n70,23250.74,0\n71,23250.89,0\n72,23245.65,0\n73,23250.22,0\n74,23253.07,0\n75,23254.47,0\n76,23260.11,0\n77,23260.11,0\n78,23260.11,0\n79,23260.11,0\n80,23260.11,0\n81,23260.11,0\n82,23260.11,0\n83,23260.11,0\n84,23260.11,0\n85,23260.11,0\n86,23260.11,0\n87,23260.11,0\n88,23260.11,0\n89,23260.11,0\n90,23260.11,0\n91,23260.11,0\n92,23260.11,0\n93,23260.11,0\n94,23260.11,0\n95,23260.11,0\n96,23260.11,0\n97,23260.11,0\n98,23260.11,0\n99,23260.11,0\n100,23260.11,0\n101,23260.11,0\n102,23260.11,0\n103,23260.11,0\n104,23260.11,0\n105,23260.11,0\n106,23260.11,0\n107,23260.11,0\n108,23260.11,0\n109,23260.11,0\n110,23260.11,0\n111,23260.11,0\n112,23260.11,0\n113,23260.11,0\n114,23260.11,0\n115,23260.11,0\n116,23260.11,0\n117,23260.11,0\n118,23260.11,0\n119,23260.11,0\n120,23260.11,0\n121,23260.11,0\n122,23260.11,0\n123,23260.11,0\n124,23260.11,0\n125,23260.11,0\n126,23260.11,0\n127,23260.11,0\n128,23260.11,0\n129,23260.11,0\n130,23260.11,0\n131,23260.11,0\n132,23260.11,0\n133,23260.11,0\n134,23260.11,0\n135,23260.11,0\n136,23274.73,0\n137,23250.15,0\n138,23244.47,0\n139,23241.34,0\n140,23251.65,0\n141,23279.03,0\n142,23273.51,0\n143,23260.23,0\n144,23257.84,0\n145,23259.78,0\n146,23237.87,0\n147,23210.56,0\n148,23204.57,0\n149,23201.68,0\n150,23192.56,0\n151,23177.27,0\n152,23198.53,0\n153,23200.42,0\n154,23181.32,0\n155,23154.56,0\n156,23156.15,0\n157,23161.45,0\n158,23162.15,0\n159,23146.58,0\n160,23144.98,0\n161,23152.14,0\n162,23160.34,0\n163,23161.12,0\n164,23170.42,0\n165,23176.93,0\n166,23167.76,0\n167,23168.35,0\n168,23133.06,0\n169,23138.7,0\n170,23146.25,0\n171,23131.27,0\n172,23131.58,0\n173,23118.02,0\n174,23094.57,0\n175,23082.96,0\n176,23088.26,0\n177,23059.74,0\n178,23059.15,0\n179,23044.38,0\n180,23058.78,0\n181,23054.68,0\n716,22995.3,0\n717,22995.3,0\n718,22995.3,0\n719,22995.3,0\n720,22995.3,0\n721,23055.64,0\n722,23070.17,0\n723,23089.8,0\n724,23101.22,0\n725,23089.39,0\n726,23056.14,0\n727,23035.46,0\n728,23036.51,0\n729,23051.42,0\n730,23053.48,0\n731,23056.91,0\n732,23068.19,0\n733,23067.94,0\n734,23045.31,0\n735,23010.62,0\n736,22982.79,0\n737,23003.32,0\n738,23015.59,0\n739,23015.12,0\n740,23018.07,0\n741,23006.5,0\n742,23020.44,0\n743,23038.42,0\n744,23032.89,0\n745,23036.32,0\n746,23035.49,0\n747,23041.25,0\n748,23044.84,0\n749,23052.65,0\n750,23048.02,0\n751,23076.57,0\n752,23084.49,0\n753,23080.86,0\n754,23070.18,0\n755,23063.46,0\n756,23057.78,0\n757,23058.93,0\n758,23051.48,0\n759,23049.8,0\n760,23061.05,0\n761,23066.09,0\n762,23090.37,0\n763,23095.7,0\n764,23084.77,0\n765,23093.13,0\n766,23085.49,0\n767,23081.27,0\n768,23076.09,0\n769,23078.14,0\n770,23075.55,0\n771,23069.23,0\n772,23067.89,0\n773,23064.83,0\n774,23067.49,0\n775,23065.44,0\n776,23073.17,0\n777,23079.03,0\n778,23078.53,0\n779,23078.27,0\n780,23070.17,0\n781,23070.54,0\n782,23074.08,0\n783,23067.12,0\n784,23062.77,0\n785,23069.42,0\n786,23070.25,0\n787,23064.59,0\n788,23061.39,0\n789,23064.54,0\n790,23058.69,0\n791,23056.9,0\n792,23053.44,0\n793,23043.74,0\n794,23041.48,0\n795,23043.53,0\n796,23036.18,0\n797,23036.18,0\n798,23036.18,0\n799,23036.18,0\n800,23036.18,0\n801,23036.18,0\n802,23036.18,0\n803,23036.18,0\n804,23036.18,0\n805,23036.18,0\n806,23036.18,0\n807,23036.18,0\n808,23036.18,0\n809,23036.18,0\n810,23036.18,0\n811,23036.18,0\n812,23036.18,0\n813,23036.18,0\n814,23036.18,0\n815,23036.18,0\n816,23036.18,0\n817,23036.18,0\n818,23036.18,0\n819,23036.18,0\n820,23036.18,0\n821,23036.18,0\n822,23036.18,0\n823,23036.18,0\n824,23036.18,0\n825,23036.18,0\n826,23036.18,0\n827,23036.18,0\n828,23036.18,0\n829,23036.18,0\n830,23036.18,0\n831,23036.18,0\n832,23036.18,0\n833,23036.18,0\n834,23036.18,0\n835,23036.18,0\n836,23036.18,0\n837,23036.18,0\n838,23036.18,0\n839,23036.18,0\n840,23036.18,0\n841,23036.18,0\n842,23036.18,0\n843,23036.18,0\n844,23036.18,0\n845,23036.18,0\n846,23036.18,0\n847,23036.18,0\n848,23036.18,0\n849,23036.18,0\n850,23036.18,0\n851,23036.18,0\n852,23036.18,0\n853,23036.18,0\n854,23036.18,0\n855,23036.18,0\n856,22915.66,0\n857,22950.43,0\n858,22947.02,0\n859,22848.43,0\n860,22847.17,0\n861,22782.98,0\n862,22825.18,0\n863,22848.18,0\n864,22828.19,0\n865,22836.2,0\n866,22816.04,0\n867,22844.21,0\n868,22856.79,0\n869,22840.45,0\n870,22806.48,0\n871,22830.03,0\n872,22839.03,0\n873,22853.88,0\n874,22869.58,0\n875,22868.46,0\n876,22859.6,0\n877,22850.7,0\n878,22856.01,0\n879,22832.27,0\n880,22846.49,0\n881,22871.51,0\n882,22882.73,0\n883,22888.13,0\n884,22907.34,0\n885,22931.07,0\n886,22939.83,0\n887,22940.82,0\n888,22920.82,0\n889,22922.67,0\n890,22914.65,0\n891,22887.3,0\n892,22878.66,0\n893,22876.73,0\n894,22896.23,0\n895,22887.04,0\n896,22875.84,0\n897,22868.33,0\n898,22869.66,0\n899,22864.4,0\n900,22880.48,0\n901,22877.25,0\na1290995520,22832.05,0\n1,22832.05,0\n2,22832.05,0\n3,22832.05,0\n4,22832.05,0\n5,22865.66,0\n6,22848.8,0\n7,22885.4,0\n8,22894.73,0\n9,22880.97,0\n10,22863.41,0\n11,22857.88,0\n12,22866.94,0\n13,22853.59,0\n14,22835.36,0\n15,22813.91,0\n16,22812.91,0\n17,22819.26,0\n18,22809.73,0\n19,22789.79,0\n20,22807.95,0\n21,22838.38,0\n22,22870.38,0\n23,22866.06,0\n24,22868.39,0\n25,22879.71,0\n26,22856.2,0\n27,22839.46,0\n28,22837.4,0\n29,22825.91,0\n30,22828.51,0\n31,22827.28,0\n32,22835.39,0\n33,22834.3,0\n34,22830.46,0\n35,22839.6,0\n36,22842.37,0\n37,22850.49,0\n38,22848.03,0\n39,22833.81,0\n40,22839.82,0\n41,22856.5,0\n42,22866.75,0\n43,22864.73,0\n44,22865.54,0\n45,22857.32,0\n46,22859.24,0\n47,22855.82,0\n48,22862.34,0\n49,22869.43,0\n50,22869.56,0\n51,22860.49,0\n52,22867.15,0\n53,22897.02,0\n54,22914.39,0\n55,22923,0\n56,22919.08,0\n57,22933.84,0\n58,22937.98,0\n59,22935.76,0\n60,22950.11,0\n61,22955.34,0\n62,22958.41,0\n63,22964.82,0\n64,22962.6,0\n65,22952.9,0\n66,22939.16,0\n67,22922.81,0\n68,22926.76,0\n69,22927.76,0\n70,22927.89,0\n71,22928.6,0\n72,22920.44,0\n73,22918.2,0\n74,22915.15,0\n75,22908.95,0\n76,22896.42,0\n77,22892.06,0\n78,22890.52,0\n79,22894.57,0\n80,22890.35,0\n81,22890.35,0\n82,22890.35,0\n83,22890.35,0\n84,22890.35,0\n85,22890.35,0\n86,22890.35,0\n87,22890.35,0\n88,22890.35,0\n89,22890.35,0\n90,22890.35,0\n91,22890.35,0\n92,22890.35,0\n93,22890.35,0\n94,22890.35,0\n95,22890.35,0\n96,22890.35,0\n97,22890.35,0\n98,22890.35,0\n99,22890.35,0\n100,22890.35,0\n101,22890.35,0\n102,22890.35,0\n103,22890.35,0\n104,22890.35,0\n105,22890.35,0\n106,22890.35,0\n107,22890.35,0\n108,22890.35,0\n109,22890.35,0\n110,22890.35,0\n111,22890.35,0\n112,22890.35,0\n113,22890.35,0\n114,22890.35,0\n115,22890.35,0\n116,22890.35,0\n117,22890.35,0\n118,22890.35,0\n119,22890.35,0\n120,22890.35,0\n121,22890.35,0\n122,22890.35,0\n123,22890.35,0\n124,22890.35,0\n125,22890.35,0\n126,22890.35,0\n127,22890.35,0\n128,22890.35,0\n129,22890.35,0\n130,22890.35,0\n131,22890.35,0\n132,22890.35,0\n133,22890.35,0\n134,22890.35,0\n135,22890.35,0\n136,22890.35,0\n137,22890.35,0\n138,22890.35,0\n139,22890.35,0\n140,22922.67,0\n141,22917.4,0\n142,22902.58,0\n143,22899,0\n144,22897.83,0\n145,22878.89,0\n146,22879.91,0\n147,22875.46,0\n148,22877.66,0\n149,22872.59,0\n150,22866.01,0\n151,22856.71,0\n152,22870.69,0\n153,22878.04,0\n154,22886.13,0\n155,22887.9,0\n156,22903.27,0\n157,22891.32,0\n158,22898.1,0\n159,22895.26,0\n160,22909.28,0\n161,22908.4,0\n162,22907.25,0\n163,22924.37,0\n164,22931.55,0\n165,22959.39,0\n166,22992.29,0\n167,22980.57,0\n168,23010.37,0\n169,23007.04,0\n170,23020.44,0\n171,23049.5,0\n172,23046.94,0\n173,23055.11,0\n174,23043.92,0\n175,23038.17,0\n176,23069.66,0\n177,23091.32,0\n178,23126.85,0\n179,23104.49,0\n180,23119.75,0\n181,23147.37,0\n182,23138.1,0\n183,23159.76,0\n184,23187.75,0\n185,23166.22,0\n720,23122.4,0\n721,23122.4,0\n722,23122.4,0\n723,23122.4,0\n724,23122.4,0\n725,23111.76,0\n726,23152.26,0\n727,23169.52,0\n728,23191.71,0\n729,23191.57,0\n730,23176.25,0\n731,23163.21,0\n732,23141.21,0\n733,23116.84,0\n734,23115.6,0\n735,23124.56,0\n736,23120.57,0\n737,23092.35,0\n738,23094.4,0\n739,23089.04,0\n740,23100.99,0\n741,23100.26,0\n742,23118.15,0\n743,23099.12,0\n744,23073.13,0\n745,23068.93,0\n746,23051.44,0\n747,23046.47,0\n748,22965.53,0\n749,22969.92,0\n750,22974.73,0\n751,22982.68,0\n752,22994.76,0\n753,22983.38,0\n754,22930.86,0\n755,22936.86,0\n756,22911.22,0\n757,22913.87,0\n758,22923.21,0\n759,22923.52,0\n760,22937.48,0\n761,22945.35,0\n762,22960.43,0\n763,22932.29,0\n764,22934.47,0\n765,22943.54,0\n766,22931.6,0\n767,22920.7,0\n768,22912.64,0\n769,22913.4,0\n770,22911.55,0\n771,22916.82,0\n772,22920.3,0\n773,22903.28,0\n774,22886.3,0\n775,22849.96,0\n776,22852.23,0\n777,22849.66,0\n778,22878.48,0\n779,22898.23,0\n780,22893.63,0\n781,22905.11,0\n782,22905.43,0\n783,22882.24,0\n784,22875.86,0\n785,22879.19,0\n786,22887.47,0\n787,22882.59,0\n788,22863.01,0\n789,22863.7,0\n790,22878.22,0\n791,22878.4,0\n792,22881.83,0\n793,22887.93,0\n794,22901.55,0\n795,22911.38,0\n796,22914.02,0\n797,22912.42,0\n798,22907.35,0\n799,22901.16,0\n800,22907.98,0\n801,22907.98,0\n802,22907.98,0\n803,22907.98,0\n804,22907.98,0\n805,22907.98,0\n806,22907.98,0\n807,22907.98,0\n808,22907.98,0\n809,22907.98,0\n810,22907.98,0\n811,22907.98,0\n812,22907.98,0\n813,22907.98,0\n814,22907.98,0\n815,22907.98,0\n816,22907.98,0\n817,22907.98,0\n818,22907.98,0\n819,22907.98,0\n820,22907.98,0\n821,22907.98,0\n822,22907.98,0\n823,22907.98,0\n824,22907.98,0\n825,22907.98,0\n826,22907.98,0\n827,22907.98,0\n828,22907.98,0\n829,22907.98,0\n830,22907.98,0\n831,22907.98,0\n832,22907.98,0\n833,22907.98,0\n834,22907.98,0\n835,22907.98,0\n836,22907.98,0\n837,22907.98,0\n838,22907.98,0\n839,22907.98,0\n840,22907.98,0\n841,22907.98,0\n842,22907.98,0\n843,22907.98,0\n844,22907.98,0\n845,22907.98,0\n846,22907.98,0\n847,22907.98,0\n848,22907.98,0\n849,22907.98,0\n850,22907.98,0\n851,22907.98,0\n852,22907.98,0\n853,22907.98,0\n854,22907.98,0\n855,22907.98,0\n856,22907.98,0\n857,22907.98,0\n858,22907.98,0\n859,22907.98,0\n860,22948.95,0\n861,22944.18,0\n862,22972.64,0\n863,23038.65,0\n864,23035.75,0\n865,23025.23,0\n866,23029.19,0\n867,23026.35,0\n868,23017.29,0\n869,22999.16,0\n870,22996.93,0\n871,22999.75,0\n872,23007.9,0\n873,23014.1,0\n874,23021.4,0\n875,23038.84,0\n876,23034.35,0\n877,23049.48,0\n878,23050.1,0\n879,23035.99,0\n880,23025.26,0\n881,23028.92,0\n882,23017.56,0\n883,23023.86,0\n884,23036.85,0\n885,23064.81,0\n886,23083.95,0\n887,23079.35,0\n888,23063.6,0\n889,23054.68,0\n890,23028.85,0\n891,23018.72,0\n892,23016.9,0\n893,23029.38,0\n894,23021.8,0\n895,22996.07,0\n896,22986.32,0\n897,23000.2,0\n898,23024.18,0\n899,23042.05,0\n900,23047.45,0\n901,23057.26,0\n902,23053.21,0\n903,23036.46,0\n904,22965.52,0\n905,23007.99,0\na1291168320,22973.8,0\n1,22973.8,0\n2,22973.8,0\n3,22973.8,0\n4,22973.8,0\n5,22937.88,0\n6,22960.45,0\n7,22890.88,0\n8,22905.21,0\n9,22857.15,0\n10,22848.68,0\n11,22849.93,0\n12,22864.33,0\n13,22881.58,0\n14,22886.05,0\n15,22896.83,0\n16,22885.03,0\n17,22912.17,0\n18,22914.11,0\n19,22936.8,0\n20,22945.04,0\n21,22931.61,0\n22,22923.66,0\n23,22943.76,0\n24,22976.3,0\n25,22977.83,0\n26,22972.95,0\n27,22961.78,0\n28,22951.92,0\n29,22941.63,0\n30,22949.98,0\n31,22948.66,0\n32,22952.54,0\n33,22932.51,0\n34,22937.51,0\n35,22944.49,0\n36,22947.61,0\n37,22951.14,0\n38,22941.38,0\n39,22939.23,0\n40,22947.85,0\n41,22930.42,0\n42,22885.17,0\n43,22900.94,0\n44,22895.53,0\n45,22898.14,0\n46,22905.06,0\n47,22903.4,0\n48,22873,0\n49,22873.4,0\n50,22872.96,0\n51,22880.95,0\n52,22881.01,0\n53,22876.68,0\n54,22886.65,0\n55,22886.13,0\n56,22900.24,0\n57,22897.22,0\n58,22909.69,0\n59,22911.9,0\n60,22919.23,0\n61,22925.22,0\n62,22929.09,0\n63,22922.99,0\n64,22924.31,0\n65,22943.81,0\n66,22951.41,0\n67,22963.23,0\n68,22962.32,0\n69,22961.08,0\n70,22953.52,0\n71,22955.08,0\n72,22939.93,0\n73,22936.66,0\n74,22931.63,0\n75,22934.61,0\n76,22926.95,0\n77,22929.54,0\n78,22920.26,0\n79,22925.77,0\n80,22921.49,0\n81,22921.49,0\n82,22921.49,0\n83,22921.49,0\n84,22921.49,0\n85,22921.49,0\n86,22921.49,0\n87,22921.49,0\n88,22921.49,0\n89,22921.49,0\n90,22921.49,0\n91,22921.49,0\n92,22921.49,0\n93,22921.49,0\n94,22921.49,0\n95,22921.49,0\n96,22921.49,0\n97,22921.49,0\n98,22921.49,0\n99,22921.49,0\n100,22921.49,0\n101,22921.49,0\n102,22921.49,0\n103,22921.49,0\n104,22921.49,0\n105,22921.49,0\n106,22921.49,0\n107,22921.49,0\n108,22921.49,0\n109,22921.49,0\n110,22921.49,0\n111,22921.49,0\n112,22921.49,0\n113,22921.49,0\n114,22921.49,0\n115,22921.49,0\n116,22921.49,0\n117,22921.49,0\n118,22921.49,0\n119,22921.49,0\n120,22921.49,0\n121,22921.49,0\n122,22921.49,0\n123,22921.49,0\n124,22921.49,0\n125,22921.49,0\n126,22921.49,0\n127,22921.49,0\n128,22921.49,0\n129,22921.49,0\n130,22921.49,0\n131,22921.49,0\n132,22921.49,0\n133,22921.49,0\n134,22921.49,0\n135,22921.49,0\n136,22921.49,0\n137,22921.49,0\n138,22921.49,0\n139,22921.49,0\n140,23010.14,0\n141,23000.7,0\n142,22980.83,0\n143,22993.94,0\n144,22995.36,0\n145,22987.93,0\n146,22976.35,0\n147,22966.23,0\n148,22980.74,0\n149,22985.95,0\n150,22989.68,0\n151,22998.7,0\n152,23024.89,0\n153,23051.12,0\n154,23063.14,0\n155,23082.23,0\n156,23089.03,0\n157,23097.91,0\n158,23076.35,0\n159,23075.34,0\n160,23072.26,0\n161,23055.65,0\n162,23059.47,0\n163,23068.2,0\n164,23069.96,0\n165,23109.8,0\n166,23148.64,0\n167,23243.14,0\n168,23221.32,0\n169,23273.09,0\n170,23253.74,0\n171,23231,0\n172,23235.62,0\n173,23245.9,0\n174,23235.45,0\n175,23256.39,0\n176,23257.08,0\n177,23287.47,0\n178,23325.79,0\n179,23303.44,0\n180,23271.3,0\n181,23264.93,0\n182,23262.1,0\n183,23274.33,0\n184,23242.86,0\n185,23249.8,0\n",_5Y:"EXCHANGE%3DINDEXHANGSENG\nMARKET_OPEN_MINUTE=600\nMARKET_CLOSE_MINUTE=960\nINTERVAL=604800\nCOLUMNS=DATE,CLOSE,VOLUME,CDAYS\nDATA_SESSIONS=[MORNING,600,750],[AFTERNOON,870,960]\nDATA=\nTIMEZONE_OFFSET=480\na1133510400,15200.38,0,5\n1,14910.51,0,5\n2,15029.81,0,5\n3,15183.58,0,5\n4,14876.43,0,5\n5,15344.44,0,4\n6,15787.97,0,5\n7,15662.08,0,5\n8,15753.14,0,5\n9,15429.73,0,4\n10,15425.95,0,5\n11,15475.69,0,5\n12,15856.05,0,5\n13,15802,0,5\n14,15445.05,0,5\n15,15801.66,0,5\n16,15716.46,0,5\n17,15805.04,0,5\n18,16471.78,0,4\na1144915200,16429.45,0,5\na1145606400,16912.15,0,5\n1,16661.3,0,5\na1146729600,17013.93,0,5\na1147420800,16901.85,0,5\n1,16313.36,0,5\n2,15895.1,0,5\n3,15912.71,0,4\n4,15628.69,0,5\n5,15842.65,0,5\n6,15808.81,0,5\n7,16267.62,0,5\n8,16459.78,0,6\n9,16135.71,0,5\n10,16464.18,0,5\n11,16955.04,0,5\n12,16887.8,0,5\n13,17249.95,0,5\n14,17330.7,0,5\n15,16955.45,0,5\n16,17423.72,0,5\n17,17145.76,0,5\n18,17237.65,0,5\n19,17600.65,0,5\n20,17543.05,0,5\n21,17903.39,0,4\n22,17988.86,0,6\n23,18113.55,0,5\n24,18297.55,0,5\n25,18749.69,0,4\n26,18891.14,0,5\n27,19182.71,0,5\n28,19260.3,0,5\n29,18690.82,0,5\n30,18739.99,0,5\n31,19110.65,0,5\n32,19320.52,0,5\n33,19964.72,0,3\n34,20211.28,0,4\n35,19613.41,0,5\n36,20327.72,0,5\n37,20281.13,0,5\n38,20563.68,0,5\n39,20677.66,0,5\n40,20567.91,0,5\n41,20711.65,0,4\n42,19442.01,0,5\n43,19134.88,0,5\n44,18953.5,0,5\n45,19692.64,0,5\n46,19800.93,0,5\na1175673600,20209.71,0,5\na1176451200,20340.97,0,5\n1,20566.59,0,5\n2,20526.5,0,5\n3,20841.08,0,4\n4,20468.21,0,5\n5,20904.84,0,5\n6,20520.66,0,4\n7,20602.87,0,5\n8,20509.15,0,5\n9,21017.05,0,5\n10,21999.91,0,4\n11,21772.73,0,5\n12,22531.74,0,4\n13,23099.29,0,5\n14,23291.9,0,5\n15,22570.41,0,5\n16,22538.44,0,5\n17,21792.71,0,5\n18,20387.13,0,5\n19,22921.89,0,5\n20,23984.14,0,5\n21,23982.61,0,5\n22,24898.11,0,5\n23,25843.78,0,5\n24,27142.47,0,4\n25,27831.52,0,4\n26,28838.37,0,5\na1192694400,29465.05,0,5\na1193385600,30405.22,0,5\n1,30468.34,0,5\n2,28783.41,0,5\n3,27614.43,0,5\n4,26541.09,0,5\n5,28643.61,0,5\n6,28842.47,0,5\n7,27563.64,0,5\n8,27626.92,0,5\n9,27370.6,0,3\n10,27519.69,0,4\n11,26867.01,0,5\n12,25201.87,0,5\n13,25122.37,0,5\n14,24123.58,0,5\na1202284800,23469.46,0,6\na1203062400,24148.43,0,6\n1,23305.04,0,5\n2,24331.67,0,5\n3,22501.33,0,5\n4,22237.11,0,5\na1206000000,21108.22,0,5\na1206691200,23285.95,0,5\na1207209600,24264.63,0,5\na1207900800,24667.79,0,5\n1,24197.78,0,5\n2,25516.78,0,5\n3,26241.02,0,4\n4,25063.17,0,5\n5,25618.86,0,4\n6,24714.07,0,5\n7,24533.12,0,5\n8,24402.18,0,5\n9,22592.3,0,4\n10,22745.6,0,5\n11,22042.35,0,5\n12,21423.82,0,4\n13,22184.55,0,5\n14,21874.19,0,5\n15,22740.71,0,5\n16,22862.6,0,5\n17,21885.21,0,5\n18,21160.58,0,5\n19,20392.06,0,5\n20,21261.89,0,5\n21,19933.28,0,5\n22,19352.9,0,5\n23,19327.73,0,4\n24,18682.09,0,5\n25,17682.4,0,4\n26,14796.87,0,4\n27,14554.21,0,5\n28,12618.38,0,5\n29,13968.67,0,5\n30,14243.43,0,5\n31,13542.66,0,5\n32,12659.2,0,5\n33,13888.24,0,5\n34,13846.09,0,5\n35,14758.39,0,5\n36,15127.51,0,5\na1230105600,14184.14,0,4\na1230883200,15042.81,0,4\n1,14377.44,0,5\n2,13255.51,0,5\n3,12578.6,0,5\n4,13278.21,0,2\n5,13655.04,0,5\n6,13554.67,0,5\n7,12699.17,0,5\n8,12811.57,0,5\n9,11921.52,0,5\n10,12525.8,0,5\n11,12833.51,0,5\n12,14119.5,0,5\n13,14545.69,0,5\na1239264000,14901.41,0,5\na1239955200,15601.27,0,5\n1,15258.85,0,5\na1241078400,15520.99,0,4\na1241769600,17389.87,0,6\n1,16790.7,0,5\n2,17062.52,0,5\n3,18171,0,4\n4,18679.53,0,5\n5,18889.68,0,5\n6,17920.93,0,5\n7,18600.26,0,5\n8,18203.4,0,4\n9,17708.42,0,5\n10,18805.66,0,5\n11,19982.79,0,5\n12,20573.33,0,5\n13,20375.37,0,5\n14,20893.33,0,5\n15,20199.02,0,5\n16,20098.62,0,5\n17,20318.62,0,5\n18,21161.42,0,5\n19,21623.45,0,5\n20,21024.4,0,5\n21,20375.49,0,4\n22,21499.44,0,6\n23,21929.9,0,5\n24,22589.73,0,5\n25,21752.87,0,4\n26,21829.72,0,5\n27,22553.63,0,5\n28,22455.84,0,5\n29,21134.5,0,5\n30,22498.15,0,5\n31,21902.11,0,5\n32,21175.88,0,5\na1261641600,21517,0,4\n1,21872.5,0,5\na1262937600,22296.75,0,5\n1,21654.16,0,5\n2,20726.18,0,5\n3,20121.99,0,5\n4,19665.08,0,5\n5,20268.69,0,5\n6,19894.02,0,3\n7,20608.7,0,5\n8,20787.97,0,5\n9,21209.74,0,5\n10,21370.82,0,5\n11,21053.11,0,5\na1270108800,21537,0,4\na1270800000,22208.5,0,3\n1,21865.26,0,5\n2,21244.49,0,5\n3,21108.59,0,5\n4,19920.29,0,5\n5,20145.43,0,5\na1274342400,19545.83,0,4\na1275033600,19766.71,0,5\n1,19780.07,0,5\n2,19872.38,0,5\n3,20286.71,0,4\n4,20690.79,0,5\n5,19905.32,0,4\n6,20378.66,0,5\n7,20250.16,0,5\n8,20815.33,0,5\n9,21029.81,0,5\n10,21678.8,0,5\n11,21071.57,0,5\n12,20981.82,0,5\n13,20597.35,0,5\n14,20971.5,0,5\n15,21257.39,0,5\n16,21970.86,0,5\n17,22119.43,0,4\na1285833600,22358.17,0,5\na1286524800,22944.18,0,5\n1,23757.63,0,5\n2,23517.54,0,5\n3,23096.32,0,5\n4,24876.82,0,5\n5,24222.58,0,5\n6,23605.71,0,5\n7,22877.25,0,5\n",corp_actions:"[]"}};
+google.finance.data.numberFormat = [{'threshold':1000000, 'symbol':'M'}, {'threshold':1000000000,'symbol':'B'}, {'threshold':1000000000000,'symbol':'T'}] ;
+if (_s_Store) {
+_s_Store._allowMatchAdvancedSearch = true;
+var _fieldToDisplayNameMap = {GrossMargin:"Gross margin&nbsp;(%)",Return1Week:"1w return",Return156Week:"156w return",NextYearEPS:"Next year EPS",LTDebtToAssetsYear:"LT debt/assets (Recent&nbsp;yr)&nbsp;(%)",RevenueGrowthRate5Years:"5y revenue growth rate",EarningsAfterTaxes:"Earnings after taxes",DividendPerShare:"Div per share",MarketCap:"Market cap",NetProfitMarginPercent:"Net profit margin&nbsp;(%)",Float:"Float",EarningsBeforeTaxes:"Earnings before taxes",QuotePercChange:"Quote change&nbsp;(%)",TotalDebtToEquityYear:"Total debt/equity (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToCapitalQuarter:"Total debt/capital (Recent&nbsp;qtr)&nbsp;(%)",LTDebtToCapitalQuarter:"LT debt/capital (Recent&nbsp;qtr)&nbsp;(%)",EPSGrowthRate10Years:"10y EPS growth rate",Beta:"Beta",ReturnOnAssetsPTM:"Return on assets (PTM)&nbsp;(%)",CapitalGain:"Capital gain",BetaDown:"Beta down from RAS",IncomeDividend:"Income dividend",RevenueGrowthRate10Years:"10y revenue growth rate",MarketCapShareBasis:"Market cap share basis",IAD:"Div rate indicated annual",Return4Week:"4w return",Price150DayAverage:"150d avg price",EPSGrowthRate5Years:"5y EPS growth rate",ReturnOnAssetsTTM:"Return on assets (TTM)&nbsp;(%)",TotalDebtToAssetsYear:"Total debt/assets (Recent&nbsp;yr)&nbsp;(%)",Volume:"Volume",DividendRecentQuarter:"Div recent quarter",CurrentRatioYear:"Current ratio",Low52Week:"52w low",ExpenseRatio:"Expense ratio",Price13WeekPercChange:"13w&nbsp;price change&nbsp;(%)",Price1DayPercChange:"1d&nbsp;price change&nbsp;(%)",ReturnOnEquity5Years:"Return on equity (5&nbsp;yr&nbsp;avg)&nbsp;(%)",TotalDebtToCapitalYear:"Total debt/capital (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToAssetsQuarter:"Total debt/assets (Recent&nbsp;qtr)&nbsp;(%)",NavChange:"Nav change",OperatingMargin:"Operating margin&nbsp;(%)",DPSRecentYear:"Div per share (Recent&nbsp;yr)",ANI:"Earnings after taxes (Recent&nbsp;yr)",AverageVolume:"Average volume",High52Week:"52w high",Return13Week:"13w return",PriceToCashFlowPerShare:"Price to cash flow per share",ATAXRATE:"Tax rate (Recent&nbsp;yr)",Price26WeekPercChange:"26w&nbsp;price change&nbsp;(%)",QuoteChange:"Quote change",NetIncomeChangePerc:"Net income change&nbsp;(%)",ReturnOnInvestment5Years:"Return on investment (5&nbsp;yr&nbsp;avg)&nbsp;(%)",PE:"P/E ratio",ReturnOnInvestmentYear:"Return on investment (Recent&nbsp;yr)&nbsp;(%)",Price200DayAverage:"200d avg price",DividendNextQuarter:"Div next quarter",EBITD:"EBITDA",PriceYTDPercChange:"YTD&nbsp;price change&nbsp;(%)",ReturnOnInvestmentTTM:"Return on investment (TTM)&nbsp;(%)",NavChangePercent:"Nav change&nbsp;(%)",EBITDMargin:"EBITDA margin&nbsp;(%)",LTDebtToEquityQuarter:"LT debt/equity (Recent&nbsp;qtr)&nbsp;(%)",BetaRAS:"Beta from RAS",PriceSales:"Price to sales",NetAssets:"Net assets",ReturnOnEquityTTM:"Return on equity (TTM)&nbsp;(%)",CashPerShareYear:"Cash/share",ReturnOnAssets5Years:"Return on assets (5&nbsp;yr&nbsp;avg)&nbsp;(%)",ReturnDay:"1d return",Return52Week:"52w return",ForwardPE1Year:"1y fwd P/E",NetIncomeGrowthRate5Years:"5y net income growth rate",DividendYield:"Div yield&nbsp;(%)",Dividend:"Div from cash flow",BetaUp:"Beta up from RAS",LTDebtToCapitalYear:"LT debt/capital (Recent&nbsp;yr)&nbsp;(%)",nprice:"Price from RAS",Return260Week:"260w return",ReturnOnEquityQuarter:"Return on equity (Recent&nbsp;qtr)&nbsp;(%)",ACOGS:"Cost of goods sold",LTDebtToAssetsQuarter:"LT debt/assets (Recent&nbsp;qtr)&nbsp;(%)",PriceToBook:"Price to book",LTDebtToEquityYear:"LT debt/equity (Recent&nbsp;yr)&nbsp;(%)",ReturnYTD:"Return YTD",ReturnOnEquityYear:"Return on equity (Recent&nbsp;yr)&nbsp;(%)",ReturnOnAssetsQuarter:"Return on assets (Recent&nbsp;qtr)&nbsp;(%)",TotalDebtToEquityQuarter:"Total debt/equity (Recent&nbsp;qtr)&nbsp;(%)",NavPrior:"Nav prior",AINTCOV:"Interest coverage",EPS:"EPS",ReturnOnInvestmentQuarter:"Return on investment (Recent&nbsp;qtr)&nbsp;(%)",QuoteLast:"Last price",Price50DayAverage:"50d avg price",Price4WeekPercChange:"4w&nbsp;price change&nbsp;(%)",ReturnOnAssetsYear:"Return on assets (Recent&nbsp;yr)&nbsp;(%)",MarketCapRAS:"Mkt cap from RAS",Price52WeekPercChange:"52w&nbsp;price change&nbsp;(%)",ShortInterestRatioPercent:"Short interest ratio&nbsp;(%)",InstitutionalPercentHeld:"Institutional percent held",BookValuePerShareYear:"Book value/share",ReturnOnEquityPTM:"Return on equity (PTM)&nbsp;(%)"};
+_s_Store._asStore._addStrings(_fieldToDisplayNameMap);
+}
+if (_s_Store) {
+_s_Store._allowMultipleInBox = true;
+}
+_regOnLoad(onCompanyLoad);
+google.finance.renderRecentQuotes();
+</script>
+<script>
+title = ".HSI: {LAST} {CHANGE} ({CHANGE_PCT}%) - HANG SENG INDEX";_aQ("INDEXHANGSENG:.HSI", "13414271",title);
+</script>
+<div class="g-section g-tpl-right-1">
+<div class="g-unit g-first"><div>
+<div id=newstabsgroup>
+<div id=news-tabs class=hide>
+<div class="goog-tab goog-tab-selected"><a id=news_tab_title class=t>
+<b class=t><b class=t>News</b></b></a></div>
+<div class=goog-tab><a id=blogs_tab_title class=t>
+<b class=t><b class=t>Blogs</b></b></a></div>
+<div class=goog-tab><a id=plot_feeds_title class=t>
+<b class=t><b class=t>Feeds</b></b></a></div>
+</div>
+<div id=tabs-clear class=goog-tab-bar-clear class=hide></div>
+<div id=news_div_cont style="display:none"></div>
+<div id=blogs_div_cont style="display:none"></div>
+<div id=plot_feed_div_cont style="display:none"></div>
+</div>
+<div class="sfe-section clf" id=news-footer>
+<div id=news-sidebar-footer class="g-section g-tpl-67-33 g-split">
+<div class="g-unit g-first">
+<a href="/finance/company_news?q=INDEXHANGSENG:.HSI" >All news for .HSI &raquo;</a>
+</div><div class=g-unit>
+<a href="/finance/company_news?q=INDEXHANGSENG:.HSI&output=rss">Subscribe</a>
+<a href="/finance/company_news?q=INDEXHANGSENG:.HSI&output=rss"><img class=SP_subscribe src="/finance/s/m4C5KaofCbA/images/cleardot.gif" alt="Subscribe." id=rss
+        width=15 height=15 /></a>
+</div>
+</div>
+</div>
+</div>
+<div id=ad class="sfe-break-top sfe-break-bottom-16">
+<div id=ad-label class=invisible>Advertisement</div>
+<div id=ad-target class=ads-300-250></div>
+</div>
+</div>
+<div class=g-unit>
+<div id=market-data-div style="display:none" class="nwp g-floatfix">
+<div id=price-panel style="float:left">
+<div>
+<span class="pr">
+<span id="ref_13414271_l">23,249.80</span>
+</span>
+<div id=price-change class=nwp>
+<span class="ch bld"><span class="chg" id="ref_13414271_c">+241.81</span>
+<span class="chg" id="ref_13414271_cp">(1.05%)</span>
+</span>
+</div>
+</div>
+<div>
+<span class=nwp>
+Dec 1 - Close
+</span>
+<div class=mdata-dis>
+<span class=dis-large><nobr>INDEXHANGSENG data delayed by 15 mins -
+<a href=
+  "http://www.google.com/help/stock_disclaimer.html#realtime"
+  class=dis-large>Disclaimer</a>
+</nobr></span>
+</div>
+</div>
+</div>
+<div id=snap-panel
+       class=goog-inline-block style="overflow:hidden;height:82px">
+<ol id=snap-data class=id-snap-data>
+<li>
+<span class="goog-inline-block key" data-snapfield="range">Range</span>
+<span class="goog-inline-block val">22,842.12 - 23,325.79</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="range_52week">52 week</span>
+<span class="goog-inline-block val">18,971.52 - 24,988.57</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="open">Open</span>
+<span class="goog-inline-block val">22,973.80</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="vol_and_avg">Vol.</span>
+<span class="goog-inline-block val">0.00</span>
+</ol>
+</div>
+</div>
+<script>google.finance.renderMarketData();</script>
+<div id=top-section class="g-c sfe-break-right" style="clear:left">
+<div id=chart-section>
+<div>
+<div id=compare-bar-wrapper>
+<div id=compare-bar class="id-compare-bar g-section">
+</div>
+</div>
+<div id=chart_anchor class=id-chart_anchor>
+<script>
+var _minZoomDays = 1;
+var _timeZoneOffset = '28800';
+_chartConfigObject.hasVolume = _displayVolume;
+_chartConfigObject.hasNews = true;
+_chartConfigObject.hasExtendedHours = false;
+_chartConfigObject.hasDefaultZoomSetting = true;
+_chartConfigObject.hasVerticalScaleSetting = true;
+_chartConfigObject.displayVolume = 'true';
+_chartConfigObject.displayNewsPins = 'true';
+_chartConfigObject.displayDividends = 'true';
+_chartConfigObject.displaySplits = 'true';
+_chartConfigObject.displayExtendedHours = 'false';
+_chartConfigObject.enableCustomDateEntry = true
+_chartConfigObject.defaultZoomDays = '3';
+_chartConfigObject.snapping = false;
+_chartConfigObject.verticalScaling = 'maximized';
+_chartConfigObject.sparklineType = 'dynamic';
+// set _minZoomDays and _minZoomDaysNoIntraDay in each page before emit the
+// chart to passing the value to chart, otherwise default value will be use.
+_chartConfigObject.minZoomDaysNormal = _minZoomDays;
+_chartConfigObject.minZoomDaysNoIntraDay = _minZoomDaysNoIntraDay;
+_chartConfigObject.enableIndicator = true;
+_chartConfigObject.companyId = '13414271';
+_chartConfigObject.enableRealtimeChart = true;
+_chartConfigObject.isMarketOpenState = 0;
+_chartConfigObject.stateRemainingMinutes = 107;
+_chartConfigObject.delayedMinutes = 0;
+_chartConfigObject.delayedMinutes = Math.max(
+_chartConfigObject.delayedMinutes,
+15);
+_chartConfigObject.enableChartTypeSetting = true;
+_chartConfigObject.lineStyle = 'IntervalBasedLine';
+_chartConfigObject.defaultInterval = '86400';
+_chartConfigObject.enableIndicatorSetting = true;
+_chartConfigObject.biasSetting = '';
+_chartConfigObject.emaSetting = '';
+_chartConfigObject.kdjSetting = '';
+_chartConfigObject.macdSetting = '';
+_chartConfigObject.rsiSetting = '';
+_chartConfigObject.smaSetting = '';
+_chartConfigObject.vmaSetting = '';
+_chartConfigObject.cciSetting = '';
+_chartConfigObject.williamsPercentRSetting = '';
+_chartConfigObject.bollingerBandsSetting = '';
+_chartConfigObject.fastStochasticSetting = '';
+_chartConfigObject.slowStochasticSetting = '';
+_chartConfigObject.companyCurrency = 'HKD';
+_chartConfigObject.displayDividendsUnits = 'false';
+var configStringFromCookie = '{}';
+var configString = unescape(configStringFromCookie);
+var obj = eval('(' + configString + ')');
+for (var attribute in obj) {
+_chartConfigObject[attribute] = obj[attribute];
+}
+_external_target = "";
+_emitFlashChart(
+"/finance/s/OFspRxwQDQg/chart9.swf?hl=en&gl=us",
+_ticker, _chartConfigObject,"http:\x2F\x2Fwww.google.com:80");
+</script>
+<noscript>
+<div id=image_chart style="display:block;">
+<table>
+<tr><td class=itxt align=left>
+</td></tr>
+<tr><td>
+<img alt="Chart." src="/finance/getchart?q=.HSI&x=INDEXHANGSENG&p=3d&i=240" width="500" height="322">
+</td></tr>
+</table>
+</div>
+</noscript>
+</div>
+<div class="g-section g-tpl-67-33 g-split sfe-break-bottom-8"
+      style="padding-top:1px">
+<div id="chart-footer-links" class="g-unit g-first id-chart-footer-links">
+<a id="settings-link" class="chart-footer-link"
+            href="javascript:google.finance.clickSettingsLink();">
+Settings</a>
+<span>|</span>
+<a id="plot-feeds-link" class="chart-footer-link"
+            href="javascript:google.finance.clickPlotFeedsLink();">
+Plot&nbsp;feeds</a>
+<span>|</span>
+<a id="technicals-link" class="chart-footer-link"
+            href="javascript:google.finance.clickTechnicalsLink();">
+Technicals</a>
+<span>|</span>
+<span style="white-space:nowrap;">
+<img width="16" hight="9" alt="Link to chart icon."
+            id="link-to-chart-img" class="SP_link"
+            src="/finance/s/m4C5KaofCbA/images/cleardot.gif" />
+<a id="link-to-chart-link" class="chart-footer-link"
+            href="javascript:google.finance.clickLinkToChartLink();">
+Link&nbsp;to&nbsp;this&nbsp;chart</a>
+</span>
+</div>
+<div class="g-unit">
+<span class="chart-dis">
+</span>
+</div>
+</div>
+<div id=settings-panel-wrapper>
+<div id=settings-panel class=sfe-section style="display:none"></div>
+</div>
+<div style="height:1em;"></div>
+</div>
+</div>
+<div id=discussions-section>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- b -->
+</div>
+</div>
+<div id=footer>
+<center>
+<div class=footerBorder>
+<div class=editions>Google Finance Beta available in:
+<a href="http://www.google.com.hk/finance?hl=zh-TW" >&#39321;&#28207;&#29256; (Hong Kong)</a>&nbsp;-
+<a href="http://www.google.ca/finance" >Canada</a>&nbsp;-
+<a href="http://www.google.com/finance" >U.S.</a>&nbsp;-
+<a href="http://www.google.com/finance?gl=cn&amp;hl=zh-CN" >&#31616;&#20307;&#20013;&#25991; (China)</a>&nbsp;-
+<a href="http://www.google.co.uk/finance" >U.K.</a>
+</div>
+<div class=footerDisclaimer>
+Information is provided 'as is' and solely for informational purposes, not
+for trading purposes or advice, and may be delayed.<br/>
+To see all exchange delays, please
+<a href=
+    "http://www.google.com/intl/en-US/help/stock_disclaimer.html"
+  style="color:#7777cc">see disclaimer</a>.
+<br><br>
+</div>
+<div class=footerLinks>
+&copy;2010 Google &nbsp;&nbsp;
+<a href="http://www.google.com" class=q>Google Home</a>
+- <a href="http://googlefinanceblog.blogspot.com/">Blog</a>
+- <a href=
+  "http://www.google.com/support/finance?hl=en-US"
+ class=q>Help</a>
+- <a href="http://www.google.com/intl/en-US/privacy.html" class=q>Privacy Policy</a>
+- <a href="http://www.google.com/accounts/TOS?loc=us" class=q>Terms of Service</a><br><br><br>
+</div>
+</div>
+</center>
+</div>
+</div>
+</div>
+</body>
+</html>

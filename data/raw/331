@@ -1,0 +1,1135 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Digg
+            - 24419 Results For site:alternet.org
+    </title>
+    
+        <meta name="keywords" content="Digg, pictures, breaking news, entertainment, politics, technology, headline news, celebrity news, offbeat, world business, sports, funny videos">
+        <meta name="description" content="The best news, videos and pictures on the web as voted on by the Digg community. Breaking news on Technology, Politics, Entertainment, and more!">
+    
+    
+        
+        <link rel="apple-touch-icon" href="http://cdn1.diggstatic.com/img/iphone/icon.63e34426.png"/>
+    
+        <link rel="shortcut icon" href="http://cdn1.diggstatic.com/img/favicon.a015f25c.ico">
+    
+        <link rel="stylesheet" type="text/css" href="http://cdn1.diggstatic.com/css/library/global.280a6733.css" media="all">
+        <!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://cdn1.diggstatic.com/css/support/ie_7.9b9d4168.css" media="all"><![endif]-->
+        <!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://cdn4.diggstatic.com/css/support/ie_8.88a26ac5.css" media="all"><![endif]-->
+        
+    
+    <link rel="stylesheet" type="text/css" href="http://cdn2.diggstatic.com/css/App_Search/search.930c4ff2.css" media="all">
+
+    <script type='text/javascript'>
+var DUI=function(){function d(){for(e=1;b.length;)b.shift()();b=null}var e,b=[];if(window.attachEvent)attachEvent("onload",d);else window.addEventListener&&addEventListener("load",d,true);return{mergeIn:function(a){for(propName in a)this[propName]=a[propName]},onPageLoad:function(a){e?a():b.push(a)},loadScript:function(a){var c=document.createElement("SCRIPT"),f=document.getElementsByTagName("SCRIPT")[0];c.type="text/javascript";c.async=true;c.src=a;f.parentNode.insertBefore(c,f)}}}();
+DUI.mergeIn({"digg_security_token":"1291248667_19d9517f744bd4576f05c9f7e3d5b3ec80d09ac266c52b593631c1e20d1fa6a9","digg_loggedin_state":0,"digg_location_id":6,"digg_language":"en_US","digg_trap_js_errors":0,"poll_digg_counters":0,"fb_app_id":"22108119377"})
+</script>
+
+    
+    
+</head>
+<body class="fixed ">
+<div id="fb-root"></div>
+<script src="http://cdn1.diggstatic.com/js/common/fb_loader.4050a241.js" type="text/javascript"></script><form class="hidden">
+    <input type="text" name="ident" value="" id="ident-saved">
+    <input type="password" name="password" value="" id="password-saved">
+</form><div id="modal-wrapper"></div><div id="message-dock">
+    <div id="message-sleeve" class="group">
+        <p><span class="sprite message-icon"></span><span id="message-text"></span><a class="dismiss"></a></p>
+    </div>
+</div><div class="tooltip-container" id="digg-tooltip"></div><div class="header-wrapper"><div class="header group">
+<a href="/" class="sprite digg-logo" id="header-logo">Digg</a>
+    <ul class="main-navigation tabbed-navigation group">
+        <li>
+            <a href="/" id="header-mynews"><span class="elbow-left"></span><span class="elbow-right"></span>My News</a>
+        </li>
+        <li>
+            <a href="/news" id="header-topnews"><span class="elbow-left"></span><span class="elbow-right"></span>Top News</a>
+        </li>
+        <li>
+            <a href="/upcoming" id="header-upcoming"><span class="elbow-left"></span><span class="elbow-right"></span>Upcoming</a>
+        </li>
+    </ul>
+<div class="float-right group">    <ul class="loggedout-navigation group">
+        <li><a href="/register" id="modal-create-account" class="auth-register">Join Digg!</a></li>
+        <li><a href="/login" id="modal-login" class="auth-login">Login</a></li>
+    </ul>
+<form action="/search" method="get" class="header-search" id="header-search-form">
+    <input type="text" name="q" id="q" autocomplete="off" placeholder="Search Users or Stories">
+    <input type="submit" name="submit" id="search-button" value="">
+</form>
+</div></div></div>
+<div class="page-wrapper group "><div class="column-container group">
+    <div class="pre-content outer">
+        <div class="attached-menu group" id="search-menu">
+    <div class="column narrow">
+        <dl>
+            <dt>24419</dt>
+            <dd>Story Results</dd>
+        </dl>
+    </div>
+    <div class="column">
+        <ul class="pillboxes group">
+            <li><a href="/search?q=site:alternet.org" class="active" id="filter-bestmatch">Best Match</a></li>
+            <li><a href="/search?q=site:alternet.org&amp;sort=digg" id="filter-mostdugg">Most Dugg</a></li>
+            <li><a href="/search?q=site:alternet.org&amp;sort=newest" id="filter-mostrecent">Most Recent</a></li>
+        </ul>
+    </div>
+    <div class="column wide float-right">
+        <dl>
+            <dt>0</dt>
+            <dd>Profile Results</dd>
+        </dl>
+    </div>
+</div>
+    </div>
+<div class="columns group">
+    <div class="column narrow topbar-spacer group" id="left-column">
+                    <div class="search-facet group">
+    <h4>Age</h4>
+    <ul class="facet-list">
+                                                    <li class="group">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance" class="active" id="facet-all-dates">All Dates</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance&amp;age=last_day" id="facet-last-day">Last Day</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance&amp;age=last_week" id="facet-last-week">Last Week</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance&amp;age=last_month" id="facet-last-month">Last Month</a>
+                                    </li>
+                                    </ul>
+</div>
+            <div class="search-facet group">
+    <h4>Digg Count</h4>
+    <ul class="facet-list">
+                                                    <li class="group">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance" class="active" id="facet-all-diggs">All Diggs</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance&amp;digg_count=50" id="facet-50-diggs">50+</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance&amp;digg_count=100" id="facet-100-diggs">100+</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance&amp;digg_count=500" id="facet-500-diggs">500+</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance&amp;digg_count=1000" id="facet-1000-diggs">1000+</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance&amp;digg_count=5000" id="facet-5000-diggs">5000+</a>
+                                    </li>
+                                                                                                        <li><a class="facet-more"><span class="sprite"></span>more</a></li>
+                        </ul>
+</div>
+            <div class="search-facet group">
+    <h4>Media</h4>
+    <ul class="facet-list">
+                                                    <li class="group">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance" class="active" id="facet-all-media-types">All Media Types</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance&amp;media=news" id="facet-news">News</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance&amp;media=videos" id="facet-videos">Videos</a>
+                                    </li>
+                                                                    </ul>
+</div>
+            <div class="search-facet group">
+    <h4>Topics</h4>
+    <ul class="facet-list">
+                                                    <li class="group">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance" class="active" id="facet-all-topics">All Topics</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance&amp;topic=politics" id="facet-politics">Politics</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance&amp;topic=world_news" id="facet-world-news">World News</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance&amp;topic=lifestyle" id="facet-lifestyle">Lifestyle</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance&amp;topic=business" id="facet-business">Business</a>
+                                    </li>
+                                                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance&amp;topic=science" id="facet-science">Science</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance&amp;topic=offbeat" id="facet-offbeat">Offbeat</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance&amp;topic=sports" id="facet-sports">Sports</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance&amp;topic=entertainment" id="facet-entertainment">Entertainment</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:alternet.org&amp;sort=relevance&amp;topic=technology" id="facet-technology">Technology</a>
+                                    </li>
+                                                                        <li><a class="facet-more"><span class="sprite"></span>more</a></li>
+                        </ul>
+</div>
+            </div>
+
+    <div class="column group" id="main-column">
+                    <p class="paginglabel" id="paginglabel">Pagination</p>
+                            <div id="story-list-container" class="list-container  no-ajax">
+        <div class="story-list inner-container topbar-spacer" id="story-items">
+                <div class="stories" data-digg-hashstate="">
+
+            
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100805123604_23106419 no-media first-item group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100805123604_23106419" data-digg-raw-diggs="12063"><a href="/news/politics/massive_censorship_of_digg_uncovered_ooo_2" class="digg-count-wrapper big-count"><span class="digg-count"><span>12,063</span></span></a><a class="digg-it diggable group" href="/news/politics/massive_censorship_of_digg_uncovered_ooo_2"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/massive_censorship_of_digg_uncovered_ooo_2" target="_blank">Massive Censorship Of Digg Uncovered</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:blogs.alternet.org" class="story-item-source">blogs.alternet.org</a>                            <a href="/news/politics/massive_censorship_of_digg_uncovered_ooo_2" class="story-item-teaser" rel="nofollow">&mdash; If this gets buried it&#039;s all true.
+                                <span class="timestamp">Aug 5, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/leolaporte" class="hcard-trigger" data-digg-username="leolaporte">leolaporte</a></li>
+                                                                <li class="story-item-comments"><a href="/news/politics/massive_censorship_of_digg_uncovered_ooo_2" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">2826</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20090202161704_10807432 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20090202161704_10807432" data-digg-raw-diggs="8724"><a href="/news/story/Michael_Phelps_Should_Not_Apologize_for_Smoking_Pot" class="digg-count-wrapper"><span class="digg-count"><span>8,724</span></span></a><a class="digg-it diggable group" href="/news/story/Michael_Phelps_Should_Not_Apologize_for_Smoking_Pot"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/Michael_Phelps_Should_Not_Apologize_for_Smoking_Pot" target="_blank">Michael Phelps Should Not Apologize for Smoking Pot</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:alternet.org" class="story-item-source">alternet.org</a>                            <a href="/news/story/Michael_Phelps_Should_Not_Apologize_for_Smoking_Pot" class="story-item-teaser" rel="nofollow">&mdash; Plastered all over the internet right now is a photo of Michael Phelps smoking marijuana out of a bong. Phelps struck another blow to the myth that...
+                                <span class="timestamp">Feb 3, 2009</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/makimaki" class="hcard-trigger" data-digg-username="makimaki">makimaki</a></li>
+                                                                <li class="story-item-comments"><a href="/news/story/Michael_Phelps_Should_Not_Apologize_for_Smoking_Pot" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">1126</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20101027135035_dbbbf611-751c-4381-b53a-a40738274981  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101027135035_dbbbf611-751c-4381-b53a-a40738274981" data-digg-raw-diggs="1644"><a href="/news/politics/what_happened_when_i_yelled_back_at_the_christians_calling_my_wife_a_murderer_vid" class="digg-count-wrapper"><span class="digg-count"><span>1,644</span></span></a><a class="digg-it diggable group" href="/news/politics/what_happened_when_i_yelled_back_at_the_christians_calling_my_wife_a_murderer_vid"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/what_happened_when_i_yelled_back_at_the_christians_calling_my_wife_a_murderer_vid" target="_blank">What Happened When I Yelled Back at the Christians Calling My Wife a Murderer [vid]</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:alternet.org" class="story-item-source">alternet.org</a>                            <a href="/news/politics/what_happened_when_i_yelled_back_at_the_christians_calling_my_wife_a_murderer_vid" class="story-item-teaser" rel="nofollow">&mdash; These people aren&#039;t used to being confronted. They prey on the weak and they pounce on the wounded. But I chose to fight back.
+                                <span class="timestamp">Oct 27, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/novenator" class="hcard-trigger" data-digg-username="novenator">novenator</a></li>
+                                                                <li class="story-item-comments"><a href="/news/politics/what_happened_when_i_yelled_back_at_the_christians_calling_my_wife_a_murderer_vid" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">460</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/politics/what_happened_when_i_yelled_back_at_the_christians_calling_my_wife_a_murderer_vid" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn2.diggstatic.com/story/what_happened_when_i_yelled_back_at_the_christians_calling_my_wife_a_murderer_vid/t.png" alt="What Happened When I Yelled Back at the Christians Calling My Wife a Murderer [vid]">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100814223934_23264097  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100814223934_23264097" data-digg-raw-diggs="1731"><a href="/news/world_news/Monsanto_Caused_an_Estimated_150_000_Farmer_Suicides" class="digg-count-wrapper"><span class="digg-count"><span>1,731</span></span></a><a class="digg-it diggable group" href="/news/world_news/Monsanto_Caused_an_Estimated_150_000_Farmer_Suicides"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/Monsanto_Caused_an_Estimated_150_000_Farmer_Suicides" target="_blank">Monsanto Caused an Estimated 150,000 Farmer Suicides</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:alternet.org" class="story-item-source">alternet.org</a>                            <a href="/news/world_news/Monsanto_Caused_an_Estimated_150_000_Farmer_Suicides" class="story-item-teaser" rel="nofollow">&mdash; Monsanto-created debts caused 150,000 farmer suicides in India. Annual licensing fees required each year for GM seeds patented by Monsanto keep far...
+                                <span class="timestamp">Aug 14, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/ryan0617" class="hcard-trigger" data-digg-username="ryan0617">ryan0617</a></li>
+                                                                <li class="story-item-comments"><a href="/news/world_news/Monsanto_Caused_an_Estimated_150_000_Farmer_Suicides" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">338</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/world_news/Monsanto_Caused_an_Estimated_150_000_Farmer_Suicides" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn2.diggstatic.com/story/Monsanto_Caused_an_Estimated_150_000_Farmer_Suicides/t.png" alt="Monsanto Caused an Estimated 150,000 Farmer Suicides">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100710000714_22502529  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100710000714_22502529" data-digg-raw-diggs="1238"><a href="/news/politics/We_re_in_a_Recession_Because_the_Rich_Are_Raking_it_in" class="digg-count-wrapper"><span class="digg-count"><span>1,238</span></span></a><a class="digg-it diggable group" href="/news/politics/We_re_in_a_Recession_Because_the_Rich_Are_Raking_it_in"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/We_re_in_a_Recession_Because_the_Rich_Are_Raking_it_in" target="_blank">We&#039;re in a Recession Because the Rich Are Raking it in</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:alternet.org" class="story-item-source">alternet.org</a>                            <a href="/news/politics/We_re_in_a_Recession_Because_the_Rich_Are_Raking_it_in" class="story-item-teaser" rel="nofollow">&mdash; Our economy can&#039;t thrive when the richest 1% get an ever larger share of the nation&#039;s income and wealth, and everyone else&#039;s share s...
+                                <span class="timestamp">Jul 10, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/joeparanoid" class="hcard-trigger" data-digg-username="joeparanoid">joeparanoid</a></li>
+                                                                <li class="story-item-comments"><a href="/news/politics/We_re_in_a_Recession_Because_the_Rich_Are_Raking_it_in" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">550</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/politics/We_re_in_a_Recession_Because_the_Rich_Are_Raking_it_in" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/We_re_in_a_Recession_Because_the_Rich_Are_Raking_it_in/t.png" alt="We&#039;re in a Recession Because the Rich Are Raking it in">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20101115223335_62fafcd5-009e-49e4-afd4-75f33d95b3d3  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101115223335_62fafcd5-009e-49e4-afd4-75f33d95b3d3" data-digg-raw-diggs="576"><a href="/news/science/scientists_warn_naked_body_scanners_may_cause_cancer_2" class="digg-count-wrapper"><span class="digg-count"><span>576</span></span></a><a class="digg-it diggable group" href="/news/science/scientists_warn_naked_body_scanners_may_cause_cancer_2"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/scientists_warn_naked_body_scanners_may_cause_cancer_2" target="_blank">Scientists Warn Naked Body Scanners May Cause Cancer</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:alternet.org" class="story-item-source">alternet.org</a>                            <a href="/news/science/scientists_warn_naked_body_scanners_may_cause_cancer_2" class="story-item-teaser" rel="nofollow">&mdash; 
+                                <span class="timestamp">16 days ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/novenator" class="hcard-trigger" data-digg-username="novenator">novenator</a></li>
+                                                                <li class="story-item-comments"><a href="/news/science/scientists_warn_naked_body_scanners_may_cause_cancer_2" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">207</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/science/scientists_warn_naked_body_scanners_may_cause_cancer_2" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/scientists_warn_naked_body_scanners_may_cause_cancer_2/t.png" alt="Scientists Warn Naked Body Scanners May Cause Cancer">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20101113095924_16a457e7-8146-410c-a3be-749891f1622f  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101113095924_16a457e7-8146-410c-a3be-749891f1622f" data-digg-raw-diggs="746"><a href="/news/politics/16_of_the_dumbest_things_americans_believe_and_the_right_wing_lies_behind_them_2" class="digg-count-wrapper"><span class="digg-count"><span>746</span></span></a><a class="digg-it diggable group" href="/news/politics/16_of_the_dumbest_things_americans_believe_and_the_right_wing_lies_behind_them_2"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/16_of_the_dumbest_things_americans_believe_and_the_right_wing_lies_behind_them_2" target="_blank">16 of the Dumbest Things Americans Believe -- And the Right-Wing Lies Behind Them |</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:alternet.org" class="story-item-source">alternet.org</a>                            <a href="/news/politics/16_of_the_dumbest_things_americans_believe_and_the_right_wing_lies_behind_them_2" class="story-item-teaser" rel="nofollow">&mdash; We’ve gone beyond Stephen Colbert&#039;s
+                                <span class="timestamp">18 days ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/kathleenaustin" class="hcard-trigger" data-digg-username="kathleenaustin">kathleenaustin</a></li>
+                                                                <li class="story-item-comments"><a href="/news/politics/16_of_the_dumbest_things_americans_believe_and_the_right_wing_lies_behind_them_2" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">287</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/politics/16_of_the_dumbest_things_americans_believe_and_the_right_wing_lies_behind_them_2" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/16_of_the_dumbest_things_americans_believe_and_the_right_wing_lies_behind_them_2/t.png" alt="16 of the Dumbest Things Americans Believe -- And the Right-Wing Lies Behind Them |">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20101028025143_513680d6-02c5-4ac8-b2df-54a150b826a7  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101028025143_513680d6-02c5-4ac8-b2df-54a150b826a7" data-digg-raw-diggs="601"><a href="/news/politics/8_nasty_conservative_lies_about_the_democrats_that_must_be_debunked_before_the_election" class="digg-count-wrapper"><span class="digg-count"><span>601</span></span></a><a class="digg-it diggable group" href="/news/politics/8_nasty_conservative_lies_about_the_democrats_that_must_be_debunked_before_the_election"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/8_nasty_conservative_lies_about_the_democrats_that_must_be_debunked_before_the_election" target="_blank">8 Nasty Conservative Lies About the Democrats That Must Be Debunked Before the Election</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:alternet.org" class="story-item-source">alternet.org</a>                            <a href="/news/politics/8_nasty_conservative_lies_about_the_democrats_that_must_be_debunked_before_the_election" class="story-item-teaser" rel="nofollow">&mdash; The public has been misled on a ton of issues like tax cuts, the deficit, the economy, and the cost of health care.  There are a number things the ...
+                                <span class="timestamp">Oct 28, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/novenator" class="hcard-trigger" data-digg-username="novenator">novenator</a></li>
+                                                                <li class="story-item-comments"><a href="/news/politics/8_nasty_conservative_lies_about_the_democrats_that_must_be_debunked_before_the_election" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">271</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/politics/8_nasty_conservative_lies_about_the_democrats_that_must_be_debunked_before_the_election" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn1.diggstatic.com/story/8_nasty_conservative_lies_about_the_democrats_that_must_be_debunked_before_the_election/t.png" alt="8 Nasty Conservative Lies About the Democrats That Must Be Debunked Before the Election">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100929020819_fa16b693-5645-4395-99a0-e04fa36bd0d2  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100929020819_fa16b693-5645-4395-99a0-e04fa36bd0d2" data-digg-raw-diggs="506"><a href="/news/politics/america_s_poverty_skyrocketing_as_the_middle_class_is_being_wiped_out" class="digg-count-wrapper"><span class="digg-count"><span>506</span></span></a><a class="digg-it diggable group" href="/news/politics/america_s_poverty_skyrocketing_as_the_middle_class_is_being_wiped_out"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/america_s_poverty_skyrocketing_as_the_middle_class_is_being_wiped_out" target="_blank">America&#039;s Poverty Skyrocketing as the Middle Class is Being Wiped Out</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:alternet.org" class="story-item-source">alternet.org</a>                            <a href="/news/politics/america_s_poverty_skyrocketing_as_the_middle_class_is_being_wiped_out" class="story-item-teaser" rel="nofollow">&mdash; Most Americans are still operating under the delusion that the United States will always be &quot;the wealthiest nation&quot; in the world and that...
+                                <span class="timestamp">Sep 29, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/0ldb0y" class="hcard-trigger" data-digg-username="0ldb0y">0ldb0y</a></li>
+                                                                <li class="story-item-comments"><a href="/news/politics/america_s_poverty_skyrocketing_as_the_middle_class_is_being_wiped_out" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">240</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/politics/america_s_poverty_skyrocketing_as_the_middle_class_is_being_wiped_out" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/america_s_poverty_skyrocketing_as_the_middle_class_is_being_wiped_out/t.png" alt="America&#039;s Poverty Skyrocketing as the Middle Class is Being Wiped Out">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100906195719_a6a1f3df-f902-41f1-92e4-9651be90b67d  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100906195719_a6a1f3df-f902-41f1-92e4-9651be90b67d" data-digg-raw-diggs="839"><a href="/news/offbeat/jehovah_s_witnesses_mad_that_atheists_won_t_keep_their_views_to_themselves_speakeasy" class="digg-count-wrapper"><span class="digg-count"><span>839</span></span></a><a class="digg-it diggable group" href="/news/offbeat/jehovah_s_witnesses_mad_that_atheists_won_t_keep_their_views_to_themselves_speakeasy"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/jehovah_s_witnesses_mad_that_atheists_won_t_keep_their_views_to_themselves_speakeasy" target="_blank">Jehovah’s Witnesses Mad That Atheists Won’t Keep Their Views to Themselves «  SpeakEasy</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:blogs.alternet.org" class="story-item-source">blogs.alternet.org</a>                            <a href="/news/offbeat/jehovah_s_witnesses_mad_that_atheists_won_t_keep_their_views_to_themselves_speakeasy" class="story-item-teaser" rel="nofollow">&mdash; 
+                                <span class="timestamp">Sep 6, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/AlterNet" class="hcard-trigger" data-digg-username="AlterNet">AlterNet</a></li>
+                                                                <li class="story-item-comments"><a href="/news/offbeat/jehovah_s_witnesses_mad_that_atheists_won_t_keep_their_views_to_themselves_speakeasy" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">190</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/offbeat/jehovah_s_witnesses_mad_that_atheists_won_t_keep_their_views_to_themselves_speakeasy" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/jehovah_s_witnesses_mad_that_atheists_won_t_keep_their_views_to_themselves_speakeasy/t.png" alt="Jehovah’s Witnesses Mad That Atheists Won’t Keep Their Views to Themselves «  SpeakEasy">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100818042055_23315126  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100818042055_23315126" data-digg-raw-diggs="629"><a href="/news/politics/The_Top_10_Right_Wing_Conspiracy_Theories_2" class="digg-count-wrapper"><span class="digg-count"><span>629</span></span></a><a class="digg-it diggable group" href="/news/politics/The_Top_10_Right_Wing_Conspiracy_Theories_2"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/The_Top_10_Right_Wing_Conspiracy_Theories_2" target="_blank">The Top 10 Right-Wing Conspiracy Theories</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:alternet.org" class="story-item-source">alternet.org</a>                            <a href="/news/politics/The_Top_10_Right_Wing_Conspiracy_Theories_2" class="story-item-teaser" rel="nofollow">&mdash; Conspiracy theorizing has flourished as a virtual art form in all nations and across all political persuasions. But the American radical right has ...
+                                <span class="timestamp">Aug 18, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/novenator" class="hcard-trigger" data-digg-username="novenator">novenator</a></li>
+                                                                <li class="story-item-comments"><a href="/news/politics/The_Top_10_Right_Wing_Conspiracy_Theories_2" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">481</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/politics/The_Top_10_Right_Wing_Conspiracy_Theories_2" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/The_Top_10_Right_Wing_Conspiracy_Theories_2/t.png" alt="The Top 10 Right-Wing Conspiracy Theories">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20101201081209_0695fa74-6802-41fe-808a-b738d4340e40  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201081209_0695fa74-6802-41fe-808a-b738d4340e40" data-digg-raw-diggs="127"><a href="/news/lifestyle/shocking_agnostic_dad_loses_custody_of_kids" class="digg-count-wrapper"><span class="digg-count"><span>127</span></span></a><a class="digg-it diggable group" href="/news/lifestyle/shocking_agnostic_dad_loses_custody_of_kids"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/shocking_agnostic_dad_loses_custody_of_kids" target="_blank">Shocking: Agnostic Dad Loses Custody of Kids</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:alternet.org" class="story-item-source">alternet.org</a>                            <a href="/news/lifestyle/shocking_agnostic_dad_loses_custody_of_kids" class="story-item-teaser" rel="nofollow">&mdash; An Indiana judge pointed to a man&#039;s agnosticism when divesting him of joint custody.
+                                <span class="timestamp">15 hr 58 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/novenator" class="hcard-trigger" data-digg-username="novenator">novenator</a></li>
+                                                                <li class="story-item-comments"><a href="/news/lifestyle/shocking_agnostic_dad_loses_custody_of_kids" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">37</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/lifestyle/shocking_agnostic_dad_loses_custody_of_kids" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/shocking_agnostic_dad_loses_custody_of_kids/t.png" alt="Shocking: Agnostic Dad Loses Custody of Kids">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                        
+
+
+    
+
+    
+
+    <div class="story-item item-20101130013846_b93eee91-ed18-4eb4-aa45-cbb7d26bd167  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130013846_b93eee91-ed18-4eb4-aa45-cbb7d26bd167" data-digg-raw-diggs="107"><a href="/news/world_news/7_shocking_revelations_in_the_wikileaks_embassy_cables" class="digg-count-wrapper"><span class="digg-count"><span>107</span></span></a><a class="digg-it diggable group" href="/news/world_news/7_shocking_revelations_in_the_wikileaks_embassy_cables"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/7_shocking_revelations_in_the_wikileaks_embassy_cables" target="_blank" rel="nofollow">7 Shocking Revelations in the WikiLeaks Embassy Cables</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:alternet.org" class="story-item-source">alternet.org</a>                            <a href="/news/world_news/7_shocking_revelations_in_the_wikileaks_embassy_cables" class="story-item-teaser" rel="nofollow">&mdash; Secretary Clinton addressed the Wikileaks&#039; release of embassy cables earlier today, and didn&#039;t look happy about having to play diplomacy ...
+                                <span class="timestamp">1 day 22 hr ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/arbiinc" class="hcard-trigger" data-digg-username="arbiinc">arbiinc</a></li>
+                                                                <li class="story-item-comments"><a href="/news/world_news/7_shocking_revelations_in_the_wikileaks_embassy_cables" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">0</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/world_news/7_shocking_revelations_in_the_wikileaks_embassy_cables" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/7_shocking_revelations_in_the_wikileaks_embassy_cables/t.png" alt="7 Shocking Revelations in the WikiLeaks Embassy Cables">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20101129202757_053dde93-f4c8-44b0-be92-9ac3b9e58832  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101129202757_053dde93-f4c8-44b0-be92-9ac3b9e58832" data-digg-raw-diggs="209"><a href="/news/politics/ex_german_chancellor_says_bush_is_a_liar" class="digg-count-wrapper"><span class="digg-count"><span>209</span></span></a><a class="digg-it diggable group" href="/news/politics/ex_german_chancellor_says_bush_is_a_liar"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/ex_german_chancellor_says_bush_is_a_liar" target="_blank">Ex-German Chancellor Says Bush is a Liar</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:alternet.org" class="story-item-source">alternet.org</a>                            <a href="/news/politics/ex_german_chancellor_says_bush_is_a_liar" class="story-item-teaser" rel="nofollow">&mdash; 
+                                <span class="timestamp">2 days ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/sabo33" class="hcard-trigger" data-digg-username="sabo33">sabo33</a></li>
+                                                                <li class="story-item-comments"><a href="/news/politics/ex_german_chancellor_says_bush_is_a_liar" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">37</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/politics/ex_german_chancellor_says_bush_is_a_liar" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/ex_german_chancellor_says_bush_is_a_liar/t.png" alt="Ex-German Chancellor Says Bush is a Liar">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20101129092517_6d4059ec-bd74-4218-83fd-1987c7f0b36c no-media last-item group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101129092517_6d4059ec-bd74-4218-83fd-1987c7f0b36c" data-digg-raw-diggs="139"><a href="/news/politics/saving_progressivism_from_obama_3" class="digg-count-wrapper"><span class="digg-count"><span>139</span></span></a><a class="digg-it diggable group" href="/news/politics/saving_progressivism_from_obama_3"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/saving_progressivism_from_obama_3" target="_blank">Saving Progressivism from Obama</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:alternet.org" class="story-item-source">alternet.org</a>                            <a href="/news/politics/saving_progressivism_from_obama_3" class="story-item-teaser" rel="nofollow">&mdash; Progressives must move from disillusion to action and offer the kind of political movement and counter-narrative that the President should have bee...
+                                <span class="timestamp">2 days ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/novenator" class="hcard-trigger" data-digg-username="novenator">novenator</a></li>
+                                                                <li class="story-item-comments"><a href="/news/politics/saving_progressivism_from_obama_3" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">99</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                        </div>
+        </div>
+    </div>
+
+<div id="inline-comment-container-home">
+    </div>            <ul class="pagination group btn-loader btn-loader-bottom no-prev story-list-container"data-digg-offsetparam="page"role="navigation"aria-labelledby="paginglabel"><li class="prev"><a class="btn btn-default btn-small" href="/search?q=site:alternet.org&amp;sort=relevance&amp;ajax=off&amp;page=1" rel="prev" data-digg-ajaxqs='%7B%22q%22%3A%22site%3Aalternet.org%22%2C%22sort%22%3A%22relevance%22%2C%22page%22%3A1%7D'><span class="uitext">Prev</span></a></li><li class="page-num">Page <span class="pagination-current"></span></li><li class="next"><a class="btn btn-default btn-small" href="/search?q=site:alternet.org&amp;sort=relevance&amp;ajax=off&amp;page=2" rel="next" data-digg-ajaxqs='%7B%22q%22%3A%22site%3Aalternet.org%22%2C%22sort%22%3A%22relevance%22%2C%22page%22%3A2%7D'><span class="uitext">Next</span></a></li></ul>
+    <script type="text/javascript">
+    (function () {
+        var stories, hash;
+        stories = document.getElementById('story-list-container');
+        if (stories) {
+            hash = window.location.hash;
+            if ('' === hash) {
+                stories.className = stories.className.replace('hidden', '');
+            }
+        }
+    })();
+    </script>
+            </div>
+            <!-- search time: 0.00801396369934 recv_tstamp: 1291248667 item recv time: 0.0354969501495 -->
+        <!-- recv TS: 284200
+             send TS: 284200
+             query recv TS: 284200
+             query send TS: 284200
+             query time (SOLR): 54
+         -->
+    </div>
+    <div class="column wide" id="right-column">
+                    <div class="nothing-found">
+                <p class="title">Sorry.</p>
+                <p>No profile results were found for site:alternet.org</p>
+            </div>
+            </div>
+</div></div><div class="footer">
+    <ul class="group">
+        <li>&copy; Digg Inc. 2010</li>
+        <li><a href="http://about.digg.com">About Digg</a></li>
+        <li><a href="http://about.digg.com/ads">Advertise</a></li>
+        <li><a href="http://about.digg.com/partnership">Partners</a></li>
+        <li><a href="http://developers.digg.com">API &amp; Resources</a></li>
+        <li><a href="http://about.digg.com/blog">Blogs</a></li>
+        <li><a href="http://about.digg.com/contact">Contact Us</a></li>
+        <li><a href="http://jobs.digg.com">Jobs</a></li>
+        <li><a href="http://about.digg.com/faq">Help &amp; FAQ</a></li>
+        <li><a href="http://about.digg.com/terms-use">Terms of Service</a></li>
+        <li><a href="/topic">Topics</a></li>
+        <li class="last"><a href="http://about.digg.com/privacy">Privacy</a></li>
+            </ul>
+</div>
+<div id="feedback-bar" class="group">
+    <span title="10.2.130.111 Build: 173 - Wed Dec  1 12:31:14 PST 2010">Digg v4: 99.80ms</span>
+    <ul>
+        <li><a href="http://about.digg.com/contact">Give us feedback</a> |</li>
+        <li><a href="http://www.surveymonkey.com/s/ZNBQMYJ" id="feedback-bar-survey">Take the survey</a></li>
+    </ul>
+</div>
+<script src="http://cdn3.diggstatic.com/js/lib.c4aecf59.js" type="text/javascript"></script>    <script src="http://cdn1.diggstatic.com/js/App_Search/index.754d0683.js" type="text/javascript"></script>
+
+
+    <!-- Begin comScore Tag -->
+<script>
+document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+
+<script>
+COMSCORE.beacon({
+c1:2,
+c2:6299437,
+c3:"",
+c4:"",
+c5:"",
+c6:"",
+c15:""
+});
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6299437&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+    <!-- digg is done serving you. 2.01355321270u 137.03599911 6.6742x10-11m3kg-1s-2 6.6742x10-11m3kg-1s-2 -->
+<script type="text/javascript">var s_account = "diggcomv4";</script>
+<script src="http://cdn3.diggstatic.com/js/Omniture/omniture.6c48dd51.js" type="text/javascript"></script>
+
+<script type="text/javascript"><!--
+s.pageName = 'search:index';
+s.eVar23 = 'search:index';
+s.heir1 = 'search';
+s.heir2 = 'index';
+s.channel = 'search';
+s.eVar22 = 'search';
+s.prop5 = 'anonymous';
+s.eVar5 = 'anonymous';
+s.prop4 = 'anonymous';
+s.eVar4 = 'anonymous';
+s.prop1 = 'site:alternet.org';
+s.eVar1 = 'site:alternet.org';
+s.prop2 = '24419';
+s.events = 'event2,event1';
+var s_code=s.t();
+if (s_code) document.write(s_code);
+//--></script></body>
+</html>

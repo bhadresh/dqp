@@ -1,0 +1,1069 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Digg - Daxxer (daxxer) - Profile</title>
+    
+        <meta name="keywords" content="Digg, pictures, breaking news, entertainment, politics, technology, headline news, celebrity news, offbeat, world business, sports, funny videos">
+        <meta name="description" content="The best news, videos and pictures on the web as voted on by the Digg community. Breaking news on Technology, Politics, Entertainment, and more!">
+    
+    
+        
+        <link rel="apple-touch-icon" href="http://cdn1.diggstatic.com/img/iphone/icon.63e34426.png"/>
+    
+    
+    <link rel="alternate" type="application/rss+xml" title="Digg" href="/daxxer.rss">
+    
+        <link rel="shortcut icon" href="http://cdn1.diggstatic.com/img/favicon.a015f25c.ico">
+    
+        <link rel="stylesheet" type="text/css" href="http://cdn1.diggstatic.com/css/library/global.280a6733.css" media="all">
+        <!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://cdn1.diggstatic.com/css/support/ie_7.9b9d4168.css" media="all"><![endif]-->
+        <!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://cdn4.diggstatic.com/css/support/ie_8.88a26ac5.css" media="all"><![endif]-->
+        
+    
+    <link rel="stylesheet" type="text/css" href="http://cdn3.diggstatic.com/css/App_UserProfile/userProfile.a3ae8d4a.css" media="all">
+
+    <script type='text/javascript'>
+var DUI=function(){function d(){for(e=1;b.length;)b.shift()();b=null}var e,b=[];if(window.attachEvent)attachEvent("onload",d);else window.addEventListener&&addEventListener("load",d,true);return{mergeIn:function(a){for(propName in a)this[propName]=a[propName]},onPageLoad:function(a){e?a():b.push(a)},loadScript:function(a){var c=document.createElement("SCRIPT"),f=document.getElementsByTagName("SCRIPT")[0];c.type="text/javascript";c.async=true;c.src=a;f.parentNode.insertBefore(c,f)}}}();
+DUI.mergeIn({"digg_security_token":"1291248684_6c44ddbc7c0d9d025129a04a7996150a227cfceb23bca3d73420a5710ac82fa0","digg_loggedin_state":0,"digg_location_id":2,"digg_language":"en_US","digg_trap_js_errors":0,"poll_digg_counters":0,"fb_app_id":"22108119377"})
+</script>
+
+    <script type="text/html" id="ad_template"><div id="main" class="story-item ad-river group <@=ad_id@>"><div class="story-item-gutters group"><div class="story-item-diggbtn"><div class="digg-btn has-tooltip<@=(ad_user_has_dugg ? " digg-dugg" : "")@>" data-id="<@=ad_id@>"><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="digg-count-wrapper"><span class="digg-count"><span><@=ad_meta.diggs@></span></span></a><a class="digg-it digg-advert group<@=ad_user_has_dugg ?" digg-dugg\" href=\"" + ad_server + ad_click_url + "\"" : "\""@>></a></div></div><div class="story-item-content group"><div class="story-item-details"><h3 class="story-item-title"><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="story-title"><@=ad_meta.title@></a></h3><p class="story-item-description"><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="story-item-source"><@=ad_meta.display_url@></a><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="story-item-teaser">&mdash; <@=ad_meta.description@></a></p></div><ul class="story-item-meta group"><li class="sponsored-by">Sponsored by <strong><@=ad_meta.sponsored_by@></strong></li><li class="story-item-bury"><a class="hide-link"><span class="storylist-icon bury dib"></span>Bury</a></li></ul></div><div class="story-item-media"><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="story-item-thumb"><div class="thumb-edges"></div><img src="<@=ad_meta.thumbnail_url@>" alt="<@=ad_meta.title@>"></a></div><@ if (ad_meta.impression_url) { @><img src="<@=ad_meta.impression_url@>" class="ad-pixel"><@ } @></div></div></script>
+<script type="text/javascript" charset="utf-8">DUI.ad_url_uprrail1 = 'http://ad.doubleclick.net/adj/dgg.pr/home_pr_uprrail1;pt=pr;media=all;dv=v4;scat=pr;sync=yes;pos=uprrail1;sz=300x250,300x330;tile=1;ord=1291248684.43777';DUI.ad_url_siderailpromo1 = 'http://ad.doubleclick.net/adj/dgg.pr/home_pr_siderailpromo1;pt=pr;media=all;dv=v4;scat=pr;pos=siderailpromo1;sz=300x75;tile=2;ord=1291248684.43777';</script>
+    
+</head>
+<body class="fixed ">
+<div id="fb-root"></div>
+<script src="http://cdn1.diggstatic.com/js/common/fb_loader.4050a241.js" type="text/javascript"></script><form class="hidden">
+    <input type="text" name="ident" value="" id="ident-saved">
+    <input type="password" name="password" value="" id="password-saved">
+</form><div id="modal-wrapper"></div><div id="message-dock">
+    <div id="message-sleeve" class="group">
+        <p><span class="sprite message-icon"></span><span id="message-text"></span><a class="dismiss"></a></p>
+    </div>
+</div><div class="tooltip-container" id="digg-tooltip"></div><div class="header-wrapper"><div class="header group">
+<a href="/" class="sprite digg-logo" id="header-logo">Digg</a>
+    <ul class="main-navigation tabbed-navigation group">
+        <li>
+            <a href="/" id="header-mynews"><span class="elbow-left"></span><span class="elbow-right"></span>My News</a>
+        </li>
+        <li>
+            <a href="/news" id="header-topnews"><span class="elbow-left"></span><span class="elbow-right"></span>Top News</a>
+        </li>
+        <li>
+            <a href="/upcoming" id="header-upcoming"><span class="elbow-left"></span><span class="elbow-right"></span>Upcoming</a>
+        </li>
+    </ul>
+<div class="float-right group">    <ul class="loggedout-navigation group">
+        <li><a href="/register" id="modal-create-account" class="auth-register">Join Digg!</a></li>
+        <li><a href="/login" id="modal-login" class="auth-login">Login</a></li>
+    </ul>
+<form action="/search" method="get" class="header-search" id="header-search-form">
+    <input type="text" name="q" id="q" autocomplete="off" placeholder="Search Users or Stories">
+    <input type="submit" name="submit" id="search-button" value="">
+</form>
+</div></div></div>
+<div class="page-wrapper group "><div class="column-container group"><div class="columns group">
+    <div class="column narrow group" id="left-column">
+        <div class="rounded-img jumbo" style="background-image: url(http://cdn3.diggstatic.com/user/3424611/p.png)">daxxer</div>
+        
+            
+<ul class="profile-stats">
+    <li>
+        <a href="/daxxer/followers">
+            <strong>3,664</strong>
+            <span>Followers</span>
+        </a>
+    </li>
+    <li>
+        <a href="/daxxer/following">
+            <strong>460</strong>
+            <span>Following</span>
+        </a>
+    </li>
+    <li>
+        <a href="/daxxer/diggs">
+            <strong>11,568</strong>
+            <span>Diggs</span>
+        </a>
+    </li>
+            <li>
+            <a href="/daxxer/diggs">
+                <strong>81</strong>
+                <span>Daily Diggs</span>
+            </a>
+        </li>
+                <li>
+            <a href="/daxxer/submissions">
+                <strong>233</strong>
+                <span>Submissions</span>
+            </a>
+        </li>
+                    <li>
+                <a href="/daxxer/submissions">
+                    <strong>1</strong>
+                    <span>Daily Submissions</span>
+                </a>
+            </li>
+                <li>
+        <a href="/daxxer/comments">
+            <strong>61</strong>
+            <span>Comments</span>
+        </a>
+    </li>
+</ul>
+    </div>
+
+    <div class="column group" id="main-column">
+
+        <div class="profile-title group">
+                                        <a href="/daxxer/follow" class="btn btn-follow btn-primary has-tooltip"><span class="sprite"></span>Follow</a>
+                            <p class="username">Daxxer</p>
+                            <p class="location"><span class="sprite map-marker"></span>California</p>
+                    </div>
+
+                    <div class="profile-bio"><span class="profile-bio-text">I digg all my friends’ submissions or as many as possible anyway:-) I am looking for good mutual friends.  &lt;--------- I Appreciate Your Digging My Favorites!</span></div>
+            <ul class="pillboxes profile-navigation group">
+    <li><a href="/daxxer" class="active" id="filter-activity">All</a></li>
+    <li><a href="/daxxer/diggs"  id="filter-diggs">Diggs</a></li>
+            <li><a href="/daxxer/submissions"  id="filter-submissions">Submissions</a></li>
+        <li><a href="/daxxer/comments"  id="filter-comments">Comments</a></li>
+    <li class="divider"><a href="/daxxer/followers"  id="filter-followers">Followers</a></li>
+    <li><a href="/daxxer/following"  id="filter-following">Following</a></li>
+</ul>
+
+                                        <div class="story-list topbar-spacer" id="story-items">
+            <div class="stories" data-digg-hashstate="">
+
+            
+
+                                                                                                                
+
+
+    
+
+    
+                        
+    <div class="story-item item-20101201213902_ac58c088-375f-4d1a-ac97-ce73ff840dd6  first-item group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201213902_ac58c088-375f-4d1a-ac97-ce73ff840dd6" data-digg-raw-diggs="27"><a href="/news/entertainment/25_famous_and_completely_absurd_tv_re_castings" class="digg-count-wrapper"><span class="digg-count"><span>27</span></span></a><a class="digg-it diggable group" href="/news/entertainment/25_famous_and_completely_absurd_tv_re_castings"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/25_famous_and_completely_absurd_tv_re_castings" target="_blank">25 Famous (And Completely Absurd) TV Re-Castings</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:ugo.com" class="story-item-source">ugo.com</a>                            <a href="/news/entertainment/25_famous_and_completely_absurd_tv_re_castings" class="story-item-teaser" rel="nofollow">&mdash; Accept no substitutes with UGO&#039;s comprehensive breakdown of some of the most Famous TV Recastings.
+                                <span class="timestamp">2 hr 32 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/ugodotcom" class="hcard-trigger" data-digg-username="ugodotcom">ugodotcom</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/25_famous_and_completely_absurd_tv_re_castings" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">0</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/entertainment/25_famous_and_completely_absurd_tv_re_castings" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/25_famous_and_completely_absurd_tv_re_castings/t.png" alt="25 Famous (And Completely Absurd) TV Re-Castings">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+                        
+    <div class="story-item item-20101201223142_31bf7b0e-941c-4c44-ae35-7ef403e93fd7 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201223142_31bf7b0e-941c-4c44-ae35-7ef403e93fd7" data-digg-raw-diggs="40"><a href="/news/world_news/pickup_trucks_from_warzones_across_the_globe_pics" class="digg-count-wrapper"><span class="digg-count"><span>40</span></span></a><a class="digg-it diggable group" href="/news/world_news/pickup_trucks_from_warzones_across_the_globe_pics"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/pickup_trucks_from_warzones_across_the_globe_pics" target="_blank">Pickup Trucks From Warzones Across the Globe (PICS)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:newsweek.com" class="story-item-source">newsweek.com</a>                            <a href="/news/world_news/pickup_trucks_from_warzones_across_the_globe_pics" class="story-item-teaser" rel="nofollow">&mdash; The Toyota Hilux truck is, by many accounts, as ubiquitous to guerrilla warfare as the AK-47. Since the vehicleâs introduction in the late 1960s,...
+                                <span class="timestamp">1 hr 39 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/Newsweek" class="hcard-trigger" data-digg-username="Newsweek">Newsweek</a></li>
+                                                                <li class="story-item-comments"><a href="/news/world_news/pickup_trucks_from_warzones_across_the_globe_pics" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">2</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+                        
+    <div class="story-item item-20101201161910_bf9a1506-6f44-4431-9841-367995bf376f  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201161910_bf9a1506-6f44-4431-9841-367995bf376f" data-digg-raw-diggs="123"><a href="/news/lifestyle/no_jelly_allowed_nine_new_peanut_butter_pairings" class="digg-count-wrapper"><span class="digg-count"><span>123</span></span></a><a class="digg-it diggable group" href="/news/lifestyle/no_jelly_allowed_nine_new_peanut_butter_pairings"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/no_jelly_allowed_nine_new_peanut_butter_pairings" target="_blank">No Jelly Allowed: Nine New Peanut Butter Pairings</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:divinecaroline.com" class="story-item-source">divinecaroline.com</a>                            <a href="/news/lifestyle/no_jelly_allowed_nine_new_peanut_butter_pairings" class="story-item-teaser" rel="nofollow">&mdash; Clearly, jelly is a thing of the past in the sandwich world; peanut butter paired with everything from bacon to Nutella to pickles is the wave of t...
+                                <span class="timestamp">7 hr 52 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/shenerd" class="hcard-trigger" data-digg-username="shenerd">shenerd</a></li>
+                                                                <li class="story-item-comments"><a href="/news/lifestyle/no_jelly_allowed_nine_new_peanut_butter_pairings" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">15</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/lifestyle/no_jelly_allowed_nine_new_peanut_butter_pairings" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/no_jelly_allowed_nine_new_peanut_butter_pairings/t.png" alt="No Jelly Allowed: Nine New Peanut Butter Pairings">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                        
+
+
+    
+
+    
+                        
+    <div class="story-item item-20101201173848_77c644bf-c1bc-4c8a-83ca-b1620955f852  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201173848_77c644bf-c1bc-4c8a-83ca-b1620955f852" data-digg-raw-diggs="90"><a href="/news/entertainment/pam_anderson_influences_tv_ban_in_india" class="digg-count-wrapper"><span class="digg-count"><span>90</span></span></a><a class="digg-it diggable group" href="/news/entertainment/pam_anderson_influences_tv_ban_in_india"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/pam_anderson_influences_tv_ban_in_india" target="_blank" rel="nofollow">Pam Anderson Influences TV Ban in India</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:globalpost.com" class="story-item-source">globalpost.com</a>                            <a href="/news/entertainment/pam_anderson_influences_tv_ban_in_india" class="story-item-teaser" rel="nofollow">&mdash; American model and actress Pamela Anderson appeared on an Indian reality television show wearing a clingy blouse and a gossamer white sari. That sa...
+                                <span class="timestamp">6 hr 32 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/porkfriedrice" class="hcard-trigger" data-digg-username="porkfriedrice">porkfriedrice</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/pam_anderson_influences_tv_ban_in_india" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">13</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/entertainment/pam_anderson_influences_tv_ban_in_india" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn1.diggstatic.com/story/pam_anderson_influences_tv_ban_in_india/t.png" alt="Pam Anderson Influences TV Ban in India">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+                        
+    <div class="story-item item-20101201185838_c2a3c766-adf9-4c55-9750-e301ce547bf1  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201185838_c2a3c766-adf9-4c55-9750-e301ce547bf1" data-digg-raw-diggs="33"><a href="/news/world_news/blond_woman_goes_thru_tsa_screening_in_bra_panties_wheelchair_video_nerve_com" class="digg-count-wrapper"><span class="digg-count"><span>33</span></span></a><a class="digg-it diggable group" href="/news/world_news/blond_woman_goes_thru_tsa_screening_in_bra_panties_wheelchair_video_nerve_com"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/blond_woman_goes_thru_tsa_screening_in_bra_panties_wheelchair_video_nerve_com" target="_blank">Blond woman goes thru TSA screening in bra, panties, wheelchair (VIDEO) | Nerve.com</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:nerve.com" class="story-item-source">nerve.com</a>                            <a href="/news/world_news/blond_woman_goes_thru_tsa_screening_in_bra_panties_wheelchair_video_nerve_com" class="story-item-teaser" rel="nofollow">&mdash; A sexy blond woman named Tammy Banovac went through Oklahoma&#039;s airport security in only her bra and panties.
+                                <span class="timestamp">5 hr 12 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/buddyobush" class="hcard-trigger" data-digg-username="buddyobush">buddyobush</a></li>
+                                                                <li class="story-item-comments"><a href="/news/world_news/blond_woman_goes_thru_tsa_screening_in_bra_panties_wheelchair_video_nerve_com" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">3</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/world_news/blond_woman_goes_thru_tsa_screening_in_bra_panties_wheelchair_video_nerve_com" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/blond_woman_goes_thru_tsa_screening_in_bra_panties_wheelchair_video_nerve_com/t.png" alt="Blond woman goes thru TSA screening in bra, panties, wheelchair (VIDEO) | Nerve.com">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+                        
+    <div class="story-item item-20101201175929_7ea1b9ae-6bff-4fa4-8e81-7816d9e2180e  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201175929_7ea1b9ae-6bff-4fa4-8e81-7816d9e2180e" data-digg-raw-diggs="57"><a href="/news/offbeat/racist_rapist_just_keeps_getting_his_ass_kicked" class="digg-count-wrapper"><span class="digg-count"><span>57</span></span></a><a class="digg-it diggable group" href="/news/offbeat/racist_rapist_just_keeps_getting_his_ass_kicked"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/racist_rapist_just_keeps_getting_his_ass_kicked" target="_blank">Racist Rapist Just Keeps Getting His Ass Kicked</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:truecrimereport.com" class="story-item-source">truecrimereport.com</a>                            <a href="/news/offbeat/racist_rapist_just_keeps_getting_his_ass_kicked" class="story-item-teaser" rel="nofollow">&mdash; He brutally raped an 11-year-old girl after he was rejected by a woman who favored a black man instead. Since then he&#039;s been beaten by neighbo...
+                                <span class="timestamp">6 hr 11 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/kplo" class="hcard-trigger" data-digg-username="kplo">kplo</a></li>
+                                                                <li class="story-item-comments"><a href="/news/offbeat/racist_rapist_just_keeps_getting_his_ass_kicked" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">6</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/offbeat/racist_rapist_just_keeps_getting_his_ass_kicked" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn1.diggstatic.com/story/racist_rapist_just_keeps_getting_his_ass_kicked/t.png" alt="Racist Rapist Just Keeps Getting His Ass Kicked">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+                        
+    <div class="story-item item-20101201163830_0c6ade42-afb7-4798-a677-31579f76e2ea  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201163830_0c6ade42-afb7-4798-a677-31579f76e2ea" data-digg-raw-diggs="55"><a href="/news/gaming/best_cross_platform_video_games_for_your_gift_list" class="digg-count-wrapper"><span class="digg-count"><span>55</span></span></a><a class="digg-it diggable group" href="/news/gaming/best_cross_platform_video_games_for_your_gift_list"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/best_cross_platform_video_games_for_your_gift_list" target="_blank">Best Cross-Platform Video Games For Your Gift List</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:digitaltrends.com" class="story-item-source">digitaltrends.com</a>                            <a href="/news/gaming/best_cross_platform_video_games_for_your_gift_list" class="story-item-teaser" rel="nofollow">&mdash; Whether your favorite gamer owns a PlayStation 3 or an Xbox 360, these outstanding games that straddle both platforms are sure to be a hit for the ...
+                                <span class="timestamp">7 hr 32 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/hackiewackie" class="hcard-trigger" data-digg-username="hackiewackie">hackiewackie</a></li>
+                                                                <li class="story-item-comments"><a href="/news/gaming/best_cross_platform_video_games_for_your_gift_list" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">3</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/gaming/best_cross_platform_video_games_for_your_gift_list" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/best_cross_platform_video_games_for_your_gift_list/t.png" alt="Best Cross-Platform Video Games For Your Gift List">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+                        
+    <div class="story-item item-20101201220149_5f097a0a-0ee8-4563-b185-943c8708df3e no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201220149_5f097a0a-0ee8-4563-b185-943c8708df3e" data-digg-raw-diggs="48"><a href="/news/business/bernie_sanders_calls_out_republicans_on_hypocrisy" class="digg-count-wrapper"><span class="digg-count"><span>48</span></span></a><a class="digg-it diggable group" href="/news/business/bernie_sanders_calls_out_republicans_on_hypocrisy"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/bernie_sanders_calls_out_republicans_on_hypocrisy" target="_blank">Bernie Sanders Calls Out Republicans On Hypocrisy</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:mariopiperni.com" class="story-item-source">mariopiperni.com</a>                            <a href="/news/business/bernie_sanders_calls_out_republicans_on_hypocrisy" class="story-item-teaser" rel="nofollow">&mdash; There’s not too much more one can say about Republican’s total disregard for the middle class and poor which has not been said before.  Trying to p...
+                                <span class="timestamp">2 hr 9 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/janinewallace" class="hcard-trigger" data-digg-username="janinewallace">janinewallace</a></li>
+                                                                <li class="story-item-comments"><a href="/news/business/bernie_sanders_calls_out_republicans_on_hypocrisy" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">0</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+                        
+    <div class="story-item item-20101201222118_b7432ca1-4f71-4128-8280-d1050f187b09  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201222118_b7432ca1-4f71-4128-8280-d1050f187b09" data-digg-raw-diggs="35"><a href="/news/offbeat/boring_couple_beats_google_in_court_is_awarded_1" class="digg-count-wrapper"><span class="digg-count"><span>35</span></span></a><a class="digg-it diggable group" href="/news/offbeat/boring_couple_beats_google_in_court_is_awarded_1"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/boring_couple_beats_google_in_court_is_awarded_1" target="_blank">‘Boring’ Couple Beats Google In Court, Is Awarded $1</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:techcrunch.com" class="story-item-source">techcrunch.com</a>                            <a href="/news/offbeat/boring_couple_beats_google_in_court_is_awarded_1" class="story-item-teaser" rel="nofollow">&mdash; Back in April 2008, married couple Aaron and Christine Boring filed suit against Google for
+                                <span class="timestamp">1 hr 50 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/smurfz" class="hcard-trigger" data-digg-username="smurfz">smurfz</a></li>
+                                                                <li class="story-item-comments"><a href="/news/offbeat/boring_couple_beats_google_in_court_is_awarded_1" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">0</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/offbeat/boring_couple_beats_google_in_court_is_awarded_1" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/boring_couple_beats_google_in_court_is_awarded_1/t.png" alt="‘Boring’ Couple Beats Google In Court, Is Awarded $1">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+                        
+    <div class="story-item item-20101201153946_6b15738a-938e-4888-a213-e48df38f5f2f  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201153946_6b15738a-938e-4888-a213-e48df38f5f2f" data-digg-raw-diggs="142"><a href="/news/science/10_amazing_images_of_jupiter" class="digg-count-wrapper"><span class="digg-count"><span>142</span></span></a><a class="digg-it diggable group" href="/news/science/10_amazing_images_of_jupiter"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/10_amazing_images_of_jupiter" target="_blank">10 Amazing Images of Jupiter</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:mnn.com" class="story-item-source">mnn.com</a>                            <a href="/news/science/10_amazing_images_of_jupiter" class="story-item-teaser" rel="nofollow">&mdash; Jupiter is the largest planet in our solar system and the fifth from the sun. The planet — which was named for the Roman god Jupiter, king of all g...
+                                <span class="timestamp">8 hr 31 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/jerryjamesstone" class="hcard-trigger" data-digg-username="jerryjamesstone">jerryjamesstone</a></li>
+                                                                <li class="story-item-comments"><a href="/news/science/10_amazing_images_of_jupiter" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">8</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/science/10_amazing_images_of_jupiter" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon image"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/10_amazing_images_of_jupiter/t.png" alt="10 Amazing Images of Jupiter">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                        
+
+
+    
+
+    
+                        
+    <div class="story-item item-20101201162819_63c6f8e1-2140-434c-b52c-891175321872  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201162819_63c6f8e1-2140-434c-b52c-891175321872" data-digg-raw-diggs="86"><a href="/news/technology/microsoft_shoots_itself_in_the_foot_with_vail_decision" class="digg-count-wrapper"><span class="digg-count"><span>86</span></span></a><a class="digg-it diggable group" href="/news/technology/microsoft_shoots_itself_in_the_foot_with_vail_decision"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/microsoft_shoots_itself_in_the_foot_with_vail_decision" target="_blank" rel="nofollow">Microsoft Shoots Itself In The Foot With Vail Decision</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:gilsmethod.com" class="story-item-source">gilsmethod.com</a>                            <a href="/news/technology/microsoft_shoots_itself_in_the_foot_with_vail_decision" class="story-item-teaser" rel="nofollow">&mdash; Today I read that the upcoming release of Windows Home Server (codename Vail) will be stripped of one of its most useful features, Drive Extender. ...
+                                <span class="timestamp">7 hr 43 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/digitalmoto" class="hcard-trigger" data-digg-username="digitalmoto">digitalmoto</a></li>
+                                                                <li class="story-item-comments"><a href="/news/technology/microsoft_shoots_itself_in_the_foot_with_vail_decision" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">1</span> Comment</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/technology/microsoft_shoots_itself_in_the_foot_with_vail_decision" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/microsoft_shoots_itself_in_the_foot_with_vail_decision/t.png" alt="Microsoft Shoots Itself In The Foot With Vail Decision">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+                        
+    <div class="story-item item-20101201213532_f9586958-3979-4369-b381-1083bed439c4  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201213532_f9586958-3979-4369-b381-1083bed439c4" data-digg-raw-diggs="37"><a href="/news/entertainment/get_your_own_street_legal_tron_light_cycle" class="digg-count-wrapper"><span class="digg-count"><span>37</span></span></a><a class="digg-it diggable group" href="/news/entertainment/get_your_own_street_legal_tron_light_cycle"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/get_your_own_street_legal_tron_light_cycle" target="_blank">Get Your Own Street-Legal Tron Light Cycle</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:io9.com" class="story-item-source">io9.com</a>                            <a href="/news/entertainment/get_your_own_street_legal_tron_light_cycle" class="story-item-teaser" rel="nofollow">&mdash; Just in time for Tron: Legacy, a Florida bike shop put together 10 custom-built, street-legal Tron Light Cycle lookalikes. For a cool $55,000, you ...
+                                <span class="timestamp">2 hr 35 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/outcast" class="hcard-trigger" data-digg-username="outcast">outcast</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/get_your_own_street_legal_tron_light_cycle" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">1</span> Comment</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/entertainment/get_your_own_street_legal_tron_light_cycle" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/get_your_own_street_legal_tron_light_cycle/t.png" alt="Get Your Own Street-Legal Tron Light Cycle">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+                        
+    <div class="story-item item-20101201205728_dcda37fd-306b-4a5e-9672-8613c10abc6a  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201205728_dcda37fd-306b-4a5e-9672-8613c10abc6a" data-digg-raw-diggs="133"><a href="/news/politics/breaking_illinois_legalized_same_sex_civil_unions" class="digg-count-wrapper"><span class="digg-count"><span>133</span></span></a><a class="digg-it diggable group" href="/news/politics/breaking_illinois_legalized_same_sex_civil_unions"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/breaking_illinois_legalized_same_sex_civil_unions" target="_blank">Breaking: Illinois Legalized Same-Sex Civil Unions</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:blogs.riverfronttimes.com" class="story-item-source">blogs.riverfronttimes.com</a>                            <a href="/news/politics/breaking_illinois_legalized_same_sex_civil_unions" class="story-item-teaser" rel="nofollow">&mdash; Today in Illinois, both houses of the state legislature approved a bill granting civil unions to same-sex couples. The bill says that a civil union...
+                                <span class="timestamp">3 hr 13 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/michde" class="hcard-trigger" data-digg-username="michde">michde</a></li>
+                                                                <li class="story-item-comments"><a href="/news/politics/breaking_illinois_legalized_same_sex_civil_unions" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">30</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/politics/breaking_illinois_legalized_same_sex_civil_unions" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/breaking_illinois_legalized_same_sex_civil_unions/t.png" alt="Breaking: Illinois Legalized Same-Sex Civil Unions">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+                        
+    <div class="story-item item-20101201172544_99238910-2627-4ebf-bc38-e1f3415c772d  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201172544_99238910-2627-4ebf-bc38-e1f3415c772d" data-digg-raw-diggs="193"><a href="/news/science/nasa_creates_buzz_with_extraterrestrial_announcement" class="digg-count-wrapper"><span class="digg-count"><span>193</span></span></a><a class="digg-it diggable group" href="/news/science/nasa_creates_buzz_with_extraterrestrial_announcement"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/nasa_creates_buzz_with_extraterrestrial_announcement" target="_blank">NASA creates buzz with &#039;extraterrestrial&#039; announcement</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:physorg.com" class="story-item-source">physorg.com</a>                            <a href="/news/science/nasa_creates_buzz_with_extraterrestrial_announcement" class="story-item-teaser" rel="nofollow">&mdash; The US space agency has created a buzz with its announcement of a press conference Thursday to discuss a scientific finding that relates to the hun...
+                                <span class="timestamp">6 hr 45 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/wjappe" class="hcard-trigger" data-digg-username="wjappe">wjappe</a></li>
+                                                                <li class="story-item-comments"><a href="/news/science/nasa_creates_buzz_with_extraterrestrial_announcement" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">33</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/science/nasa_creates_buzz_with_extraterrestrial_announcement" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn2.diggstatic.com/story/nasa_creates_buzz_with_extraterrestrial_announcement/t.png" alt="NASA creates buzz with &#039;extraterrestrial&#039; announcement">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                        
+
+
+    
+
+    
+                        
+    <div class="story-item item-20101130230428_b83c7a03-8810-438b-8e24-4c4d643153cf  last-item group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130230428_b83c7a03-8810-438b-8e24-4c4d643153cf" data-digg-raw-diggs="78"><a href="/news/story/friday_update_new_inhabitants_on_the_holonet" class="digg-count-wrapper"><span class="digg-count"><span>78</span></span></a><a class="digg-it diggable group" href="/news/story/friday_update_new_inhabitants_on_the_holonet"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/friday_update_new_inhabitants_on_the_holonet" target="_blank" rel="nofollow">Friday Update: New Inhabitants on the HoloNet</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:swtorstrategies.com" class="story-item-source">swtorstrategies.com</a>                            <a href="/news/story/friday_update_new_inhabitants_on_the_holonet" class="story-item-teaser" rel="nofollow">&mdash; BioWare added five new entries to the &quot;Inhabitants&quot; section of the HoloNet; two creatures, a humanoid species, and two droids. Here is th...
+                                <span class="timestamp">1 day 1 hr ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/kolding" class="hcard-trigger" data-digg-username="kolding">kolding</a></li>
+                                                                <li class="story-item-comments"><a href="/news/story/friday_update_new_inhabitants_on_the_holonet" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">0</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/story/friday_update_new_inhabitants_on_the_holonet" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/friday_update_new_inhabitants_on_the_holonet/t.png" alt="Friday Update: New Inhabitants on the HoloNet">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                        </div>
+    </div>
+    <a href="/ajax/daxxer/index" class="btn btn-default load-more" id="more-stories">Load More<span class="sprite arrow-down"></span></a>
+
+<div id="inline-comment-container-home">
+    </div>                        </div>
+</div>
+    <div class="column wide group" id="right-column">
+        <div class="ad uprrail1">
+    <iframe src="about:blank" width="300" height="250" scrolling="no" frameborder="0" hspace="0" vspace="0" id="ad-uprrail1" data-digg-javascriptURL="http://ad.doubleclick.net/adj/dgg.pr/home_pr_uprrail1;pt=pr;media=all;dv=v4;scat=pr;sync=yes;pos=uprrail1;sz=300x250,300x330;tile=3;uname=daxxer;ord=1291248684.43777">
+        <a href="http://ad.doubleclick.net/jump/dgg.pr/home_pr_uprrail1;pt=pr;media=all;dv=v4;scat=pr;sync=yes;pos=uprrail1;sz=300x250,300x330;tile=3;uname=daxxer;ord=1291248684.43777?"><img src="http://ad.doubleclick.net/ad/dgg.pr/home_pr_uprrail1;pt=pr;media=all;dv=v4;scat=pr;sync=yes;pos=uprrail1;sz=300x250,300x330;tile=3;uname=daxxer;ord=1291248684.43777?"></a>
+    </iframe>
+</div>
+
+        
+            </div>
+</div></div><div class="footer">
+    <ul class="group">
+        <li>&copy; Digg Inc. 2010</li>
+        <li><a href="http://about.digg.com">About Digg</a></li>
+        <li><a href="http://about.digg.com/ads">Advertise</a></li>
+        <li><a href="http://about.digg.com/partnership">Partners</a></li>
+        <li><a href="http://developers.digg.com">API &amp; Resources</a></li>
+        <li><a href="http://about.digg.com/blog">Blogs</a></li>
+        <li><a href="http://about.digg.com/contact">Contact Us</a></li>
+        <li><a href="http://jobs.digg.com">Jobs</a></li>
+        <li><a href="http://about.digg.com/faq">Help &amp; FAQ</a></li>
+        <li><a href="http://about.digg.com/terms-use">Terms of Service</a></li>
+        <li><a href="/topic">Topics</a></li>
+        <li class="last"><a href="http://about.digg.com/privacy">Privacy</a></li>
+                    <li id="rss-link"><a href="/daxxer.rss">RSS</a></li>
+            </ul>
+</div>
+<div id="feedback-bar" class="group">
+    <span title="10.2.128.255 Build: 173 - Wed Dec  1 12:31:14 PST 2010">Digg v4: 295.25ms</span>
+    <ul>
+        <li><a href="http://about.digg.com/contact">Give us feedback</a> |</li>
+        <li><a href="http://www.surveymonkey.com/s/ZNBQMYJ" id="feedback-bar-survey">Take the survey</a></li>
+    </ul>
+</div>
+<script src="http://cdn3.diggstatic.com/js/lib.c4aecf59.js" type="text/javascript"></script>    <script src="http://cdn2.diggstatic.com/js/App_UserProfile/userProfile.91471975.js" type="text/javascript"></script>
+
+
+    <!-- Begin comScore Tag -->
+<script>
+document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+
+<script>
+COMSCORE.beacon({
+c1:2,
+c2:6299437,
+c3:"",
+c4:"",
+c5:"",
+c6:"",
+c15:""
+});
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6299437&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+    <!-- digg is done serving you. 2.01355321270u 137.03599911 6.6742x10-11m3kg-1s-2 6.6742x10-11m3kg-1s-2 -->
+<script type="text/javascript">var s_account = "diggcomv4";</script>
+<script src="http://cdn3.diggstatic.com/js/Omniture/omniture.6c48dd51.js" type="text/javascript"></script>
+
+<script type="text/javascript"><!--
+s.pageName = 'userprofile:index';
+s.eVar23 = 'userprofile:index';
+s.heir1 = 'userprofile';
+s.heir2 = 'index';
+s.channel = 'userprofile';
+s.eVar22 = 'userprofile';
+s.prop5 = 'anonymous';
+s.eVar5 = 'anonymous';
+s.prop4 = 'anonymous';
+s.eVar4 = 'anonymous';
+s.events = 'event2';
+var s_code=s.t();
+if (s_code) document.write(s_code);
+//--></script></body>
+</html>

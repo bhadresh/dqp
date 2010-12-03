@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Management team - Google Corporate Information</title>
+<link href="/corporate/css/default.css" rel="stylesheet">
+<script src="//www.google.com/js/gweb/analytics/autotrack.js">
+</script>
+<script>
+ new gweb.analytics.AutoTrack({profile: 'UA-18029-1'}); 
+</script>
+</head>
+<body>
+<div id="header"><a href="/"><img alt="Google" src="//www.google.com/images/logo_sm.gif"></a></div>
+<div class="scheme2" id="crumb">
+<p><a href="/">Home</a> › <a href="//www.google.com/about">About</a> › <a href="index.html">Corporate information</a> › Management</p>
+</div>
+<div id="main">
+<div id="search">
+<form action="http://www.google.com/search" method="get">
+<fieldset><label for="search-box">Enter your search text</label> <input accesskey="s" class="search-input" id="search-box" name="q" type="text" value=" "> <input name="output" type="hidden" value="googleabout"> <input name="sitesearch" type="hidden" value="www.google.com"> <input name="hl" type="hidden" value="en"> <input name="submit" type="submit" value="Search this site"></fieldset>
+</form>
+</div>
+<ul id="nav">
+<li>
+<h2>Corporate info</h2>
+<ul>
+<li><a href="index.html">Overview</a></li>
+<li><a href="tech.html">Technology</a></li>
+<li><a href="business.html">Business</a></li>
+<li><a href="culture.html">Culture</a></li>
+<li>Management</li>
+<li><a href="milestones.html">Milestones</a></li>
+<li><a href="initiatives.html">Initiatives</a></li>
+</ul>
+</li>
+<li>
+<h2>At a glance</h2>
+<ul>
+<li><a href="facts.html">Quick profile</a></li>
+<li><a href="address.html">Offices</a></li>
+</ul>
+</li>
+<li>
+<h2>Our philosophy</h2>
+<ul>
+<li><a href="tenthings.html">Ten things</a></li>
+<li><a href="software_principles.html">Software principles</a></li>
+<li><a href="privacy_principles.html">Privacy principles</a></li>
+<li><a href="ux.html">Design principles</a></li>
+<li><a href="nopopupads.html">No pop-ups</a></li>
+<li><a href="security.html">Security</a></li>
+</ul>
+</li>
+</ul>
+<div id="aux">
+<h1>Management team</h1>
+<p>Co-founders Larry Page, president of products, and Sergey Brin, president of technology, brought Google to life in September 1998. Since then, the company has grown to more than 20,000 employees worldwide, with a management team that represents some of the most experienced technology professionals in the industry. Eric Schmidt joined Google as chairman and chief executive officer in 2001.</p>
+<h2>Board of Directors</h2>
+<ul>
+<li><a href="#eric">Eric Schmidt</a>, Google Inc.</li>
+<li><a href="#sergey">Sergey Brin</a>, Google Inc.</li>
+<li><a href="#larry">Larry Page</a>, Google Inc.</li>
+<li><a href="#johndoerr">L. John Doerr</a>, Kleiner Perkins Caufield &amp; Byers</li>
+<li><a href="#johnhennessy">John L. Hennessy</a>, Stanford University</li>
+<li><a href="#annmather">Ann Mather</a></li>
+<li><a href="#paulotellini">Paul S. Otellini</a>, Intel</li>
+<li><a href="#ramshriram">K. Ram Shriram</a>, Sherpalo</li>
+<li><a href="#shirleytilghman">Shirley M. Tilghman</a>, Princeton University</li>
+</ul>
+<h2>Executive Officers</h2>
+<ul>
+<li><a href="#eric">Eric Schmidt</a>, Chairman of the Board and Chief Executive Officer</li>
+<li><a href="#sergey">Sergey Brin</a>, Co-Founder and President, Technology</li>
+<li><a href="#larry">Larry Page</a>, Co-Founder and President, Products</li>
+<li><a href="#nikesh">Nikesh Arora</a>, President, Global Sales Operations and Business Development</li>
+<li><a href="#shona">Shona L. Brown</a>, Senior Vice President, Business Operations</li>
+<li><a href="#david">David C. Drummond</a>, Senior Vice President, Corporate Development and Chief Legal Officer</li>
+<li><a href="#alan">Alan Eustace</a>, Senior Vice President, Engineering and Research</li>
+<li><a href="#pichette">Patrick Pichette</a>, Senior Vice President and Chief Financial Officer</li>
+<li><a href="#jonathan">Jonathan Rosenberg</a>, Senior Vice President, Product Management</li>
+</ul>
+<div id="board">
+<h3 class="section">Board of Directors</h3>
+<p><a id="johndoerr"></a> <strong>L. John Doerr</strong> has served as a member of our board of directors since May 1999. John has been a General Partner of Kleiner Perkins Caufield &amp; Byers, a venture capital firm, since August 1980. John is also a director of Amyris, Inc., a biotechnology company. John holds a Master of Business Administration degree from Harvard Business School and a Master of Science degree in electrical engineering and computer science and a Bachelor of Science degree in electrical engineering from Rice University.<br>
+<a href="http://www.kpcb.com/team/doerr">More about L. John Doerr »</a></p>
+<p><a id="johnhennessy"></a> <strong>John L. Hennessy</strong> has served as a member of our board of directors since April 2004, and as Lead Independent Director since April 2007. Since September 2000, John has served as the President of Stanford University. From 1994 to August 2000, John held various positions at Stanford, including Dean of the Stanford University School of Engineering and Chair of the Stanford University Department of Computer Science. John has been a member of the board of directors of Cisco Systems, Inc., a networking equipment company, since January 2002. John holds a Master‘s degree and a Doctoral degree in computer science from the State University of New York, Stony Brook and a Bachelor of Science degree in electrical engineering from Villanova University.<br>
+<a href="http://www.stanford.edu/dept/president/biography/">More about John L. Hennessy »</a></p>
+<p><a id="annmather"></a> <strong>Ann Mather</strong> has served as a member of our board of directors since November 2005. Since September 2005, Ann has been a director of Glu Mobile Inc., a publisher of mobile games. Ann is also a director of Netflix, Inc., an Internet subscription service for movies and television shows, and MoneyGram International, a global payment services company. From 1999 to 2004, Ann was Executive Vice President and Chief Financial Officer of Pixar, a computer animation studio. Prior to her service at Pixar, Ann was Executive Vice President and Chief Financial Officer at Village Roadshow Pictures, the film production division of Village Roadshow Limited. From 1993 to 1999, she held various executive positions at The Walt Disney Company, including Senior Vice President of Finance and Administration for its Buena Vista International Theatrical Division. Ann holds a Master of Arts degree from Cambridge University.<br>
+<a href="http://www.google.com/corporate/mather_bio.html">More about Ann Mather »</a></p>
+<p><a id="paulotellini"></a> <strong>Paul S. Otellini</strong> has served as a member of our board of directors since April 2004. Paul has served as the Chief Executive Officer and President of Intel Corporation, a semiconductor manufacturing company, since May 2005. Paul has been a member of the board of directors of Intel since 2002. He also served as Intel‘s Chief Operating Officer from 2002 to May 2005. From 1974 to 2002, Paul held various positions at Intel, including Executive Vice President and General Manager of the Intel Architecture Group and Executive Vice President and General Manager of the Sales and Marketing Group. Paul holds a Master‘s degree from the University of California at Berkeley and a Bachelor‘s degree in economics from the University of San Francisco.<br>
+<a href="http://www.intel.com/pressroom/kits/bios/otellini.htm">More about Paul S. Otellini »</a></p>
+<p><a id="ramshriram"></a> <strong>K. Ram Shriram</strong> has served as a member of our board of directors since September 1998. Since January 2000, Ram has served as managing partner of Sherpalo Ventures, an angel venture investment company. Prior to that, from August 1998 to September 1999, Ram served as Vice President of Business Development at Amazon.com, Inc., an Internet retail company. Prior to that, Ram served as President at Junglee Corporation, a provider of database technology, acquired by Amazon.com in 1998. Ram was an early member of the executive team at Netscape Communications Corporation. Ram holds a Bachelor of Science degree from the University of Madras, India.<br>
+<a href="http://www.sherpalo.com/about/meet_ram.php">More about K. Ram Shriram »</a></p>
+<p><a id="shirleytilghman"></a> <strong>Shirley M. Tilghman</strong> has served as a member of our board of directors since October 2005. Since June 2001, Shirley has served as the President of Princeton University. From August 1986 to June 2001, she served as a Professor at Princeton University and from August 1988 to June 2001 as an Investigator at Howard Hughes Medical Institute. In 1998, she took the role as founding director of Princeton‘s multi-disciplinary Lewis Sigler Institute for Interactive Genomics. Shirley holds a Ph.D. in biochemistry from Temple University and an Honors Bachelor of Science degree in chemistry from Queen‘s University.<br>
+<a href="http://www.princeton.edu/president/biography/">More about Shirley M. Tilghman »</a></p>
+</div>
+<div id="execs">
+<h3 class="section">Executive Officers</h3>
+<a id="eric"></a>
+<div class="execs"><img alt="" src="http://www.google.com/corporate/images/management/eric.jpg">
+<div class="execs_profile"><strong>Eric Schmidt<br>
+Chairman of the Board and Chief Executive Officer</strong><br>
+<p>Since joining Google in 2001, Eric Schmidt has helped grow the company from a Silicon Valley startup to a global enterprise. Under his leadership, Google has dramatically scaled its infrastructure and broadened its offerings while maintaining a culture of strong innovation. His background uniquely prepares him to lead Google’s efforts toward technological solutions that focus on users. With founders Sergey Brin and Larry Page, and the rest of the executive team, Eric oversees the company’s technical and business strategy.</p>
+<p>Prior to joining Google, Eric was the Chairman and CEO of Novell and Chief Technology Officer at Sun Microsystems, Inc., where he led the development of Java, Sun’s platform-independent programming technology. Earlier in his career, Eric was a member of the research staff at Xerox Palo Alto Research Center (PARC) and held positions at Bell Laboratories and Zilog. He holds a bachelor’s degree in electrical engineering from Princeton University as well as a master’s degree and Ph.D. in computer science from the University of California, Berkeley.</p>
+<p>Eric is a member of President Obama’s Council of Advisors on Science and Technology. He was elected to the National Academy of Engineering in 2006 and inducted into the American Academy of Arts and Sciences as a fellow in 2007. Eric also chairs the board of the New America Foundation.</p>
+</div>
+</div>
+<a id="sergey"></a>
+<div class="execs"><img alt="" src="http://www.google.com/corporate/images/management/sergey.jpg">
+<div class="execs_profile"><strong>Sergey Brin<br>
+Co-Founder and President, Technology</strong><br>
+<p>Sergey Brin, a native of Moscow, received a bachelor of science degree with honors in mathematics and computer science from the University of Maryland at College Park. He is currently on leave from the Ph.D. program in computer science at Stanford University, where he received his master’s degree. Sergey is a recipient of a National Science Foundation Graduate Fellowship as well as an honorary MBA from Instituto de Empresa. It was at Stanford where he met Larry Page and worked on the project that became Google. Together they founded Google Inc. in 1998, and Sergey continues to share responsibility for day-to-day operations with Larry Page and Eric Schmidt.</p>
+<p>Sergey’s research interests include search engines, information extraction from unstructured sources, and data mining of large text collections and scientific data. He has published more than a dozen academic papers, including <em>Extracting Patterns and Relations from the World Wide Web; Dynamic Data Mining: A New Architecture for Data with High Dimensionality</em>, which he published with Larry Page; <em>Scalable Techniques for Mining Casual Structures; Dynamic Itemset Counting and Implication Rules for Market Basket Data</em>; and <em>Beyond Market Baskets: Generalizing Association Rules to Correlations</em>.</p>
+<p>Sergey has been a featured speaker at several international academic, business and technology forums, including the World Economic Forum and the Technology, Entertainment and Design Conference. He has shared his views on the technology industry and the future of search on the <em>Charlie Rose Show</em>, CNBC, and CNNfn. In 2004, he and Larry Page were named “Persons of the Week” by ABC World News Tonight.</p>
+</div>
+</div>
+<a id="larry"></a>
+<div class="execs"><img alt="" src="http://www.google.com/corporate/images/management/larry.jpg">
+<div class="execs_profile"><strong>Larry Page<br>
+Co-Founder and President, Products</strong><br>
+<p>Larry Page was Google’s founding CEO and grew the company to more than 200 employees and profitability before moving into his role as president of products in April 2001. He continues to share responsibility for Google’s day-to-day operations with Eric Schmidt and Sergey Brin.</p>
+<p>The son of Michigan State University computer science professor Dr. Carl Victor Page, Larry’s love of computers began at age six. While following in his father’s footsteps in academics, he became an honors graduate from the University of Michigan, where he earned a bachelor’s degree in engineering, with a concentration on computer engineering. During his time in Ann Arbor, Larry built an inkjet printer out of Lego&trade; bricks.</p>
+<p>While in the Ph.D. program in computer science at Stanford University, Larry met Sergey Brin, and together they developed and ran Google, which began operating in 1998. Larry went on leave from Stanford after earning his master’s degree.</p>
+<p>In 2002, Larry was named a World Economic Forum Global Leader for Tomorrow. He is a member of the National Advisory Committee (NAC) of the University of Michigan College of Engineering, and together with co-founder Sergey Brin, Larry was honored with the Marconi Prize in 2004. He is a trustee on the board of the X PRIZE, and was elected to the National Academy of Engineering in 2004.</p>
+</div>
+</div>
+<a id="nikesh"></a>
+<div class="execs"><img alt="" src="http://www.google.com/corporate/images/management/nikesh.jpg">
+<div class="execs_profile"><strong>Nikesh Arora<br>
+President, Global Sales Operations and Business Development</strong><br>
+<p>Nikesh oversees all revenue and customer operations, as well as marketing and partnerships. Since joining Google in 2004, he has held several positions with the company. Most recently, he led Google’s global direct sales operations. He also developed and managed the company’s operations in the European, Middle Eastern and African markets and was responsible for creating and expanding strategic partnerships in those regions for the benefit of Google’s growing number of users and advertisers.</p>
+<p>With a background as an analyst, Nikesh’s main areas of focus have been consulting, IT, marketing and finance. Prior to joining Google, he was chief marketing officer and a member of the management board at T-Mobile. While there, he spearheaded all product development, terminals, brand and marketing activities of T-Mobile Europe. In 1999, he started working with Deutsche Telekom and founded T-Motion PLC, a mobile multimedia subsidiary of T-Mobile International. Prior to joining Deutsche Telekom, Nikesh held management positions at Putnam Investments and Fidelity Investments in Boston.</p>
+<p>Nikesh holds a master’s degree from Boston College and an MBA from Northeastern University, both of which were awarded with distinction. He also holds the CFA designation. In 1989, Nikesh graduated from the Institute of Technology in Varanasi, India with a bachelor’s degree in electrical engineering.</p>
+</div>
+</div>
+<a id="shona"></a>
+<div class="execs"><img alt="" src="http://www.google.com/corporate/images/management/shona_brown.jpg">
+<div class="execs_profile"><strong>Shona L. Brown<br>
+Senior Vice President, Business Operations</strong><br>
+<p>Shona L. Brown joined Google in 2003 and took on the responsibility of building both the People Operations and Business Operations groups. Prior to joining Google she was a partner at McKinsey &amp; Company, a management consulting company, where her focus was working with consumer technology companies on growth, innovation and transformation. Shona is the author of <em>Competing on the Edge: Strategy as Structured Chaos</em>, which introduced a new strategic model for competing in volatile markets. She is a director of the following non-profit organizations: San Francisco Jazz Organization, The Bridgespan Group and the Exploratorium. She also serves on the board of PepsiCo.</p>
+<p>Shona has a bachelor’s degree in computer systems engineering from Carleton University in Canada, an M.A. in economics and philosophy from Oxford University (which she attended as a Rhodes scholar), and a Ph.D. and postdoctoral degree from Stanford University’s Department of Industrial Engineering and Engineering Management.</p>
+</div>
+</div>
+<a id="david"></a>
+<div class="execs"><img alt="" src="http://www.google.com/corporate/images/management/david.jpg">
+<div class="execs_profile"><strong>David C. Drummond<br>
+Senior Vice President, Corporate Development and Chief Legal Officer</strong><br>
+<p>David Drummond joined Google in 2002, initially as vice president of corporate development. Today as senior vice president and chief legal officer, he leads Google’s global teams for legal, government relations, corporate development (M&amp;A and investment projects) and new business development (strategic partnerships and licensing opportunities).</p>
+<p>David was first introduced to Google in 1998 as a partner in the corporate transactions group at Wilson Sonsini Goodrich and Rosati, one of the nation’s leading law firms representing technology businesses. He served as Google’s first outside counsel and worked with Larry Page and Sergey Brin to incorporate the company and secure its initial rounds of financing. During his tenure at Wilson Sonsini, David worked with a wide variety of technology companies to help them manage complex transactions such as mergers, acquisitions and initial public offerings.</p>
+<p>David earned his bachelor’s degree in history from Santa Clara University and his JD from Stanford Law School.</p>
+</div>
+</div>
+<a id="alan"></a>
+<div class="execs"><img alt="" src="http://www.google.com/corporate/images/management/alan.jpg">
+<div class="execs_profile"><strong>Alan Eustace<br>
+Senior Vice President, Engineering and Research</strong><br>
+<p>Alan Eustace is one of Google’s senior vice presidents of engineering. He joined Google in the summer of 2002. Prior to Google, Alan spent 15 years at Digital/Compaq/HP’s Western Research Laboratory where he worked on a variety of chip design and architecture projects, including the MicroTitan Floating Point unit, BIPS&mdash;the fastest microprocessor of its era. Alan also worked with Amitabh Srivastava on ATOM, a binary code instrumentation system that forms the basis for a wide variety of program analysis and computer architecture analysis tools. These tools had a profound influence on the design of the EV5, EV6 and EV7 chip designs. Alan was promoted to director of the Western Research Laboratory in 1999. WRL had active projects in pocket computing, chip multi-processors, power and energy management, internet performance, and frequency and voltage scaling.</p>
+<p>In addition to directing Google’s engineering efforts, Alan is actively involved in a number of Google’s community-related activities such as The Second Harvest Food Bank and the Anita Borg Scholarship Fund.</p>
+<p>Alan is an author of several publications and holds numerous patents. He earned a bachelor‘s degree, a master‘s degree and a Ph.D. in computer science from the University of Central Florida.</p>
+</div>
+</div>
+<a id="pichette"></a>
+<div class="execs"><img alt="" src="http://www.google.com/images/management/pichette.jpg">
+<div class="execs_profile"><strong>Patrick Pichette<br>
+Senior Vice President and Chief Financial Officer</strong><br>
+<p>Patrick Pichette is Google’s chief financial officer. He has nearly 20 years of experience in financial operations and management in the telecommunications sector, including seven years at Bell Canada, which he joined in 2001 as executive vice president of planning and performance management. During his time at Bell Canada, he held various executive positions, including CFO from 2002 until the end of 2003, and was instrumental in the management of the most extensive communications network in Canada and its ongoing migration to a new national IP-based infrastructure. Prior to joining Bell Canada, Patrick was a partner at McKinsey &amp; Company, where he was a lead member of McKinsey’s North American Telecom Practice. He also served as vice president and chief financial officer of Call-Net Enterprises Inc., a Canadian telecommunications company.</p>
+<p>Patrick has been a member of the board of directors of Amyris, Inc., a biotechnology company, since March 2010. He also serves on the boards of two non-profit organizations, Engineers Without Borders (Canada) and the Trudeau Foundation. Patrick earned a bachelor’s degree in business administration from Universit&eacute; du Qu&eacute;bec &agrave; Montr&eacute;al. He holds a master’s degree in philosophy, politics and economics from Oxford University, where he attended as a Rhodes Scholar.</p>
+</div>
+</div>
+<a id="jonathan"></a>
+<div class="execs"><img alt="" src="http://www.google.com/corporate/images/management/jonathan.jpg">
+<div class="execs_profile"><strong>Jonathan Rosenberg<br>
+Senior Vice President, Product Management</strong><br>
+<p>Jonathan Rosenberg is an industry veteran who oversees the teams that manage Google’s innovative product portfolio and go-to-market strategies. In this role, Jonathan oversees the design, creation and improvement of all of Google’s products, from consumer offerings to publisher and business services. He directs the teams with a special focus on delivering exceptional user experience, continuous innovation, and highly relevant, accountable, and untraditional marketing.</p>
+<p>Prior to joining Google in 2002, Jonathan founded, led and managed some of the most innovative product development teams of the Internet’s first era. He was the founding member of @Home’s product group and served as senior vice president of online products and services after the merger of Excite and @Home. Prior to that, Jonathan managed the eWorld product line for Apple Computer. Earlier, he was director of product marketing for Knight Ridder Information Services in Palo Alto, California, where he directed development of one of the first commercially deployed online relevance ranking engines and menu-driven Boolean search services for consumers.</p>
+<p>Jonathan holds an MBA from the University of Chicago and a bachelor’s degree with honors in economics from Claremont McKenna College, where he graduated Phi Beta Kappa.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer_level1">
+<p><a href="/about.html">About</a></p>
+</div>
+<div id="footer_level2">
+<p><a href="/press">Press</a> · <strong>Corporate Information</strong> · <a href="/jobs">Jobs</a> · <a href="http://investor.google.com/">Investor Relations</a> · <a href="/contact">Contact Us</a></p>
+</div>
+<div id="about">
+<p>&copy; 2010 Google · <a href="/privacy.html">Privacy Policy</a> · <a href="/accounts/TOS">Terms of Service</a></p>
+</div>
+</body>
+</html>

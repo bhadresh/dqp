@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>Google Desktop - Privacy Policy</title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+<script src="js-utils.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+platformDetect();
+</script>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+  _uacct="UA-18007-1";
+  _uanchor=1;
+  urchinTracker();
+</script>
+<style type="text/css">
+ table.c4 {background-color: #3399CC}
+ td.c3 {padding-left:12px;}
+ td.c2 {background-color: #E8F4F7}
+ td.c1 {background-color: #3399CC}
+</style>
+<link charset="utf-8" href="//www.google.com/css/header.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="g-section header"><a href="http://desktop.google.com"><img alt="Google Desktop" src="http://www.google.com/images/logos/desktop_logo.gif"></a></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td nowrap="nowrap" valign="top" width="160">
+<p><a href="index.html">Download</a><br>
+<br>
+<a href="features.html">Features</a><br>
+<br>
+<a href="testimonials.html">Testimonials</a><br>
+<br>
+<a href="gettingstarted.html">Getting Started</a><br>
+<br>
+<a href="http://googledesktop.blogspot.com/">Desktop Blog</a><br>
+<br>
+<a href="http://desktop.google.com/support?hl=en">Help Center</a><br>
+<br>
+<a href="http://groups.google.com/group/Google-Desktop">Discuss with others</a><br>
+<br>
+<a href="enterprise/index.html">Enterprise Edition</a><br>
+<br></p>
+<table border="0" cellpadding="5" cellspacing="1" class="c4">
+<tr>
+<td class="c2"><strong>Additional Resources</strong><br>
+<a href="/plugins/">Download Plug-ins</a><br>
+<a href="/dev/">Developer SDK</a><br></td>
+</tr>
+</table>
+</td>
+<td id="dots" width="10"></td>
+<td id="content">
+<h1>&nbsp;Privacy Policy</h1>
+<p>November 2008</p>
+<p>The <a href="http://www.google.com/privacy.html">Google Privacy Policy</a> describes how we treat personal information when you use Google's products and services, including information provided when you use Google Desktop. In addition, the following describes our privacy practices that are specific to Google Desktop.</p>
+<p><strong>Information we collect</strong></p>
+<ul>
+<li>The Google Desktop application indexes and stores versions of your files and other computer activity, such as email, chats, and web history. These versions may also be mixed with your Web search results to produce results pages for you that integrate relevant content from your computer and information from the Web. Your computer's content is not sent to Google without your explicit permission.</li>
+<li>Your copy of Google Desktop includes a unique application number. This number and information about your installation (e.g., operating system type, version number) will be sent to Google when you first install and use it and when Google Desktop automatically checks for updates. When you install or remove a Google Gadget, a unique gadget identifier is sent to Google. Google does not associate the unique application number with you or your Google Account.</li>
+<li>If you choose to opt in to &quot;Improve Google Desktop&quot;, Google may collect, together with the unique application number, crash reports and a limited number of non-personal usage statistics. The non-personal usage statistics include summary information such as your operating system type, the number of searches you do, the time it takes for you to see your results. Crash reports may contain information from files, applications and services that were running at the time of a malfunction.</li>
+<li>If you have Safe Browsing enabled on the Windows version of Google Desktop and visit a malicious/phishing website, then the referring URL will be sent to Google if you opt-in to send back malware/phishing URLs from the Safe Browsing interstitial page.</li>
+<li>If you choose to enable personalized features for a Google-created gadget, Google Desktop may send non-personal usage data to Google in order to provide personalized content, such as personalized news.</li>
+<li>If you choose to enable Search Across Computers on the Windows version of Google Desktop, Google will securely transmit copies of your indexed files to Google servers in order to provide the feature. Google treats the contents of your indexed files as personal information in accordance with the <a href="http://www.google.com/privacy.html">Google Privacy Policy</a>.</li>
+<li>If you choose to save gadget settings and content, Google will securely transmit copies of your gadget settings and content to Google servers in order to provide the feature. Google treats the gadget settings and contents of your indexed files as personal information in accordance with the <a href="http://www.google.com/privacy.html">Google Privacy Policy</a>.</li>
+</ul>
+<p><strong>Uses</strong></p>
+<ul>
+<li>We use this information to deliver the best possible service to you, such as improving the Google Desktop user experience and providing automatic updates of new versions of Desktop.</li>
+</ul>
+<p><strong>Your choices</strong></p>
+<ul>
+<li>You can choose to opt-out from &quot;Improve Google Desktop&quot; during installation and you can change your mind at any time from the Desktop options menu.<br></li>
+<li>You can choose to enable personalized features during or after a gadget installation. You can opt out of a gadget's personalization features by disabling personalization if the gadget provides that option, or by removing the gadget completely.<br></li>
+<li>You can choose to opt-in to store your content and settings from individual gadgets on Google's servers so that your gadget settings may be backed up and maintained when using different computers.<br></li>
+<li>Safe Browsing is enabled by default on the Windows version of Google Desktop to provide you with an interstitial notice whenever you visit a known malware/phishing website. You can choose to disable this feature at any time in Desktop's options.<br></li>
+<li>Google Desktop includes some functionality which can be set by your administrator. For example, your administrator may choose to prevent Google from receiving the unique application number associated with your copy of Google Desktop, or the personalized information and aggregate usage data described above.<br></li>
+<li>You can uninstall the Google Desktop software through the &quot;Add or Remove Programs&quot; Control Panel at any time. When you uninstall the software, you can choose whether to delete the Google Desktop index and the information that Desktop stores, and all desktop gadgets. If you choose to delete this information the original files and applications remain unaffected.<br></li>
+<li>If you cancel your Google Account or uninstall Google Desktop, the files indexed in the Search Across Computers feature will no longer be accessible through Google Desktop and may remain on our servers for up to 10 days before being deleted.</li>
+</ul>
+<p><strong>More information</strong></p>
+<p>Google adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the <a href="http://www.export.gov/safeharbor/">Department of Commerce's web site</a>.</p>
+<p>Further information about Google Desktop is available <a href="/support?hl=en_US">here</a>. &nbsp;</p>
+<p>For more information about our privacy practices, go to <a href="http://www.google.com/privacypolicy.html">the full privacy policy</a>. &nbsp;For questions concerning the product or your account, please check out the <a href="http://www.google.com/support?hl=en">Google Help</a> page.</p>
+<br></td>
+</tr>
+<tr>
+<td align="center" colspan="3" id="footer">&copy;2009 Google - <a href="privacypolicy.html">Privacy Policy</a> - <a href="http://www.google.com/accounts/TOS">Terms and Conditions</a> - <a href="copyrights.html">Copyright Notices</a></td>
+</tr>
+</table>
+</body>
+</html>

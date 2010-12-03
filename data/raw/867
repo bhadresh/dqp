@@ -1,0 +1,205 @@
+<html>
+<head>
+<meta HTTP-EQUIV='content-type' CONTENT='text/html; charset=UTF-8'>
+<link rel="stylesheet" type="text/css" href="/trends/html/trends.css">
+<title>Google Trends</title>
+<script type='text/javascript' src='http://www.google.com/now/en-us.js'></script>
+<script type='text/javascript' src='http://www.google.com/js/gweb/mobile/useragent.js'></script>
+</head>
+<body bgcolor='#ffffff'>
+<script>
+//<!--
+var detector = new gweb.mobile.userAgent();
+detector.redirectForHTML5Device('/trends/m');
+//-->
+</script>
+
+<center>
+<img src='http://www.google.com/intl/en/images/logos/trends_logo_lg.gif' alt='Google Trends' border=0 style='margin-bottom:1em'>
+<table cellpadding=0 cellspacing=0 border=0
+       style='margin:0em 0'><tr><td align=left>
+<form action='/trends' method=get name=search       style='padding-bottom: 0em'>
+<table align=center><tr><td align=left>
+<input maxlength=256 size=60 name=q type=text value=''>
+<script>
+//<!--
+document.search.q.focus();
+//-->
+</script>
+<input type=submit value='Search Trends'><br><font size=-1 color='#676767'>Tip: Use commas to compare multiple search terms.</font></td></tr></table>
+</form>
+</td></tr><br>
+<tr></td><td><br>
+<font size=-1 color=#676767>
+<table class=examples>
+<tr><td><font size=-1 color=#676767>Examples</td></tr>
+<tr><td><a href='/trends?q=equinox,+full+moon,+solstice'>equinox, full moon, solstice</a></td>
+<td><a href='/trends?q=sin+city,+cinderella+man'>sin city, cinderella man</a></td>
+<td><a href='/trends?q=dj'>dj</a></td>
+</tr><tr><td><a href='http://trends.google.com/websites?q=yelp.com,+citysearch.com'>yelp.com, citysearch.com</a></td>
+<td><a href='http://trends.google.com/websites?q=linkedin.com'>linkedin.com</a></td>
+<td><a href='http://trends.google.com/websites?q=transformersmovie.com,+shrek.com,+simpsonsmovie.com'>transformersmovie.com, shrek.com, simpsonsmovie.com</a></td>
+</tr></table>
+</td></tr><tr><td>
+<table cellspacing=0 cellpadding=0 style='margin: 1em 0 0 0' width=100%><tr><td width=47% valign=top style='min-width:350px'><table width=100% cellpadding=0 cellspacing=0><tr><td height=10><tr><td bgcolor='#3366CC' height=1></table>
+<table width=100% cellpadding=2 cellspacing=0 bgcolor='#E5ECF9'><tr><td><b>&nbsp;<font size=-1>Hot Topics<sup style='line-height: 0; color: #f00; font-weight: normal;'>New!</sup>&nbsp;&nbsp;</b>
+<font color='#676767'>(USA)</font>
+</table>
+<table width=100%><tr><td width=100% class=hotListTable id=now_widget>
+<table><tr id=hottoprow_0><td>
+<table class=hotTerm><tr><td class=num>&nbsp;&nbsp;1.</td>
+<td><a href='#' id=hot_topic_0></a></td>
+</tr></table></td></tr>
+<tr id=hottoprow_1><td>
+<table class=hotTerm><tr><td class=num>&nbsp;&nbsp;2.</td>
+<td><a href='#' id=hot_topic_1></a></td>
+</tr></table></td></tr>
+<tr id=hottoprow_2><td>
+<table class=hotTerm><tr><td class=num>&nbsp;&nbsp;3.</td>
+<td><a href='#' id=hot_topic_2></a></td>
+</tr></table></td></tr>
+<tr id=hottoprow_3><td>
+<table class=hotTerm><tr><td class=num>&nbsp;&nbsp;4.</td>
+<td><a href='#' id=hot_topic_3></a></td>
+</tr></table></td></tr>
+<tr id=hottoprow_4><td>
+<table class=hotTerm><tr><td class=num>&nbsp;&nbsp;5.</td>
+<td><a href='#' id=hot_topic_4></a></td>
+</tr></table></td></tr>
+<tr id=hottoprow_5><td>
+<table class=hotTerm><tr><td class=num>&nbsp;&nbsp;6.</td>
+<td><a href='#' id=hot_topic_5></a></td>
+</tr></table></td></tr>
+<tr id=hottoprow_6><td>
+<table class=hotTerm><tr><td class=num>&nbsp;&nbsp;7.</td>
+<td><a href='#' id=hot_topic_6></a></td>
+</tr></table></td></tr>
+<tr id=hottoprow_7><td>
+<table class=hotTerm><tr><td class=num>&nbsp;&nbsp;8.</td>
+<td><a href='#' id=hot_topic_7></a></td>
+</tr></table></td></tr>
+<tr id=hottoprow_8><td>
+<table class=hotTerm><tr><td class=num>&nbsp;&nbsp;9.</td>
+<td><a href='#' id=hot_topic_8></a></td>
+</tr></table></td></tr>
+<tr id=hottoprow_9><td>
+<table class=hotTerm><tr><td class=num>10.</td>
+<td><a href='#' id=hot_topic_9></a></td>
+</tr></table></td></tr>
+<script>
+//<!--
+function addParams() {
+  var sp = document.getElementById('hid_adds');
+  while (!!sp.firstChild) {
+    sp.removeChild(sp.firstChild);
+  }
+  var tb = document.getElementById('hot_topics_search');
+  var q = tb.value
+      .replace(/^\s*/, '').replace(/\s*$/, '')      .replace(/\s+/g, ' ');
+  if (!q) {
+    return false;
+  }
+  if (!!window.nowqueries.getUrlParams) {
+    var params = nowqueries.getUrlParams(q);
+    for (k in params) {
+      var hid = document.createElement('input');
+      hid.type = 'hidden';
+      hid.name = k;
+      hid.value = params[k];
+      sp.appendChild(hid);
+    }
+  }
+  tb.value = q;
+  return true;
+}
+//-->
+</script>
+<tr><td><table class=hotTerm><tr><td></td><td style='padding-left:1.5em'><div style='padding: 0.3em 0'>More Hot Topics:</div>
+<form action='http://www.google.com/search' id=gnowf onsubmit='return addParams()'>
+<span id='hid_adds'></span><input type=hidden name=hl value='en'/>
+<input name=q maxlength=256 size=18 type=text value='' id='hot_topics_search'/>
+<input type=submit value='Search latest' style='margin-top:.15em'/></form>
+</td></tr></table></td></tr></table></td></tr></table>
+<script>
+//<!--
+if (!window.nowqueries || !window.nowqueries['queries']) {
+  var widget_td = document.getElementById('now_widget');
+  widget_td.innerHTML = 'Hot topics are currently unavailable, please check again later.';
+} else {
+  var i = 0, max_num_topics = 10;
+  while (i < max_num_topics && i < nowqueries['queries'].length) {
+    var anchor = document.getElementById('hot_topic_'+i);
+    anchor.href = nowqueries['queries'][i].search_link;
+    anchor.innerHTML = nowqueries['queries'][i].query;
+    i++;
+  }
+  while (i < max_num_topics) {
+    document.getElementById('hottoprow_' + i).style.display='none';
+    i++;
+  }
+}
+//-->
+</script>
+</td><td width=6% style='min-width:40px'>&nbsp;</td><td width=47% style='min-width:350px' valign=top>
+<table width=100% cellpadding=0 cellspacing=0><tr><td height=10><tr><td bgcolor='#3366CC' height=1></table>
+<table width=100%  cellpadding=2 cellspacing=0 bgcolor='#E5ECF9'><tr><td><b>&nbsp;<font size=-1>Hot Searches&nbsp;&nbsp;</b>
+<font color='#676767'>(USA)</font>
+</table>
+<table width=100%>
+<tr>
+<td class=hotListTable width=100>
+  <table>
+    <tr><td><table class=hotTerm><tr><td class=num>&nbsp;&nbsp;1.</td>
+              <td><a href=/trends/hottrends?q=google+evil&date=2010-12-1&sa=X>google evil</a></td></tr></table>
+    </td></tr>
+    <tr><td><table class=hotTerm><tr><td class=num>&nbsp;&nbsp;2.</td>
+              <td><a href=/trends/hottrends?q=spying+on+drudge&date=2010-12-1&sa=X>spying on drudge</a></td></tr></table>
+    </td></tr>
+    <tr><td><table class=hotTerm><tr><td class=num>&nbsp;&nbsp;3.</td>
+              <td><a href=/trends/hottrends?q=prisonplanet.com+censored&date=2010-12-1&sa=X>prisonplanet.com censored</a></td></tr></table>
+    </td></tr>
+    <tr><td><table class=hotTerm><tr><td class=num>&nbsp;&nbsp;4.</td>
+              <td><a href=/trends/hottrends?q=hannukah+2010&date=2010-12-1&sa=X>hannukah 2010</a></td></tr></table>
+    </td></tr>
+    <tr><td><table class=hotTerm><tr><td class=num>&nbsp;&nbsp;5.</td>
+              <td><a href=/trends/hottrends?q=hanukkah&date=2010-12-1&sa=X>hanukkah</a></td></tr></table>
+    </td></tr>
+    <tr><td><table class=hotTerm><tr><td class=num>&nbsp;&nbsp;6.</td>
+              <td><a href=/trends/hottrends?q=pat+manocchia&date=2010-12-1&sa=X>pat manocchia</a></td></tr></table>
+    </td></tr>
+    <tr><td><table class=hotTerm><tr><td class=num>&nbsp;&nbsp;7.</td>
+              <td><a href=/trends/hottrends?q=rosa+parks&date=2010-12-1&sa=X>rosa parks</a></td></tr></table>
+    </td></tr>
+    <tr><td><table class=hotTerm><tr><td class=num>&nbsp;&nbsp;8.</td>
+              <td><a href=/trends/hottrends?q=prison+planet+censored&date=2010-12-1&sa=X>prison planet censored</a></td></tr></table>
+    </td></tr>
+    <tr><td><table class=hotTerm><tr><td class=num>&nbsp;&nbsp;9.</td>
+              <td><a href=/trends/hottrends?q=chanukah&date=2010-12-1&sa=X>chanukah</a></td></tr></table>
+    </td></tr>
+    <tr><td><table class=hotTerm><tr><td class=num>10.</td>
+              <td><a href=/trends/hottrends?q=cabrini+green&date=2010-12-1&sa=X>cabrini green</a></td></tr></table>
+    </td></tr>
+<tr><td><table class=hotTerm style='margin-top:.5em'><tr>
+     <td></td><td valign=middle>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=/trends/hottrends?sa=X id=more_link>More Hot Searches &raquo;</a>
+              </td></tr></table>
+    </td></tr>
+  </table>
+</td>
+</tr></table>
+</div></td>
+</td></tr></table>
+</table>
+<div class=landItm><font size=-1>Explore advanced features with <a href='http://www.google.com/insights/search'>Google Insights for Search</a></font></div>
+<div class=landItm><font size=-1>Explore flu trends across the U.S. with <a href='http://www.google.org/flutrends'>Flu Trends</a></font></div>
+
+<div class=landItm>
+<font size=-1>
+<a href='/'>Google Home</a> - <a href='/intl/en/trends/about.html'>About Google Trends</a>
+</font>
+</div>
+<div class=landItm><font size=-2>&copy;2008 Google</font></div>
+
+</center>
+
+</body>
+</html>

@@ -1,0 +1,1129 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Digg
+            - 410 Results For site:ismashphone.com
+    </title>
+    
+        <meta name="keywords" content="Digg, pictures, breaking news, entertainment, politics, technology, headline news, celebrity news, offbeat, world business, sports, funny videos">
+        <meta name="description" content="The best news, videos and pictures on the web as voted on by the Digg community. Breaking news on Technology, Politics, Entertainment, and more!">
+    
+    
+        
+        <link rel="apple-touch-icon" href="http://cdn1.diggstatic.com/img/iphone/icon.63e34426.png"/>
+    
+        <link rel="shortcut icon" href="http://cdn1.diggstatic.com/img/favicon.a015f25c.ico">
+    
+        <link rel="stylesheet" type="text/css" href="http://cdn1.diggstatic.com/css/library/global.280a6733.css" media="all">
+        <!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://cdn1.diggstatic.com/css/support/ie_7.9b9d4168.css" media="all"><![endif]-->
+        <!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://cdn4.diggstatic.com/css/support/ie_8.88a26ac5.css" media="all"><![endif]-->
+        
+    
+    <link rel="stylesheet" type="text/css" href="http://cdn2.diggstatic.com/css/App_Search/search.930c4ff2.css" media="all">
+
+    <script type='text/javascript'>
+var DUI=function(){function d(){for(e=1;b.length;)b.shift()();b=null}var e,b=[];if(window.attachEvent)attachEvent("onload",d);else window.addEventListener&&addEventListener("load",d,true);return{mergeIn:function(a){for(propName in a)this[propName]=a[propName]},onPageLoad:function(a){e?a():b.push(a)},loadScript:function(a){var c=document.createElement("SCRIPT"),f=document.getElementsByTagName("SCRIPT")[0];c.type="text/javascript";c.async=true;c.src=a;f.parentNode.insertBefore(c,f)}}}();
+DUI.mergeIn({"digg_security_token":"1291248673_b119a59c36952eb3ec491d391a1c27c2f016a664ad18db051d6874ee411a5ec2","digg_loggedin_state":0,"digg_location_id":6,"digg_language":"en_US","digg_trap_js_errors":0,"poll_digg_counters":0,"fb_app_id":"22108119377"})
+</script>
+
+    
+    
+</head>
+<body class="fixed ">
+<div id="fb-root"></div>
+<script src="http://cdn1.diggstatic.com/js/common/fb_loader.4050a241.js" type="text/javascript"></script><form class="hidden">
+    <input type="text" name="ident" value="" id="ident-saved">
+    <input type="password" name="password" value="" id="password-saved">
+</form><div id="modal-wrapper"></div><div id="message-dock">
+    <div id="message-sleeve" class="group">
+        <p><span class="sprite message-icon"></span><span id="message-text"></span><a class="dismiss"></a></p>
+    </div>
+</div><div class="tooltip-container" id="digg-tooltip"></div><div class="header-wrapper"><div class="header group">
+<a href="/" class="sprite digg-logo" id="header-logo">Digg</a>
+    <ul class="main-navigation tabbed-navigation group">
+        <li>
+            <a href="/" id="header-mynews"><span class="elbow-left"></span><span class="elbow-right"></span>My News</a>
+        </li>
+        <li>
+            <a href="/news" id="header-topnews"><span class="elbow-left"></span><span class="elbow-right"></span>Top News</a>
+        </li>
+        <li>
+            <a href="/upcoming" id="header-upcoming"><span class="elbow-left"></span><span class="elbow-right"></span>Upcoming</a>
+        </li>
+    </ul>
+<div class="float-right group">    <ul class="loggedout-navigation group">
+        <li><a href="/register" id="modal-create-account" class="auth-register">Join Digg!</a></li>
+        <li><a href="/login" id="modal-login" class="auth-login">Login</a></li>
+    </ul>
+<form action="/search" method="get" class="header-search" id="header-search-form">
+    <input type="text" name="q" id="q" autocomplete="off" placeholder="Search Users or Stories">
+    <input type="submit" name="submit" id="search-button" value="">
+</form>
+</div></div></div>
+<div class="page-wrapper group "><div class="column-container group">
+    <div class="pre-content outer">
+        <div class="attached-menu group" id="search-menu">
+    <div class="column narrow">
+        <dl>
+            <dt>410</dt>
+            <dd>Story Results</dd>
+        </dl>
+    </div>
+    <div class="column">
+        <ul class="pillboxes group">
+            <li><a href="/search?q=site:ismashphone.com" class="active" id="filter-bestmatch">Best Match</a></li>
+            <li><a href="/search?q=site:ismashphone.com&amp;sort=digg" id="filter-mostdugg">Most Dugg</a></li>
+            <li><a href="/search?q=site:ismashphone.com&amp;sort=newest" id="filter-mostrecent">Most Recent</a></li>
+        </ul>
+    </div>
+    <div class="column wide float-right">
+        <dl>
+            <dt>0</dt>
+            <dd>Profile Results</dd>
+        </dl>
+    </div>
+</div>
+    </div>
+<div class="columns group">
+    <div class="column narrow topbar-spacer group" id="left-column">
+                    <div class="search-facet group">
+    <h4>Age</h4>
+    <ul class="facet-list">
+                                                    <li class="group">
+                                            <a href="/search?q=site:ismashphone.com&amp;sort=relevance" class="active" id="facet-all-dates">All Dates</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:ismashphone.com&amp;sort=relevance&amp;age=last_day" id="facet-last-day">Last Day</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:ismashphone.com&amp;sort=relevance&amp;age=last_week" id="facet-last-week">Last Week</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:ismashphone.com&amp;sort=relevance&amp;age=last_month" id="facet-last-month">Last Month</a>
+                                    </li>
+                                    </ul>
+</div>
+            <div class="search-facet group">
+    <h4>Digg Count</h4>
+    <ul class="facet-list">
+                                                    <li class="group">
+                                            <a href="/search?q=site:ismashphone.com&amp;sort=relevance" class="active" id="facet-all-diggs">All Diggs</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:ismashphone.com&amp;sort=relevance&amp;digg_count=50" id="facet-50-diggs">50+</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:ismashphone.com&amp;sort=relevance&amp;digg_count=100" id="facet-100-diggs">100+</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:ismashphone.com&amp;sort=relevance&amp;digg_count=500" id="facet-500-diggs">500+</a>
+                                    </li>
+                                                                        <li><a class="facet-more"><span class="sprite"></span>more</a></li>
+                        </ul>
+</div>
+            <div class="search-facet group">
+    <h4>Media</h4>
+    <ul class="facet-list">
+                                                    <li class="group">
+                                            <a href="/search?q=site:ismashphone.com&amp;sort=relevance" class="active" id="facet-all-media-types">All Media Types</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:ismashphone.com&amp;sort=relevance&amp;media=news" id="facet-news">News</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:ismashphone.com&amp;sort=relevance&amp;media=images" id="facet-images">Images</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:ismashphone.com&amp;sort=relevance&amp;media=videos" id="facet-videos">Videos</a>
+                                    </li>
+                                                                    </ul>
+</div>
+            <div class="search-facet group">
+    <h4>Topics</h4>
+    <ul class="facet-list">
+                                                    <li class="group">
+                                            <a href="/search?q=site:ismashphone.com&amp;sort=relevance" class="active" id="facet-all-topics">All Topics</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:ismashphone.com&amp;sort=relevance&amp;topic=technology" id="facet-technology">Technology</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:ismashphone.com&amp;sort=relevance&amp;topic=lifestyle" id="facet-lifestyle">Lifestyle</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:ismashphone.com&amp;sort=relevance&amp;topic=gaming" id="facet-gaming">Gaming</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:ismashphone.com&amp;sort=relevance&amp;topic=business" id="facet-business">Business</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:ismashphone.com&amp;sort=relevance&amp;topic=entertainment" id="facet-entertainment">Entertainment</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:ismashphone.com&amp;sort=relevance&amp;topic=offbeat" id="facet-offbeat">Offbeat</a>
+                                    </li>
+                                        <li><a class="facet-more"><span class="sprite"></span>more</a></li>
+                        </ul>
+</div>
+            </div>
+
+    <div class="column group" id="main-column">
+                    <p class="paginglabel" id="paginglabel">Pagination</p>
+                            <div id="story-list-container" class="list-container  no-ajax">
+        <div class="story-list inner-container topbar-spacer" id="story-items">
+                <div class="stories" data-digg-hashstate="">
+
+            
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20101107021724_3599d64e-2e06-41a9-b08f-77b6ded32ff4  first-item group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101107021724_3599d64e-2e06-41a9-b08f-77b6ded32ff4" data-digg-raw-diggs="786"><a href="/news/technology/6_things_that_have_to_change_about_itunes" class="digg-count-wrapper"><span class="digg-count"><span>786</span></span></a><a class="digg-it diggable group" href="/news/technology/6_things_that_have_to_change_about_itunes"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/6_things_that_have_to_change_about_itunes" target="_blank">6 Things That Have to Change About iTunes</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:ismashphone.com" class="story-item-source">ismashphone.com</a>                            <a href="/news/technology/6_things_that_have_to_change_about_itunes" class="story-item-teaser" rel="nofollow">&mdash; iTunes has been around for about ten years and has increasingly become worse over time.
+                                <span class="timestamp">24 days ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/mikek814" class="hcard-trigger" data-digg-username="mikek814">mikek814</a></li>
+                                                                <li class="story-item-comments"><a href="/news/technology/6_things_that_have_to_change_about_itunes" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">252</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/technology/6_things_that_have_to_change_about_itunes" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn2.diggstatic.com/story/6_things_that_have_to_change_about_itunes/t.png" alt="6 Things That Have to Change About iTunes">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20101201164502_70b2c8a6-190a-4c58-b0f6-3c546a067df9  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201164502_70b2c8a6-190a-4c58-b0f6-3c546a067df9" data-digg-raw-diggs="122"><a href="/news/technology/how_to_milk_a_franchise_angry_birds_plush_toys_now_available" class="digg-count-wrapper"><span class="digg-count"><span>122</span></span></a><a class="digg-it diggable group" href="/news/technology/how_to_milk_a_franchise_angry_birds_plush_toys_now_available"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/how_to_milk_a_franchise_angry_birds_plush_toys_now_available" target="_blank">How To Milk A Franchise: Angry Birds Plush Toys Now Available</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:ismashphone.com" class="story-item-source">ismashphone.com</a>                            <a href="/news/technology/how_to_milk_a_franchise_angry_birds_plush_toys_now_available" class="story-item-teaser" rel="nofollow">&mdash; Rovio isn&#039;t exactly a small-time studio anymore, so they can do whatever the heck they want with their IP. In this case, it&#039;s Angry Birds...
+                                <span class="timestamp">7 hr 26 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/louiebaur" class="hcard-trigger" data-digg-username="louiebaur">louiebaur</a></li>
+                                                                <li class="story-item-comments"><a href="/news/technology/how_to_milk_a_franchise_angry_birds_plush_toys_now_available" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">12</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/technology/how_to_milk_a_franchise_angry_birds_plush_toys_now_available" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn1.diggstatic.com/story/how_to_milk_a_franchise_angry_birds_plush_toys_now_available/t.png" alt="How To Milk A Franchise: Angry Birds Plush Toys Now Available">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                        
+
+
+    
+
+    
+
+    <div class="story-item item-20101201041130_e8c4f5c9-454e-406d-9994-b95f7859f63e  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201041130_e8c4f5c9-454e-406d-9994-b95f7859f63e" data-digg-raw-diggs="134"><a href="/news/technology/should_i_get_the_ipad_now_3_reasons_we_say_yes" class="digg-count-wrapper"><span class="digg-count"><span>134</span></span></a><a class="digg-it diggable group" href="/news/technology/should_i_get_the_ipad_now_3_reasons_we_say_yes"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/should_i_get_the_ipad_now_3_reasons_we_say_yes" target="_blank" rel="nofollow">Should I Get the iPad Now? 3 Reasons We Say Yes</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:ismashphone.com" class="story-item-source">ismashphone.com</a>                            <a href="/news/technology/should_i_get_the_ipad_now_3_reasons_we_say_yes" class="story-item-teaser" rel="nofollow">&mdash; The iPad 2 is bound to happen early 2011, is it worth getting an original iPad?
+                                <span class="timestamp">19 hr 59 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/mikek814" class="hcard-trigger" data-digg-username="mikek814">mikek814</a></li>
+                                                                <li class="story-item-comments"><a href="/news/technology/should_i_get_the_ipad_now_3_reasons_we_say_yes" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">15</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/technology/should_i_get_the_ipad_now_3_reasons_we_say_yes" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/should_i_get_the_ipad_now_3_reasons_we_say_yes/t.png" alt="Should I Get the iPad Now? 3 Reasons We Say Yes">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20101130154311_1d3408b9-6649-4073-87fe-6298b53a3f37  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130154311_1d3408b9-6649-4073-87fe-6298b53a3f37" data-digg-raw-diggs="188"><a href="/news/technology/verizon_s_art_department_screws_up_droid_x_ad_photoshop_fail" class="digg-count-wrapper"><span class="digg-count"><span>188</span></span></a><a class="digg-it diggable group" href="/news/technology/verizon_s_art_department_screws_up_droid_x_ad_photoshop_fail"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/verizon_s_art_department_screws_up_droid_x_ad_photoshop_fail" target="_blank">Verizon&#039;s Art Department Screws Up Droid X Ad  (Photoshop Fail)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:ismashphone.com" class="story-item-source">ismashphone.com</a>                            <a href="/news/technology/verizon_s_art_department_screws_up_droid_x_ad_photoshop_fail" class="story-item-teaser" rel="nofollow">&mdash; Photoshop can do some amazing things -- like putting the wrong phone&#039;s app on your phone&#039;s display...
+                                <span class="timestamp">1 day 8 hr ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/ismashphone" class="hcard-trigger" data-digg-username="ismashphone">ismashphone</a></li>
+                                                                <li class="story-item-comments"><a href="/news/technology/verizon_s_art_department_screws_up_droid_x_ad_photoshop_fail" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">23</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/technology/verizon_s_art_department_screws_up_droid_x_ad_photoshop_fail" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon image"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/verizon_s_art_department_screws_up_droid_x_ad_photoshop_fail/t.png" alt="Verizon&#039;s Art Department Screws Up Droid X Ad  (Photoshop Fail)">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                        
+
+
+    
+
+    
+
+    <div class="story-item item-20101129173341_1b521247-22ec-4c68-896f-61fc09a68a12  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101129173341_1b521247-22ec-4c68-896f-61fc09a68a12" data-digg-raw-diggs="123"><a href="/news/technology/ice_ice_baby_nokia_turns_icy_wall_into_multitouch_capable_screen" class="digg-count-wrapper"><span class="digg-count"><span>123</span></span></a><a class="digg-it diggable group" href="/news/technology/ice_ice_baby_nokia_turns_icy_wall_into_multitouch_capable_screen"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/ice_ice_baby_nokia_turns_icy_wall_into_multitouch_capable_screen" target="_blank" rel="nofollow">Ice Ice Baby: Nokia Turns Icy Wall into Multitouch-capable Screen</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:ismashphone.com" class="story-item-source">ismashphone.com</a>                            <a href="/news/technology/ice_ice_baby_nokia_turns_icy_wall_into_multitouch_capable_screen" class="story-item-teaser" rel="nofollow">&mdash; Engineers at Nokia were able to create a touchscreen out of a wall of ice by using a projector, along with several infrared cameras that run a spec...
+                                <span class="timestamp">2 days ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/louiebaur" class="hcard-trigger" data-digg-username="louiebaur">louiebaur</a></li>
+                                                                <li class="story-item-comments"><a href="/news/technology/ice_ice_baby_nokia_turns_icy_wall_into_multitouch_capable_screen" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">1</span> Comment</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/technology/ice_ice_baby_nokia_turns_icy_wall_into_multitouch_capable_screen" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon video"></div>
+                                                        <img src="http://cdn1.diggstatic.com/story/ice_ice_baby_nokia_turns_icy_wall_into_multitouch_capable_screen/t.png" alt="Ice Ice Baby: Nokia Turns Icy Wall into Multitouch-capable Screen">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20101128173556_642ec7f9-d692-4215-85c3-6a38d9a5ecc7 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101128173556_642ec7f9-d692-4215-85c3-6a38d9a5ecc7" data-digg-raw-diggs="322"><a href="/news/lifestyle/apple_upsets_the_lgbt_community_with_the_approval_of_the_anti_gay_app" class="digg-count-wrapper"><span class="digg-count"><span>322</span></span></a><a class="digg-it diggable group" href="/news/lifestyle/apple_upsets_the_lgbt_community_with_the_approval_of_the_anti_gay_app"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/apple_upsets_the_lgbt_community_with_the_approval_of_the_anti_gay_app" target="_blank">Apple Upsets the LGBT Community With the Approval of the Anti-Gay App</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:ismashphone.com" class="story-item-source">ismashphone.com</a>                            <a href="/news/lifestyle/apple_upsets_the_lgbt_community_with_the_approval_of_the_anti_gay_app" class="story-item-teaser" rel="nofollow">&mdash; Apple gave the stamp of approval to the Manhattan Declaration app, which has been decried as openly anti-gay by many users.
+                                <span class="timestamp">3 days ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/mikek814" class="hcard-trigger" data-digg-username="mikek814">mikek814</a></li>
+                                                                <li class="story-item-comments"><a href="/news/lifestyle/apple_upsets_the_lgbt_community_with_the_approval_of_the_anti_gay_app" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">115</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                        
+
+
+    
+
+    
+
+    <div class="story-item item-20101126043654_d7d29de1-20f1-4c16-9bc4-816dd7bdf999  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101126043654_d7d29de1-20f1-4c16-9bc4-816dd7bdf999" data-digg-raw-diggs="130"><a href="/news/lifestyle/the_ipad_and_disabled_users_five_ways_that_this_device_may_be_of_assistance" class="digg-count-wrapper"><span class="digg-count"><span>130</span></span></a><a class="digg-it diggable group" href="/news/lifestyle/the_ipad_and_disabled_users_five_ways_that_this_device_may_be_of_assistance"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/the_ipad_and_disabled_users_five_ways_that_this_device_may_be_of_assistance" target="_blank" rel="nofollow">The iPad and Disabled Users: Five Ways That This Device May Be of Assistance</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:ismashphone.com" class="story-item-source">ismashphone.com</a>                            <a href="/news/lifestyle/the_ipad_and_disabled_users_five_ways_that_this_device_may_be_of_assistance" class="story-item-teaser" rel="nofollow">&mdash; Here are a few of the most important ways that the iPad can assist with users who have disabilities.
+                                <span class="timestamp">5 days ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/mikek814" class="hcard-trigger" data-digg-username="mikek814">mikek814</a></li>
+                                                                <li class="story-item-comments"><a href="/news/lifestyle/the_ipad_and_disabled_users_five_ways_that_this_device_may_be_of_assistance" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">20</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/lifestyle/the_ipad_and_disabled_users_five_ways_that_this_device_may_be_of_assistance" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/the_ipad_and_disabled_users_five_ways_that_this_device_may_be_of_assistance/t.png" alt="The iPad and Disabled Users: Five Ways That This Device May Be of Assistance">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                        
+
+
+    
+
+    
+
+    <div class="story-item item-20101125053113_cf86d3f3-509c-4a8d-87fb-bd76d2254895  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101125053113_cf86d3f3-509c-4a8d-87fb-bd76d2254895" data-digg-raw-diggs="118"><a href="/news/technology/survey_says_all_i_want_for_christmas_is_an_ipad_sort_of" class="digg-count-wrapper"><span class="digg-count"><span>118</span></span></a><a class="digg-it diggable group" href="/news/technology/survey_says_all_i_want_for_christmas_is_an_ipad_sort_of"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/survey_says_all_i_want_for_christmas_is_an_ipad_sort_of" target="_blank" rel="nofollow">Survey Says: All I Want For Christmas Is An iPad...Sort Of</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:ismashphone.com" class="story-item-source">ismashphone.com</a>                            <a href="/news/technology/survey_says_all_i_want_for_christmas_is_an_ipad_sort_of" class="story-item-teaser" rel="nofollow">&mdash; Toys &#039;R&#039; Us: this generation wants to be an Apple Store Kid.
+                                <span class="timestamp">6 days ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/ismashphone" class="hcard-trigger" data-digg-username="ismashphone">ismashphone</a></li>
+                                                                <li class="story-item-comments"><a href="/news/technology/survey_says_all_i_want_for_christmas_is_an_ipad_sort_of" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">20</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/technology/survey_says_all_i_want_for_christmas_is_an_ipad_sort_of" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/survey_says_all_i_want_for_christmas_is_an_ipad_sort_of/t.png" alt="Survey Says: All I Want For Christmas Is An iPad...Sort Of">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20101124064244_edc25c35-d9e4-46ad-b32c-71487dc0948a  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101124064244_edc25c35-d9e4-46ad-b32c-71487dc0948a" data-digg-raw-diggs="151"><a href="/news/lifestyle/no_rest_for_the_weary_nearly_8_out_of_10_workers_will_get_job_emails_during_the_holiday" class="digg-count-wrapper"><span class="digg-count"><span>151</span></span></a><a class="digg-it diggable group" href="/news/lifestyle/no_rest_for_the_weary_nearly_8_out_of_10_workers_will_get_job_emails_during_the_holiday"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/no_rest_for_the_weary_nearly_8_out_of_10_workers_will_get_job_emails_during_the_holiday" target="_blank">No Rest For The Weary: Nearly 8 Out of 10 Workers Will Get Job Emails During The Holiday</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:ismashphone.com" class="story-item-source">ismashphone.com</a>                            <a href="/news/lifestyle/no_rest_for_the_weary_nearly_8_out_of_10_workers_will_get_job_emails_during_the_holiday" class="story-item-teaser" rel="nofollow">&mdash; This holiday season, 8 out of every 10 working Americans will receive or check for work-related emails, regardless of how many family members are i...
+                                <span class="timestamp">7 days ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/mikek814" class="hcard-trigger" data-digg-username="mikek814">mikek814</a></li>
+                                                                <li class="story-item-comments"><a href="/news/lifestyle/no_rest_for_the_weary_nearly_8_out_of_10_workers_will_get_job_emails_during_the_holiday" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">28</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/lifestyle/no_rest_for_the_weary_nearly_8_out_of_10_workers_will_get_job_emails_during_the_holiday" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/no_rest_for_the_weary_nearly_8_out_of_10_workers_will_get_job_emails_during_the_holiday/t.png" alt="No Rest For The Weary: Nearly 8 Out of 10 Workers Will Get Job Emails During The Holiday">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20101123034431_9e5165cc-a6f0-4062-ac11-f941125fce51  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101123034431_9e5165cc-a6f0-4062-ac11-f941125fce51" data-digg-raw-diggs="238"><a href="/news/technology/find_my_iphone_5_real_use_cases_thieves_beware" class="digg-count-wrapper"><span class="digg-count"><span>238</span></span></a><a class="digg-it diggable group" href="/news/technology/find_my_iphone_5_real_use_cases_thieves_beware"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/find_my_iphone_5_real_use_cases_thieves_beware" target="_blank">Find My iPhone: 5 Real-Use Cases - Thieves Beware</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:ismashphone.com" class="story-item-source">ismashphone.com</a>                            <a href="/news/technology/find_my_iphone_5_real_use_cases_thieves_beware" class="story-item-teaser" rel="nofollow">&mdash; There have been quite a few stories in the past of people finding their devices by using Find my iPad or Find my iPhone. Let&#039;s have a look at ...
+                                <span class="timestamp">8 days ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/mikek814" class="hcard-trigger" data-digg-username="mikek814">mikek814</a></li>
+                                                                <li class="story-item-comments"><a href="/news/technology/find_my_iphone_5_real_use_cases_thieves_beware" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">34</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/technology/find_my_iphone_5_real_use_cases_thieves_beware" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/find_my_iphone_5_real_use_cases_thieves_beware/t.png" alt="Find My iPhone: 5 Real-Use Cases - Thieves Beware">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20101122042442_e458dbcb-7a25-4802-9dff-241348cb607b  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101122042442_e458dbcb-7a25-4802-9dff-241348cb607b" data-digg-raw-diggs="141"><a href="/news/lifestyle/ipad_art_and_music_technology_meets_beauty" class="digg-count-wrapper"><span class="digg-count"><span>141</span></span></a><a class="digg-it diggable group" href="/news/lifestyle/ipad_art_and_music_technology_meets_beauty"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/ipad_art_and_music_technology_meets_beauty" target="_blank">iPad Art and Music: Technology Meets Beauty</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:ismashphone.com" class="story-item-source">ismashphone.com</a>                            <a href="/news/lifestyle/ipad_art_and_music_technology_meets_beauty" class="story-item-teaser" rel="nofollow">&mdash; Artists defining the work for a new age
+                                <span class="timestamp">9 days ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/ismashphone" class="hcard-trigger" data-digg-username="ismashphone">ismashphone</a></li>
+                                                                <li class="story-item-comments"><a href="/news/lifestyle/ipad_art_and_music_technology_meets_beauty" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">20</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/lifestyle/ipad_art_and_music_technology_meets_beauty" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn2.diggstatic.com/story/ipad_art_and_music_technology_meets_beauty/t.png" alt="iPad Art and Music: Technology Meets Beauty">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                        
+
+
+    
+
+    
+
+    <div class="story-item item-20101121050927_57a37cae-b67e-4e38-aa33-5d25b7225c88 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101121050927_57a37cae-b67e-4e38-aa33-5d25b7225c88" data-digg-raw-diggs="122"><a href="/news/technology/flash_sucks_4_reasons_adobe_disagrees" class="digg-count-wrapper"><span class="digg-count"><span>122</span></span></a><a class="digg-it diggable group" href="/news/technology/flash_sucks_4_reasons_adobe_disagrees"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/flash_sucks_4_reasons_adobe_disagrees" target="_blank" rel="nofollow">Flash Sucks? 4 Reasons Adobe Disagrees</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:ismashphone.com" class="story-item-source">ismashphone.com</a>                            <a href="/news/technology/flash_sucks_4_reasons_adobe_disagrees" class="story-item-teaser" rel="nofollow">&mdash; Let&#039;s take a look at some of the silly excuses Adobe has made to explain why Flash doesn&#039;t suck.
+                                <span class="timestamp">10 days ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/mikek814" class="hcard-trigger" data-digg-username="mikek814">mikek814</a></li>
+                                                                <li class="story-item-comments"><a href="/news/technology/flash_sucks_4_reasons_adobe_disagrees" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">10</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                        
+
+
+    
+
+    
+
+    <div class="story-item item-20101120030221_1c1c259f-b4c5-4b38-9617-47c8f0a268c9  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101120030221_1c1c259f-b4c5-4b38-9617-47c8f0a268c9" data-digg-raw-diggs="115"><a href="/news/technology/android_2_3_7_features_we_want_from_gingerbread" class="digg-count-wrapper"><span class="digg-count"><span>115</span></span></a><a class="digg-it diggable group" href="/news/technology/android_2_3_7_features_we_want_from_gingerbread"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/android_2_3_7_features_we_want_from_gingerbread" target="_blank" rel="nofollow">Android 2.3: 7 Features We Want From Gingerbread</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:ismashphone.com" class="story-item-source">ismashphone.com</a>                            <a href="/news/technology/android_2_3_7_features_we_want_from_gingerbread" class="story-item-teaser" rel="nofollow">&mdash; With the Android Gingerbread release date drawing near, we can already name features we hope to see.
+                                <span class="timestamp">11 days ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/mikek814" class="hcard-trigger" data-digg-username="mikek814">mikek814</a></li>
+                                                                <li class="story-item-comments"><a href="/news/technology/android_2_3_7_features_we_want_from_gingerbread" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">11</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/technology/android_2_3_7_features_we_want_from_gingerbread" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn2.diggstatic.com/story/android_2_3_7_features_we_want_from_gingerbread/t.png" alt="Android 2.3: 7 Features We Want From Gingerbread">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20101119171234_cdaba824-d53f-43b1-94de-67ed8f8439a6  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101119171234_cdaba824-d53f-43b1-94de-67ed8f8439a6" data-digg-raw-diggs="171"><a href="/news/gaming/look_out_angry_birds_there_s_a_new_kid_in_town" class="digg-count-wrapper"><span class="digg-count"><span>171</span></span></a><a class="digg-it diggable group" href="/news/gaming/look_out_angry_birds_there_s_a_new_kid_in_town"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/look_out_angry_birds_there_s_a_new_kid_in_town" target="_blank">Look Out, Angry Birds, There&#039;s a New Kid In Town</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:ismashphone.com" class="story-item-source">ismashphone.com</a>                            <a href="/news/gaming/look_out_angry_birds_there_s_a_new_kid_in_town" class="story-item-teaser" rel="nofollow">&mdash; The Trucks and Skulls HD takes the concept of Angry Birds, gives it a heavy metal makeover and turns it into a product that ultimately has more to ...
+                                <span class="timestamp">12 days ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/jamesandcar" class="hcard-trigger" data-digg-username="jamesandcar">jamesandcar</a></li>
+                                                                <li class="story-item-comments"><a href="/news/gaming/look_out_angry_birds_there_s_a_new_kid_in_town" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">36</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/gaming/look_out_angry_birds_there_s_a_new_kid_in_town" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn2.diggstatic.com/story/look_out_angry_birds_there_s_a_new_kid_in_town/t.png" alt="Look Out, Angry Birds, There&#039;s a New Kid In Town">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                        
+
+
+    
+
+    
+
+    <div class="story-item item-20101118214629_2f0fd767-9793-4a1b-a297-8d2bbe25b533  last-item group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101118214629_2f0fd767-9793-4a1b-a297-8d2bbe25b533" data-digg-raw-diggs="119"><a href="/news/gaming/rage_hd_on_iphone_and_ipad_review" class="digg-count-wrapper"><span class="digg-count"><span>119</span></span></a><a class="digg-it diggable group" href="/news/gaming/rage_hd_on_iphone_and_ipad_review"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/rage_hd_on_iphone_and_ipad_review" target="_blank" rel="nofollow">Rage HD on iPhone and iPad (Review)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:ismashphone.com" class="story-item-source">ismashphone.com</a>                            <a href="/news/gaming/rage_hd_on_iphone_and_ipad_review" class="story-item-teaser" rel="nofollow">&mdash; Our hands-on with id Software&#039;s Rage for iOS.
+                                <span class="timestamp">13 days ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/ismashphone" class="hcard-trigger" data-digg-username="ismashphone">ismashphone</a></li>
+                                                                <li class="story-item-comments"><a href="/news/gaming/rage_hd_on_iphone_and_ipad_review" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">4</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/gaming/rage_hd_on_iphone_and_ipad_review" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/rage_hd_on_iphone_and_ipad_review/t.png" alt="Rage HD on iPhone and iPad (Review)">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                        </div>
+        </div>
+    </div>
+
+<div id="inline-comment-container-home">
+    </div>            <ul class="pagination group btn-loader btn-loader-bottom no-prev story-list-container"data-digg-offsetparam="page"role="navigation"aria-labelledby="paginglabel"><li class="prev"><a class="btn btn-default btn-small" href="/search?q=site:ismashphone.com&amp;sort=relevance&amp;ajax=off&amp;page=1" rel="prev" data-digg-ajaxqs='%7B%22q%22%3A%22site%3Aismashphone.com%22%2C%22sort%22%3A%22relevance%22%2C%22page%22%3A1%7D'><span class="uitext">Prev</span></a></li><li class="page-num">Page <span class="pagination-current"></span></li><li class="next"><a class="btn btn-default btn-small" href="/search?q=site:ismashphone.com&amp;sort=relevance&amp;ajax=off&amp;page=2" rel="next" data-digg-ajaxqs='%7B%22q%22%3A%22site%3Aismashphone.com%22%2C%22sort%22%3A%22relevance%22%2C%22page%22%3A2%7D'><span class="uitext">Next</span></a></li></ul>
+    <script type="text/javascript">
+    (function () {
+        var stories, hash;
+        stories = document.getElementById('story-list-container');
+        if (stories) {
+            hash = window.location.hash;
+            if ('' === hash) {
+                stories.className = stories.className.replace('hidden', '');
+            }
+        }
+    })();
+    </script>
+            </div>
+            <!-- search time: 0.00603413581848 recv_tstamp: 1291248673.48 item recv time: 0.0293691158295 -->
+        <!-- recv TS: 17400
+             send TS: 17400
+             query recv TS: 17400
+             query send TS: 17400
+             query time (SOLR): 8
+         -->
+    </div>
+    <div class="column wide" id="right-column">
+                    <div class="nothing-found">
+                <p class="title">Sorry.</p>
+                <p>No profile results were found for site:ismashphone.com</p>
+            </div>
+            </div>
+</div></div><div class="footer">
+    <ul class="group">
+        <li>&copy; Digg Inc. 2010</li>
+        <li><a href="http://about.digg.com">About Digg</a></li>
+        <li><a href="http://about.digg.com/ads">Advertise</a></li>
+        <li><a href="http://about.digg.com/partnership">Partners</a></li>
+        <li><a href="http://developers.digg.com">API &amp; Resources</a></li>
+        <li><a href="http://about.digg.com/blog">Blogs</a></li>
+        <li><a href="http://about.digg.com/contact">Contact Us</a></li>
+        <li><a href="http://jobs.digg.com">Jobs</a></li>
+        <li><a href="http://about.digg.com/faq">Help &amp; FAQ</a></li>
+        <li><a href="http://about.digg.com/terms-use">Terms of Service</a></li>
+        <li><a href="/topic">Topics</a></li>
+        <li class="last"><a href="http://about.digg.com/privacy">Privacy</a></li>
+            </ul>
+</div>
+<div id="feedback-bar" class="group">
+    <span title="10.2.129.225 Build: 173 - Wed Dec  1 12:31:14 PST 2010">Digg v4: 86.18ms</span>
+    <ul>
+        <li><a href="http://about.digg.com/contact">Give us feedback</a> |</li>
+        <li><a href="http://www.surveymonkey.com/s/ZNBQMYJ" id="feedback-bar-survey">Take the survey</a></li>
+    </ul>
+</div>
+<script src="http://cdn3.diggstatic.com/js/lib.c4aecf59.js" type="text/javascript"></script>    <script src="http://cdn1.diggstatic.com/js/App_Search/index.754d0683.js" type="text/javascript"></script>
+
+
+    <!-- Begin comScore Tag -->
+<script>
+document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+
+<script>
+COMSCORE.beacon({
+c1:2,
+c2:6299437,
+c3:"",
+c4:"",
+c5:"",
+c6:"",
+c15:""
+});
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6299437&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+    <!-- digg is done serving you. 2.01355321270u 137.03599911 6.6742x10-11m3kg-1s-2 6.6742x10-11m3kg-1s-2 -->
+<script type="text/javascript">var s_account = "diggcomv4";</script>
+<script src="http://cdn3.diggstatic.com/js/Omniture/omniture.6c48dd51.js" type="text/javascript"></script>
+
+<script type="text/javascript"><!--
+s.pageName = 'search:index';
+s.eVar23 = 'search:index';
+s.heir1 = 'search';
+s.heir2 = 'index';
+s.channel = 'search';
+s.eVar22 = 'search';
+s.prop5 = 'anonymous';
+s.eVar5 = 'anonymous';
+s.prop4 = 'anonymous';
+s.eVar4 = 'anonymous';
+s.prop1 = 'site:ismashphone.com';
+s.eVar1 = 'site:ismashphone.com';
+s.prop2 = '410';
+s.events = 'event2,event1';
+var s_code=s.t();
+if (s_code) document.write(s_code);
+//--></script></body>
+</html>

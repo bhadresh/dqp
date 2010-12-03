@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Joining Google - US jobs - Google</title>
+<link href="http://www.google.com/jobs/css/styles.css" media="all" rel="stylesheet">
+<script>
+document.onload = setCookies();
+function setCookies() {
+  var cookieValue = getQuery('src');
+  if (cookieValue){
+    var today = new Date();
+    var expire = new Date();
+    expire.setTime(today.getTime() + 3600000 * 24 * 14);
+    document.cookie = 'JobsSrc' + '=' + escape(cookieValue) +
+    ';expires=' + expire.toGMTString() + ';path=/';
+  }
+}
+function getCookie(cookieName) {
+  if (document.cookie.length > 0) {
+    cookieStart = document.cookie.indexOf(cookieName + '=');
+    if (cookieStart != -1) {
+      cookieStart += cookieName.length + 1;
+      cookieEnd = document.cookie.indexOf(';', cookieStart);
+      if (cookieEnd == -1) cookieEnd = document.cookie.length;
+      return document.cookie.substring(cookieStart, cookieEnd);
+    }
+  } else return '';
+}
+function getQuery(queryName) {
+  var queryString = window.location.hash.substring(1);
+  if (queryString.length > 0) {
+    queryStart = queryString.indexOf(queryName + '=');
+    if (queryStart != -1) {
+      queryStart += queryName.length + 1;
+      queryEnd = queryString.indexOf('&', queryStart);
+      if (queryEnd == -1) queryEnd = queryString.length;
+      return queryString.substring(queryStart, queryEnd);
+    }
+  } else return '';
+}
+</script>
+<script>
+function searchQuery() {
+  var query = document.getElementById('q').value
+  if (query){
+    window.location.href = '/intl/en/jobs/search/index.html#q=' + encodeURI(query);
+  } else {
+  alert('To search jobs, please enter a keyword or phrase.');
+  }
+    }
+</script>
+</head>
+<body>
+<h1><a href="/" title="Google"><img alt="Google" id="logo" name="logo" src="http://www.google.com/images/logo_sm.gif"></a>US jobs</h1>
+<p id="x-breadcrumb"><a href="../index.html">Jobs</a> &gt; <strong>Joining Google</strong></p>
+<ul id="nav">
+<li><a href="/intl/en/jobs/">US jobs</a></li>
+<li><a href="/intl/en/jobs/lifeatgoogle/">Life at Google</a></li>
+<li><a href="/intl/en/jobs/locations/">Office locations</a></li>
+<li>Joining Google</li>
+<li><a href="http://www.google.com/jobs/students">Student jobs</a></li>
+</ul>
+<form id="x-search" method="post" name="x-search" onsubmit="searchQuery(); return false"><label for="q">Search US openings</label> <input id="q" maxlength="80" name="q" size="15" type="text" value=""> <input type="submit" value="Search"></form>
+<div id="aux">
+<h2>Joining Google</h2>
+<img alt="Googlers" class="leftborder" height="169" src="http://www.google.com/jobs/images/joininggoogle-main.jpg" width="245">
+<blockquote>&ldquo;Google is organized around the ability to attract and leverage the talent of exceptional technologists and business people. We have been lucky to recruit many creative, principled, and hard-working stars.&rdquo;</blockquote>
+<p class="x-note">Larry Page, Google Co-founder<br>
+Stanford University</p>
+<hr>
+<div class="columns">
+<h3>What to expect</h3>
+<div>
+<h4>The hiring process</h4>
+<p>We take great care in how we attract and hire the very best talent &ndash; because at Google, people are our most important asset.</p>
+<p><a href="hiringprocess/index.html">Learn more</a></p>
+</div>
+<div>
+<h4>Preparing your CV/resume</h4>
+<p>Here are some tips about what attracts our attention as we take a look at your employment, education &ndash; and life &ndash; history.</p>
+<p><a href="resume/index.html">Learn more</a></p>
+</div>
+<div>
+<h4>Preparing for your interview</h4>
+<p>By this point, we already think you're pretty special &ndash; so here are some ideas to help you stand out even more.</p>
+<p><a href="interview/index.html">Learn more</a></p>
+</div>
+</div>
+<hr>
+<div class="columns">
+<h3>Additional information</h3>
+<div>
+<h4>Follow us</h4>
+<p>Check out <a href="http://twitter.com/googlejobs">@googlejobs</a> on Twitter and <a href="http://www.google.com/profiles/goog.jobs.buzz#buzz">Google Jobs</a> on Buzz!</p>
+<h4>FAQ</h4>
+<p>Got a question? <a href="faqs/index.html">We have an answer for you</a>.</p>
+<h4>Where to find us</h4>
+<p>No matter where you are, <a href="../locations/index.html">we have a location near you</a>.</p>
+</div>
+<div>
+<h4>Meet our Googlers</h4>
+<p>We provide our employees with both the means and flexible corporate structure so they can forge Google's future and their own. <a href="../lifeatgoogle/meet/index.html">See who we're talking about</a>.</p>
+</div>
+<div>
+<ul>
+<li><a href="/intl/en/corporate/">Corporate info</a></li>
+<li><a href="/intl/en/corporate/tech.html">Technology overview</a></li>
+<li><a href="/intl/en/corporate/business.html">Business overview</a></li>
+<li><a href="../lifeatgoogle/toptenreasons/index.html">10 Reasons to work for us</a></li>
+<li><a href="/intl/en/options/">Google products</a></li>
+</ul>
+</div>
+</div>
+<div id="about">&copy;2010 Google - <a href="http://www.google.com/">Home</a> - <a href="http://www.google.com/intl/en/about.html">About Google</a> - <a href="http://www.google.com/intl/en/jobs/privacy/">Privacy Policy</a></div>
+</div>
+<script>
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script>
+  try {
+    var pageTracker = _gat._getTracker("UA-18025-1");
+    pageTracker._setAllowAnchor(true);
+    pageTracker._setCookiePath("/intl/en/jobs/");
+    pageTracker._trackPageview();
+  } catch(err) {}
+</script>
+</body>
+</html>

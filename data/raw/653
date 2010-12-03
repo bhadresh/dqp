@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Google Desktop - Features</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<link href="http://desktop.google.com/styles.css" rel="stylesheet" type="text/css">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+  _uacct="UA-18007-1";
+  _uanchor=1;
+  urchinTracker();
+</script>
+<style type="text/css">
+h4 {
+  font-size:16px;
+}
+
+h5 {
+  font-size:14px;
+  margin-bottom:.3em;
+}
+</style>
+
+<style type="text/css">
+ br.c6 {clear:both;}
+ p.c5 {text-align: right}
+ img.c4 {margin-left:1em;}
+ td.c3 {padding-left:12px;}
+ td.c2 {background-color: #E8F4F7}
+ td.c1 {background-color: #3399CC}
+</style>
+<link charset="utf-8" href="//www.google.com/css/header.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="g-section header"><a href="http://desktop.google.com"><img alt="Google Desktop" src="http://www.google.com/images/logos/desktop_logo.gif"></a></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td nowrap="nowrap" valign="top" width="160">
+<p><a href="index.html">Download</a><br>
+<br>
+<strong>Features</strong><br>
+<br>
+<a href="gettingstarted.html">Getting Started</a><br>
+<br>
+<a href="http://googledesktop.blogspot.com/">Desktop Blog</a><br>
+<br>
+<a href="http://desktop.google.com/support/linux?hl=en">Help Center</a><br>
+<br>
+<a href="http://groups.google.com/group/Google-Desktop-Linux/">Discuss with others</a><br>
+<br></p>
+</td>
+<td id="dots" width="10"></td>
+<td id="content">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td colspan="3"><a id="top" name="top"></a>
+<h1>&nbsp;Features</h1>
+<div>
+<p>Google Desktop is a desktop search application that gives you easy access to information on your computer and from the web. Desktop makes searching your own email, files, music, photos, and more as easy as searching the web with Google.</p>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<div>
+<p><img align="right" alt="Quick Search Box" class="c4" height="222" src="/en/linux/images/qsb_results_sm.jpg" width="300"></p>
+<h5>Quick Search Box</h5>
+The Quick Search Box is your fastest way to do web and desktop searches; type a few letters or words into the search box and your top results pop up instantly. You can call up the Quick Search Box by pressing the Ctrl key twice, and hide it by pressing Ctrl twice again.</div>
+<div>
+<h5>Search Your Gmail and Web History</h5>
+Not everything you're looking for lives on your computer. Whether you're searching your computer or the web, Desktop helps you find what you're looking for by searching your Gmail and web history along with your hard drive. And because your index is stored locally on your own computer, you can even access your Gmail and web history while you're offline.</div>
+<div>
+<h5>Many File Types</h5>
+Google Desktop automatically indexes and allows you to search the full text of virtually all your files, including the following types:
+<ul>
+<li>Gmail</li>
+<li>Text files and source code</li>
+<li>PDF and PS files</li>
+<li>HTML files</li>
+<li>Email from Thunderbird</li>
+<li>OpenOffice.org documents</li>
+<li>Image and music files</li>
+<li>Man pages and Info pages</li>
+<li>Microsoft Word, Excel, and PowerPoint</li>
+</ul>
+</div>
+<div>
+<h5>Familiar Results</h5>
+<img align="right" class="c4" src="/en/linux/images/ordered_results.jpg"> When you do a Desktop search, you'll see a list of search results. Each result, like Google web search results, includes the file name and a brief snippet with your search terms highlighted. You can also filter for a particular type of item -- only emails, for instance -- by using the links at the top of your Desktop search results page.</div>
+<div>
+<h5>Smart Indexing</h5>
+After you install Google Desktop, it starts indexing the files that are already on your computer. This one-time indexing is designed to peacefully co-exist with your normal work, so you can continue working while indexing takes place. Depending on how many files and other items you have on your computer, this process can take up to several hours. Once it's done, Desktop makes sure your index stays up to date by adding new email as you receive it, files as you update them, and web pages as you view them.</div>
+<div>
+<h5>Google Integration</h5>
+What if you already have the information you're looking for but don't realize it? When there are useful results on your computer related to your Google web search, Google Desktop will include these files with your search results. There's also a simple command center for searching your computer, which you can access by clicking "Desktop" above the search box on Google.com.</div>
+<div>
+<h5>File Versioning</h5>
+Google Desktop creates cached copies (snapshots) of your files and other items each time they have been changed, and stores these copies on your computer's hard drive. As a result, you can often use Desktop to find previous versions of your files or ones you've accidentally deleted.</div>
+<div>
+<h5>Multi-Language Support</h5>
+Google Desktop for Linux supports multiple languages in this download. It will automatically switch to the appropriate language based on your language setting.</div>
+</td>
+</tr>
+<tr>
+<td colspan="3"><br></td>
+</tr>
+</table>
+<p class="c5"><a href="#top">Back to Top</a></p>
+<br class="c6"></td>
+</tr>
+<tr>
+<td align="center" colspan="3" id="footer">&copy;2009 Google - <a href="privacypolicy.html">Privacy Policy</a> - <a href="http://www.google.com/accounts/TOS?loc=US">Terms and Conditions</a> - <a href="copyrights.html">Copyright Notices</a></td>
+</tr>
+</table>
+</body>
+</html>

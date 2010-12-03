@@ -1,0 +1,274 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head >
+ <link rel="alternate" type="application/atom+xml" title="Live Bookmarks" href="feeds/installation.atom" />
+ <link rel="next" href="installation.introduction.php" title="Introduction"/>
+ <link rel="prev" href="installationpyrus.introduction.php" title="Introduction: it's simple"/>
+ <link rel="up" href="users.php" title="User Guide"/>
+ <link rel="home" href="./" title="PEAR Manual"/>
+ <title>Manual :: Installation (PEAR)</title>
+ <link rel="shortcut icon" href="/gifs/favicon.ico" />
+ <link rel="stylesheet" type="text/css" href="/css/reset-fonts.css" />
+ <link rel="stylesheet" type="text/css" href="/css/style.css" />
+ <link rel="stylesheet" type="text/css" href="/css/manual.css" />
+ <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/css/IE7styles.css" /><![endif]-->
+ <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/css/IE6styles.css" /><![endif]-->
+ <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+ <link rel="alternate" type="application/rss+xml" title="RSS feed" href="http://pear.php.net/feeds/latest.rss" />
+ <!-- compliance patch for microsoft browsers -->
+<!--[if lt IE 8]>
+ <script type="text/javascript" src="/javascript/IE8.js"></script>
+<![endif]-->
+ <link rel="search" type="application/opensearchdescription+xml" title="PEAR Search Plugin" href="http://pear.php.net/osd.xml" />
+</head>
+
+<body>
+<div>
+<a id="TOP"></a>
+</div>
+
+<div id="doc3">
+<!-- START HEADER -->
+ <div id="user">
+  <ul>
+   <li><a href="/account-request.php">Register</a></li>
+   <li class="last"><a href="/login.php?redirect=/manual/en/installation.php">Login</a></li>
+  </ul>
+ </div>
+
+ <div id="search">
+  <form method="get" action="/search.php">
+   <p style="margin: 0px;">
+    <span class="accesskey">S</span>earch for
+    <input type="text" name="q" value="" size="20" accesskey="s" />
+    in the
+    <select name="in">
+        <option value="packages">Packages</option>
+        <option value="site">This site (using Yahoo!)</option>
+        <option value="users">Developers</option>
+        <option value="pear-dev">Developer mailing list</option>
+        <option value="pear-general">General mailing list</option>
+        <option value="pear-cvs">SVN commits mailing list</option>
+    </select>
+    <input type="image" src="/gifs/small_submit_white.gif" alt="search" style="vertical-align: middle;" />
+   </p>
+  </form>
+ </div>
+
+  <div id="header">
+   <a href="/"><img src="/gifs/pearsmall.gif" style="border: 0;" width="104" height="50" alt="PEAR"  /></a><br />
+  </div>
+
+<div id="menubar">
+
+<ul id="menu">
+ <li class="menu-item"><a href="/index.php">Main</a></li>
+ <li class="menu-item"><a href="/support/">Support</a></li>
+ <li class="menu-item current"><a href="/manual/">Documentation</a></li>
+ <li class="menu-item"><a href="/packages.php">Packages</a></li>
+ <li class="menu-item"><a href="/pepr/">Package Proposals</a></li>
+ <li class="menu-item"><a href="/accounts.php">Developers</a></li>
+ <li class="menu-item menu-item-last"><a href="/bugs/">Bugs</a></li>
+</ul>
+
+</div>
+
+
+<ul id="submenu">
+ <li class="menu-item"><a href="/manual/en/about-pear.php">About PEAR</a></li>
+ <li class="menu-item current"><a href="/manual/">Manual</a></li>
+ <li class="menu-item menu-item-last"><a href="/manual/en/faq.php">FAQ</a></li>
+</ul>
+
+<!-- END HEADER -->
+<!-- START MIDDLE -->
+
+<!-- START MAIN CONTENT -->
+
+  <div id="body">
+
+<!-- START MANUAL NAVIGATION -->
+<div class="manual-navigation" id="manual-navigation-top">
+ <a class="manual-previous" href="installationpyrus.introduction.php" accesskey="r">Introduction: it's simple
+<span class="title">(P<span class="accesskey">r</span>evious)</span></a>
+
+ <a class="manual-next" href="installation.introduction.php" accesskey="x">Introduction
+<span class="title">(Ne<span class="accesskey">x</span>t)</span></a>
+
+ <div class="manual-clear"></div>
+</div>
+<!-- END MANUAL NAVIGATION -->
+
+
+
+<!-- START MANUAL SIDEBAR -->
+<div class="manual-sidebar" id="manual-sidebar">
+ <div class="manual-sidebar-top">
+  <ul>
+   <li><a href="./">PEAR Manual</a></li>
+  </ul>
+ </div>
+
+ <div class="manual-sidebar-up">
+  <ul>
+   <li><a href="users.php">User Guide</a></li>
+  </ul>
+ </div>
+
+ <div class="manual-sidebar-pages">
+  <ol>
+   <li class="manual-sidebar-page"><a href="guide.users.concepts.php">Basic concepts all PEAR<br />users should understand</a></li>
+   <li class="manual-sidebar-page"><a href="installationpyrus.php">Installation (Pyrus)</a></li>
+   <li class="manual-sidebar-page"><strong>Installation (PEAR)</strong></li>
+   <li class="manual-sidebar-page"><a href="guide.users.commandline.cli.php">Command line installer<br />(PEAR)</a></li>
+   <li class="manual-sidebar-page"><a href="guide.users.dependencytracking.php">Dependency Tracking<br />(Meta Packages) with<br />PEAR</a></li>
+  </ol>
+ </div>
+</div>
+<!-- END MANUAL SIDEBAR -->
+
+<div class="manual-content" id="manual-content">
+<div class="chapter" id="installation">
+  <div class="info">
+   <h1>Installation (PEAR)</h1>
+<div class="TOC">
+<strong>Table of Contents</strong><ul class="chunklist chunklist_chapter">
+<li><a href="installation.introduction.php">Introduction</a></li>
+<li><a href="installation.getting.php">Getting and installing the PEAR package manager</a></li>
+<li><a href="installation.shared.php">Installation of a local PEAR copy on a shared host</a></li>
+<li><a href="installation.checking.php">Checking if PEAR works</a></li>
+</ul>
+</div>
+
+   <h2 class="EDITEDBY">Edited By</h2><span class="personname fn">Martin Jansen </span>
+   <p class="date">2006-11-25</p>
+  </div>
+
+  <p class="simpara">
+   This chapter describes how to install the PEAR package manager.
+  </p>
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+ </div>
+</div>
+<!-- START MANUAL NAVIGATION -->
+<div class="manual-navigation" id="manual-navigation-bottom">
+ <a class="manual-previous" href="installationpyrus.introduction.php">Introduction: it's simple
+<span class="title">(P<span class="accesskey">r</span>evious)</span></a>
+
+ <a class="manual-next" href="installation.introduction.php">Introduction
+<span class="title">(Ne<span class="accesskey">x</span>t)</span></a>
+
+ <div class="manual-clear"></div>
+ <div class="manual-info">Last updated: Sun, 28 Nov 2010 — <a href="/manual/">Download Documentation</a></div>
+
+ <div class="manual-bug">
+  Do you think that something on this page is wrong?  Please <a href="/bugs/report.php?package=Documentation">file a bug report</a>   or <a href="/notes/add-note-form.php?redirect=/manual/en/installation.php&amp;uri=installation.php">add a note</a>. 
+ </div>
+
+ <div class="manual-languages">
+View this page in:  <ul class="manual-language-list">
+   <li class="manual-language"><strong>English</strong></li>
+   <li class="manual-language"> &nbsp;•&nbsp; <a href="../pt_BR/installation.php">Brazilian Portuguese</a></li>
+   <li class="manual-language"> &nbsp;•&nbsp; <a href="../zh/installation.php">Chinese</a></li>
+   <li class="manual-language"> &nbsp;•&nbsp; <a href="../nl/installation.php">Dutch</a></li>
+   <li class="manual-language"> &nbsp;•&nbsp; <a href="../fr/installation.php">French</a></li>
+   <li class="manual-language"> &nbsp;•&nbsp; <a href="../de/installation.php">German</a></li>
+   <li class="manual-language"> &nbsp;•&nbsp; <a href="../hu/installation.php">Hungarian</a></li>
+   <li class="manual-language"> &nbsp;•&nbsp; <a href="../ja/installation.php">Japanese</a></li>
+   <li class="manual-language"> &nbsp;•&nbsp; <a href="../pl/installation.php">Polish</a></li>
+   <li class="manual-language"> &nbsp;•&nbsp; <a href="../ru/installation.php">Russian</a></li>
+   <li class="manual-language"> &nbsp;•&nbsp; <a href="../es/installation.php">Spanish</a></li>
+   <li class="manual-language"> &nbsp;•&nbsp; <a href="../tr/installation.php">Turkish</a></li>
+  </ul>
+ </div>
+
+ <div class="manual-notes" id="user-notes">
+  <h3>User Notes:</h3>
+<div class="note">
+ <div class="note_handle">Note by: <a href="/user/doconnor">doconnor</a></div>
+ <div class="note_time"><a name="13455"></a><a href="#13455">2010-11-08 09:43 UTC</a></div>
+ <div class="note_text">
+  Windows users should take a look at http://pear.php.net/manual/en/installation.getting.php<br />
+<br />
+Effectively, you simply Start Menu -&gt; Run -&gt; CMD<br />
+<br />
+c:\cd php<br />
+c:\php\go-pear.bat<br />
+<br />
+The other instructions are really only suited for manual installation, and I would never, ever recommend them. </div>
+</div>
+<div class="note">
+ <div class="note_handle">Note by: &#x75;&#115;&#x65;&#114;&#x40;&#101;&#x78;&#97;&#x6d;&#112;&#x6c;&#101;&#x2e;&#99;&#x6f;&#109;</div>
+ <div class="note_time"><a name="13327"></a><a href="#13327">2010-10-19 16:46 UTC</a></div>
+ <div class="note_text">
+  This page is completely useless!  PHP does not come with any PEAR stuff installed by default on Windows. </div>
+</div>
+<div class="note">
+ <div class="note_handle">Note by: &#x4b;&#46;&#x41;&#46;&#x52;&#46;&#x52;&#46;</div>
+ <div class="note_time"><a name="13101"></a><a href="#13101">2010-09-02 19:14 UTC</a></div>
+ <div class="note_text">
+  How to install and test easily on Windows this stupid thing, referring to PEAR-1.9.1.tgz!<br />
+<br />
+There is a very intuitive guide at geeksengine.com: http://www.geeksengine.com/article/install-pear-on-windows.html.<br />
+<br />
+That guide gives you what the instructions inside the .tgz file can't do. </div>
+</div>
+<div class="note">
+ <div class="note_handle">Note by: <a href="/user/ashnazg">ashnazg</a></div>
+ <div class="note_time"><a name="10201"></a><a href="#10201">2009-07-27 20:44 UTC</a></div>
+ <div class="note_text">
+  If your PEAR installation is an old version (earlier than 1.4.0) that is provided by your operating system's package manager or your &quot;website package&quot; (e.g. XAMPP), then you need to read this [1] to successfully upgrade your PEAR installation to where it can install/upgrade packages from PEAR's pear.php.net channel.<br />
+<br />
+[1] -- http://pear.php.net/news/package.xml.1.0.php </div>
+</div>
+<div class="note">
+ <div class="note_handle">Note by: <a href="/user/hm2k">hm2k</a></div>
+ <div class="note_time"><a name="9461"></a><a href="#9461">2009-05-01 18:53 UTC</a></div>
+ <div class="note_text">
+  You may also find this page useful:<br />
+<br />
+http://pear.php.net/manual/en/guide.users.commandline.installing.php<br />
+<br />
+(With regards to &quot;Easy Install Not sure? Get more info.&quot;) </div>
+</div>
+  
+ </div>
+</div>
+<!-- END MANUAL NAVIGATION -->
+
+
+  </div>
+
+<!-- END MAIN CONTENT -->
+<!-- END MIDDLE -->
+
+<!-- START FOOTER -->
+<div id="footer">
+  <div id="foot-bar"><a href="/about/privacy.php">PRIVACY POLICY</a>&nbsp;|&nbsp;<a href="/about/credits.php">CREDITS</a></div>
+  <div id="foot-copy">
+    <a href="/copyright.php">Copyright &copy; 2001-2010 The PHP Group</a>    All rights reserved.
+  </div>
+
+  <div id="foot-source">
+    Bandwidth and hardware provided by:
+    <a href="http://www.eukhost.com/">eUKhost</a>
+  </div>
+</div>
+
+<!-- Onload focus to pear -->
+<!-- END FOOTER -->
+ </div>
+</body>
+</html>

@@ -1,0 +1,419 @@
+<html>
+<head>
+<meta http-equiv="content-type"
+            content="text/html; charset=ISO-8859-1">
+<title>
+Google Directory
+</title>
+<style>
+body,td,a,p,.h{
+font-family:arial,sans-serif
+}
+.h{font-size:20px}
+.h{color:green}
+.q{color:#00c}
+.ts td{padding:0}
+.ts{border-collapse:collapse}
+</style>
+<script>
+window.google = {
+kHL:"en"
+};
+function sf(){document.f.q.focus()}
+</script>
+</head>
+<body bgcolor=#ffffff
+        textcolor=#000000
+        link=#0000cc
+        vlink=#551a8b
+        alink=#ff0000
+        onload="sf()"
+        topmargin=3
+        marginheight=3
+         >
+<center>
+<center>
+<img src="http://www.google.com/intl/en_us/images/logos/directory_logo_lg.gif"
+             width=276 height=110 alt="Google Directory"/>
+</center>
+<form action="http://www.google.com/search" name=f>
+<style>#lgpd{display:none}</style><script defer><!--
+//-->
+</script><table border=0 cellspacing=0 cellpadding=4><tr><td nowrap><font size=-1><a class=q href="http://www.google.com/webhp?hl=en&oe=ISO-8859-1&tab=dw">Web</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class=q href="http://www.google.com/imghp?hl=en&oe=ISO-8859-1&tab=di">Images</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class=q href="http://groups.google.com/grphp?hl=en&oe=ISO-8859-1&tab=dg">Groups</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class=q href="http://news.google.com/nwshp?hl=en&oe=ISO-8859-1&tab=dn">News</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class=q href="http://www.google.com/prdhp?hl=en&oe=ISO-8859-1&tab=df">Shopping</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class=q href="http://maps.google.com/maps?hl=en&oe=ISO-8859-1&tab=dl">Maps</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class=q href="http://scholar.google.com/schhp?hl=en&oe=ISO-8859-1&tab=ds">Scholar</a>&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="http://www.google.com/intl/en/options/" class=q>more&nbsp;&raquo;</a></b></font></td></tr></table>
+<span id=hf>
+</span>
+<table cellpadding=0 cellspacing=0>
+<tr valign=top>
+<td width=150>
+&nbsp;
+</td>
+<td align=center>
+<input maxlength=256
+                     name=q
+                     size=40
+                     value="">
+<script>
+document.f.q.focus();
+</script>
+<input type=hidden name=ie value="ISO-8859-1">
+<input name=btnG
+                     type=submit
+                     value="Search Directory">
+<input name=hl
+                     type=hidden
+                     value="en">
+<input name=cat
+                     type=hidden
+                     value="gwd/Top">
+</td>
+<td width=150>
+<font size=-2>
+&nbsp;&nbsp;<a href="/preferences?hl=en">Preferences
+</a>
+<br>
+&nbsp;&nbsp;<a href="http://www.google.com/intl/en/dirhelp.html">Directory Help
+</a>
+</font>
+</td>
+</tr>
+</table>
+</form>
+<p><font color=#008000><b>The web organized by topic into categories.</b></font><p>
+<table align=center border=0 cellpadding=0 cellspacing=7 width=1%>
+<tr>
+<td colspan=4 bgcolor=green><img width=1 height=1 alt=""></td>
+</tr>
+<tr>
+<td>
+&nbsp;
+</td>
+<td nowrap valign=top>
+<b>
+<a href="/Top/Arts/">
+Arts
+</a>
+</b>
+<br>
+<font size=-1>
+<a href="/Top/Arts/Music/">
+Music</a>,
+<a href="/Top/Arts/Movies/">
+Movies</a>,
+<a href="/Top/Arts/Performing_Arts/">
+Performing Arts</a>,
+...
+</font>
+<p>
+<b>
+<a href="/Top/Business/">
+Business
+</a>
+</b>
+<br>
+<font size=-1>
+<a href="/Top/Business/Industrial_Goods_and_Services/">
+Industrial Goods and Services</a>,
+<a href="/Top/Business/Financial_Services/">
+Finance</a>,
+...
+</font>
+<p>
+<b>
+<a href="/Top/Computers/">
+Computers
+</a>
+</b>
+<br>
+<font size=-1>
+<a href="/Top/Computers/Software/">
+Software</a>,
+<a href="/Top/Computers/Internet/">
+Internet</a>,
+<a href="/Top/Computers/Programming/">
+Programming</a>,
+...
+</font>
+<p>
+<b>
+<a href="/Top/Games/">
+Games
+</a>
+</b>
+<br>
+<font size=-1>
+<a href="/Top/Games/Video_Games/">
+Video Games</a>,
+<a href="/Top/Games/Roleplaying/">
+Roleplaying</a>,
+<a href="/Top/Games/Board_Games/">
+Board Games</a>,
+...
+</font>
+<p>
+<b>
+<a href="/Top/Health/">
+Health
+</a>
+</b>
+<br>
+<font size=-1>
+<a href="/Top/Health/Conditions_and_Diseases/">
+Conditions and Diseases</a>,
+<a href="/Top/Health/Medicine/">
+Medicine</a>,
+<a href="/Top/Health/Animal/">
+Animal</a>,
+...
+</font>
+<p>
+</td>
+<td nowrap valign=top>
+<b>
+<a href="/Top/Home/">
+Home
+</a>
+</b>
+<br>
+<font size=-1>
+<a href="/Top/Home/Cooking/">
+Cooking</a>,
+<a href="/Top/Home/Family/">
+Family</a>,
+<a href="/Top/Home/Gardening/">
+Gardening</a>,
+...
+</font>
+<p>
+<b>
+<a href="/Top/Kids_and_Teens/">
+Kids and Teens
+</a>
+</b>
+<br>
+<font size=-1>
+<a href="/Top/Kids_and_Teens/International/">
+International</a>,
+<a href="/Top/Kids_and_Teens/School_Time/">
+School Time</a>,
+<a href="/Top/Kids_and_Teens/Games/">
+Games</a>,
+...
+</font>
+<p>
+<b>
+<a href="/Top/News/">
+News
+</a>
+</b>
+<br>
+<font size=-1>
+<a href="/Top/News/Newspapers/">
+Newspapers</a>,
+<a href="/Top/News/Media/">
+Media</a>,
+<a href="/Top/News/Colleges_and_Universities/">
+Colleges and Universities</a>,
+...
+</font>
+<p>
+<b>
+<a href="/Top/Recreation/">
+Recreation
+</a>
+</b>
+<br>
+<font size=-1>
+<a href="/Top/Recreation/Pets/">
+Pets</a>,
+<a href="/Top/Recreation/Outdoors/">
+Outdoors</a>,
+<a href="/Top/Recreation/Food/">
+Food</a>,
+...
+</font>
+<p>
+<b>
+<a href="/Top/Reference/">
+Reference
+</a>
+</b>
+<br>
+<font size=-1>
+<a href="/Top/Reference/Education/">
+Education</a>,
+<a href="/Top/Reference/Biography/">
+Biography</a>,
+<a href="/Top/Reference/Museums/">
+Museums</a>,
+...
+</font>
+<p>
+</td>
+<td nowrap valign=top>
+<b>
+<a href="/Top/Regional/">
+Regional
+</a>
+</b>
+<br>
+<font size=-1>
+<a href="/Top/Regional/North_America/">
+North America</a>,
+<a href="/Top/Regional/Europe/">
+Europe</a>,
+<a href="/Top/Regional/Oceania/">
+Oceania</a>,
+...
+</font>
+<p>
+<b>
+<a href="/Top/Science/">
+Science
+</a>
+</b>
+<br>
+<font size=-1>
+<a href="/Top/Science/Biology/">
+Biology</a>,
+<a href="/Top/Science/Social_Sciences/">
+Social Sciences</a>,
+<a href="/Top/Science/Technology/">
+Technology</a>,
+...
+</font>
+<p>
+<b>
+<a href="/Top/Shopping/">
+Shopping
+</a>
+</b>
+<br>
+<font size=-1>
+<a href="/Top/Shopping/Home_and_Garden/">
+Home and Garden</a>,
+<a href="/Top/Shopping/Crafts/">
+Crafts</a>,
+<a href="/Top/Shopping/Sports/">
+Sports</a>,
+...
+</font>
+<p>
+<b>
+<a href="/Top/Society/">
+Society
+</a>
+</b>
+<br>
+<font size=-1>
+<a href="/Top/Society/Religion_and_Spirituality/">
+Religion and Spirituality</a>,
+<a href="/Top/Society/Law/">
+Law</a>,
+<a href="/Top/Society/Issues/">
+Issues</a>,
+...
+</font>
+<p>
+<b>
+<a href="/Top/Sports/">
+Sports
+</a>
+</b>
+<br>
+<font size=-1>
+<a href="/Top/Sports/Soccer/">
+Soccer</a>,
+<a href="/Top/Sports/Equestrian/">
+Equestrian</a>,
+<a href="/Top/Sports/Football/">
+Football</a>,
+...
+</font>
+<p>
+</td>
+</tr>
+<tr>
+<td>
+&nbsp;
+</td>
+<td colspan=3>
+<b>
+<a href="/Top/World/">
+World
+</a>
+</b>
+<br>
+<font size=-1>
+<a
+                    href="/Top/World/Deutsch/">Deutsch</a>,&nbsp;<a
+                    href="/Top/World/Espa%C3%B1ol/">Espa&ntilde;ol</a>,&nbsp;<a
+                    href="/Top/World/Fran%C3%A7ais/">Fran&ccedil;ais</a>,&nbsp;<a
+                    href="/Top/World/Italiano/">Italiano</a>,&nbsp;<a
+                    href="/Top/World/Japanese/">Japanese</a>,&nbsp;<a
+                    href="/Top/World/Korean/">Korean</a>,&nbsp;<a
+                    href="/Top/World/Nederlands/">Nederlands</a>,&nbsp;<a
+                    href="/Top/World/Polski/">Polski</a>,&nbsp;<a
+                    href="/Top/World/Svenska/">Svenska</a>,&nbsp;...
+</font>
+</td>
+</tr>
+<tr>
+<td>
+&nbsp;
+</td>
+<td nowrap>
+<font size=-1>
+&nbsp;
+</font>
+</td>
+</tr>
+<tr>
+<td colspan=4 bgcolor=green><img width=1 height=1 alt=""></td>
+</tr>
+</table>
+<br>
+<font size=-1>
+<a href="/intl/en/ads/">Advertising&nbsp;Programs</a>
+-
+<a href="/services/">Business Solutions</a>
+-
+<a href="/intl/en/about.html">About Google</a>
+</font>
+<p>
+<font size=-2>
+&copy;2010 - <a href="/intl/en/privacy.html">Privacy</a>
+</font>
+</p>
+<table align=center bgcolor=#336600 border=0 cellpadding=3 cellspacing=0>
+<tr>
+<td>
+<table border=0 cellpadding=2 cellspacing=0 width=100%>
+<tr align=center>
+<td>
+<font color=#ffffff face="sans-serif,Arial,Helvetica" size=2>
+Help build the largest human-edited directory on the web.
+</font>
+</td>
+</tr>
+<tr bgcolor=#cccccc align=center>
+<td>
+<font face="sans-serif,Arial,Helvetica" size=2>
+<a href="http://dmoz.org/add.html">
+Submit a Site</a>
+-
+<a href="http://dmoz.org/about.html">
+<b>
+Open Directory Project</b></a>
+-
+<a href="http://dmoz.org/cgi-bin/apply.cgi">
+Become an Editor</a>
+</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</center>
+</body>
+</html>

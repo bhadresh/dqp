@@ -1,0 +1,599 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Google Gadgets:&nbsp;
+Google Gadgets Calendar</title>
+<link href="/desktop/styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+a.selected {
+  font-weight: bold;
+  color: #666;
+  text-decoration: none;
+}
+
+p#nav {
+  line-height: 1.4em;
+}
+
+table.gadget {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+table.gadget td img {
+  border: 1px solid #000;
+  margin: 4px 0px;
+}
+
+body {
+  margin-top: 0px;
+}
+
+table.gadget td input {
+  font-size: 11px;
+  width: 82px;
+}
+
+table.header {
+  margin-bottom: 10px;
+}
+
+table.header h3 {
+  margin-bottom: 0px;
+}
+
+table.header hr {
+  color: #ccc;
+  background-color: #ccc;
+  border-bottom: 1px solid #ccc;
+  height: 1px;
+  margin-top: 0px;
+}
+
+.disclaimer {
+  color: #999;
+}
+
+div.errorheader {
+  color: red;
+  font-weight: bold;
+}
+
+div.errormsg {
+  color: red;
+}
+
+td.button-left {
+  width: 6px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-left_sm.gif');
+  background-repeat: none;
+}
+
+td.button-center {
+  padding-left: 10px;
+  padding-right: 14px;
+  padding-bottom: 3px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-center_sm.gif')
+    ;
+  background-repeat: repeat-x;
+}
+
+td.button-center a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: arial;
+  padding-bottom: 6px;
+}
+
+td.button-right {
+  width: 9px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-right_sm.gif');
+  background-repeat: none;
+}
+
+.linkon {
+  color: #0000cc;
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: normal
+}
+
+.linkoff {
+  font-weight: bold
+}
+
+.review_author {
+  font-weight: bold
+}
+
+td.download-button-left {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_left.gif');
+  background-repeat: none;
+}
+
+td.download-button-center {
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  height: 22px;
+  background: url('/images/add_button_middle.gif');
+  background-repeat: repeat-x;
+}
+
+td.download-button-center a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
+
+td.download-button-right {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_right.gif');
+  background-repeat: none;
+}
+
+.similar-gadget {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.screenshot-image {
+  border: 1px solid #bbcced;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+pre.terms {
+  height:200;
+  width:600;
+  overflow: auto;
+  border-style:inset;
+  border-color:graytext;
+  border-width: thin;
+  text-wrap: unrestricted;
+  white-space: -moz-pre-wrap; /* Moz */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  white-space: pre-wrap; /* CSS3  */
+  word-wrap: break-word; /* IE 5.5+ */
+}
+
+table.confirmation-table td {
+  vertical-align: top;
+}
+
+.gadgetError {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FBE3E4;
+  color: #D12F19;
+  border-color: #FBC2C4;
+}
+
+.gadgetWarning {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FFF6BF;
+  color: #817134;
+  border-color: #FFD324;
+}
+
+</style>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+<script type="text/javascript">
+    _uacct="UA-18007-1";
+    _uanchor=1;
+    urchinTracker();
+  </script></head>
+<body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><a href="/?hl=en"><img src="/en/images/logo3.gif" border="0" height="55" vspace="12" width="150" alt="Google Desktop"></a></td>
+<td width="100%" style="padding-left:12px;padding-top:12px;" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="right" nowrap><font face="Arial, sans-serif" size="-1"><a href="https://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/milk_clock_calendar.html">Sign In</a></font></td></tr>
+<tr><td><img alt="" width="1" height="1"></td></tr></table>
+<table cellpadding="0" cellspacing="0" width="100%"><tr><td bgcolor="#3399cc"><img alt="" height="1" width="1"></td></tr></table>
+<table cellspacing="0" cellpadding="2" border="0" width="100%"><tr><td bgcolor="#e8f4f7">&nbsp;
+<font size="3"><b>Google Gadgets</b></font></td></tr></table></td></tr></table>
+<table cellspacing="0" width="100%"><tr valign="top"><td><td nowrap valign="top" width="160"><p id="nav"><font size="-1">Google Gadgets
+<br>
+
+&nbsp;&nbsp;&bull;
+<a href='/plugins/?hl=en'>All</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/news.html?hl=en'>News</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/tools.html?hl=en'>Tools</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/communication.html?hl=en'>Communication</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/finance.html?hl=en'>Finance</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/fun_games.html?hl=en'>Fun & Games</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/google.html?hl=en'>Google</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/sports.html?hl=en'>Sports</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/lifestyle.html?hl=en'>Lifestyle</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/technology.html?hl=en'>Technology</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href="/plugins/c/sidebar/holiday.html?hl=en"><b><font color="red">Holidays</font></b></a>
+<br>
+<br>
+<a href='/plugins/c/index/all.html?hl=en'>Indexing Plugins</a>
+<br>
+<br>
+<br>
+<a href="http://groups.google.com/group/Google-Desktop">Desktop Search Forum</a></font></p>
+<p><font size="-1"><b>For Developers</b>
+<br>
+
+&nbsp;&nbsp;
+<a href='/downloadsdksubmit?hl=en'>Download SDK</a><br>
+&nbsp;&nbsp;
+<a href="/dev/index.html">Developer Guide</a><br>
+&nbsp;&nbsp;
+<a href="/dev/kb.html">FAQ</a><br>
+&nbsp;&nbsp;
+<a href='/pluginsubmit?hl=en'>Submit Software</a><br>
+
+&nbsp;&nbsp;
+<a href="http://groups.google.com/group/Google-Desktop-Developer">Developer Forum</a><br>
+&nbsp;&nbsp;
+<a href='/authors?hl=en'>Hall of Fame</a><br>
+&nbsp;&nbsp;
+<a href='/ambassadors?hl=en'>Ambassadors</a> <br>
+<br>
+<br>
+<br>
+<img src="/images/rss_small.gif" alt="RSS Feed for Latest Gadgets">
+<a href="/feeds/gadgets.xml?hl=en&amp;type=rss" type="application/rss+xml">Latest Gadgets</a>
+<br>
+<br>
+<br>
+<br></font></p></td>
+<td id="dots" width="10"></td></td>
+<td><table><tr style="height:10px;"></tr>
+<tr id="gadgetDetails"><td id="gadgetImage" valign="top" align="center"><img alt="Google Gadgets Calendar" src="/plugins/images/ggcalendar.gif" class="screenshot-image"></td>
+<td id="gadgetDetails" valign="top"><h3>Google Gadgets Calendar</h3>
+Keep track of the day, date, month, and time
+<br>
+<p>
+<a href="http://groups.google.com/group/Google-Desktop-Plugin-ClockCalendar">Discuss this gadget</a></p>
+<table cellpadding="2" cellspacing="2"><tr><td><strong>Author:</strong></td>
+<td>Google</td></tr>
+<tr><td><strong>Size:</strong></td>
+<td>63KB</td></tr>
+<tr><td><strong>Version:</strong></td>
+<td>1.0.0.1</td></tr>
+<tr><td><strong>Date:</strong></td>
+<td>March 26, 2006</td></tr></table>
+<p><b>This gadget requires  <a href="http://desktop.google.com?hl=en"> Google Desktop  5  or above. </a></b></p>
+<div style="width: 250;"><table cellpadding="0" cellspacing="0"><tr><td class="button-left"></td>
+<td class="button-center"><a href="/url?id=milk_clock_calendar">Download gadget</a></td>
+<td class="button-right"></td></tr></table></div>
+<br>
+<a href="http://www.google.com/ig/add?moduleurl=http://desktop.google.com/gow/gadgets/milk_clock_calendar.xml">Add this gadget to your iGoogle page</a></td></tr>
+<tr id="reviewsAndComments"><td valign="top" colspan="2"><script type="text/javascript" src="/gadgetComments.js">
+</script>
+<div style="min-width: 600; max-width: 800"><table width="100%"><tr><td><span id="commentsSpan" class="linkoff">Reviews</span></td>
+<td align="right">
+
+<a href="http://desktop.google.com/plugins/i/milk_clock_calendar.html?start=20">Next &raquo;</a></td></tr></table>
+<hr size="1" noshade>
+<a href="http://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/milk_clock_calendar.html">Sign in</a> to write a comment
+<br><br>
+<div id="comments">
+
+<table id="review 1" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>haldoor</b>
+&nbsp;</td>
+<td><div id="abuse1" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=RMqje4n0uPTdTtgb0tGJ-QMFhDTdkzk_VgAAAMxdVxoX6pu1FzOop8PhDF9HNSQAccEwZq3GOsjIROljk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf0GFMGDtgLB34KAu4KYmgJ-w&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Is there a way to reverse the month/day?  We&#39;re not all Americans and 12/1 is the 12th of January where I live.  Very annoying we all have to be American about that when I believe North America is the only place to be so backward about dates (the smallest to biggest on a date makes so much sense, and even biggest to smallest works logically, but who does middle-sized, small, then biggest ie month, day, year, when it&#39;s so illogical?) Spock rules!
+
+Haven&#39;t played with much of the rest of it yet, but does seem quite useful.  Just that one thing annoys me.
+<br>
+<br> <table id="review 2" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse2" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=gqXGsUj2v0Fo8VJ6TW21Z4nTiybdkzk_VgAAAFSVCDgzLrMih2pjbAsJVJ1oAWEhXIZJz7yilybuo_GXk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf0hiPAKKvXSaw9nNs7Dj9YiA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Google does not seem to check, moderate, or reply here. Doubt the annoying update problem will be fixed any time soon. Giving up on this gadget soon.
+<br>
+<br> <table id="review 3" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse3" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=mbAKdVRya7HLxPShLNDOJQb1-Tzdkzk_VgAAALB3huRIFem81kRXB8QiVV8gOuz4_1E6ay2aXIG_CsUVk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf0SSuuoLh7CANquVLMi67mXA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Decent gadget. Does seem to update quite a bit w/me also.
+<br>
+<br> <table id="review 4" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse4" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=luH9IxfabeHwquafcw2GPWgB6ZTdkzk_VgAAANikjPRBRdP3Ln2R1TjG54aetnh9xBM-lALUB1b9mgl3k2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf0pYyrjgi2sGGR4QLhVifujw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Not perfect, but it&#39;s great.  What I would do if I were Google is allow you to choose your own color using Windows&#39; color-choosing system, because who wants a color like fire-red or navy-blue?  I would make it myself using RGB.
+
+It is a true must-have.  I read your reviews and if it&#39;s true, Google should fix the unnecessary updates.
+
+I really wish you could right-click on a date and add things like doctor&#39;s appointments and such and assign them your own color.
+<br>
+<br> <table id="review 5" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Richard</b>
+&nbsp;</td>
+<td><div id="abuse5" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=0rdu4GwmJWnQoEzPOhPx7r-K-K_dkzk_VgAAAHQgj7eUbk5riWPJ-M3OLdNhRfJgzxN4rdmv5KQpDsiTk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf0XAfPxjxzUilfNzDuXkracA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Interesting, I have given up on this one and considering just deleating the sidebar altogether. I have been fighting this issue for several months and this is totaly stupid. However, I did try deleating that one and down loaded a different one yesterday. This morning I received a note that it had to be updated also. I give up. However, I do agree that this was one of the most usful ones I had on my desktop. Such a shame.
+<br>
+<br> <table id="review 6" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse6" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=-CB6lFRoEHJjlesKhObwXSb2vZrdkzk_VgAAAPzzZLzpHKo_635_PaRQVxRObCsUpsV3kuJwyJ_u7LAIk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf0VgrlTyCBEaNQ5bzg8kPPlw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Is there a solution yet to the constant need to update?  Have you added tasks yet?
+<br>
+<br> <table id="review 7" cellpadding="0" cellspacing="0"><tr>
+<td><b>SureshKumar</b>
+&nbsp;</td>
+<td><div id="abuse7" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=PfzTgH_O9xk4SgkJ197iHBwA-PLdkzk_VgAAADHPi3Q4aF_Vcy5gVczZfqA14TceMDpXXlqvthlpRtfxk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf0O_IHZt1AefIjMVKesViB_w&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+wish i can change the colors.I am afraid the option is not available:(
+
+<br>
+<br> <table id="review 8" cellpadding="0" cellspacing="0"><tr>
+<td><b>Mark</b>
+&nbsp;</td>
+<td><div id="abuse8" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=o0aIkjIQv8H6kskn8sspJP37Kvjdkzk_VgAAADHPi3Q4aF_Vcy5gVczZfqBpBp0q2Fkzbeeg03C-z3vxk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf0W9wqP1IRwp1awZt7nz739A&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Come ON Google! The constant update notification glitch has gone unfixed long enough.
+This is one of the most used gadgets and it reflects very badly on Google and their attitude toward users if they can&#39;t be bothered to fix so simple.
+I for one would very much doubt that Google could manage to support an OS properly if it can&#39;t be bothered to fix one of it&#39;s most popular gadgets.
+<br>
+<br> <table id="review 9" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse9" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=oKnDuxbHDH89FQdnDP-9pTm4-d7dkzk_VgAAAMxdVxoX6pu1FzOop8PhDF8nb5OT6Dc4Da4tio4kvT-Ok2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf0MGMyvzksakzUEAlHOLUfJA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I keep getting the message that there is an update available.  I can&#39;t believe it needs updating every day.
+<br>
+<br> <table id="review 10" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse10" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=emOU9jGKw2rnrDpcN7I4Jm7WxCPdkzk_VgAAADByBjHmSTQl5Er2xPnD0hQ10CDfLO_YvUCgrmc0XSBDk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf0I_78qrRoqOJa5LA1W92AWw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+
+<br>
+<br> <table id="review 11" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse11" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=yHzZzdHYmXZxI05pg3hDrq2Ufwndkzk_VgAAAIBdwH5vsurIJVJLt11S1ZxF-P34RyXrn0VXwgxsYORQk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf0jJQzB8Rw7gcHlEOahKHBwA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Why is the date in US form only? How can or why can&#39;t I change it to day first then month??
+<br>
+<br> <table id="review 12" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b></b>
+&nbsp;</td>
+<td><div id="abuse12" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=r2kLEk0ikZJIARNEss7EtpQ6c27dkzk_VgAAALH0D_uX7cjWl4XGUyKVpn0nS_zuQGJN84rWp5bhM25Sk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf0HdU39JiwH9METnAcwmQ2Ew&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Why it hasn&#39;t 24h mode? Only 12.
+<br>
+<br> <table id="review 13" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse13" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=bGt42F79fj2LvgF-LJpgHWtOqJPdkzk_VgAAANikjPRBRdP3Ln2R1TjG54aHgMfeIdH664A0UGEZWM87k2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf0I28S7zOjkQHJc9I__aStaA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+http://kratosellas.blogspot.com   online tv,videos,gossip,news,photo,sport    http://kratosellas.blogspot.com   
+<br>
+<br> <table id="review 14" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Bolad&atilde;oBH</b>
+&nbsp;</td>
+<td><div id="abuse14" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=mJHzStg0F-iEN6BbyaftiEbkV-Pdkzk_VgAAAPzzZLzpHKo_635_PaRQVxSndo1UNe9I_j_9lI5Yhxd1k2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf0-1ILd4ksT63LP2s4vKznyg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Seria 100% se fosse 12/24
+e pudesse mudar 
+<br>
+<br> <table id="review 15" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse15" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=Hs6Lm03vRIA427VCQ2jmmnbL09bdkzk_VgAAAKmxl-h-SBY4m9r8OaURH5vdQSU-nEVSwOcdb3oTmhKSk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf011iPLdP-8d5hj9Rwioafxg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+it would be usefull to display week number
+<br>
+<br> <table id="review 16" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>DavidMc</b>
+&nbsp;</td>
+<td><div id="abuse16" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=64ZpwSckc14NGcw37tZ_MBB_O6Tdkzk_VgAAAIBdwH5vsurIJVJLt11S1ZxZXT0Vr_T8XYI2WnBhq6cYk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf0MDkIiBTxVhE9Az1rd4zlpg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+It is still trying to update itself every day. Please fix this.
+<br>
+<br> <table id="review 17" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>HCarlinhos</b>
+&nbsp;</td>
+<td><div id="abuse17" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=OfW0ilp_NwnvvtNOfmDI_cY5ajvdkzk_VgAAAMxdVxoX6pu1FzOop8PhDF_3z0TxHac8-mZ0ZocUhmRYk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf0BH5u6CgYWOhSdkMUQP2wrw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&eacute; 10
+<br>
+<br> <table id="review 18" cellpadding="0" cellspacing="0"><tr>
+<td><b>makoto</b>
+&nbsp;</td>
+<td><div id="abuse18" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=7_U-OGjGVL32lB2YCJg-M60QcCjdkzk_VgAAANajb4KtUE4sd3cNPx5_w85YjdMilsjYx3EOnVFRs3obk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf0S4WlHvDETuu_ioNOQjRPUA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#29694;&#22312;&#12289;&#26085;&#26412;&#26178;&#38291;&#12391;&#12399;&#65298;&#65297;&#26178;&#65299;&#65304;&#20998;&#65288;&#65328;&#65325;&#65305;&#26178;&#65299;&#65304;&#20998;&#65289;&#12391;&#12377;&#12364;&#34920;&#31034;&#12364;&#21320;&#24460;&#65304;&#26178;&#65297;&#65298;&#20998;&#12395;&#12394;&#12387;&#12390;&#12414;&#12377;&#65281;&#12288;&#20309;&#12391;&#12363;&#12394;&#65311;
+<br>
+<br> <table id="review 19" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Andrew</b>
+&nbsp;</td>
+<td><div id="abuse19" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=gi6UrenbDMB4_NAG9dCLvj8HblXdkzk_VgAAAFn_SY6VxzqAHus-iV1unpZ6s6eDAgbjKUZdFAB6zICBk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf0nXwU882js8Lha-MvXcxU4A&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Got the same problem as HMCHI. Have now ditched this calendar in favour of an analog clock and the other Google Calendar app. Used to rate it 4 star. Update nonsense now makes it 1 star. 
+[Edit] Can disable this in Configure Gadgets: turn off &quot;Notify me when there are new gadget updates for me&quot;
+<br>
+<br> <table id="review 20" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>&#26448;</b>
+&nbsp;</td>
+<td><div id="abuse20" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=CEt57g2-ElY40z2esSxEsrLaZkLdkzk_VgAAAOAyuFNT2P6KAo0ccYSJq1EPBoL24WYt9KujNrNCViuvk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj-KL4s4mDr-RUAhHqnQDf0lE7lS9ABbYsBgNIywLk2Uw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+This tool is truly good, but I think there is still some room to improve.  For example, when I turn on my laptop, the size of this tool will become it&#39;s default size.  It&#39;s not a big deal, somehow it&#39;s kind of annoying, because I have to drag it to the size that fits my using habit.
+<br>
+<br>
+<div align="right">
+
+<a href="http://desktop.google.com/plugins/i/milk_clock_calendar.html?start=20">Next &raquo;</a></div></div>
+<form action="/submitcomment" method="POST" name="commentForm" id="commentForm"><div id="writeComment" style="display:none"><table><tr><td valign="top">Rate gadget:</td>
+<td><table cellspacing="0" cellpadding="0"><tr><td><img alt="" src="/images/rateStarsLeft.gif"></td>
+<td><img alt="" id="star1" src="/images/rateStarOff.gif" onclick="setStars(1)" onmouseover="showStars(1)" onmouseout="showStars()"></td>
+<td><img alt="" id="star2" src="/images/rateStarOff.gif" onclick="setStars(2)" onmouseover="showStars(2)" onmouseout="showStars()"></td>
+<td><img alt="" id="star3" src="/images/rateStarOff.gif" onclick="setStars(3)" onmouseover="showStars(3)" onmouseout="showStars()"></td>
+<td><img alt="" id="star4" src="/images/rateStarOff.gif" onclick="setStars(4)" onmouseover="showStars(4)" onmouseout="showStars()"></td>
+<td><img alt="" id="star5" src="/images/rateStarOff.gif" onclick="setStars(5)" onmouseover="showStars(5)" onmouseout="showStars()"></td>
+<td><img alt="" src="/images/rateStarsRight.gif"></td></tr></table></td></tr>
+<tr><td valign="top">Your name:</td>
+<td><b></b>
+&nbsp;
+<input type="checkbox" name="anonymous" value="true" id="anonymous">
+Anonymous</td></tr>
+<tr><td valign="top">Comments:</td>
+<td><textarea name="reviewText" rows="4" cols="25" id="reviewText" style="border: 1px solid #bbcced"></textarea></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="rating" value="0" id="rating" style="display:none;">
+<input type="hidden" name="pluginId" value="milk_clock_calendar" id="pluginId">
+<input type="submit" value="Post Comment">
+<input type="reset" value="Discard" onclick="showComments()"></td></tr>
+<tr style="height:20px;"></tr></table></div></form>
+<div id="abuseLinkDiv"></div></div></td></tr></table></td>
+<td id="recommendations"><b>You might also like...</b>
+<hr noshade size="1">
+<table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/datedisplay_pjondeve.html?hl=en"><img alt="Date Display" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/datedisplay_pjondeve_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/datedisplay_pjondeve.html?hl=en">Date Display</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=datedisplay_pjondeve">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/calendar_gilcorreira.html?hl=en"><img alt="Calendar" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/calendar_gilcorreira_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/calendar_gilcorreira.html?hl=en">Calendar</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=calendar_gilcorreira">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/analogclock.html?hl=en"><img alt="Analog Clock" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/analog_clock_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/analogclock.html?hl=en">Analog Clock</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=analogclock">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/milk_digital_clock.html?hl=en"><img alt="Digital Clock" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/digital_clock_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/milk_digital_clock.html?hl=en">Digital Clock</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=milk_digital_clock">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/KurdishDate.html?hl=en"><img alt="Kurdish Date" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/KurdishDate_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/KurdishDate.html?hl=en">Kurdish Date</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=KurdishDate">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/datetoday_stefanvand.html?hl=en"><img alt="Date Today" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/datetoday_stefanvand_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/datetoday_stefanvand.html?hl=en">Date Today</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=datetoday_stefanvand">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table>
+<br>
+<br></td></tr>
+<tr><td colspan="5" align="center" id="footer">&copy;  2010  Google
+-
+<a href="/privacypolicy.html">Privacy Policy</a>
+-
+<a href="http://www.google.com/accounts/TOS?hl=en">Terms of Service</a>
+-
+<a href="/copyrights.html">Copyright Notices</a></td></tr></table></body></html>

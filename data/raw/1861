@@ -1,0 +1,584 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Google Gadgets:&nbsp;
+Virtual Flower Pot</title>
+<link href="/desktop/styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+a.selected {
+  font-weight: bold;
+  color: #666;
+  text-decoration: none;
+}
+
+p#nav {
+  line-height: 1.4em;
+}
+
+table.gadget {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+table.gadget td img {
+  border: 1px solid #000;
+  margin: 4px 0px;
+}
+
+body {
+  margin-top: 0px;
+}
+
+table.gadget td input {
+  font-size: 11px;
+  width: 82px;
+}
+
+table.header {
+  margin-bottom: 10px;
+}
+
+table.header h3 {
+  margin-bottom: 0px;
+}
+
+table.header hr {
+  color: #ccc;
+  background-color: #ccc;
+  border-bottom: 1px solid #ccc;
+  height: 1px;
+  margin-top: 0px;
+}
+
+.disclaimer {
+  color: #999;
+}
+
+div.errorheader {
+  color: red;
+  font-weight: bold;
+}
+
+div.errormsg {
+  color: red;
+}
+
+td.button-left {
+  width: 6px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-left_sm.gif');
+  background-repeat: none;
+}
+
+td.button-center {
+  padding-left: 10px;
+  padding-right: 14px;
+  padding-bottom: 3px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-center_sm.gif')
+    ;
+  background-repeat: repeat-x;
+}
+
+td.button-center a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: arial;
+  padding-bottom: 6px;
+}
+
+td.button-right {
+  width: 9px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-right_sm.gif');
+  background-repeat: none;
+}
+
+.linkon {
+  color: #0000cc;
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: normal
+}
+
+.linkoff {
+  font-weight: bold
+}
+
+.review_author {
+  font-weight: bold
+}
+
+td.download-button-left {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_left.gif');
+  background-repeat: none;
+}
+
+td.download-button-center {
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  height: 22px;
+  background: url('/images/add_button_middle.gif');
+  background-repeat: repeat-x;
+}
+
+td.download-button-center a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
+
+td.download-button-right {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_right.gif');
+  background-repeat: none;
+}
+
+.similar-gadget {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.screenshot-image {
+  border: 1px solid #bbcced;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+pre.terms {
+  height:200;
+  width:600;
+  overflow: auto;
+  border-style:inset;
+  border-color:graytext;
+  border-width: thin;
+  text-wrap: unrestricted;
+  white-space: -moz-pre-wrap; /* Moz */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  white-space: pre-wrap; /* CSS3  */
+  word-wrap: break-word; /* IE 5.5+ */
+}
+
+table.confirmation-table td {
+  vertical-align: top;
+}
+
+.gadgetError {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FBE3E4;
+  color: #D12F19;
+  border-color: #FBC2C4;
+}
+
+.gadgetWarning {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FFF6BF;
+  color: #817134;
+  border-color: #FFD324;
+}
+
+</style>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+<script type="text/javascript">
+    _uacct="UA-18007-1";
+    _uanchor=1;
+    urchinTracker();
+  </script></head>
+<body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><a href="/?hl=en"><img src="/en/images/logo3.gif" border="0" height="55" vspace="12" width="150" alt="Google Desktop"></a></td>
+<td width="100%" style="padding-left:12px;padding-top:12px;" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="right" nowrap><font face="Arial, sans-serif" size="-1"><a href="https://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/flower.html">Sign In</a></font></td></tr>
+<tr><td><img alt="" width="1" height="1"></td></tr></table>
+<table cellpadding="0" cellspacing="0" width="100%"><tr><td bgcolor="#3399cc"><img alt="" height="1" width="1"></td></tr></table>
+<table cellspacing="0" cellpadding="2" border="0" width="100%"><tr><td bgcolor="#e8f4f7">&nbsp;
+<font size="3"><b>Google Gadgets</b></font></td></tr></table></td></tr></table>
+<table cellspacing="0" width="100%"><tr valign="top"><td><td nowrap valign="top" width="160"><p id="nav"><font size="-1">Google Gadgets
+<br>
+
+&nbsp;&nbsp;&bull;
+<a href='/plugins/?hl=en'>All</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/news.html?hl=en'>News</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/tools.html?hl=en'>Tools</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/communication.html?hl=en'>Communication</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/finance.html?hl=en'>Finance</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/fun_games.html?hl=en'>Fun & Games</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/google.html?hl=en'>Google</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/sports.html?hl=en'>Sports</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/lifestyle.html?hl=en'>Lifestyle</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/technology.html?hl=en'>Technology</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href="/plugins/c/sidebar/holiday.html?hl=en"><b><font color="red">Holidays</font></b></a>
+<br>
+<br>
+<a href='/plugins/c/index/all.html?hl=en'>Indexing Plugins</a>
+<br>
+<br>
+<br>
+<a href="http://groups.google.com/group/Google-Desktop">Desktop Search Forum</a></font></p>
+<p><font size="-1"><b>For Developers</b>
+<br>
+
+&nbsp;&nbsp;
+<a href='/downloadsdksubmit?hl=en'>Download SDK</a><br>
+&nbsp;&nbsp;
+<a href="/dev/index.html">Developer Guide</a><br>
+&nbsp;&nbsp;
+<a href="/dev/kb.html">FAQ</a><br>
+&nbsp;&nbsp;
+<a href='/pluginsubmit?hl=en'>Submit Software</a><br>
+
+&nbsp;&nbsp;
+<a href="http://groups.google.com/group/Google-Desktop-Developer">Developer Forum</a><br>
+&nbsp;&nbsp;
+<a href='/authors?hl=en'>Hall of Fame</a><br>
+&nbsp;&nbsp;
+<a href='/ambassadors?hl=en'>Ambassadors</a> <br>
+<br>
+<br>
+<br>
+<img src="/images/rss_small.gif" alt="RSS Feed for Latest Gadgets">
+<a href="/feeds/gadgets.xml?hl=en&amp;type=rss" type="application/rss+xml">Latest Gadgets</a>
+<br>
+<br>
+<br>
+<br></font></p></td>
+<td id="dots" width="10"></td></td>
+<td><table><tr style="height:10px;"></tr>
+<tr id="gadgetDetails"><td id="gadgetImage" valign="top" align="center"><img alt="Virtual Flower Pot" src="/plugins/images/tulip_large.gif" class="screenshot-image"></td>
+<td id="gadgetDetails" valign="top"><h3>Virtual Flower Pot</h3>
+Have something beautiful and alive right on your desktop.
+<br>
+<p>
+<a href="http://groups.google.com/group/Google-Desktop-Plugin-Flowers">Discuss this gadget</a></p>
+<table cellpadding="2" cellspacing="2"><tr><td><strong>Author:</strong></td>
+<td>Google</td></tr>
+<tr><td><strong>Size:</strong></td>
+<td>161KB</td></tr>
+<tr><td><strong>Version:</strong></td>
+<td>1.0.0.0</td></tr>
+<tr><td><strong>Date:</strong></td>
+<td>May 10, 2006</td></tr></table>
+<p><b>This gadget requires  <a href="http://desktop.google.com?hl=en"> Google Desktop  4  or above. </a></b></p>
+<div style="width: 250;"><table cellpadding="0" cellspacing="0"><tr><td class="button-left"></td>
+<td class="button-center"><a href="/url?id=flower">Download gadget</a></td>
+<td class="button-right"></td></tr></table></div>
+<br>
+<a href="http://www.google.com/ig/add?moduleurl=http://desktop.google.com/gow/gadgets/flower.xml">Add this gadget to your iGoogle page</a></td></tr>
+<tr id="reviewsAndComments"><td valign="top" colspan="2"><script type="text/javascript" src="/gadgetComments.js">
+</script>
+<div style="min-width: 600; max-width: 800"><table width="100%"><tr><td><span id="commentsSpan" class="linkoff">Reviews</span></td>
+<td align="right">
+
+<a href="http://desktop.google.com/plugins/i/flower.html?start=20">Next &raquo;</a></td></tr></table>
+<hr size="1" noshade>
+<a href="http://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/flower.html">Sign in</a> to write a comment
+<br><br>
+<div id="comments">
+
+<table id="review 1" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse1" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=uIW4d1bLqz5RgQX8ySVQfyRUEyHdkzk_UgAAACnSFIIFldgmpJDeIw5gjyrGy4DMO2uhVe2dU36pUNDnk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmahNUEHjQIyXSedcTiETZh3KVonsBO1G2MbH-h3CJUuyWA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I think they should make more but with different flowers. It&#39;s neat how they took nature and put it on a desktop!
+<br>
+<br> <table id="review 2" cellpadding="0" cellspacing="0"><tr>
+<td><b>Classless</b>
+&nbsp;</td>
+<td><div id="abuse2" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=9iMysbDuce0BpccVPdZ4xYMvmczdkzk_UgAAAKiQLmg0EiBsEOWPCHwSUvu2snJV0PZ-LzXTCGhGbl9gk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmag0wZesbk3ed9rDA0myLpiQEakFIuEc4kXjHPtvc94kDA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+love to watch how they grow. beautiful flowers, thanx Google :) 
+<br>
+<br> <table id="review 3" cellpadding="0" cellspacing="0"><tr>
+<td><b>&#24681;&#24800;</b>
+&nbsp;</td>
+<td><div id="abuse3" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=FLfMblP_76LFR1YO8TsDs-pNk0Pdkzk_UgAAACnSFIIFldgmpJDeIw5gjyoftX9WS2PHYX7dd8F8Bz9pk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmageLc0oxpL_S9Kg_YLtpUJrGbepZxCO9M3XUqtdmQ9F3A&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#22914;&#26524;&#21487;&#20197;&#20859;&#21035;&#30340;&#33457;&#23601;&#22909;&#20102;&#12290;&#12290;&#12290;
+<br>
+<br> <table id="review 4" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>abbie</b>
+&nbsp;</td>
+<td><div id="abuse4" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=r21wqVQkp5Olx35fJZvCMaugS7Xdkzk_UgAAAPwKvpra1-64rU19tESh6QTY47t_FSoC8Ve9qU09BnLjk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmah18exmZUlog9i0aS2nOnbXB3AnH3ba1bExwhA3ou6tsQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+it like amazin i luv it x
+<br>
+<br> <table id="review 5" cellpadding="0" cellspacing="0"><tr>
+<td><b>Summer</b>
+&nbsp;</td>
+<td><div id="abuse5" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=WqGInH4malgmCJXZT0K1ibhcKZjdkzk_UgAAAKmxl-h-SBY4m9r8OaURH5sAp8YyGZveknFjSQFr2W-Bk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmajm1MCYwW6evXJRCLEYiTA0uHVhuoEQMBO79LlIUoHAvQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+so cool!I thought it was cool by the color . it is beautiful . that is why I like it . thank you.
+<br>
+<br> <table id="review 6" cellpadding="0" cellspacing="0"><tr>
+<td><b></b>
+&nbsp;</td>
+<td><div id="abuse6" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=hROysig1DYNa2HSv51-rJrOmjL_dkzk_UgAAAPwKvpra1-64rU19tESh6QTAP_b_Q6rxlIfk9rZk2oEok2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagZPGNsJnqf1x8wuuWOu4sVjX14yrRX9M7qi-ewWy24yg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Nice touch in keeping with the Holiday of Christmas..Have a Merry All!
+<br>
+<br> <table id="review 7" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>MarBoy2314</b>
+&nbsp;</td>
+<td><div id="abuse7" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=ITNPrtjI3V_zlGvwA9pMSLVm_uPdkzk_UQAAAGm_7603hlXO2c7FKzwOSFsQan2O0MddBr3kXM9F_V-edMNA4Gj4aAEtwM81PGOiQqvEXjnNgJGbm8MLxB8_h2-YMfjqYDlhAyQusF4JKqRH__kd6z6dXFGcSjnor203nQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+pretty, nice flower for lazy people.
+<br>
+<br> <table id="review 8" cellpadding="0" cellspacing="0"><tr>
+<td><b>mary</b>
+&nbsp;</td>
+<td><div id="abuse8" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=-lDm4Emik-ArR1LeImpehVfmvI7dkzk_UgAAAEIeuPk8YnFKjwHZLJkyZxcwAnmQF_WCj4zHDBoYQrbRk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmahcezmEE46rP7tBxQ_dS497EakFIuEc4kXjHPtvc94kDA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Finally someone thought of incorporating nature into the desktop...
+It&#39;s a Beautiful idea; so simple, yet it brings life into the desktop. The color combo. of red &amp; green has a special effect on the viewer - invigorating &amp; refreshing. It makes an otherwise morose pc-user feel alive...  
+And I hadn&#39;t even read what you&#39;ll wrote (ie: Have something beautiful &amp; alive ... desktop.) So I guess it really does the job!
+Wish you could have diff. types of flowers &amp; maybe a Virtual Aquarium...?
+A Really Huge Thank You! to all those who thought of this idea &amp; worked to materialize it.
+Congrats!
+God Bless!
+
+<br>
+<br> <table id="review 9" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse9" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=VDbQrA2wG9Do8s0mlqgIqbn8Vtrdkzk_UgAAALH0D_uX7cjWl4XGUyKVpn2YSACC7Fo1a0D8EodgDSfnk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmahu78vZmn4jayWxAW3zBuse-yCxMzEmJdr3XtU2xVEf0g&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#24314;&#35696;&#65306;&#21487;&#20197;&#25552;&#20379;&#22810;&#31278;&#19981;&#21516;&#36984;&#25799;&#30340;&#33457;&#21321;&#25110;&#26893;&#29289;&#31278;&#39006;&#20351;&#29992;
+<br>
+<br> <table id="review 10" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse10" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=V3s-RQWa3Xvh6k0X9mAAi1dG0qPdkzk_UgAAADByBjHmSTQl5Er2xPnD0hShCSfWD3HlX_BkMxOcmtibk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaj9kiF_A4_s2bnUO5e3WhDuQ0vmHehuOaRIbNCNKMreRQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+So beautiful flowers! I really liked this gadget. But why tulips
+are six?
+<br>
+<br> <table id="review 11" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse11" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=zZWAdVVSaG9QOrdlg4WLaeG_N0ndkzk_UgAAAFn_SY6VxzqAHus-iV1unpa6nIEL_SzzCnUW09kv8Bzmk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagQhNWwOc4bQQ3oumSXc-QJTvTtO4VMy87LcKUDq_Deyg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+wery good 
+<br>
+<br> <table id="review 12" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>Donna</b>
+&nbsp;</td>
+<td><div id="abuse12" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=aEqwMjpzO_ZdWoiWdwQa2-NWFTfdkzk_UgAAAHVwuwtk0xiX4NFL22TZTJtvQ8k3s_8k8cvulmHxuYhFk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmag3jfjQnKjlafrtAjfz4wIbZBt6r18snXEQ-kItQEWxmw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+awesome effects, ty for this.... please create more soon..love Google  and all apps  DonnaD
+<br>
+<br> <table id="review 13" cellpadding="0" cellspacing="0"><tr>
+<td><b>&#1040;&#1085;&#1076;&#1088;&#1077;&#1081;</b>
+&nbsp;</td>
+<td><div id="abuse13" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=CBMd3ZCj44Fm7Ld4Si6yUsL_KNndkzk_UgAAAAcjft8iChUtd_f2XAhpLcrSwY7xFrkDx484fJNn7Zldk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmagv-4fE1YwVMflA6BmCUi1Sz0k7sqgIvbOAYYV6Jvn0RA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#1047;&#1072;&#1077;&#1073;&#1086;&#1082;)))
+<br>
+<br> <table id="review 14" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>Valentin</b>
+&nbsp;</td>
+<td><div id="abuse14" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=mBVyjfazcAC1b0ThmWfeX0riJb7dkzk_UgAAAMxdVxoX6pu1FzOop8PhDF_qdho270hBomjjdh8DWIM8k2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagfVZcphd_H1GWtefqPtzj1ijCzG-Py1Jauw8rDlcyGrg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#1047;&#1072;&#1073;&#1072;&#1074;&#1085;&#1086; ))
+<br>
+<br> <table id="review 15" cellpadding="0" cellspacing="0"><tr>
+<td><b>&#1051;&#1077;&#1085;&#1072;</b>
+&nbsp;</td>
+<td><div id="abuse15" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=pJvTE9KENtajAQxTV8HB01MmwFbdkzk_UgAAALB3huRIFem81kRXB8QiVV8oThHWQGD4GvW9bdlUbNvsk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmahweVyjHxCqVMZQnszo7dD7xHcxUXSjDB9qwmGyzdajLw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#1054;&#1095;&#1077;&#1085;&#1100; &#1078;&#1080;&#1074;&#1080;&#1085;&#1100;&#1082;&#1086;
+<br>
+<br> <table id="review 16" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse16" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=DMxFYK0fkmtT4G3dLCktz0SOJyvdkzk_UgAAAOAyuFNT2P6KAo0ccYSJq1FJQlBio8HWtfI7y7zEkleAk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmagu4LW5p58QBMq0lARbaWjvB3AnH3ba1bExwhA3ou6tsQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+ENGLISH
+Very cool gadget. ;
+&#1056;&#1059;&#1057;&#1057;&#1050;&#1048;&#1049; / RUSSIAN
+&#1054;&#1095;&#1077;&#1085;&#1100; &#1093;&#1086;&#1088;&#1086;&#1096;&#1080;&#1081; &#1075;&#1072;&#1076;&#1078;&#1077;&#1090;
+<br>
+<br> <table id="review 17" cellpadding="0" cellspacing="0"><tr>
+<td><b>ZOKHUMA</b>
+&nbsp;</td>
+<td><div id="abuse17" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=IlBmixDH98iUBobCjjKuMJUHpFbdkzk_UgAAAJh402dLYBjdVwP8PYjBFt6Q_dhQMX4_0VZcNPDIZSDQk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmag3kWRD3ZHVBGWjVCk6HrBDq6W2avcKW8dyDvUfo7CXqg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Fantastic flowers.Create more with different hues.
+<br>
+<br> <table id="review 18" cellpadding="0" cellspacing="0"><tr>
+<td><b>sar</b>
+&nbsp;</td>
+<td><div id="abuse18" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=M0_dnSdDYp4Ray0lstDz55_5XXXdkzk_UgAAANikjPRBRdP3Ln2R1TjG54YrN_M7V4GzUXshbmSxwXQfk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmai7q3Z2YJApvJ0pBwksNZHOVnd43VYJVijomRKr2A72Lg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+nice flower, wish u&#39;l have more like this
+<br>
+<br> <table id="review 19" cellpadding="0" cellspacing="0"><tr>
+<td><b>Justin</b>
+&nbsp;</td>
+<td><div id="abuse19" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=6lFURIWnRTuFKyaWmaDdJj4g_Brdkzk_UQAAAGysOlrAeOwhqxVPYNpk-dfsH-1oaPe16fki66seZmRRdMNA4Gj4aAEtwM81PGOiQqvEXjnNgJGbm8MLxB8_h2_YNCvw2SMooaQm_XVyRsTCgwBp_5PbgYET2PO446K6pQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Tite
+<br>
+<br> <table id="review 20" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse20" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=2TjK1xIJrN-SV4HjuSSu0wVLQF_dkzk_UgAAANikjPRBRdP3Ln2R1TjG54ZhNq7wLjYhr93KvZbTyZPxk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmahOhniPkn0L7OeKGIEJJ_o1sSRIVtQYhuS2B16pOAuVHQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+coooool....
+<br>
+<br>
+<div align="right">
+
+<a href="http://desktop.google.com/plugins/i/flower.html?start=20">Next &raquo;</a></div></div>
+<form action="/submitcomment" method="POST" name="commentForm" id="commentForm"><div id="writeComment" style="display:none"><table><tr><td valign="top">Rate gadget:</td>
+<td><table cellspacing="0" cellpadding="0"><tr><td><img alt="" src="/images/rateStarsLeft.gif"></td>
+<td><img alt="" id="star1" src="/images/rateStarOff.gif" onclick="setStars(1)" onmouseover="showStars(1)" onmouseout="showStars()"></td>
+<td><img alt="" id="star2" src="/images/rateStarOff.gif" onclick="setStars(2)" onmouseover="showStars(2)" onmouseout="showStars()"></td>
+<td><img alt="" id="star3" src="/images/rateStarOff.gif" onclick="setStars(3)" onmouseover="showStars(3)" onmouseout="showStars()"></td>
+<td><img alt="" id="star4" src="/images/rateStarOff.gif" onclick="setStars(4)" onmouseover="showStars(4)" onmouseout="showStars()"></td>
+<td><img alt="" id="star5" src="/images/rateStarOff.gif" onclick="setStars(5)" onmouseover="showStars(5)" onmouseout="showStars()"></td>
+<td><img alt="" src="/images/rateStarsRight.gif"></td></tr></table></td></tr>
+<tr><td valign="top">Your name:</td>
+<td><b></b>
+&nbsp;
+<input type="checkbox" name="anonymous" value="true" id="anonymous">
+Anonymous</td></tr>
+<tr><td valign="top">Comments:</td>
+<td><textarea name="reviewText" rows="4" cols="25" id="reviewText" style="border: 1px solid #bbcced"></textarea></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="rating" value="0" id="rating" style="display:none;">
+<input type="hidden" name="pluginId" value="flower" id="pluginId">
+<input type="submit" value="Post Comment">
+<input type="reset" value="Discard" onclick="showComments()"></td></tr>
+<tr style="height:20px;"></tr></table></div></form>
+<div id="abuseLinkDiv"></div></div></td></tr></table></td>
+<td id="recommendations"><b>You might also like...</b>
+<hr noshade size="1">
+<table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/fiance_olga.html?hl=en"><img alt="Girls of Fiance.com" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/fiance_olga_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/fiance_olga.html?hl=en">Girls of Fiance.com</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=fiance_olga">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/lovequotes.html?hl=en"><img alt="Love Quotes" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/love_quotes_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/lovequotes.html?hl=en">Love Quotes</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=lovequotes">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/winshortcut_433.html?hl=en"><img alt="Windows Shortcut" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/winshortcut_433_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/winshortcut_433.html?hl=en">Windows Shortcut</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=winshortcut_433">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/cwc_cricket_videos.html?hl=en"><img alt="Cricket Videos" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/cricket_videos_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/cwc_cricket_videos.html?hl=en">Cricket Videos</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=cwc_cricket_videos">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/romantiqua_6684.html?hl=en"><img alt="Romantiqua.com" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/romantiqua_6684_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/romantiqua_6684.html?hl=en">Romantiqua.com</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=romantiqua_6684">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/atheistquotes_codena.html?hl=en"><img alt="Atheist Quotes" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/atheistquotes_codena_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/atheistquotes_codena.html?hl=en">Atheist Quotes</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=atheistquotes_codena">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table>
+<br>
+<br></td></tr>
+<tr><td colspan="5" align="center" id="footer">&copy;  2010  Google
+-
+<a href="/privacypolicy.html">Privacy Policy</a>
+-
+<a href="http://www.google.com/accounts/TOS?hl=en">Terms of Service</a>
+-
+<a href="/copyrights.html">Copyright Notices</a></td></tr></table></body></html>

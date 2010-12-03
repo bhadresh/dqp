@@ -1,0 +1,2257 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Google &#36130;&#32463;�G�ѥ�&#25253;ɲ�B&#36164;&#35759;�B&#36135;&#24065;&#27719;�v��</title>
+<meta name="Description" content="�ϥ� Google &#36130;&#32463;&#33719;��&#23454;&#26102;�Ѳ�&#25253;ɲ�M&#22270;��B&#36130;&#32463;�s&#38395;�H��&#36135;&#24065;&#27719;�v�A�Ϊ̸�&#36394;�z����&#36164;&#32452;�X�C"><meta name="robots" content="noindex">
+<link rel="stylesheet" type="text/css" href="/finance/s/VMg3L3CAZ00/styles/finance_cn.css">
+<style>#gbar,#guser{font-size:13px;padding-right:8px;padding-top:4px !important}#gbar{padding-left:8px;float:left;height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}#gbs,.gbm{background:#fff;left:0;position:absolute;text-align:left;visibility:hidden;z-index:1000}.gbm{border:1px solid;border-color:#c9d7f1 #36c #36c #a2bae7;z-index:1001}.gb1{margin-right:.5em}.gb1,.gb3{zoom:1}.gb2{display:block;padding:.2em .5em}.gb2,.gb3{text-decoration:none;border-bottom:none}a.gb1,a.gb2,a.gb3,a.gb4{color:#00c !important}.gbi .gb3,.gbi .gb2,.gbi .gb4{color:#dd8e27 !important}.gbf .gb3,.gbf .gb2,.gbf .gb4{color:#900 !important}a.gb2:hover{background:#36c;color:#fff !important}div#gbar{padding-left:0}</style>
+<script>(function(){function i(a,b,d){var c="on"+b;if(a.addEventListener)a.addEventListener(b,d,false);else if(a.attachEvent)a.attachEvent(c,d);else{var f=a[c];a[c]=function(){var g=f.apply(this,arguments),e=d.apply(this,arguments);return g==undefined?e:e==undefined?g:e&&g}}};var j,k,l,m=window.gbar={},n={};function _tvs(a,b){return a||b}function _tvn(a,b){var d=parseInt(a,10);return isNaN(d)?b:d}function _tvf(a,b){var d=parseFloat(a);return isNaN(d)?b:d}function _tvb(a,b){return a=="true"?true:a=="false"?false:b}var o,p,q;function r(a){var b=window.b&&(document.forms[0].f||"").value;if(b)a.href=a.href.replace(/([?&])q=[^&]*|$/,function(d,c){return(c||"&")+"q="+encodeURIComponent(b)})}l=r;
+function s(a,b,d,c,f,g){var e=document.getElementById(a);if(e){var h=e.style;h.left=c?"auto":b+"px";h.right=c?b+"px":"auto";h.top=d+"px";h.visibility=p?"hidden":"visible";if(f&&g){h.width=f+"px";h.height=g+"px"}else{s(o,b,d,c,e.offsetWidth,e.offsetHeight);p=p?"":a}}}
+var w=function(a){a=a||window.event;var b,d=a.target||a.srcElement;a.cancelBubble=true;if(o!=null)t(d);else{b=document.createElement(Array.every||window.createPopup?"iframe":"div");b.frameBorder="0";o=b.id="gbs";b.src="javascript:''";d.parentNode.appendChild(b);i(document,"click",u);t(d);n.a&&n.a(function(){var c=document.getElementById("gbli");if(c){var f=c.parentNode;v(f,c);var g=c.e;f.removeChild(c);n.g(f,g);b.style.height=f.offsetHeight+"px"}})}};
+function t(a){var b=0;if(a.className!="gb3")a=a.parentNode;var d=a.getAttribute("aria-owns")||"gbi",c=a.offsetWidth,f=a.offsetTop>20?46:24;if(document.getElementById("tphdr"))f-=3;var g=false;do b+=a.offsetLeft||0;while(a=a.offsetParent);a=(document.documentElement.clientWidth||document.body.clientWidth)-b-c;var e;c=document.body;var h=document.defaultView;if(h&&h.getComputedStyle){if(c=h.getComputedStyle(c,""))e=c.direction}else e=c.currentStyle?c.currentStyle.direction:c.style.direction;e=e=="rtl";
+if(d=="gbi"){c=document.getElementById("gbi");v(c,document.getElementById("gbli")||c.firstChild);if(e){b=a;g=true}}else if(!e){b=a;g=true}p!=d&&u();s(d,b,f,g)}var u=function(){p&&s(p,0,0)};function v(a,b){for(var d,c=window.d;c&&(d=c.pop());){var f=a,g=d,e=b;if(!q){q="gb2";if(n.a){var h=n.c(f);if(h)q=h}}f.insertBefore(g,e).className=q}}
+var x=function(a,b,d){if((b=document.getElementById(b))&&a){a.className="gb4";var c=document.createElement("span");c.appendChild(a);c.appendChild(document.createTextNode(" | "));c.id=d;b.appendChild(c)}};m.qs=l;m.setContinueCb=k;m.pc=j;m.tg=w;m.close=u;m.addLink=x;})();
+</script>
+<script>(function(){function a(c){this.t={};this.tick=function(e,f,b){b=b?b:(new Date).getTime();this.t[e]=[b,f]};this.tick("start",null,c)}var d=new a;window.jstiming={Timer:a,load:d};try{var g=null;if(window.chrome&&window.chrome.csi)g=Math.floor(window.chrome.csi().pageT);if(g==null)if(window.gtbExternal)g=window.gtbExternal.pageT();if(g==null)if(window.external)g=window.external.pageT;if(g)window.jstiming.pt=g}catch(h){};function i(c){window.jstiming&&window.jstiming.load.tick(c)}window._tck=i;})();
+</script>
+<img src="/finance/chart?cht=c&amp;q=SHA:000001,SHE:399001&amp;chlc=rg&amp;tlf=24h" alt="" width=1 height=1 class=hide>
+<img src="/finance/images/sp10.png" alt="" width=1 height=1 class=hide>
+<link rel="stylesheet" type="text/css" href="/finance/s/VMg3L3CAZ00/styles/finance_cn.css">
+<style>#gbar,#guser{font-size:13px;padding-right:8px;padding-top:4px !important}#gbar{padding-left:8px;float:left;height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}#gbs,.gbm{background:#fff;left:0;position:absolute;text-align:left;visibility:hidden;z-index:1000}.gbm{border:1px solid;border-color:#c9d7f1 #36c #36c #a2bae7;z-index:1001}.gb1{margin-right:.5em}.gb1,.gb3{zoom:1}.gb2{display:block;padding:.2em .5em}.gb2,.gb3{text-decoration:none;border-bottom:none}a.gb1,a.gb2,a.gb3,a.gb4{color:#00c !important}.gbi .gb3,.gbi .gb2,.gbi .gb4{color:#dd8e27 !important}.gbf .gb3,.gbf .gb2,.gbf .gb4{color:#900 !important}a.gb2:hover{background:#36c;color:#fff !important}div#gbar{padding-left:0}</style>
+<meta name="google-site-verification"
+      content="tcxs_dzLCgnsea-GwkuYJd8tjHgN3MFwDnJQO9zFep8" />
+</head> <a id=axs_link href="?axs=1" tabindex=1 style="position:absolute;left:-1000em;display:none;"> &#28857;&#20987;��&#22788;�i&#33719;�o ARIA �W&#24378;�� Google &#36130;&#32463;�C</a>
+<body>
+<script>if(document.body.offsetWidth>990)document.body.className='wide';else document.body.className='';</script>
+<div id=body-wrapper>
+<div class=g-doc>
+<div id=gbar><nobr><a href="http://www.google.com.hk/webhp?hl=zh-cn&tab=ew" onclick=gbar.qs(this) class=gb1>�I&#39029;</a> <a href="http://www.google.com.hk/imghp?hl=zh-cn&tab=ei" onclick=gbar.qs(this) class=gb1>&#22270;��</a> <a href="http://www.google.com.hk/videohp?hl=zh-cn&tab=ev" onclick=gbar.qs(this) class=gb1>&#35270;&#39057;</a> <a href="http://ditu.google.cn/maps?hl=zh-cn&tab=el" onclick=gbar.qs(this) class=gb1>�a&#22270;</a> <a href="http://news.google.com.hk/nwshp?hl=zh-cn&tab=en" onclick=gbar.qs(this) class=gb1>�s&#38395;</a> <a href="http://www.google.cn/prdhp?hl=zh-cn&tab=ef" onclick=gbar.qs(this) class=gb1>&#36141;��</a> <b class=gb1>&#36130;&#32463;</b> <a href="http://mail.google.com/mail/?hl=zh-cn&tab=em" class=gb1>Gmail</a> <a href="http://www.google.com.hk/intl/zh-CN/options/" onclick="this.blur();gbar.tg(event);return !1" aria-haspopup=true class=gb3><u>��h</u> <small>&#9660;</small></a><div class=gbm id=gbi><a href="http://translate.google.cn/?hl=zh-cn&tab=eT" onclick=gbar.qs(this) class=gb2>½&#35793;</a> <a href="http://wenda.google.com.hk/wenda/?hl=zh-cn&tab=e2" onclick=gbar.qs(this) class=gb2>&#38382;��</a> <a href="http://blogsearch.google.com.hk/?hl=zh-cn&tab=eb" onclick=gbar.qs(this) class=gb2>�ի�</a> <a href="http://www.google.com.hk/realtime?hl=zh-cn&tab=eY" onclick=gbar.qs(this) class=gb2>&#21160;&#24577;��s</a> <a href="http://www.265.com/?hl=zh-cn&tab=eA" onclick=gbar.qs(this) class=gb2>265&#23548;��</a> <div class=gb2><div class=gbd></div></div><a href="http://www.google.com/calendar/render?hl=zh-cn&tab=ec" class=gb2>��&#21382;</a> <a href="http://picasaweb.google.com.hk/home?hl=zh-cn&tab=eq" onclick=gbar.qs(this) class=gb2>�Ӥ�</a> <a href="http://docs.google.com/?hl=zh-cn&tab=eo" class=gb2>��&#26723;</a> <a href="http://tools.google.com/pinyin/?hl=zh-cn&tab=eI" class=gb2>&#36755;�J�k</a> <a href="http://toolbar.google.com/?hl=zh-cn&tab=eO" class=gb2>�u��&#26639;</a> <a href="http://pack.google.cn/?hl=zh-cn&tab=eP" class=gb2>&#36719;���&#36873;</a> <div class=gb2><div class=gbd></div></div><a href="http://www.google.com.hk/intl/zh-CN/options/" class=gb2>��h &raquo;</a> </div></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.com.hk/support/finance?hl=zh-CN" class=gb4>&#24110;�U</a> | <a href="https://www.google.com/accounts/Login?hl=zh-cn&continue=http://www.google.com.hk/finance%3Fgl%3Dcn%26amp%253Bhl%3Dzh-CN&service=finance" class=gb4>�n&#24405;</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div>
+<script>window.locale={hl:'zh-CN',gl:'cn',locale:'zh-Hans-CN'};</script>
+<div class="g-section g-tpl-75-25 g-split search-header">
+<div class="g-unit g-first">
+<div class=sfe-logo>
+<a  href="/finance?&amp;gl=cn">
+<img src="/finance/s/48RbcGaR5VU/images/logo_cn.gif" alt="Google &#36130;&#32463;">
+</a>
+</div>
+<div class=sfe-search>
+<form method=GET action="/finance" name=f>
+<input  name=q id=searchbox autocomplete=off size=40 maxlength=2048
+             type=text tabindex=1 title="�Ѳ��j��&#36755;�J"
+             value="">
+<input type=submit value="�d&#35810;" target_blank><input type=hidden name=meta value=gl&#61;cn>
+<br>
+<span class="searchExample">�Ҧp��601988���B��zgyh���Ρ���&#22269;&#38134;�桨</span>
+</form>
+</div>
+</div>
+<div class="g-unit promo">
+</div>
+</div>
+<div class="g-section g-tpl-nav-main">
+<div class="g-unit g-first" id="left-nav">
+<ul id=navmenu>
+<li class=nav-selected>��&#22330;
+<li class=nav-item>
+<a id="nav-n" 
+  href="/finance/market_news?gl=cn">
+<div>�s&#38395;</div></a>
+<li class=nav-item>
+<a href="https://www.google.com/accounts/ServiceLogin?hl=zh-CN&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com.hk%3A80%2Ffinance%2Fportfolio%3Faction%3Dview%26gl%3Dcn" target=_blank>
+<div>��&#36164;&#32452;�X</div></a>
+<li class=nav-item>
+<a id="nav-s" 
+  href="/finance/stockscreener?gl=cn">
+<div>�Ѳ�&#31579;&#36873;��</div></a>
+</ul>
+<div id=rq-box>
+<h4>�̪�d&#35810;</h4>
+<div id=rq-toggle></div>
+<div id=rq-table></div> <a id=rq-create href="https://www.google.com/accounts/ServiceLogin?hl=zh-CN&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com.hk%2Ffinance%3Fgl%3Dcn%26amp%3Bhl%3Dzh-CN" target=_blank>�n&#24405;�}&#21019;�ا�&#36164;&#32452;�X</a> </div>
+<script>
+setTimeout(
+function() {try{google.finance.renderRecentQuotes();}catch(e){}}, 200);
+</script>
+<form id=new_pform_nav
+      action=/finance/portfolio/create?hash=&amp;gl&#61;cn method=post>
+<input id=new_pform_name type=hidden name=pname />
+<input id=new_pform_cids type=hidden name=pcids />
+<input  id=is_logged_in type=hidden name=is_logged_in
+           value=0 />
+</form>
+<div id=ra-target></div>
+</div>
+<div class="g-unit sfe-break-left" id="rt-content">
+<!-- a -->
+<div class="g-section sfe-break-bottom-13">
+<div class="hdg top"><div class="g-section g-tpl-50-50 g-split">
+<div class="g-unit g-first"><h3>��&#22330;��&#20917;</h3></div>
+<div class="g-unit">12��1�� - ��&#30424; </div>
+</div></div>
+</div>
+<div id=reorder class="g-section g-tpl-right-1 id-reorder">
+<div class="g-unit g-first">
+<div class="g-c">
+<div>
+</div>
+<div class=rgt-reorder>
+<div id=portfolios
+>
+<div id=home-portfolios class=id-home-portfolios>
+</div>
+</div><script>_tck('aft');</script>
+<div id=markets
+>
+<div id=markets>
+<div class=hdg><div class=float><h3>���y��&#22330;</h3></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class=sfe-section>
+<table class=quotes width=100%><tbody><tr>
+<td class=symbol><a href="/finance?q=INDEXSP:.INX&amp;gl=cn" target=_blank>&#26631;�㴶&#23572;��&#25968;
+<td class=price><span id="ref_626307_l">1,206.07</span>
+<td class="change"><span class=chr id="ref_626307_c">+25.52</span> <span class=chr id="ref_626307_cp">(2.16%)</span><tr>
+<td class=symbol><a href="/finance?q=INDEXNIKKEI:.N225&amp;gl=cn" target=_blank>��&#32463; 225 ��&#25968;
+<td class=price><span id="ref_15513676_l">9,988.05</span>
+<td class="change"><span class=chb id="ref_15513676_c">0.00</span> <span class=chb id="ref_15513676_cp">(0.00%)</span><tr>
+<td class=symbol><a href="/finance?q=TPE:.TWII&amp;gl=cn" target=_blank>�x&#28286;�[&#26435;��&#25968;
+<td class=price><span id="ref_9947405_l">8,520.11</span>
+<td class="change"><span class=chb id="ref_9947405_c">0.00</span> <span class=chb id="ref_9947405_cp">(0.00%)</span><tr>
+<td class=symbol><a href="/finance?q=INDEXFTSE:.FTSE&amp;gl=cn" target=_blank>�I&#26102;100��&#25968;
+<td class=price><span id="ref_12590587_l">5,642.50</span>
+<td class="change"><span class=chr id="ref_12590587_c">+114.23</span> <span class=chr id="ref_12590587_cp">(2.07%)</span><tr>
+<td class=symbol><a href="/finance?q=INDEXDJSTOXX:.STOXX50E&amp;gl=cn" target=_blank>�D&#29756;��&#27431;��&#21306;�����J 50 ��&#25968;
+<td class=price><span id="ref_7354851_l">2,721.87</span>
+<td class="change"><span class=chr id="ref_7354851_c">+70.88</span> <span class=chr id="ref_7354851_cp">(2.67%)</span><tr>
+<td class=symbol><a href="/finance?q=INDEXEURO:.FCHI&amp;gl=cn" target=_blank>�k&#22269; CAC 40 ��&#25968;
+<td class=price><span id="ref_12156165_l">3,669.29</span>
+<td class="change"><span class=chr id="ref_12156165_c">+58.85</span> <span class=chr id="ref_12156165_cp">(1.63%)</span><tr>
+<td class=symbol><a href="/finance?q=TSE:.GSPTSE&amp;gl=cn" target=_blank>S&amp;P/TSX &#32508;�X��&#25968;
+<td class=price><span id="ref_9291235_l">13,148.35</span>
+<td class="change"><span class=chr id="ref_9291235_c">+195.47</span> <span class=chr id="ref_9291235_cp">(1.51%)</span><tr>
+<td class=symbol><a href="/finance?q=INDEXASX:.AXJO&amp;gl=cn" target=_blank>S&amp;P/ASX 200 ��&#25968;
+<td class=price><span id="ref_14240693_l">4,660.10</span>
+<td class="change"><span class=chr id="ref_14240693_c">+73.50</span> <span class=chr id="ref_14240693_cp">(1.60%)</span><tr>
+<td class=symbol><a href="/finance?q=INDEXBOM:.BSESN&amp;gl=cn" target=_blank>�s&#20080;�ӷP��&#25968;
+<td class=price><span id="ref_15173681_l">19,850.00</span>
+<td class="change"><span class=chr id="ref_15173681_c">+328.75</span> <span class=chr id="ref_15173681_cp">(1.68%)</span>
+</table>
+</div>
+</div>
+</div>
+<div id=trend
+>
+<div id=trends class="hdg goog-tab-bar id-trends">
+<div class=goog-tab-disabled><h3>&#36235;&#21183;</h3></div>
+<div 
+  class="goog-tab goog-tab-selected"
+><a id="l_tm_zeitgeist" class=t><b class=t><b class=t>&#28909;&#38376;</b></b></a></div>
+<div 
+  class=goog-tab
+><a id="l_tm_price" class=t><b class=t><b class=t>ɲ��</b></b></a></div>
+<div 
+  class=goog-tab
+><a 
+          id="l_tm_mcap" class=t><b class=t><b class=t>����</b></b></a></div>
+<div 
+  class=goog-tab
+><a id="l_tm_volume" class=t><b class=t><b class=t>����q</b></b></a></div>
+<div class="gf-reorder-btn SP_menu_button hide"></div>
+</div>
+<div class=goog-tab-bar-clear></div>
+<div id=topmovers class="id-topmovers sfe-section-major"><div class=g-wrap>
+<div  id=tm-exchanges class="id-tm-exchanges hide">
+<a class=ac id="l_exch_SHA-a" class=id-l_exch_SHA-a>&#27818;A</a>
+<span class=hidens>|
+<a class=nac id="l_exch_SHA-b" class=id-l_exch_SHA-b>&#27818;B</a></span>
+<span class=hidens>|
+<a class=nac id="l_exch_SHE-a" class=id-l_exch_SHE-a>�`A</a></span>
+<span class=hidens>|
+<a class=nac id="l_exch_SHE-b" class=id-l_exch_SHE-b>�`B</a></span>
+<span class=hidens>|
+<a class=nac id="l_exch_SHE-q" class=id-l_exch_SHE-q>���p�O</a></span></div>
+<div 
+  style="display:none"
+ id="tm_price_0" class="tm_category id-tm_price_0">
+<table cellpadding=3>
+<tr class=colHeader>
+<td class="title chr">&#28072;�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:600744&amp;gl=cn" title="600744" target=_blank>600744</a>
+<td class=name>
+<a  href="/finance?q=SHA:600744&amp;gl=cn" target=_blank>&#21326;&#38134;&#30005;�O</a>
+<td class="change chr">10.09%
+<td class=mktCap>36.51&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:600719&amp;gl=cn" title="600719" target=_blank>600719</a>
+<td class=name>
+<a  href="/finance?q=SHA:600719&amp;gl=cn" target=_blank>�j&#36830;&#28909;&#30005;</a>
+<td class="change chr">10.03%
+<td class=mktCap>26.40&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:600136&amp;gl=cn" title="600136" target=_blank>600136</a>
+<td class=name>
+<a  href="/finance?q=SHA:600136&amp;gl=cn" target=_blank>�D�ժѥ�</a>
+<td class="change chr">10.01%
+<td class=mktCap>11.48&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:600530&amp;gl=cn" title="600530" target=_blank>600530</a>
+<td class=name>
+<a  href="/finance?q=SHA:600530&amp;gl=cn" target=_blank>��j����</a>
+<td class="change chr">10.01%
+<td class=mktCap>34.98&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:600378&amp;gl=cn" title="600378" target=_blank>600378</a>
+<td class=name>
+<a  href="/finance?q=SHA:600378&amp;gl=cn" target=_blank>�Ѭ�ѥ�</a>
+<td class="change chr">9.99%
+<td class=mktCap>47.01&#20159;
+<tr><td style="height:.7em">
+<tr class=colHeader>
+<td class="title chg">�^�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:600095&amp;gl=cn" title="600095" target=_blank>600095</a>
+<td class=name>
+<a  href="/finance?q=SHA:600095&amp;gl=cn" target=_blank>������</a>
+<td class="change chg">-10.03%
+<td class=mktCap>46.68&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:600053&amp;gl=cn" title="600053" target=_blank>600053</a>
+<td class=name>
+<a  href="/finance?q=SHA:600053&amp;gl=cn" target=_blank>�����a&#20135;</a>
+<td class="change chg">-7.16%
+<td class=mktCap>32.80&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:600110&amp;gl=cn" title="600110" target=_blank>600110</a>
+<td class=name>
+<a  href="/finance?q=SHA:600110&amp;gl=cn" target=_blank>����^&#21326;</a>
+<td class="change chg">-6.49%
+<td class=mktCap>106.06&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:600521&amp;gl=cn" title="600521" target=_blank>600521</a>
+<td class=name>
+<a  href="/finance?q=SHA:600521&amp;gl=cn" target=_blank>&#21326;��&#33647;&#19994;</a>
+<td class="change chg">-6.25%
+<td class=mktCap>82.81&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:600200&amp;gl=cn" title="600200" target=_blank>600200</a>
+<td class=name>
+<a  href="/finance?q=SHA:600200&amp;gl=cn" target=_blank>��&#33487;&#21556;��</a>
+<td class="change chg">-5.80%
+<td class=mktCap>47.59&#20159;
+<tr><td style="height:.7em">
+</table>
+<div class=dis>���]�A���ȧC�_ 10&#20159;�H��&#24065; ���q���Ѳ��C<a  href=
+  "http://www.google.com/support/finance/bin/answer.py?answer=71891&hl=zh-CN"
+ target=_blank class=secondary>�F��&#35814;��</a></div></div>
+<div 
+  style="display:none"
+ id="tm_mcap_0" class="tm_category id-tm_mcap_0">
+<table cellpadding=3>
+<tr class=colHeader>
+<td class="title chr">&#28072;�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:601398&amp;gl=cn" title="601398" target=_blank>601398</a>
+<td class=name>
+<a  href="/finance?q=SHA:601398&amp;gl=cn" target=_blank>�u��&#38134;��</a>
+<td class="change chr">2.14%
+<td class=mktCap>1.50�E&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:601939&amp;gl=cn" title="601939" target=_blank>601939</a>
+<td class=name>
+<a  href="/finance?q=SHA:601939&amp;gl=cn" target=_blank>��&#35774;&#38134;��</a>
+<td class="change chr">1.73%
+<td class=mktCap>1.18�E&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:601288&amp;gl=cn" title="601288" target=_blank>601288</a>
+<td class=name>
+<a  href="/finance?q=SHA:601288&amp;gl=cn" target=_blank>&#20892;&#19994;&#38134;��</a>
+<td class="change chr">0.77%
+<td class=mktCap>8542.09&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:600688&amp;gl=cn" title="600688" target=_blank>600688</a>
+<td class=name>
+<a  href="/finance?q=SHA:600688&amp;gl=cn" target=_blank>S�W�ۤ�</a>
+<td class="change chr">4.99%
+<td class=mktCap>636.48&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:601988&amp;gl=cn" title="601988" target=_blank>601988</a>
+<td class=name>
+<a  href="/finance?q=SHA:601988&amp;gl=cn" target=_blank>��&#22269;&#38134;��</a>
+<td class="change chr">0.31%
+<td class=mktCap>9158.52&#20159;
+<tr><td style="height:.7em">
+<tr class=colHeader>
+<td class="title chg">�^�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:601857&amp;gl=cn" title="601857" target=_blank>601857</a>
+<td class=name>
+<a  href="/finance?q=SHA:601857&amp;gl=cn" target=_blank>��&#22269;�۪o</a>
+<td class="change chg">-0.90%
+<td class=mktCap>2.01�E&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:601318&amp;gl=cn" title="601318" target=_blank>601318</a>
+<td class=name>
+<a  href="/finance?q=SHA:601318&amp;gl=cn" target=_blank>��&#22269;���w</a>
+<td class="change chg">-1.22%
+<td class=mktCap>4280.72&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:601808&amp;gl=cn" title="601808" target=_blank>601808</a>
+<td class=name>
+<a  href="/finance?q=SHA:601808&amp;gl=cn" target=_blank>�����o�A</a>
+<td class="change chg">-4.69%
+<td class=mktCap>941.77&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:600028&amp;gl=cn" title="600028" target=_blank>600028</a>
+<td class=name>
+<a  href="/finance?q=SHA:600028&amp;gl=cn" target=_blank>��&#22269;�ۤ�</a>
+<td class="change chg">-0.62%
+<td class=mktCap>7005.56&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:601628&amp;gl=cn" title="601628" target=_blank>601628</a>
+<td class=name>
+<a  href="/finance?q=SHA:601628&amp;gl=cn" target=_blank>��&#22269;�H&#23551;</a>
+<td class="change chg">-0.67%
+<td class=mktCap>6257.81&#20159;
+<tr><td style="height:.7em">
+</table>
+<div class=dis>���]�A���ȧC�_ 10&#20159;�H��&#24065; ���q���Ѳ��C<a  href=
+  "http://www.google.com/support/finance/bin/answer.py?answer=71891&hl=zh-CN"
+ target=_blank class=secondary>�F��&#35814;��</a></div></div>
+<div 
+  style="display:none"
+ id="tm_volume_0" class="tm_category id-tm_volume_0">
+<table cellpadding=3>
+<tr class=colHeader>
+<td class="title chr">&#39046;��&#20010;��<td class=volume>����q
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:600352&amp;gl=cn" title="600352" target=_blank>600352</a>
+<td class=name>
+<a  href="/finance?q=SHA:600352&amp;gl=cn" target=_blank>����&#40857;��</a>
+<td class=volume>1.40&#20159;
+<td class=mktCap>209.69&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:600110&amp;gl=cn" title="600110" target=_blank>600110</a>
+<td class=name>
+<a  href="/finance?q=SHA:600110&amp;gl=cn" target=_blank>����^&#21326;</a>
+<td class=volume>1.25&#20159;
+<td class=mktCap>106.06&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:601899&amp;gl=cn" title="601899" target=_blank>601899</a>
+<td class=name>
+<a  href="/finance?q=SHA:601899&amp;gl=cn" target=_blank>����&#30719;&#19994;</a>
+<td class=volume>1.21&#20159;
+<td class=mktCap>1217.11&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:601288&amp;gl=cn" title="601288" target=_blank>601288</a>
+<td class=name>
+<a  href="/finance?q=SHA:601288&amp;gl=cn" target=_blank>&#20892;&#19994;&#38134;��</a>
+<td class=volume>1.14&#20159;
+<td class=mktCap>8542.09&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:600330&amp;gl=cn" title="600330" target=_blank>600330</a>
+<td class=name>
+<a  href="/finance?q=SHA:600330&amp;gl=cn" target=_blank>�ѳq�ѥ�</a>
+<td class=volume>1.08&#20159;
+<td class=mktCap>104.57&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:601818&amp;gl=cn" title="601818" target=_blank>601818</a>
+<td class=name>
+<a  href="/finance?q=SHA:601818&amp;gl=cn" target=_blank>���j&#38134;��</a>
+<td class=volume>1.01&#20159;
+<td class=mktCap>1548.65&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:600200&amp;gl=cn" title="600200" target=_blank>600200</a>
+<td class=name>
+<a  href="/finance?q=SHA:600200&amp;gl=cn" target=_blank>��&#33487;&#21556;��</a>
+<td class=volume>9999.57�E
+<td class=mktCap>47.59&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:601398&amp;gl=cn" title="601398" target=_blank>601398</a>
+<td class=name>
+<a  href="/finance?q=SHA:601398&amp;gl=cn" target=_blank>�u��&#38134;��</a>
+<td class=volume>7802.50�E
+<td class=mktCap>1.50�E&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:600068&amp;gl=cn" title="600068" target=_blank>600068</a>
+<td class=name>
+<a  href="/finance?q=SHA:600068&amp;gl=cn" target=_blank>���w&#22365;</a>
+<td class=volume>7476.86�E
+<td class=mktCap>417.10&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:600016&amp;gl=cn" title="600016" target=_blank>600016</a>
+<td class=name>
+<a  href="/finance?q=SHA:600016&amp;gl=cn" target=_blank>����&#38134;��</a>
+<td class=volume>6652.44�E
+<td class=mktCap>1354.44&#20159;
+<tr><td colspan=3 style="height:.7em">
+</table>
+<div class=dis>���]�A���ȧC�_ 10&#20159;�H��&#24065; ���q���Ѳ��C<a  href=
+  "http://www.google.com/support/finance/bin/answer.py?answer=71891&hl=zh-CN"
+ target=_blank class=secondary>�F��&#35814;��</a></div></div>
+<div 
+  style="display:none"
+ id="tm_price_1" class="tm_category id-tm_price_1">
+<table cellpadding=3>
+<tr class=colHeader>
+<td class="title chr">&#28072;�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900916&amp;gl=cn" title="900916" target=_blank>900916</a>
+<td class=name>
+<a  href="/finance?q=SHA:900916&amp;gl=cn" target=_blank>���sB��</a>
+<td class="change chr">2.03%
+<td class=mktCap>2.14&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900930&amp;gl=cn" title="900930" target=_blank>900930</a>
+<td class=name>
+<a  href="/finance?q=SHA:900930&amp;gl=cn" target=_blank>&#27818;����B</a>
+<td class="change chr">1.75%
+<td class=mktCap>2.67&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900937&amp;gl=cn" title="900937" target=_blank>900937</a>
+<td class=name>
+<a  href="/finance?q=SHA:900937&amp;gl=cn" target=_blank>&#21326;&#30005;B��</a>
+<td class="change chr">1.70%
+<td class=mktCap>7.04&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900938&amp;gl=cn" title="900938" target=_blank>900938</a>
+<td class=name>
+<a  href="/finance?q=SHA:900938&amp;gl=cn" target=_blank>ST�Ѯ�B</a>
+<td class="change chr">1.55%
+<td class=mktCap>2.59&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900933&amp;gl=cn" title="900933" target=_blank>900933</a>
+<td class=name>
+<a  href="/finance?q=SHA:900933&amp;gl=cn" target=_blank>&#21326;�sB��</a>
+<td class="change chr">1.46%
+<td class=mktCap>9.84&#20159;
+<tr><td style="height:.7em">
+<tr class=colHeader>
+<td class="title chg">�^�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900919&amp;gl=cn" title="900919" target=_blank>900919</a>
+<td class=name>
+<a  href="/finance?q=SHA:900919&amp;gl=cn" target=_blank>�j��B��</a>
+<td class="change chg">-3.06%
+<td class=mktCap>2.57&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900924&amp;gl=cn" title="900924" target=_blank>900924</a>
+<td class=name>
+<a  href="/finance?q=SHA:900924&amp;gl=cn" target=_blank>�W�uB��</a>
+<td class="change chg">-2.79%
+<td class=mktCap>3.12&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900917&amp;gl=cn" title="900917" target=_blank>900917</a>
+<td class=name>
+<a  href="/finance?q=SHA:900917&amp;gl=cn" target=_blank>���YB��</a>
+<td class="change chg">-2.67%
+<td class=mktCap>6.17&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900903&amp;gl=cn" title="900903" target=_blank>900903</a>
+<td class=name>
+<a  href="/finance?q=SHA:900903&amp;gl=cn" target=_blank>�j&#20247;B��</a>
+<td class="change chg">-1.58%
+<td class=mktCap>11.77&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900957&amp;gl=cn" title="900957" target=_blank>900957</a>
+<td class=name>
+<a  href="/finance?q=SHA:900957&amp;gl=cn" target=_blank>�⤪B��</a>
+<td class="change chg">-1.47%
+<td class=mktCap>2.34&#20159;
+<tr><td style="height:.7em">
+</table>
+<div class=dis>���]�A���ȧC�_ 1&#20159;���� ���q���Ѳ��C<a  href=
+  "http://www.google.com/support/finance/bin/answer.py?answer=71891&hl=zh-CN"
+ target=_blank class=secondary>�F��&#35814;��</a></div></div>
+<div 
+  style="display:none"
+ id="tm_mcap_1" class="tm_category id-tm_mcap_1">
+<table cellpadding=3>
+<tr class=colHeader>
+<td class="title chr">&#28072;�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900932&amp;gl=cn" title="900932" target=_blank>900932</a>
+<td class=name>
+<a  href="/finance?q=SHA:900932&amp;gl=cn" target=_blank>&#38470;�aB��</a>
+<td class="change chr">0.93%
+<td class=mktCap>30.33&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900933&amp;gl=cn" title="900933" target=_blank>900933</a>
+<td class=name>
+<a  href="/finance?q=SHA:900933&amp;gl=cn" target=_blank>&#21326;�sB��</a>
+<td class="change chr">1.46%
+<td class=mktCap>9.84&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900923&amp;gl=cn" title="900923" target=_blank>900923</a>
+<td class=name>
+<a  href="/finance?q=SHA:900923&amp;gl=cn" target=_blank>��&#35850;B��</a>
+<td class="change chr">1.10%
+<td class=mktCap>11.31&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900937&amp;gl=cn" title="900937" target=_blank>900937</a>
+<td class=name>
+<a  href="/finance?q=SHA:900937&amp;gl=cn" target=_blank>&#21326;&#30005;B��</a>
+<td class="change chr">1.70%
+<td class=mktCap>7.04&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900912&amp;gl=cn" title="900912" target=_blank>900912</a>
+<td class=name>
+<a  href="/finance?q=SHA:900912&amp;gl=cn" target=_blank>�~��B��</a>
+<td class="change chr">1.00%
+<td class=mktCap>9.18&#20159;
+<tr><td style="height:.7em">
+<tr class=colHeader>
+<td class="title chg">�^�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900948&amp;gl=cn" title="900948" target=_blank>900948</a>
+<td class=name>
+<a  href="/finance?q=SHA:900948&amp;gl=cn" target=_blank>���B��</a>
+<td class="change chg">-1.13%
+<td class=mktCap>101.10&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900945&amp;gl=cn" title="900945" target=_blank>900945</a>
+<td class=name>
+<a  href="/finance?q=SHA:900945&amp;gl=cn" target=_blank>����B��</a>
+<td class="change chg">-0.82%
+<td class=mktCap>45.17&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900903&amp;gl=cn" title="900903" target=_blank>900903</a>
+<td class=name>
+<a  href="/finance?q=SHA:900903&amp;gl=cn" target=_blank>�j&#20247;B��</a>
+<td class="change chg">-1.58%
+<td class=mktCap>11.77&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900917&amp;gl=cn" title="900917" target=_blank>900917</a>
+<td class=name>
+<a  href="/finance?q=SHA:900917&amp;gl=cn" target=_blank>���YB��</a>
+<td class="change chg">-2.67%
+<td class=mktCap>6.17&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900936&amp;gl=cn" title="900936" target=_blank>900936</a>
+<td class=name>
+<a  href="/finance?q=SHA:900936&amp;gl=cn" target=_blank>�k&#32466;B��</a>
+<td class="change chg">-1.07%
+<td class=mktCap>15.20&#20159;
+<tr><td style="height:.7em">
+</table>
+<div class=dis>���]�A���ȧC�_ 1&#20159;���� ���q���Ѳ��C<a  href=
+  "http://www.google.com/support/finance/bin/answer.py?answer=71891&hl=zh-CN"
+ target=_blank class=secondary>�F��&#35814;��</a></div></div>
+<div 
+  style="display:none"
+ id="tm_volume_1" class="tm_category id-tm_volume_1">
+<table cellpadding=3>
+<tr class=colHeader>
+<td class="title chr">&#39046;��&#20010;��<td class=volume>����q
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900917&amp;gl=cn" title="900917" target=_blank>900917</a>
+<td class=name>
+<a  href="/finance?q=SHA:900917&amp;gl=cn" target=_blank>���YB��</a>
+<td class=volume>600.99�E
+<td class=mktCap>6.17&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900936&amp;gl=cn" title="900936" target=_blank>900936</a>
+<td class=name>
+<a  href="/finance?q=SHA:900936&amp;gl=cn" target=_blank>�k&#32466;B��</a>
+<td class=volume>481.25�E
+<td class=mktCap>15.20&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900919&amp;gl=cn" title="900919" target=_blank>900919</a>
+<td class=name>
+<a  href="/finance?q=SHA:900919&amp;gl=cn" target=_blank>�j��B��</a>
+<td class=volume>402.12�E
+<td class=mktCap>2.57&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900909&amp;gl=cn" title="900909" target=_blank>900909</a>
+<td class=name>
+<a  href="/finance?q=SHA:900909&amp;gl=cn" target=_blank>&#21452;&#38065;B��</a>
+<td class=volume>376.81�E
+<td class=mktCap>7.52&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900948&amp;gl=cn" title="900948" target=_blank>900948</a>
+<td class=name>
+<a  href="/finance?q=SHA:900948&amp;gl=cn" target=_blank>���B��</a>
+<td class=volume>189.16�E
+<td class=mktCap>101.10&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900938&amp;gl=cn" title="900938" target=_blank>900938</a>
+<td class=name>
+<a  href="/finance?q=SHA:900938&amp;gl=cn" target=_blank>ST�Ѯ�B</a>
+<td class=volume>185.31�E
+<td class=mktCap>2.59&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900908&amp;gl=cn" title="900908" target=_blank>900908</a>
+<td class=name>
+<a  href="/finance?q=SHA:900908&amp;gl=cn" target=_blank>��&#30897;B��</a>
+<td class=volume>174.26�E
+<td class=mktCap>6.08&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900947&amp;gl=cn" title="900947" target=_blank>900947</a>
+<td class=name>
+<a  href="/finance?q=SHA:900947&amp;gl=cn" target=_blank>��&#21326;B��</a>
+<td class=volume>165.40�E
+<td class=mktCap>26.78&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900903&amp;gl=cn" title="900903" target=_blank>900903</a>
+<td class=name>
+<a  href="/finance?q=SHA:900903&amp;gl=cn" target=_blank>�j&#20247;B��</a>
+<td class=volume>163.73�E
+<td class=mktCap>11.77&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:900937&amp;gl=cn" title="900937" target=_blank>900937</a>
+<td class=name>
+<a  href="/finance?q=SHA:900937&amp;gl=cn" target=_blank>&#21326;&#30005;B��</a>
+<td class=volume>163.66�E
+<td class=mktCap>7.04&#20159;
+<tr><td colspan=3 style="height:.7em">
+</table>
+<div class=dis>���]�A���ȧC�_ 1&#20159;���� ���q���Ѳ��C<a  href=
+  "http://www.google.com/support/finance/bin/answer.py?answer=71891&hl=zh-CN"
+ target=_blank class=secondary>�F��&#35814;��</a></div></div>
+<div 
+  style="display:none"
+ id="tm_price_2" class="tm_category id-tm_price_2">
+<table cellpadding=3>
+<tr class=colHeader>
+<td class="title chr">&#28072;�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000594&amp;gl=cn" title="000594" target=_blank>000594</a>
+<td class=name>
+<a  href="/finance?q=SHE:000594&amp;gl=cn" target=_blank>&#22269;��&#38081;��</a>
+<td class="change chr">10.05%
+<td class=mktCap>63.78&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000835&amp;gl=cn" title="000835" target=_blank>000835</a>
+<td class=name>
+<a  href="/finance?q=SHE:000835&amp;gl=cn" target=_blank>�|�t�o&#36798;</a>
+<td class="change chr">10.04%
+<td class=mktCap>32.80&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000876&amp;gl=cn" title="000876" target=_blank>000876</a>
+<td class=name>
+<a  href="/finance?q=SHE:000876&amp;gl=cn" target=_blank>�s�Ʊ�</a>
+<td class="change chr">10.02%
+<td class=mktCap>169.05&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000617&amp;gl=cn" title="000617" target=_blank>000617</a>
+<td class=name>
+<a  href="/finance?q=SHE:000617&amp;gl=cn" target=_blank>�۪o&#27982;��</a>
+<td class="change chr">10.01%
+<td class=mktCap>64.44&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000895&amp;gl=cn" title="000895" target=_blank>000895</a>
+<td class=name>
+<a  href="/finance?q=SHE:000895&amp;gl=cn" target=_blank>&#21452;&#27719;&#21457;�i</a>
+<td class="change chr">9.99%
+<td class=mktCap>362.81&#20159;
+<tr><td style="height:.7em">
+<tr class=colHeader>
+<td class="title chg">�^�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000506&amp;gl=cn" title="000506" target=_blank>000506</a>
+<td class=name>
+<a  href="/finance?q=SHE:000506&amp;gl=cn" target=_blank>��&#28070;��&#36164;</a>
+<td class="change chg">-7.44%
+<td class=mktCap>78.04&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000338&amp;gl=cn" title="000338" target=_blank>000338</a>
+<td class=name>
+<a  href="/finance?q=SHE:000338&amp;gl=cn" target=_blank>&#28493;��&#21160;�O</a>
+<td class="change chg">-6.72%
+<td class=mktCap>1017.98&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000935&amp;gl=cn" title="000935" target=_blank>000935</a>
+<td class=name>
+<a  href="/finance?q=SHE:000935&amp;gl=cn" target=_blank>�|�t&#21452;&#39532;</a>
+<td class="change chg">-5.05%
+<td class=mktCap>40.28&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000050&amp;gl=cn" title="000050" target=_blank>000050</a>
+<td class=name>
+<a  href="/finance?q=SHE:000050&amp;gl=cn" target=_blank>�`��&#39532;A</a>
+<td class="change chg">-4.35%
+<td class=mktCap>92.17&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000301&amp;gl=cn" title="000301" target=_blank>000301</a>
+<td class=name>
+<a  href="/finance?q=SHE:000301&amp;gl=cn" target=_blank>&#19996;�襫&#22330;</a>
+<td class="change chg">-4.32%
+<td class=mktCap>67.49&#20159;
+<tr><td style="height:.7em">
+</table>
+<div class=dis>���]�A���ȧC�_ 10&#20159;�H��&#24065; ���q���Ѳ��C<a  href=
+  "http://www.google.com/support/finance/bin/answer.py?answer=71891&hl=zh-CN"
+ target=_blank class=secondary>�F��&#35814;��</a></div></div>
+<div 
+  style="display:none"
+ id="tm_mcap_2" class="tm_category id-tm_mcap_2">
+<table cellpadding=3>
+<tr class=colHeader>
+<td class="title chr">&#28072;�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000895&amp;gl=cn" title="000895" target=_blank>000895</a>
+<td class=name>
+<a  href="/finance?q=SHE:000895&amp;gl=cn" target=_blank>&#21452;&#27719;&#21457;�i</a>
+<td class="change chr">9.99%
+<td class=mktCap>362.81&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000651&amp;gl=cn" title="000651" target=_blank>000651</a>
+<td class=name>
+<a  href="/finance?q=SHE:000651&amp;gl=cn" target=_blank>��O&#30005;��</a>
+<td class="change chr">3.45%
+<td class=mktCap>506.37&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000876&amp;gl=cn" title="000876" target=_blank>000876</a>
+<td class=name>
+<a  href="/finance?q=SHE:000876&amp;gl=cn" target=_blank>�s�Ʊ�</a>
+<td class="change chr">10.02%
+<td class=mktCap>169.05&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000060&amp;gl=cn" title="000060" target=_blank>000060</a>
+<td class=name>
+<a  href="/finance?q=SHE:000060&amp;gl=cn" target=_blank>�����d�n</a>
+<td class="change chr">4.64%
+<td class=mktCap>318.49&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000002&amp;gl=cn" title="000002" target=_blank>000002</a>
+<td class=name>
+<a  href="/finance?q=SHE:000002&amp;gl=cn" target=_blank>�E��A</a>
+<td class="change chr">1.11%
+<td class=mktCap>1119.52&#20159;
+<tr><td style="height:.7em">
+<tr class=colHeader>
+<td class="title chg">�^�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000338&amp;gl=cn" title="000338" target=_blank>000338</a>
+<td class=name>
+<a  href="/finance?q=SHE:000338&amp;gl=cn" target=_blank>&#28493;��&#21160;�O</a>
+<td class="change chg">-6.72%
+<td class=mktCap>1017.98&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000858&amp;gl=cn" title="000858" target=_blank>000858</a>
+<td class=name>
+<a  href="/finance?q=SHE:000858&amp;gl=cn" target=_blank>��&#31918;�G</a>
+<td class="change chg">-1.64%
+<td class=mktCap>1461.07&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000425&amp;gl=cn" title="000425" target=_blank>000425</a>
+<td class=name>
+<a  href="/finance?q=SHE:000425&amp;gl=cn" target=_blank>�}�u���</a>
+<td class="change chg">-2.97%
+<td class=mktCap>529.10&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000578&amp;gl=cn" title="000578" target=_blank>000578</a>
+<td class=name>
+<a  href="/finance?q=SHE:000578&amp;gl=cn" target=_blank>&#30416;��&#22242;</a>
+<td class="change chg">-1.98%
+<td class=mktCap>759.23&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000063&amp;gl=cn" title="000063" target=_blank>000063</a>
+<td class=name>
+<a  href="/finance?q=SHE:000063&amp;gl=cn" target=_blank>��&#20852;�q&#35759;</a>
+<td class="change chg">-1.92%
+<td class=mktCap>747.07&#20159;
+<tr><td style="height:.7em">
+</table>
+<div class=dis>���]�A���ȧC�_ 10&#20159;�H��&#24065; ���q���Ѳ��C<a  href=
+  "http://www.google.com/support/finance/bin/answer.py?answer=71891&hl=zh-CN"
+ target=_blank class=secondary>�F��&#35814;��</a></div></div>
+<div 
+  style="display:none"
+ id="tm_volume_2" class="tm_category id-tm_volume_2">
+<table cellpadding=3>
+<tr class=colHeader>
+<td class="title chr">&#39046;��&#20010;��<td class=volume>����q
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000725&amp;gl=cn" title="000725" target=_blank>000725</a>
+<td class=name>
+<a  href="/finance?q=SHE:000725&amp;gl=cn" target=_blank>��&#19996;��A</a>
+<td class=volume>1.97&#20159;
+<td class=mktCap>184.50&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000682&amp;gl=cn" title="000682" target=_blank>000682</a>
+<td class=name>
+<a  href="/finance?q=SHE:000682&amp;gl=cn" target=_blank>&#19996;��&#30005;�l</a>
+<td class=volume>9983.86�E
+<td class=mktCap>59.28&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000301&amp;gl=cn" title="000301" target=_blank>000301</a>
+<td class=name>
+<a  href="/finance?q=SHE:000301&amp;gl=cn" target=_blank>&#19996;�襫&#22330;</a>
+<td class=volume>6778.20�E
+<td class=mktCap>67.49&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000835&amp;gl=cn" title="000835" target=_blank>000835</a>
+<td class=name>
+<a  href="/finance?q=SHE:000835&amp;gl=cn" target=_blank>�|�t�o&#36798;</a>
+<td class=volume>5946.89�E
+<td class=mktCap>32.80&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000651&amp;gl=cn" title="000651" target=_blank>000651</a>
+<td class=name>
+<a  href="/finance?q=SHE:000651&amp;gl=cn" target=_blank>��O&#30005;��</a>
+<td class=volume>5579.93�E
+<td class=mktCap>506.37&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000518&amp;gl=cn" title="000518" target=_blank>000518</a>
+<td class=name>
+<a  href="/finance?q=SHE:000518&amp;gl=cn" target=_blank>�|&#29615;�ͪ�</a>
+<td class=volume>5525.63�E
+<td class=mktCap>78.45&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000157&amp;gl=cn" title="000157" target=_blank>000157</a>
+<td class=name>
+<a  href="/finance?q=SHE:000157&amp;gl=cn" target=_blank>��&#32852;����</a>
+<td class=volume>5250.18�E
+<td class=mktCap>699.72&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000594&amp;gl=cn" title="000594" target=_blank>000594</a>
+<td class=name>
+<a  href="/finance?q=SHE:000594&amp;gl=cn" target=_blank>&#22269;��&#38081;��</a>
+<td class=volume>4930.08�E
+<td class=mktCap>63.78&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000506&amp;gl=cn" title="000506" target=_blank>000506</a>
+<td class=name>
+<a  href="/finance?q=SHE:000506&amp;gl=cn" target=_blank>��&#28070;��&#36164;</a>
+<td class=volume>4675.24�E
+<td class=mktCap>78.04&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000970&amp;gl=cn" title="000970" target=_blank>000970</a>
+<td class=name>
+<a  href="/finance?q=SHE:000970&amp;gl=cn" target=_blank>����T&#29615;</a>
+<td class=volume>4659.08�E
+<td class=mktCap>147.76&#20159;
+<tr><td colspan=3 style="height:.7em">
+</table>
+<div class=dis>���]�A���ȧC�_ 10&#20159;�H��&#24065; ���q���Ѳ��C<a  href=
+  "http://www.google.com/support/finance/bin/answer.py?answer=71891&hl=zh-CN"
+ target=_blank class=secondary>�F��&#35814;��</a></div></div>
+<div 
+  style="display:none"
+ id="tm_price_3" class="tm_category id-tm_price_3">
+<table cellpadding=3>
+<tr class=colHeader>
+<td class="title chr">&#28072;�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200869&amp;gl=cn" title="200869" target=_blank>200869</a>
+<td class=name>
+<a  href="/finance?q=SHE:200869&amp;gl=cn" target=_blank>&#24352;��B</a>
+<td class="change chr">8.79%
+<td class=mktCap>479.82&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200550&amp;gl=cn" title="200550" target=_blank>200550</a>
+<td class=name>
+<a  href="/finance?q=SHE:200550&amp;gl=cn" target=_blank>��&#38083;B</a>
+<td class="change chr">5.44%
+<td class=mktCap>197.50&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200418&amp;gl=cn" title="200418" target=_blank>200418</a>
+<td class=name>
+<a  href="/finance?q=SHE:200418&amp;gl=cn" target=_blank>�p��&#40517;B</a>
+<td class="change chr">4.42%
+<td class=mktCap>84.07&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200019&amp;gl=cn" title="200019" target=_blank>200019</a>
+<td class=name>
+<a  href="/finance?q=SHE:200019&amp;gl=cn" target=_blank>�`�`&#23453;B</a>
+<td class="change chr">2.15%
+<td class=mktCap>12.12&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200541&amp;gl=cn" title="200541" target=_blank>200541</a>
+<td class=name>
+<a  href="/finance?q=SHE:200541&amp;gl=cn" target=_blank>&#31908;�ө�B</a>
+<td class="change chr">2.02%
+<td class=mktCap>88.95&#20159;
+<tr><td style="height:.7em">
+<tr class=colHeader>
+<td class="title chg">�^�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200028&amp;gl=cn" title="200028" target=_blank>200028</a>
+<td class=name>
+<a  href="/finance?q=SHE:200028&amp;gl=cn" target=_blank>�@�PB</a>
+<td class="change chg">-3.42%
+<td class=mktCap>75.70&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200026&amp;gl=cn" title="200026" target=_blank>200026</a>
+<td class=name>
+<a  href="/finance?q=SHE:200026&amp;gl=cn" target=_blank>&#39134;&#20122;&#36798;B</a>
+<td class="change chg">-2.59%
+<td class=mktCap>29.10&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200513&amp;gl=cn" title="200513" target=_blank>200513</a>
+<td class=name>
+<a  href="/finance?q=SHE:200513&amp;gl=cn" target=_blank>&#20029;�]B</a>
+<td class="change chg">-1.69%
+<td class=mktCap>84.28&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200512&amp;gl=cn" title="200512" target=_blank>200512</a>
+<td class=name>
+<a  href="/finance?q=SHE:200512&amp;gl=cn" target=_blank>&#38397;&#28799;�[B</a>
+<td class="change chg">-1.65%
+<td class=mktCap>26.59&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200011&amp;gl=cn" title="200011" target=_blank>200011</a>
+<td class=name>
+<a  href="/finance?q=SHE:200011&amp;gl=cn" target=_blank>�`��&#19994;B</a>
+<td class="change chg">-0.86%
+<td class=mktCap>27.36&#20159;
+<tr><td style="height:.7em">
+</table>
+<div class=dis>���]�A���ȧC�_ 10&#20159;�䤸 ���q���Ѳ��C<a  href=
+  "http://www.google.com/support/finance/bin/answer.py?answer=71891&hl=zh-CN"
+ target=_blank class=secondary>�F��&#35814;��</a></div></div>
+<div 
+  style="display:none"
+ id="tm_mcap_3" class="tm_category id-tm_mcap_3">
+<table cellpadding=3>
+<tr class=colHeader>
+<td class="title chr">&#28072;�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200869&amp;gl=cn" title="200869" target=_blank>200869</a>
+<td class=name>
+<a  href="/finance?q=SHE:200869&amp;gl=cn" target=_blank>&#24352;��B</a>
+<td class="change chr">8.79%
+<td class=mktCap>479.82&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200002&amp;gl=cn" title="200002" target=_blank>200002</a>
+<td class=name>
+<a  href="/finance?q=SHE:200002&amp;gl=cn" target=_blank>�E��B</a>
+<td class="change chr">1.02%
+<td class=mktCap>1088.53&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200550&amp;gl=cn" title="200550" target=_blank>200550</a>
+<td class=name>
+<a  href="/finance?q=SHE:200550&amp;gl=cn" target=_blank>��&#38083;B</a>
+<td class="change chr">5.44%
+<td class=mktCap>197.50&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200418&amp;gl=cn" title="200418" target=_blank>200418</a>
+<td class=name>
+<a  href="/finance?q=SHE:200418&amp;gl=cn" target=_blank>�p��&#40517;B</a>
+<td class="change chr">4.42%
+<td class=mktCap>84.07&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200541&amp;gl=cn" title="200541" target=_blank>200541</a>
+<td class=name>
+<a  href="/finance?q=SHE:200541&amp;gl=cn" target=_blank>&#31908;�ө�B</a>
+<td class="change chr">2.02%
+<td class=mktCap>88.95&#20159;
+<tr><td style="height:.7em">
+<tr class=colHeader>
+<td class="title chg">�^�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200028&amp;gl=cn" title="200028" target=_blank>200028</a>
+<td class=name>
+<a  href="/finance?q=SHE:200028&amp;gl=cn" target=_blank>�@�PB</a>
+<td class="change chg">-3.42%
+<td class=mktCap>75.70&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200039&amp;gl=cn" title="200039" target=_blank>200039</a>
+<td class=name>
+<a  href="/finance?q=SHE:200039&amp;gl=cn" target=_blank>����B</a>
+<td class="change chg">-0.49%
+<td class=mktCap>433.97&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200513&amp;gl=cn" title="200513" target=_blank>200513</a>
+<td class=name>
+<a  href="/finance?q=SHE:200513&amp;gl=cn" target=_blank>&#20029;�]B</a>
+<td class="change chg">-1.69%
+<td class=mktCap>84.28&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200012&amp;gl=cn" title="200012" target=_blank>200012</a>
+<td class=name>
+<a  href="/finance?q=SHE:200012&amp;gl=cn" target=_blank>�n��B</a>
+<td class="change chg">-0.55%
+<td class=mktCap>225.11&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200026&amp;gl=cn" title="200026" target=_blank>200026</a>
+<td class=name>
+<a  href="/finance?q=SHE:200026&amp;gl=cn" target=_blank>&#39134;&#20122;&#36798;B</a>
+<td class="change chg">-2.59%
+<td class=mktCap>29.10&#20159;
+<tr><td style="height:.7em">
+</table>
+<div class=dis>���]�A���ȧC�_ 10&#20159;�䤸 ���q���Ѳ��C<a  href=
+  "http://www.google.com/support/finance/bin/answer.py?answer=71891&hl=zh-CN"
+ target=_blank class=secondary>�F��&#35814;��</a></div></div>
+<div 
+  style="display:none"
+ id="tm_volume_3" class="tm_category id-tm_volume_3">
+<table cellpadding=3>
+<tr class=colHeader>
+<td class="title chr">&#39046;��&#20010;��<td class=volume>����q
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200725&amp;gl=cn" title="200725" target=_blank>200725</a>
+<td class=name>
+<a  href="/finance?q=SHE:200725&amp;gl=cn" target=_blank>��&#19996;��B</a>
+<td class=volume>1562.84�E
+<td class=mktCap>182.22&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200512&amp;gl=cn" title="200512" target=_blank>200512</a>
+<td class=name>
+<a  href="/finance?q=SHE:200512&amp;gl=cn" target=_blank>&#38397;&#28799;�[B</a>
+<td class=volume>1451.47�E
+<td class=mktCap>26.59&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200012&amp;gl=cn" title="200012" target=_blank>200012</a>
+<td class=name>
+<a  href="/finance?q=SHE:200012&amp;gl=cn" target=_blank>�n��B</a>
+<td class=volume>574.03�E
+<td class=mktCap>225.11&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200625&amp;gl=cn" title="200625" target=_blank>200625</a>
+<td class=name>
+<a  href="/finance?q=SHE:200625&amp;gl=cn" target=_blank>&#38271;�wB</a>
+<td class=volume>262.15�E
+<td class=mktCap>165.82&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200058&amp;gl=cn" title="200058" target=_blank>200058</a>
+<td class=name>
+<a  href="/finance?q=SHE:200058&amp;gl=cn" target=_blank>�`&#36187;��B</a>
+<td class=volume>228.03�E
+<td class=mktCap>23.94&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200152&amp;gl=cn" title="200152" target=_blank>200152</a>
+<td class=name>
+<a  href="/finance?q=SHE:200152&amp;gl=cn" target=_blank>�s��B</a>
+<td class=volume>141.28�E
+<td class=mktCap>59.64&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200539&amp;gl=cn" title="200539" target=_blank>200539</a>
+<td class=name>
+<a  href="/finance?q=SHE:200539&amp;gl=cn" target=_blank>&#31908;&#30005;�OB</a>
+<td class=volume>139.93�E
+<td class=mktCap>121.13&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200055&amp;gl=cn" title="200055" target=_blank>200055</a>
+<td class=name>
+<a  href="/finance?q=SHE:200055&amp;gl=cn" target=_blank>��jB</a>
+<td class=volume>138.64�E
+<td class=mktCap>24.68&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200016&amp;gl=cn" title="200016" target=_blank>200016</a>
+<td class=name>
+<a  href="/finance?q=SHE:200016&amp;gl=cn" target=_blank>�`�d��B</a>
+<td class=volume>135.66�E
+<td class=mktCap>37.68&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:200488&amp;gl=cn" title="200488" target=_blank>200488</a>
+<td class=name>
+<a  href="/finance?q=SHE:200488&amp;gl=cn" target=_blank>��&#40483;B</a>
+<td class=volume>133.90�E
+<td class=mktCap>128.26&#20159;
+<tr><td colspan=3 style="height:.7em">
+</table>
+<div class=dis>���]�A���ȧC�_ 10&#20159;�䤸 ���q���Ѳ��C<a  href=
+  "http://www.google.com/support/finance/bin/answer.py?answer=71891&hl=zh-CN"
+ target=_blank class=secondary>�F��&#35814;��</a></div></div>
+<div 
+  style="display:none"
+ id="tm_price_4" class="tm_category id-tm_price_4">
+<table cellpadding=3>
+<tr class=colHeader>
+<td class="title chr">&#28072;�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002229&amp;gl=cn" title="002229" target=_blank>002229</a>
+<td class=name>
+<a  href="/finance?q=SHE:002229&amp;gl=cn" target=_blank>&#40511;�ժѥ�</a>
+<td class="change chr">10.03%
+<td class=mktCap>22.22&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002036&amp;gl=cn" title="002036" target=_blank>002036</a>
+<td class=name>
+<a  href="/finance?q=SHE:002036&amp;gl=cn" target=_blank>�y����</a>
+<td class="change chr">10.03%
+<td class=mktCap>30.40&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002207&amp;gl=cn" title="002207" target=_blank>002207</a>
+<td class=name>
+<a  href="/finance?q=SHE:002207&amp;gl=cn" target=_blank>��o�ѥ�</a>
+<td class="change chr">10.02%
+<td class=mktCap>24.24&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002180&amp;gl=cn" title="002180" target=_blank>002180</a>
+<td class=name>
+<a  href="/finance?q=SHE:002180&amp;gl=cn" target=_blank>�E�O&#36798;</a>
+<td class="change chr">10.02%
+<td class=mktCap>19.21&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002135&amp;gl=cn" title="002135" target=_blank>002135</a>
+<td class=name>
+<a  href="/finance?q=SHE:002135&amp;gl=cn" target=_blank>&#19996;�n�I�[</a>
+<td class="change chr">10.00%
+<td class=mktCap>37.40&#20159;
+<tr><td style="height:.7em">
+<tr class=colHeader>
+<td class="title chg">�^�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002416&amp;gl=cn" title="002416" target=_blank>002416</a>
+<td class=name>
+<a  href="/finance?q=SHE:002416&amp;gl=cn" target=_blank>&#29233;�I�w</a>
+<td class="change chg">-6.32%
+<td class=mktCap>218.48&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002310&amp;gl=cn" title="002310" target=_blank>002310</a>
+<td class=name>
+<a  href="/finance?q=SHE:002310&amp;gl=cn" target=_blank>&#19996;��&#22253;�L</a>
+<td class="change chg">-6.19%
+<td class=mktCap>158.42&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002079&amp;gl=cn" title="002079" target=_blank>002079</a>
+<td class=name>
+<a  href="/finance?q=SHE:002079&amp;gl=cn" target=_blank>&#33487;�{�T&#38173;</a>
+<td class="change chg">-6.02%
+<td class=mktCap>46.95&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002022&amp;gl=cn" title="002022" target=_blank>002022</a>
+<td class=name>
+<a  href="/finance?q=SHE:002022&amp;gl=cn" target=_blank>��&#21326;�ͪ�</a>
+<td class="change chg">-4.73%
+<td class=mktCap>103.18&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002269&amp;gl=cn" title="002269" target=_blank>002269</a>
+<td class=name>
+<a  href="/finance?q=SHE:002269&amp;gl=cn" target=_blank>�����A&#39280;</a>
+<td class="change chg">-4.21%
+<td class=mktCap>373.06&#20159;
+<tr><td style="height:.7em">
+</table>
+<div class=dis>���]�A���ȧC�_ 10&#20159;�H��&#24065; ���q���Ѳ��C<a  href=
+  "http://www.google.com/support/finance/bin/answer.py?answer=71891&hl=zh-CN"
+ target=_blank class=secondary>�F��&#35814;��</a></div></div>
+<div 
+  style="display:none"
+ id="tm_mcap_4" class="tm_category id-tm_mcap_4">
+<table cellpadding=3>
+<tr class=colHeader>
+<td class="title chr">&#28072;�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002241&amp;gl=cn" title="002241" target=_blank>002241</a>
+<td class=name>
+<a  href="/finance?q=SHE:002241&amp;gl=cn" target=_blank>�q&#23572;&#22768;&#23398;</a>
+<td class="change chr">8.76%
+<td class=mktCap>183.91&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002032&amp;gl=cn" title="002032" target=_blank>002032</a>
+<td class=name>
+<a  href="/finance?q=SHE:002032&amp;gl=cn" target=_blank>&#33487;�y&#23572;</a>
+<td class="change chr">5.04%
+<td class=mktCap>141.89&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002281&amp;gl=cn" title="002281" target=_blank>002281</a>
+<td class=name>
+<a  href="/finance?q=SHE:002281&amp;gl=cn" target=_blank>�������</a>
+<td class="change chr">9.32%
+<td class=mktCap>73.79&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002344&amp;gl=cn" title="002344" target=_blank>002344</a>
+<td class=name>
+<a  href="/finance?q=SHE:002344&amp;gl=cn" target=_blank>���r�֫�</a>
+<td class="change chr">3.67%
+<td class=mktCap>173.88&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002167&amp;gl=cn" title="002167" target=_blank>002167</a>
+<td class=name>
+<a  href="/finance?q=SHE:002167&amp;gl=cn" target=_blank>&#19996;��&#38150;&#19994;</a>
+<td class="change chr">7.74%
+<td class=mktCap>73.32&#20159;
+<tr><td style="height:.7em">
+<tr class=colHeader>
+<td class="title chg">�^�T�]<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002269&amp;gl=cn" title="002269" target=_blank>002269</a>
+<td class=name>
+<a  href="/finance?q=SHE:002269&amp;gl=cn" target=_blank>�����A&#39280;</a>
+<td class="change chg">-4.21%
+<td class=mktCap>373.06&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002399&amp;gl=cn" title="002399" target=_blank>002399</a>
+<td class=name>
+<a  href="/finance?q=SHE:002399&amp;gl=cn" target=_blank>������</a>
+<td class="change chg">-2.47%
+<td class=mktCap>630.16&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002416&amp;gl=cn" title="002416" target=_blank>002416</a>
+<td class=name>
+<a  href="/finance?q=SHE:002416&amp;gl=cn" target=_blank>&#29233;�I�w</a>
+<td class="change chg">-6.32%
+<td class=mktCap>218.48&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002304&amp;gl=cn" title="002304" target=_blank>002304</a>
+<td class=name>
+<a  href="/finance?q=SHE:002304&amp;gl=cn" target=_blank>�v�e�ѥ�</a>
+<td class="change chg">-1.16%
+<td class=mktCap>1138.50&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002310&amp;gl=cn" title="002310" target=_blank>002310</a>
+<td class=name>
+<a  href="/finance?q=SHE:002310&amp;gl=cn" target=_blank>&#19996;��&#22253;�L</a>
+<td class="change chg">-6.19%
+<td class=mktCap>158.42&#20159;
+<tr><td style="height:.7em">
+</table>
+<div class=dis>���]�A���ȧC�_ 10&#20159;�H��&#24065; ���q���Ѳ��C<a  href=
+  "http://www.google.com/support/finance/bin/answer.py?answer=71891&hl=zh-CN"
+ target=_blank class=secondary>�F��&#35814;��</a></div></div>
+<div 
+  style="display:none"
+ id="tm_volume_4" class="tm_category id-tm_volume_4">
+<table cellpadding=3>
+<tr class=colHeader>
+<td class="title chr">&#39046;��&#20010;��<td class=volume>����q
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002022&amp;gl=cn" title="002022" target=_blank>002022</a>
+<td class=name>
+<a  href="/finance?q=SHE:002022&amp;gl=cn" target=_blank>��&#21326;�ͪ�</a>
+<td class=volume>2625.37�E
+<td class=mktCap>103.18&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002172&amp;gl=cn" title="002172" target=_blank>002172</a>
+<td class=name>
+<a  href="/finance?q=SHE:002172&amp;gl=cn" target=_blank>�D�v���</a>
+<td class=volume>2372.84�E
+<td class=mktCap>58.99&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002181&amp;gl=cn" title="002181" target=_blank>002181</a>
+<td class=name>
+<a  href="/finance?q=SHE:002181&amp;gl=cn" target=_blank>&#31908;&#20256;�C</a>
+<td class=volume>2224.11�E
+<td class=mktCap>55.15&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002024&amp;gl=cn" title="002024" target=_blank>002024</a>
+<td class=name>
+<a  href="/finance?q=SHE:002024&amp;gl=cn" target=_blank>&#33487;�r&#30005;��</a>
+<td class=volume>2219.77�E
+<td class=mktCap>961.98&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002036&amp;gl=cn" title="002036" target=_blank>002036</a>
+<td class=name>
+<a  href="/finance?q=SHE:002036&amp;gl=cn" target=_blank>�y����</a>
+<td class=volume>2213.48�E
+<td class=mktCap>30.40&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002016&amp;gl=cn" title="002016" target=_blank>002016</a>
+<td class=name>
+<a  href="/finance?q=SHE:002016&amp;gl=cn" target=_blank>�@&#33635;��&#19994;</a>
+<td class=volume>2049.17�E
+<td class=mktCap>49.47&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002006&amp;gl=cn" title="002006" target=_blank>002006</a>
+<td class=name>
+<a  href="/finance?q=SHE:002006&amp;gl=cn" target=_blank>��\���</a>
+<td class=volume>1875.16�E
+<td class=mktCap>53.38&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002202&amp;gl=cn" title="002202" target=_blank>002202</a>
+<td class=name>
+<a  href="/finance?q=SHE:002202&amp;gl=cn" target=_blank>��&#39118;���</a>
+<td class=volume>1776.45�E
+<td class=mktCap>508.48&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002109&amp;gl=cn" title="002109" target=_blank>002109</a>
+<td class=name>
+<a  href="/finance?q=SHE:002109&amp;gl=cn" target=_blank>&#20852;�ƪѥ�</a>
+<td class=volume>1774.41�E
+<td class=mktCap>41.14&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:002155&amp;gl=cn" title="002155" target=_blank>002155</a>
+<td class=name>
+<a  href="/finance?q=SHE:002155&amp;gl=cn" target=_blank>���{&#30719;&#19994;</a>
+<td class=volume>1765.75�E
+<td class=mktCap>177.19&#20159;
+<tr><td colspan=3 style="height:.7em">
+</table>
+<div class=dis>���]�A���ȧC�_ 10&#20159;�H��&#24065; ���q���Ѳ��C<a  href=
+  "http://www.google.com/support/finance/bin/answer.py?answer=71891&hl=zh-CN"
+ target=_blank class=secondary>�F��&#35814;��</a></div></div>
+<div 
+  
+ id="tm_zeitgeist" class="tm_category id-tm_zeitgeist">
+<table cellpadding=3>
+<tr class=colHeader>
+<td  class=grey>Google �W��&#28909;&#38376;�j��<td class=change>&#28072;�^
+<td class=mktCap>����
+</tr>
+<tr>
+<td class=symbol>
+<a  href="/finance?q=PINK:EFTB&amp;gl=cn" title="EFTB" target=_blank>EFTB</a>
+<td class=name>
+<a  href="/finance?q=PINK:EFTB&amp;gl=cn" target=_blank>EFT BioTech Holdings Inc</a>
+<td class="change chr">13.00%
+<td class=mktCap>8586.10�E
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHA:600621&amp;gl=cn" title="600621" target=_blank>600621</a>
+<td class=name>
+<a  href="/finance?q=SHA:600621&amp;gl=cn" target=_blank>�W������</a>
+<td class="change chr">3.14%
+<td class=mktCap>43.03&#20159;
+<tr>
+<td class=symbol>
+<a  href="/finance?q=SHE:000338&amp;gl=cn" title="000338" target=_blank>000338</a>
+<td class=name>
+<a  href="/finance?q=SHE:000338&amp;gl=cn" target=_blank>&#28493;��&#21160;�O</a>
+<td class="change chg">-6.72%
+<td class=mktCap>1017.98&#20159;
+<tr><td style="height:.7em">
+</table>
+</div>
+</div></div>
+</div>
+<div id=currencies
+>
+<div id=currencies>
+<div class=hdg><div class=float><h3>&#36135;&#24065;</h3></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class=sfe-section>
+<table class=quotes width=100%><tbody><tr>
+<td class=symbol><a href="/finance?q=USDCNY&amp;gl=cn" target=_blank>����/�H��&#24065;</a>
+<td class=price>6.6630
+<td class="change chg">-0.0037 (-0.06%)<tr>
+<td class=symbol><a href="/finance?q=EURCNY&amp;gl=cn" target=_blank>&#27431;��/�H��&#24065;</a>
+<td class=price>8.7472
+<td class="change chr">+0.0578 (0.67%)<tr>
+<td class=symbol><a href="/finance?q=HKDCNY&amp;gl=cn" target=_blank>��&#24065;/�H��&#24065;</a>
+<td class=price>0.8578
+<td class="change chg">-0.0006 (-0.07%)<tr>
+<td class=symbol><a href="/finance?q=GBPCNY&amp;gl=cn" target=_blank>�^&#38225;/�H��&#24065;</a>
+<td class=price>10.4056
+<td class="change chr">+0.0442 (0.43%)<tr>
+<td class=symbol><a href="/finance?q=JPYCNY&amp;gl=cn" target=_blank>�餸/�H��&#24065;</a>
+<td class=price>0.0791
+<td class="change chg">-0.0004 (-0.49%)<tr>
+<td class=symbol><a href="/finance?q=AUDCNY&amp;gl=cn" target=_blank>�D��/�H��&#24065;</a>
+<td class=price>6.4444
+<td class="change chr">+0.0311 (0.48%)<tr>
+<td class=symbol><a href="/finance?q=CADCNY&amp;gl=cn" target=_blank>�[���j��/�H��&#24065;</a>
+<td class=price>6.5426
+<td class="change chr">+0.0060 (0.09%)<tr>
+<td class=symbol><a href="/finance?q=EURUSD&amp;gl=cn" target=_blank>&#27431;��/����</a>
+<td class=price>1.3128
+<td class="change chr">+0.0094 (0.72%)<tr>
+<td class=symbol><a href="/finance?q=USDJPY&amp;gl=cn" target=_blank>����/�餸</a>
+<td class=price>84.1900
+<td class="change chr">+0.3700 (0.44%)<tr>
+<td class=symbol><a href="/finance?q=GBPUSD&amp;gl=cn" target=_blank>�^&#38225;/����</a>
+<td class=price>1.5617
+<td class="change chr">+0.0075 (0.48%)<tr>
+<td class=symbol><a href="/finance?q=CADUSD&amp;gl=cn" target=_blank>�[���j��/����</a>
+<td class=price>0.9819
+<td class="change chr">+0.0014 (0.15%)<tr>
+<td class=symbol><a href="/finance?q=AUDUSD&amp;gl=cn" target=_blank>�D��/����</a>
+<td class=price>0.9672
+<td class="change chr">+0.0052 (0.54%)
+</table>
+</div>
+</div>
+</div>
+<div id=bonds
+>
+</div>
+</div>
+</div>
+</div>
+<div class="g-unit">
+<div class="g-c sfe-break-right g-floatfix">
+<div class=sfe-section id=summary>
+<div id=summary-news-story>
+<div class="g-section news">
+<div id=fix-w class="news major">
+<span class=name>
+<a href="http://star.news.sohu.com/20101202/n278046083.shtml" rel=nofollow target=_blank id=n-hp- >�����~&#36164;�W&#22269;���ݹJ�A��n&#35753;&#20869;&#36164;�ɨ�&#22269;���ݹJ</a>
+</span>
+<br>
+<div class=byline>
+<span class=src>�j��</span> - <span class=date>8 ��&#38047;�e</span>
+</div>
+<div class=snippet>���n�G&#20869;&#36164;���h�V&#23454;�b�O�ֱo�ḭ�A���F�ѥ��B&#27004;���A������&#36164;��D��֡A�@���ѥ��j�^�B&#27004;���N�M�A&#20869;&#36164;�N��M�F�A��&#25968;��&#36164;�y�J�q&#32960;&#26102;��������B&#31918;���B��G��&#22330;�A����&#20174;�F�����&#20250;���P&#22768;&#35892;&#36131;�C ...</div>
+<div class=rel-article>
+<a href="http://hkstock.cnfol.com/101202/132,1357,8902232,00.shtml" rel=nofollow target=_blank id=n-hp- >&#31246;�v&#32479;�@ �~�����W&#22269;���ݹJ��&#32456;&#32467;</a>&nbsp;&nbsp;<span class=byline>
+<span class=src>�����b&#32447;</span>
+</span></div>
+<div class=rel-article>
+<a href="http://news.sina.com.cn/o/2010-12-02/065818425761s.shtml" rel=nofollow target=_blank id=n-hp- >&#31246;&#36153;&#32479;�@ &#20869;�~&#36164;��&#19994;����&#31454;&#20105;�_�B</a>&nbsp;&nbsp;<span class=byline>
+<span class=src>�s���I</span>
+</span></div>
+<div class=rel-article>
+<span class=byline>
+<a href="http://www.jfdaily.com/a/1724525.htm" rel=nofollow target=_blank class=rel id=n-hp- >�ѩ���I</a>&nbsp;&nbsp;
+<a href="http://news.163.com/10/1202/06/6MSMBL4H00014AED.html" rel=nofollow target=_blank class=rel id=n-hp- >�I��</a>&nbsp;&nbsp;
+<a class=more-rel href="http://news.google.com/news/more?ncl=dBrIWWTWz6jnPYM&amp;hl=zh-CN&amp;ned=cn" rel=nofollow target=_blank id=n-r- >��&#20851; &raquo;</a>
+</span></div>
+</div>
+</div>
+</div>
+<div class=id-summary-chart><div class=sfe-home-chart>
+<div class=ic-chart><a href="/finance?q=SHA:000001,SHE:399001&amp;gl=cn" target=_blank><img  src="/finance/chart?cht=c&amp;q=SHA:000001,SHE:399001&amp;chlc=rg&amp;tlf=24h" height=130 width=250
+    id=mkt-chart class=id-mkt-chart 
+      onload="_tck('ic')" alt="�ѥ�&#22270;��"></a></div>
+</div>
+<table id="sfe-mktsumm">
+<tr>
+<td class=legend><img alt="" class="SP_legend0 legend" src="data:image/gif;base64,R0">
+<td><div class="name bld">
+<a href="/finance?q=SHA:000001&amp;gl=cn" target=_blank>�W&#35777;&#32508;��</a></div>
+<td class="bld"><span id="ref_7521596_l">2,823.45</span>
+<td><span class="bld chr" id="ref_7521596_c">+3.27</span>
+<td><span class="chr" id="ref_7521596_cp">(0.12%)</span>
+<tr>
+<td class=legend><img alt="" class="SP_legend1 legend" src="data:image/gif;base64,R0">
+<td><div class="name bld">
+<a href="/finance?q=SHE:399001&amp;gl=cn" target=_blank>�`&#35777;����</a></div>
+<td class="bld"><span id="ref_9692709_l">12,310.38</span>
+<td><span class="bld chg" id="ref_9692709_c">-25.90</span>
+<td><span class="chg" id="ref_9692709_cp">(-0.21%)</span>
+<tr>
+<td class=legend>
+<td><div class="name bld">
+<a href="/finance?q=INDEXHANGSENG:.HSI&amp;gl=cn" target=_blank>�ڥͫ�&#25968;</a></div>
+<td class="bld"><span id="ref_13414271_l">23,249.80</span>
+<td><span class="bld chr" id="ref_13414271_c">+241.81</span>
+<td><span class="chr" id="ref_13414271_cp">(1.05%)</span>
+</table>
+</div>
+</div>
+<div class="sfe-section clf"></div>
+<div class=mid-reorder>
+<div id=mk-news
+>
+<div class="goog-tab-bar hdg id-news-tabs" id=news-tabs>
+<div class="goog-tab-disabled float"><h3>&#28909;&#28857;&#36164;&#35759;</h3></div>
+<div 
+  class="goog-tab goog-tab-selected"
+>
+<a id=market-news-title class=t><b class=t><b class=t>��&#22330;</b></b></a></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class=goog-tabpane-clear></div>
+<div class="news sfe-section-major id-market-news" id=market-news 
+  
+>
+<div class="news multi-columns sfe-break-bottom-4">
+<ol>
+<li>
+<span class="nwp title">
+<a title="�U�j�D�O�E&#25112;&#23681;�� ��&#20122;&#20255;�����ѩΨ��g��&#26469;(��)" href="http://content.caixun.com/NE/02/bk/NE02bkin.shtm" rel=nofollow target=_blank id=n-hp- >�U�j�D�O�E&#25112;&#23681;�� ��&#20122;&#20255;�����ѩΨ��g��&#26469;(...
+</a>&nbsp;&nbsp;
+</span>
+<span class="nwp smaller second-line">
+<span class=src>&#36130;&#35759; -</span>
+<span class=date>11 ��&#38047;�e</span>
+-
+<a class=more-rel href="http://news.google.com/news/more?ncl=dO5DtA0J0qCM8xM&amp;hl=zh-CN&amp;ned=cn" rel=nofollow target=_blank id=n-r- >��&#20851; &raquo;</a>
+</span>
+</li>
+<li>
+<span class="nwp title">
+<a title="�H����&#25253;&#21457;��O���ѥ��G�j&#30424;�Ϊ�&#26469;&#21464;&#30424;����" href="http://business.sohu.com/20101202/n278046109.shtml" rel=nofollow target=_blank id=n-hp- >�H����&#25253;&#21457;��O���ѥ��G�j&#30424;�Ϊ�&#26469;&#21464;&#30424;����
+</a>&nbsp;&nbsp;
+</span>
+<span class="nwp smaller second-line">
+<span class=src>�j�� -</span>
+<span class=date>7 ��&#38047;�e</span>
+-
+<a class=more-rel href="http://news.google.com/news/more?ncl=d7qeWyyFt8l-rXM&amp;hl=zh-CN&amp;ned=cn" rel=nofollow target=_blank id=n-r- >��&#20851; &raquo;</a>
+</span>
+</li>
+<li>
+<span class="nwp title">
+<a title="�����J��&#26029;����������p��&#19994;���^��M���" href="http://finance.ifeng.com/roll/20101202/2989098.shtml" rel=nofollow target=_blank id=n-hp- >�����J��&#26029;����������p��&#19994;���^��M���
+</a>&nbsp;&nbsp;
+</span>
+<span class="nwp smaller second-line">
+<span class=src>&#20964;���I -</span>
+<span class=date>18 ��&#38047;�e</span>
+-
+<a class=more-rel href="http://news.google.com/news/more?ncl=dX5MvHJdilQ1y4M&amp;hl=zh-CN&amp;ned=cn" rel=nofollow target=_blank id=n-r- >��&#20851; &raquo;</a>
+</span>
+</li>
+<li>
+<span class="nwp title">
+<a title="&#21326;&#35850;�S�̡G547��&#30005;&#35270;&#21095;���~&#25311;��" href="http://money.163.com/10/1202/07/6MSO0M5O00253B0H.html" rel=nofollow target=_blank id=n-hp- >&#21326;&#35850;�S�̡G547��&#30005;&#35270;&#21095;���~&#25311;��
+</a>&nbsp;&nbsp;
+</span>
+<span class="nwp smaller second-line">
+<span class=src>�I�� -</span>
+<span class=date>27 ��&#38047;�e</span>
+-
+<a class=more-rel href="http://news.google.com/news/more?ncl=d7S_OkNl1JAHeyM&amp;hl=zh-CN&amp;ned=cn" rel=nofollow target=_blank id=n-r- >��&#20851; &raquo;</a>
+</span>
+</li>
+<li>
+<span class="nwp title">
+<a title="&#22269;���g�w�G&#35265;���^�ɷ��v�v�B�[�j" href="http://research.stcn.com/content/2010-12/02/content_1726513.htm" rel=nofollow target=_blank id=n-hp- >&#22269;���g�w�G&#35265;���^�ɷ��v�v�B�[�j
+</a>&nbsp;&nbsp;
+</span>
+<span class="nwp smaller second-line">
+<span class=src>&#35777;��&#26102;&#25253; -</span>
+<span class=date>1 �p&#26102;�e</span>
+-
+<a class=more-rel href="http://news.google.com/news/more?ncl=d-94UjKxJoxvgAM&amp;hl=zh-CN&amp;ned=cn" rel=nofollow target=_blank id=n-r- >��&#20851; &raquo;</a>
+</span>
+</li>
+<li>
+<span class="nwp title">
+<a title="PMI&#36141;&#36827;ɲ���&#25968;�ɦ�&#20004;�~�̰� �q&#32960;&#21387;�O&#32487;&#32493;�[�j" href="http://finance.ifeng.com/roll/20101202/2989081.shtml" rel=nofollow target=_blank id=n-hp- >PMI&#36141;&#36827;ɲ���&#25968;�ɦ�&#20004;�~�̰� �q&#32960;&#21387;�O&#32487;&#32493;...
+</a>&nbsp;&nbsp;
+</span>
+<span class="nwp smaller second-line">
+<span class=src>&#20964;���I -</span>
+<span class=date>18 ��&#38047;�e</span>
+-
+<a class=more-rel href="http://news.google.com/news/more?ncl=dlb64LdGAghV-BM&amp;hl=zh-CN&amp;ned=cn" rel=nofollow target=_blank id=n-r- >��&#20851; &raquo;</a>
+</span>
+</li>
+<li>
+<span class="nwp title">
+<a title="�@���s�릨&#30270;&#20250;�_&#26080;&#33647;�i&#21307;" href="http://news.xinhuanet.com/politics/2010-12/02/c_12838274.htm" rel=nofollow target=_blank id=n-hp- >�@���s�릨&#30270;&#20250;�_&#26080;&#33647;�i&#21307;
+</a>&nbsp;&nbsp;
+</span>
+<span class="nwp smaller second-line">
+<span class=src>�s&#21326;�I -</span>
+<span class=date>26 ��&#38047;�e</span>
+-
+<a class=more-rel href="http://news.google.com/news/more?ncl=dWcaXvcAbVxxZfM&amp;hl=zh-CN&amp;ned=cn" rel=nofollow target=_blank id=n-r- >��&#20851; &raquo;</a>
+</span>
+</li>
+<li>
+<span class="nwp title">
+<a title="���Ϊo��&#26469;4&#20010;�뤣�o&#28072;ɲ" href="http://news.sina.com.cn/o/2010-12-02/073718426165s.shtml" rel=nofollow target=_blank id=n-hp- >���Ϊo��&#26469;4&#20010;�뤣�o&#28072;ɲ
+</a>&nbsp;&nbsp;
+</span>
+<span class="nwp smaller second-line">
+<span class=src>�s���I -</span>
+<span class=date>30 ��&#38047;�e</span>
+-
+<a class=more-rel href="http://news.google.com/news/more?ncl=dTHCMXnzxYxvfxM&amp;hl=zh-CN&amp;ned=cn" rel=nofollow target=_blank id=n-r- >��&#20851; &raquo;</a>
+</span>
+</li>
+<li>
+<span class="nwp title">
+<a title="�����j�T�U�� &#29616;&#36135;���P�T����" href="http://money.sohu.com/20101202/n278044167.shtml" rel=nofollow target=_blank id=n-hp- >�����j�T�U�� &#29616;&#36135;���P�T����
+</a>&nbsp;&nbsp;
+</span>
+<span class="nwp smaller second-line">
+<span class=src>�j�� -</span>
+<span class=date>1 �p&#26102;�e</span>
+-
+<a class=more-rel href="http://news.google.com/news/more?ncl=dPkU3ZqJ0oQAKVM&amp;hl=zh-CN&amp;ned=cn" rel=nofollow target=_blank id=n-r- >��&#20851; &raquo;</a>
+</span>
+</li>
+<li>
+<span class="nwp title">
+<a title="�Q�_&#38397;&#23545;&#40092;��&#20892;&#20135;�~ �K���q��&#36153;" href="http://haixi.cnfol.com/101202/417,1948,8902506,00.shtml" rel=nofollow target=_blank id=n-hp- >�Q�_&#38397;&#23545;&#40092;��&#20892;&#20135;�~ �K���q��&#36153;
+</a>&nbsp;&nbsp;
+</span>
+<span class="nwp smaller second-line">
+<span class=src>�����b&#32447; -</span>
+<span class=date>9 ��&#38047;�e</span>
+-
+<a class=more-rel href="http://news.google.com/news/more?ncl=dPTqS2imHNYez4M&amp;hl=zh-CN&amp;ned=cn" rel=nofollow target=_blank id=n-r- >��&#20851; &raquo;</a>
+</span>
+</li>
+<li>
+<span class="nwp title">
+<a title="&#20135;�౱���&#26174;���� ��Ӭݦn��d��&#19994;" href="http://finance.ifeng.com/stock/hybg/20101202/2987960.shtml" rel=nofollow target=_blank id=n-hp- >&#20135;�౱���&#26174;���� ��Ӭݦn��d��&#19994;
+</a>&nbsp;&nbsp;
+</span>
+<span class="nwp smaller second-line">
+<span class=src>&#20964;���I -</span>
+<span class=date>1 �p&#26102;�e</span>
+-
+<a class=more-rel href="http://news.google.com/news/more?ncl=dbhYRTciH9gFB3M&amp;hl=zh-CN&amp;ned=cn" rel=nofollow target=_blank id=n-r- >��&#20851; &raquo;</a>
+</span>
+</li>
+<li>
+<span class="nwp title">
+<a title="��&#24198;&#20892;�Ӧ��&#39046;IPO�Ĥ@&#21333; &#20892;�Ӧ淧���|�s&#38544;&#24551;" href="http://finance.ifeng.com/bank/zzyh/20101202/2989137.shtml" rel=nofollow target=_blank id=n-hp- >��&#24198;&#20892;�Ӧ��&#39046;IPO�Ĥ@&#21333; &#20892;�Ӧ淧���|�s&#38544;...
+</a>&nbsp;&nbsp;
+</span>
+<span class="nwp smaller second-line">
+<span class=src>&#20964;���I -</span>
+<span class=date>17 ��&#38047;�e</span>
+-
+<a class=more-rel href="http://news.google.com/news/more?ncl=d0IySG1uiYjF7BM&amp;hl=zh-CN&amp;ned=cn" rel=nofollow target=_blank id=n-r- >��&#20851; &raquo;</a>
+</span>
+</li>
+<li>
+<span class="nwp title">
+<a title="&#22269;�a&#31283;�w��ɲ���I&#35265;�� &#20892;&#20135;�~��&#20135;&#36164;��ɲ��^��" href="http://roll.sohu.com/20101202/n300811561.shtml" rel=nofollow target=_blank id=n-hp- >&#22269;�a&#31283;�w��ɲ���I&#35265;�� &#20892;&#20135;�~��&#20135;&#36164;��ɲ��...
+</a>&nbsp;&nbsp;
+</span>
+<span class="nwp smaller second-line">
+<span class=src>�j�� -</span>
+<span class=date>57 ��&#38047;�e</span>
+-
+<a class=more-rel href="http://news.google.com/news/more?ncl=dM1EZr4vTZgXHKM&amp;hl=zh-CN&amp;ned=cn" rel=nofollow target=_blank id=n-r- >��&#20851; &raquo;</a>
+</span>
+</li>
+<li>
+<span class="nwp title">
+<a title="�_��&#23454;��&#33647;�~�P���Pɲ" href="http://news.xinhuanet.com/fortune/2010-12/02/c_12838346.htm" rel=nofollow target=_blank id=n-hp- >�_��&#23454;��&#33647;�~�P���Pɲ
+</a>&nbsp;&nbsp;
+</span>
+<span class="nwp smaller second-line">
+<span class=src>�s&#21326;�I -</span>
+<span class=date>11 ��&#38047;�e</span>
+-
+<a class=more-rel href="http://news.google.com/news/more?ncl=dgNvZX6bTjFtzDM&amp;hl=zh-CN&amp;ned=cn" rel=nofollow target=_blank id=n-r- >��&#20851; &raquo;</a>
+</span>
+</li>
+<li>
+<span class="nwp title">
+<a title="����&#36149;�T&#36145;����&#38382;��ׯ�" href="http://dt.people.com.cn/GB/13373030.html" rel=nofollow target=_blank id=n-hp- >����&#36149;�T&#36145;����&#38382;��ׯ�
+</a>&nbsp;&nbsp;
+</span>
+<span class="nwp smaller second-line">
+<span class=src>�H���I -</span>
+<span class=date>12 ��&#38047;�e</span>
+-
+<a class=more-rel href="http://news.google.com/news/more?ncl=dNUB6bRaaUAYJsM&amp;hl=zh-CN&amp;ned=cn" rel=nofollow target=_blank id=n-r- >��&#20851; &raquo;</a>
+</span>
+</li>
+<li>
+<span class="nwp title">
+<a title="&#32445;&#32422;��o&#28072;�O3% &#40644;���p�T����" href="http://roll.sohu.com/20101202/n300813261.shtml" rel=nofollow target=_blank id=n-hp- >&#32445;&#32422;��o&#28072;�O3% &#40644;���p�T����
+</a>&nbsp;&nbsp;
+</span>
+<span class="nwp smaller second-line">
+<span class=src>�j�� -</span>
+<span class=date>22 ��&#38047;�e</span>
+-
+<a class=more-rel href="http://news.google.com/news/more?ncl=deK6NrpzSKnRDpM&amp;hl=zh-CN&amp;ned=cn" rel=nofollow target=_blank id=n-r- >��&#20851; &raquo;</a>
+</span>
+</li>
+</ol>
+</div>
+<div class=section-link><a href="/finance/market_news?gl=cn" target=_blank>��h��&#22330;&#36164;&#35759; &raquo; </a></div>
+</div>
+</div>
+<div id=country-widget
+>
+<div class=hdg>
+<div class=float><h3>�O&#22359;�污</h3></div>
+<div class="gf-reorder-btn SP_menu_button hide"></div>
+</div>
+<div id=secperf class="id-secperf sfe-section-major">
+<table width="100%" cellpadding=0 cellspacing=0>
+<tr class=colHeader>
+<td style="text-align:left; padding-right:0.5em">�O&#22359;</td>
+<td style="padding-right:1em;">&#28072;�^</td>
+<td style="text-align:center" colspan=2>&#28072;�^����</td>
+</tr>
+<tr>
+<td style="text-align:left; padding-right:0.5em"><a  href="/finance?catid=CSRC:A&amp;gl=cn" target=_blank>&#20892;�B�L�B���B&#28180;&#19994;</a></td>
+<td style="width:20%; padding-right:1em">
+<span  class=chr>+0.07%</span>
+</td>
+<td style="width:21%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td style="background-color:#FFFFFF; width:14%"></td>
+<td class="chgSectorDark" style="width:38%" title="20% &#20892;�B�L�B���B&#28180;&#19994; �������q�U�^�W&#36807; 2%"></td>
+<td class="chgSectorLight" style="width:48%; border-right:1px #CCB3AB solid" title="25% &#20892;�B�L�B���B&#28180;&#19994; �������q�U�^���_ 0% �� 2%"></td>
+</tr>
+</table>
+</td>
+<td style="width:39%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td class="chrSectorLight" style="width:44%;" title="40% &#20892;�B�L�B���B&#28180;&#19994; �������q�W&#28072;���_ 0% �� 2%"></td>
+<td class="chrSectorDark" style="width:16%" title="15% &#20892;�B�L�B���B&#28180;&#19994; �������q�W&#28072;�W&#36807; 2%"></td>
+<td style="background-color:#FFFFFF; width:40%"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align:left; padding-right:0.5em"><a  href="/finance?catid=CSRC:B&amp;gl=cn" target=_blank>����&#19994;</a></td>
+<td style="width:20%; padding-right:1em">
+<span  class=chb>+0.00%</span>
+</td>
+<td style="width:21%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td style="background-color:#FFFFFF; width:28%"></td>
+<td class="chgSectorDark" style="width:11%" title="6% ����&#19994; �������q�U�^�W&#36807; 2%"></td>
+<td class="chgSectorLight" style="width:61%; border-right:1px #CCB3AB solid" title="32% ����&#19994; �������q�U�^���_ 0% �� 2%"></td>
+</tr>
+</table>
+</td>
+<td style="width:39%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td class="chrSectorLight" style="width:50%;" title="45% ����&#19994; �������q�W&#28072;���_ 0% �� 2%"></td>
+<td class="chrSectorDark" style="width:18%" title="17% ����&#19994; �������q�W&#28072;�W&#36807; 2%"></td>
+<td style="background-color:#FFFFFF; width:32%"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align:left; padding-right:0.5em"><a  href="/finance?catid=CSRC:C&amp;gl=cn" target=_blank>��y&#19994;</a></td>
+<td style="width:20%; padding-right:1em">
+<span  class=chg>-0.22%</span>
+</td>
+<td style="width:21%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td style="background-color:#FFFFFF; width:10%"></td>
+<td class="chgSectorDark" style="width:23%" title="12% ��y&#19994; �������q�U�^�W&#36807; 2%"></td>
+<td class="chgSectorLight" style="width:67%; border-right:1px #CCB3AB solid" title="35% ��y&#19994; �������q�U�^���_ 0% �� 2%"></td>
+</tr>
+</table>
+</td>
+<td style="width:39%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td class="chrSectorLight" style="width:43%;" title="39% ��y&#19994; �������q�W&#28072;���_ 0% �� 2%"></td>
+<td class="chrSectorDark" style="width:15%" title="14% ��y&#19994; �������q�W&#28072;�W&#36807; 2%"></td>
+<td style="background-color:#FFFFFF; width:42%"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align:left; padding-right:0.5em"><a  href="/finance?catid=CSRC:D&amp;gl=cn" target=_blank>&#30005;�O�B���a�Τ��...</a></td>
+<td style="width:20%; padding-right:1em">
+<span  class=chr>+2.02%</span>
+</td>
+<td style="width:21%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td style="background-color:#FFFFFF; width:82%"></td>
+<td class="chgSectorDark" style="width:1%" title="1% &#30005;�O�B���a�Τ����&#20135;�M��&#24212;&#19994; �������q�U�^�W&#36807; 2%"></td>
+<td class="chgSectorLight" style="width:17%; border-right:1px #CCB3AB solid" title="9% &#30005;�O�B���a�Τ����&#20135;�M��&#24212;&#19994; �������q�U�^���_ 0% �� 2%"></td>
+</tr>
+</table>
+</td>
+<td style="width:39%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td class="chrSectorLight" style="width:58%;" title="53% &#30005;�O�B���a�Τ����&#20135;�M��&#24212;&#19994; �������q�W&#28072;���_ 0% �� 2%"></td>
+<td class="chrSectorDark" style="width:41%" title="37% &#30005;�O�B���a�Τ����&#20135;�M��&#24212;&#19994; �������q�W&#28072;�W&#36807; 2%"></td>
+<td style="background-color:#FFFFFF; width:1%"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align:left; padding-right:0.5em"><a  href="/finance?catid=CSRC:E&amp;gl=cn" target=_blank>�ص�&#19994;</a></td>
+<td style="width:20%; padding-right:1em">
+<span  class=chr>+0.23%</span>
+</td>
+<td style="width:21%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td style="background-color:#FFFFFF; width:34%"></td>
+<td class="chgSectorDark" style="width:9%" title="5% �ص�&#19994; �������q�U�^�W&#36807; 2%"></td>
+<td class="chgSectorLight" style="width:57%; border-right:1px #CCB3AB solid" title="30% �ص�&#19994; �������q�U�^���_ 0% �� 2%"></td>
+</tr>
+</table>
+</td>
+<td style="width:39%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td class="chrSectorLight" style="width:48%;" title="44% �ص�&#19994; �������q�W&#28072;���_ 0% �� 2%"></td>
+<td class="chrSectorDark" style="width:23%" title="21% �ص�&#19994; �������q�W&#28072;�W&#36807; 2%"></td>
+<td style="background-color:#FFFFFF; width:29%"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align:left; padding-right:0.5em"><a  href="/finance?catid=CSRC:F&amp;gl=cn" target=_blank>��q&#36816;&#36755;�B&#20179;&#20648;&#19994;</a></td>
+<td style="width:20%; padding-right:1em">
+<span  class=chr>+0.04%</span>
+</td>
+<td style="width:21%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td style="background-color:#FFFFFF; width:51%"></td>
+<td class="chgSectorDark" style="width:1%" title="1% ��q&#36816;&#36755;�B&#20179;&#20648;&#19994; �������q�U�^�W&#36807; 2%"></td>
+<td class="chgSectorLight" style="width:48%; border-right:1px #CCB3AB solid" title="25% ��q&#36816;&#36755;�B&#20179;&#20648;&#19994; �������q�U�^���_ 0% �� 2%"></td>
+</tr>
+</table>
+</td>
+<td style="width:39%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td class="chrSectorLight" style="width:75%;" title="68% ��q&#36816;&#36755;�B&#20179;&#20648;&#19994; �������q�W&#28072;���_ 0% �� 2%"></td>
+<td class="chrSectorDark" style="width:6%" title="6% ��q&#36816;&#36755;�B&#20179;&#20648;&#19994; �������q�W&#28072;�W&#36807; 2%"></td>
+<td style="background-color:#FFFFFF; width:19%"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align:left; padding-right:0.5em"><a  href="/finance?catid=CSRC:G&amp;gl=cn" target=_blank>�H����&#26415;&#19994;</a></td>
+<td style="width:20%; padding-right:1em">
+<span  class=chr>+0.11%</span>
+</td>
+<td style="width:21%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td style="background-color:#FFFFFF; width:22%"></td>
+<td class="chgSectorDark" style="width:9%" title="5% �H����&#26415;&#19994; �������q�U�^�W&#36807; 2%"></td>
+<td class="chgSectorLight" style="width:69%; border-right:1px #CCB3AB solid" title="36% �H����&#26415;&#19994; �������q�U�^���_ 0% �� 2%"></td>
+</tr>
+</table>
+</td>
+<td style="width:39%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td class="chrSectorLight" style="width:42%;" title="38% �H����&#26415;&#19994; �������q�W&#28072;���_ 0% �� 2%"></td>
+<td class="chrSectorDark" style="width:23%" title="21% �H����&#26415;&#19994; �������q�W&#28072;�W&#36807; 2%"></td>
+<td style="background-color:#FFFFFF; width:35%"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align:left; padding-right:0.5em"><a  href="/finance?catid=CSRC:H&amp;gl=cn" target=_blank>��&#21457;�M�s��&#36152;��</a></td>
+<td style="width:20%; padding-right:1em">
+<span  class=chg>-0.58%</span>
+</td>
+<td style="width:21%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td style="background-color:#FFFFFF; width:1%"></td>
+<td class="chgSectorDark" style="width:19%" title="10% ��&#21457;�M�s��&#36152;�� �������q�U�^�W&#36807; 2%"></td>
+<td class="chgSectorLight" style="width:80%; border-right:1px #CCB3AB solid" title="42% ��&#21457;�M�s��&#36152;�� �������q�U�^���_ 0% �� 2%"></td>
+</tr>
+</table>
+</td>
+<td style="width:39%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td class="chrSectorLight" style="width:40%;" title="36% ��&#21457;�M�s��&#36152;�� �������q�W&#28072;���_ 0% �� 2%"></td>
+<td class="chrSectorDark" style="width:13%" title="12% ��&#21457;�M�s��&#36152;�� �������q�W&#28072;�W&#36807; 2%"></td>
+<td style="background-color:#FFFFFF; width:47%"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align:left; padding-right:0.5em"><a  href="/finance?catid=CSRC:I&amp;gl=cn" target=_blank>���ġB�O&#38505;&#19994;</a></td>
+<td style="width:20%; padding-right:1em">
+<span  class=chr>+0.61%</span>
+</td>
+<td style="width:21%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td style="background-color:#FFFFFF; width:68%"></td>
+<td class="chgSectorLight" style="width:32%; border-right:1px #CCB3AB solid" title="17% ���ġB�O&#38505;&#19994; �������q�U�^���_ 0% �� 2%"></td>
+</tr>
+</table>
+</td>
+<td style="width:39%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td class="chrSectorLight" style="width:86%;" title="78% ���ġB�O&#38505;&#19994; �������q�W&#28072;���_ 0% �� 2%"></td>
+<td class="chrSectorDark" style="width:5%" title="5% ���ġB�O&#38505;&#19994; �������q�W&#28072;�W&#36807; 2%"></td>
+<td style="background-color:#FFFFFF; width:9%"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align:left; padding-right:0.5em"><a  href="/finance?catid=CSRC:J&amp;gl=cn" target=_blank>�Цa&#20135;&#19994;</a></td>
+<td style="width:20%; padding-right:1em">
+<span  class=chr>+0.83%</span>
+</td>
+<td style="width:21%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td style="background-color:#FFFFFF; width:72%"></td>
+<td class="chgSectorDark" style="width:9%" title="5% �Цa&#20135;&#19994; �������q�U�^�W&#36807; 2%"></td>
+<td class="chgSectorLight" style="width:19%; border-right:1px #CCB3AB solid" title="10% �Цa&#20135;&#19994; �������q�U�^���_ 0% �� 2%"></td>
+</tr>
+</table>
+</td>
+<td style="width:39%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td class="chrSectorLight" style="width:74%;" title="67% �Цa&#20135;&#19994; �������q�W&#28072;���_ 0% �� 2%"></td>
+<td class="chrSectorDark" style="width:20%" title="18% �Цa&#20135;&#19994; �������q�W&#28072;�W&#36807; 2%"></td>
+<td style="background-color:#FFFFFF; width:6%"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align:left; padding-right:0.5em"><a  href="/finance?catid=CSRC:K&amp;gl=cn" target=_blank>��&#20250;�A&#21153;&#19994;</a></td>
+<td style="width:20%; padding-right:1em">
+<span  class=chr>+0.64%</span>
+</td>
+<td style="width:21%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td style="background-color:#FFFFFF; width:17%"></td>
+<td class="chgSectorDark" style="width:3%" title="2% ��&#20250;�A&#21153;&#19994; �������q�U�^�W&#36807; 2%"></td>
+<td class="chgSectorLight" style="width:80%; border-right:1px #CCB3AB solid" title="42% ��&#20250;�A&#21153;&#19994; �������q�U�^���_ 0% �� 2%"></td>
+</tr>
+</table>
+</td>
+<td style="width:39%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td class="chrSectorLight" style="width:48%;" title="44% ��&#20250;�A&#21153;&#19994; �������q�W&#28072;���_ 0% �� 2%"></td>
+<td class="chrSectorDark" style="width:13%" title="12% ��&#20250;�A&#21153;&#19994; �������q�W&#28072;�W&#36807; 2%"></td>
+<td style="background-color:#FFFFFF; width:39%"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="text-align:left; padding-right:0.5em"><a  href="/finance?catid=CSRC:L&amp;gl=cn" target=_blank>&#20256;���O���&#20135;&#19994;</a></td>
+<td style="width:20%; padding-right:1em">
+<span  class=chr>+0.94%</span>
+</td>
+<td style="width:21%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td style="background-color:#FFFFFF; width:24%"></td>
+<td class="chgSectorLight" style="width:76%; border-right:1px #CCB3AB solid" title="40% &#20256;���O���&#20135;&#19994; �������q�U�^���_ 0% �� 2%"></td>
+</tr>
+</table>
+</td>
+<td style="width:39%">
+<table class=bars cellpadding="0" cellspacing="0" width="100%">
+<tr style="height:0.9em">
+<td class="chrSectorLight" style="width:55%;" title="50% &#20256;���O���&#20135;&#19994; �������q�W&#28072;���_ 0% �� 2%"></td>
+<td class="chrSectorDark" style="width:11%" title="10% &#20256;���O���&#20135;&#19994; �������q�W&#28072;�W&#36807; 2%"></td>
+<td style="background-color:#FFFFFF; width:34%"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div id=economy-indicators
+>
+<div class=hdg>
+<div class=float><h3>���n&#32463;&#27982;��&#26631;</h3></div>
+<div class="gf-reorder-btn SP_menu_button hide"></div>
+</div>
+<div class=sfe-section>
+<table class=quotes cellpadding=0 cellspacing=0 width=90.5%>
+<tr>
+<td colspan=5 class=lft style="width:55%">
+<b>�~����&#36153;ɲ���&#25968;�]CPI�^</b>
+<tr>
+<td class=lft>2010-10
+<td class=rgt>4.4%
+<td style="width:20%">
+<td colspan=2 class=lft style="width:45%">
+<b>&#36151;�ڧQ�v</b>
+<tr>
+<td colspan=2 class=lft>
+<b>�s�ڧQ�v</b>
+<td>
+<td class=lft>�@�ܤT�~��&#19994;&#36151;��
+<td class=rgt>5.6%
+<tr>
+<td class=lft>�����s��
+<td class=rgt>0.36%
+<td>
+<td class=lft>�T�ܤ��~��&#19994;&#36151;��
+<td class=rgt>5.96%
+<tr>
+<td class=lft>�T&#20010;��w�s
+<td class=rgt>1.91%
+<td>
+<td class=lft>���~�H�W��&#19994;&#36151;��
+<td class=rgt>6.14%
+<tr>
+<td class=lft>�b�~�w�s
+<td class=rgt>2.2%
+<td>
+<td class=lft>�@�ܤ��~��&#31215;��&#36151;��
+<td class=rgt>3.5%
+<tr>
+<td class=lft>�@�~�w�s
+<td class=rgt>2.5%
+<td>
+<td class=lft>���~�H�W��&#31215;��&#36151;��
+<td class=rgt>4.05%
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- b -->
+</div>
+</div>
+<script type="text/javascript">var google=google||{};var _cleardot = '/finance/s/m4C5KaofCbA/images/cleardot.gif';</script>
+<script type="text/javascript" src="/finance/s/GUTCTrlu6-I/js/finance-opt.js?hl=zh-CN&gl=cn"></script>
+<script type="text/javascript">
+(function(){var d=navigator.userAgent.toLowerCase().indexOf("msie")!=-1;function e(){for(var a=document.styleSheets,b=a.length-1;b>=0;--b){var c=a[b].href;if(c)if(c.indexOf("styles/finance_")!=-1||c.indexOf("styles_")!=-1)return a[b]}return null}function f(){var a=e();if(a){a=a.rules;return a.length>0&&a[a.length-1].selectorText==".lastFinanceRule"}return false}
+function g(){if(document.scripts)for(var a=0;a<document.scripts.length;++a){var b=document.scripts[a];if(b&&b.src.indexOf("/js/gen_finance.js")!=-1)return b}return null}function _chkCssJs(){if(d){if(typeof _lastFinanceFn!="function"){var a=g();if(a&&a.src){var b=a.src.indexOf("?")!=-1?"&":"?";a.src+=b+"zx="+Math.random()}}if(!f())if((a=e())&&a.href){b=a.href.indexOf("?")!=-1?"&":"?";a.href+=b+"zx="+Math.random()}}};_chkCssJs();})();
+  
+    _setStickyUrlParams("gl=cn");
+  </script>
+<!-- js-a -->
+<script>
+var _prefs=_prefs||{};_prefs.hash="";
+_prefs.promo=_prefs.promo||{};
+_prefs.home_tabs=_prefs.home_tabs||{};
+_prefs.home=_prefs.home||{};
+_prefs.home["sorder"] = 'MCI-WATFB';
+function initPage() {
+_aQ("SHA:000001","7521596");_aQ("SHE:399001","9692709");_aQ("INDEXSP:.INX","626307");_aQ("INDEXNIKKEI:.N225","15513676");_aQ("TPE:.TWII","9947405");_aQ("INDEXFTSE:.FTSE","12590587");_aQ("INDEXDJSTOXX:.STOXX50E","7354851");_aQ("INDEXEURO:.FCHI","12156165");_aQ("TSE:.GSPTSE","9291235");_aQ("INDEXASX:.AXJO","14240693");_aQ("INDEXBOM:.BSESN","15173681");
+google.MiniPortfolios.setHiddenPids(
+"",
+"");
+google.finance.data.home = google.finance.data.home || {};
+google.finance.data.home.tmExch = ["SHA-a","SHA-b","SHE-a","SHE-b","SHE-q"];
+google.finance.onHomeLoad();
+}
+_eventid = 'o-T2TJyZMIX6qwOn8YzZBw';
+var google = google || {};
+google.finance = google.finance || {};
+google.finance.data = {common:{rq:{ct:""},up:"chr",down:"chg",linktargetInternal:"target=_blank",hash:"",dfp:"http://ad-g.doubleclick.net/adi/com.gf.home/default;sz=300x250;dcopt=ist;myd=ad"},home:{widescreen_width:990},stickyUrlArgs:"\x26gl=cn"};
+google.finance.data.numberFormat = [{'threshold':10000, 'symbol':'\u4e07'}, {'threshold':100000000,'symbol':'\u4ebf'}, {'threshold':1000000000000,'symbol':'\u4e07\u4ebf'}] ;
+if (_s_Store) {
+_s_Store._allowMatchAdvancedSearch = true;
+var _fieldToDisplayNameMap = {GrossMargin:"��Q&#28070;�v&nbsp;(%)",Return1Week:"1 �P�^&#25253;�v",Return156Week:"156 �P�^&#25253;�v",NextYearEPS:"�U�@�~�C�Ѧ��q",LTDebtToAssetsYear:"&#38271;��&#20538;��/&#36164;&#20135;�]�W�@�~�^(%)",RevenueGrowthRate5Years:"5 �~���J�W&#38271;�v",EarningsAfterTaxes:"&#31246;�Z���q",DividendPerShare:"�C�ѪѮ�",MarketCap:"����",NetProfitMarginPercent:"&#20928;�Q&#28070;�v&nbsp;(%)",Float:"�y�q��&#25968;�q",EarningsBeforeTaxes:"&#31246;�e���q",QuotePercChange:"��ɲ&#28072;�^�T&nbsp;(%)",TotalDebtToEquityYear:"&#24635;&#36127;&#20538;/��&#26435;�]�W�@�~�^(%)",TotalDebtToCapitalQuarter:"&#24635;&#36127;&#20538;/&#36164;���]�W�@�u�ס^(%)",LTDebtToCapitalQuarter:"&#38271;��&#36127;&#20538;/&#36164;���]�W�@�~�^(%)",EPSGrowthRate10Years:"10 �~�C�Ѧ��q�W&#38271;�v",Beta:"&#36125;��t&#25968;",ReturnOnAssetsPTM:"&#36164;&#20135;�^&#25253;�v�]&#36807;�h12&#20010;��^(%)",CapitalGain:"&#36164;�����q",BetaDown:"RAS &#36125;��t&#25968;���C",IncomeDividend:"���q�Ѯ�",RevenueGrowthRate10Years:"10 �~���J�W&#38271;�v",MarketCapShareBasis:"���ȪѲ���&#30784;",IAD:"�C�~���w���Ѯ��v",Return4Week:"4 �P�^&#25253;�v",Price150DayAverage:"150 �ѧ�ɲ",EPSGrowthRate5Years:"5 �~�C�Ѧ��q�W&#38271;�v",ReturnOnAssetsTTM:"&#36164;&#20135;�^&#25253;�v�]&#36807;�h 12 &#20010;��^(%)",TotalDebtToAssetsYear:"&#24635;&#36127;&#20538;/&#36164;&#20135;�]�W�@�~�^(%)",Volume:"����q",DividendRecentQuarter:"�W�u�תѮ�",CurrentRatioYear:"�y&#21160;��v",Low52Week:"52 �P�̧Cɲ",ExpenseRatio:"&#24320;���v",Price13WeekPercChange:"13 �Pɲ��&#28072;�^�T&nbsp;(%)",Price1DayPercChange:"1 ��ɲ��&#28072;�^�T&nbsp;(%)",ReturnOnEquity5Years:"��&#26435;�^&#25253;�v�]���� 5 �~�^(%)",TotalDebtToCapitalYear:"&#24635;&#36127;&#20538;/&#36164;���]�W�@�~�^(%)",TotalDebtToAssetsQuarter:"&#24635;&#36127;&#20538;/&#36164;&#20135;�]�W�@�u�ס^(%)",NavChange:"&#36164;&#20135;&#20928;��&#21464;��",OperatingMargin:"&#33829;&#36816;�Q&#28070;�v&nbsp;(%)",DPSRecentYear:"�C�ѪѮ��]�W�@�~�^",ANI:"&#31246;�Z���q�]�W�@�~�^",AverageVolume:"��������q",High52Week:"52 �P�̰�ɲ",Return13Week:"13 �P�^&#25253;�v",PriceToCashFlowPerShare:"�C�Ѫ�ɲ���O&#29616;���y��v",ATAXRATE:"&#31246;�v�]�W�@�~�^",Price26WeekPercChange:"26 �Pɲ��&#28072;�^�T&nbsp;(%)",QuoteChange:"��ɲ&#28072;�^�T",NetIncomeChangePerc:"&#20928;���q&#28072;�^�T&nbsp;(%)",ReturnOnInvestment5Years:"��&#36164;�^&#25253;�v�]5 �~�����^(%)",PE:"���ղv",ReturnOnInvestmentYear:"��&#36164;�^&#25253;�v�]�W�@�~�^(%)",Price200DayAverage:"200 �ѧ�ɲ",DividendNextQuarter:"�U�u�תѮ�",EBITD:"��&#31246;��&#26087;&#25674;&#38144;�e�Q&#28070;",PriceYTDPercChange:"�~��ܤ�ɲ��&#28072;�^�T&nbsp;(%)",ReturnOnInvestmentTTM:"��&#36164;�^&#25253;�v�]&#36807;�h 12 &#20010;��^(%)",NavChangePercent:"&#36164;&#20135;&#20928;��&#21464;��&nbsp;(%)",EBITDMargin:"��&#31246;��&#26087;&#25674;&#38144;�e�Q&#28070;�v (%)",LTDebtToEquityQuarter:"&#38271;��&#36127;&#20538;/��&#26435;�]�W�@�u�ס^(%)",BetaRAS:"RAS &#36125;��t&#25968;",PriceSales:"��ɲ�O&#38144;��&#39069;��v",NetAssets:"&#20928;&#36164;&#20135;",ReturnOnEquityTTM:"��&#26435;�^&#25253;�v�]&#36807;�h 12 &#20010;��^(%)",CashPerShareYear:"�C��&#29616;���t�q",ReturnOnAssets5Years:"&#36164;&#20135;�^&#25253;�v�]5 �~�����^(%)",ReturnDay:"1 ��^&#25253;�v",Return52Week:"52 �P�^&#25253;�v",ForwardPE1Year:"1 �~&#39044;�����ղv",NetIncomeGrowthRate5Years:"5 �~&#20928;���q�W&#38271;�v",DividendYield:"�Ѯ����q�v&nbsp;(%)",Dividend:"&#29616;���y�Ѯ�",BetaUp:"RAS &#36125;��t&#25968;����",LTDebtToCapitalYear:"&#38271;��&#36127;&#20538;/&#36164;���]�W�@�~�^(%)",nprice:"RAS ɲ��",Return260Week:"260 �P�^&#25253;�v",ReturnOnEquityQuarter:"��&#26435;�^&#25253;�v�]�W�@�u�ס^(%)",ACOGS:"�D&#33829;&#19994;&#21153;����",LTDebtToAssetsQuarter:"&#38271;��&#36127;&#20538;/&#36164;&#20135;�]�W�@�u�ס^(%)",PriceToBook:"��ɲ�O&#36134;��ɲ�Ȥ�v",LTDebtToEquityYear:"&#38271;��&#36127;&#20538;/��&#26435;�]�W�@�~�^(%)",ReturnYTD:"�~��ܤ��^&#25253;�v",ReturnOnEquityYear:"��&#26435;�^&#25253;�v�]�W�@�~�^(%)",ReturnOnAssetsQuarter:"&#36164;&#20135;�^&#25253;�v�]�W�@�u�ס^(%)",TotalDebtToEquityQuarter:"&#24635;&#36127;&#20538;/��&#26435;�]�W�@�u�ס^(%)",NavPrior:"�e��&#36164;&#20135;&#20928;��",AINTCOV:"�Q���O�٭�&#25968;",EPS:"�C�Ѧ��q",ReturnOnInvestmentQuarter:"��&#36164;�^&#25253;�v�]�W�@�u�ס^(%)",QuoteLast:"�̷sɲ��",Price50DayAverage:"50 �ѧ�ɲ",Price4WeekPercChange:"4 �Pɲ��&#28072;�^�T&nbsp;(%)",ReturnOnAssetsYear:"&#36164;&#20135;�^&#25253;�v�]�W�@�~�^(%)",MarketCapRAS:"RAS ����",Price52WeekPercChange:"52 �Pɲ��&#28072;�^�T&nbsp;(%)",ShortInterestRatioPercent:"�u���Q�q�v&nbsp;(%)",InstitutionalPercentHeld:"���۫��Ѧʤ���",BookValuePerShareYear:"�C��&#20928;&#36164;&#20135;",ReturnOnEquityPTM:"��&#26435;�^&#25253;�v�]&#36807;�h12&#20010;��^&nbsp;(%)"};
+_s_Store._asStore._addStrings(_fieldToDisplayNameMap);
+}
+if (_s_Store) {
+_s_Store._allowMultipleInBox = true;
+}
+_regOnLoad(initPage);
+</script><!-- js-b -->
+<div id=footer>
+<center>
+<div class=footerBorder>
+<div class=editions>Google &#36130;&#32463;&#27979;&#35797;�����ѤU�C�����G
+<a href="http://www.google.com.hk/finance?hl=zh-TW" >���䪩 (Hong Kong)</a>&nbsp;-
+<a href="http://www.google.ca/finance?hl=en" >Canada</a>&nbsp;-
+<a href="http://www.google.com/finance?hl=en" >U.S.</a>&nbsp;-
+<a href="http://www.google.com.hk/finance?gl=cn" >&#31616;�^���� (China)</a>&nbsp;-
+<a href="http://www.google.co.uk/finance?hl=en" >U.K.</a>
+</div>
+<div class=footerDisclaimer>
+�H��&#26469;�۲ĤT��B�i�঳��&#36831;�A&#20165;��&#21442;�ҨϥΡA����&#35758;�@&#20026;����M�t&#35810;�����u�C<br/> �n�d�ݩҦ�����ҩ�&#36831;&#26102;&#38388;�A&#35831;<a href=
+    "http://www.google.com/intl/zh-CN/help/stock_disclaimer.html"
+ target=_blank style="color:#7777cc">&#21442;&#38405;�K&#36131;&#22768;��</a>�C
+<br><br>
+</div>
+<div class=footerLinks> &copy;2010 Google &nbsp;&nbsp; <a href="http://www.google.com" class=q>Google ��&#39029;</a>
+- <a href="http://googlefinanceblog.blogspot.com/">�ի�</a>
+- <a href=
+  "http://www.google.com/support/finance?hl=zh-CN"
+ class=q>&#24110;�U</a> - <a href="http://finance.google.com/support/bin/request.py?contact_type=suggest&hl=zh-CN" class=q>��&#39304;</a> - <a href="http://www.google.com/intl/zh-CN/privacy.html" class=q>&#38544;�p�F��</a> - <a href="http://www.google.com/accounts/TOS?loc=cn" class=q>�A&#21153;&#26465;��</a><br><br><br> </div>
+</div>
+</center>
+</div>
+</div>
+</div>
+</body>
+</html>

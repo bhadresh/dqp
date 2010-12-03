@@ -1,0 +1,602 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Google Gadgets:&nbsp;
+AnswerBall</title>
+<link href="/desktop/styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+a.selected {
+  font-weight: bold;
+  color: #666;
+  text-decoration: none;
+}
+
+p#nav {
+  line-height: 1.4em;
+}
+
+table.gadget {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+table.gadget td img {
+  border: 1px solid #000;
+  margin: 4px 0px;
+}
+
+body {
+  margin-top: 0px;
+}
+
+table.gadget td input {
+  font-size: 11px;
+  width: 82px;
+}
+
+table.header {
+  margin-bottom: 10px;
+}
+
+table.header h3 {
+  margin-bottom: 0px;
+}
+
+table.header hr {
+  color: #ccc;
+  background-color: #ccc;
+  border-bottom: 1px solid #ccc;
+  height: 1px;
+  margin-top: 0px;
+}
+
+.disclaimer {
+  color: #999;
+}
+
+div.errorheader {
+  color: red;
+  font-weight: bold;
+}
+
+div.errormsg {
+  color: red;
+}
+
+td.button-left {
+  width: 6px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-left_sm.gif');
+  background-repeat: none;
+}
+
+td.button-center {
+  padding-left: 10px;
+  padding-right: 14px;
+  padding-bottom: 3px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-center_sm.gif')
+    ;
+  background-repeat: repeat-x;
+}
+
+td.button-center a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: arial;
+  padding-bottom: 6px;
+}
+
+td.button-right {
+  width: 9px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-right_sm.gif');
+  background-repeat: none;
+}
+
+.linkon {
+  color: #0000cc;
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: normal
+}
+
+.linkoff {
+  font-weight: bold
+}
+
+.review_author {
+  font-weight: bold
+}
+
+td.download-button-left {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_left.gif');
+  background-repeat: none;
+}
+
+td.download-button-center {
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  height: 22px;
+  background: url('/images/add_button_middle.gif');
+  background-repeat: repeat-x;
+}
+
+td.download-button-center a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
+
+td.download-button-right {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_right.gif');
+  background-repeat: none;
+}
+
+.similar-gadget {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.screenshot-image {
+  border: 1px solid #bbcced;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+pre.terms {
+  height:200;
+  width:600;
+  overflow: auto;
+  border-style:inset;
+  border-color:graytext;
+  border-width: thin;
+  text-wrap: unrestricted;
+  white-space: -moz-pre-wrap; /* Moz */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  white-space: pre-wrap; /* CSS3  */
+  word-wrap: break-word; /* IE 5.5+ */
+}
+
+table.confirmation-table td {
+  vertical-align: top;
+}
+
+.gadgetError {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FBE3E4;
+  color: #D12F19;
+  border-color: #FBC2C4;
+}
+
+.gadgetWarning {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FFF6BF;
+  color: #817134;
+  border-color: #FFD324;
+}
+
+</style>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+<script type="text/javascript">
+    _uacct="UA-18007-1";
+    _uanchor=1;
+    urchinTracker();
+  </script></head>
+<body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><a href="/?hl=en"><img src="/en/images/logo3.gif" border="0" height="55" vspace="12" width="150" alt="Google Desktop"></a></td>
+<td width="100%" style="padding-left:12px;padding-top:12px;" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="right" nowrap><font face="Arial, sans-serif" size="-1"><a href="https://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/answerball.html">Sign In</a></font></td></tr>
+<tr><td><img alt="" width="1" height="1"></td></tr></table>
+<table cellpadding="0" cellspacing="0" width="100%"><tr><td bgcolor="#3399cc"><img alt="" height="1" width="1"></td></tr></table>
+<table cellspacing="0" cellpadding="2" border="0" width="100%"><tr><td bgcolor="#e8f4f7">&nbsp;
+<font size="3"><b>Google Gadgets</b></font></td></tr></table></td></tr></table>
+<table cellspacing="0" width="100%"><tr valign="top"><td><td nowrap valign="top" width="160"><p id="nav"><font size="-1">Google Gadgets
+<br>
+
+&nbsp;&nbsp;&bull;
+<a href='/plugins/?hl=en'>All</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/news.html?hl=en'>News</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/tools.html?hl=en'>Tools</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/communication.html?hl=en'>Communication</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/finance.html?hl=en'>Finance</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/fun_games.html?hl=en'>Fun & Games</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/google.html?hl=en'>Google</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/sports.html?hl=en'>Sports</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/lifestyle.html?hl=en'>Lifestyle</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/technology.html?hl=en'>Technology</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href="/plugins/c/sidebar/holiday.html?hl=en"><b><font color="red">Holidays</font></b></a>
+<br>
+<br>
+<a href='/plugins/c/index/all.html?hl=en'>Indexing Plugins</a>
+<br>
+<br>
+<br>
+<a href="http://groups.google.com/group/Google-Desktop">Desktop Search Forum</a></font></p>
+<p><font size="-1"><b>For Developers</b>
+<br>
+
+&nbsp;&nbsp;
+<a href='/downloadsdksubmit?hl=en'>Download SDK</a><br>
+&nbsp;&nbsp;
+<a href="/dev/index.html">Developer Guide</a><br>
+&nbsp;&nbsp;
+<a href="/dev/kb.html">FAQ</a><br>
+&nbsp;&nbsp;
+<a href='/pluginsubmit?hl=en'>Submit Software</a><br>
+
+&nbsp;&nbsp;
+<a href="http://groups.google.com/group/Google-Desktop-Developer">Developer Forum</a><br>
+&nbsp;&nbsp;
+<a href='/authors?hl=en'>Hall of Fame</a><br>
+&nbsp;&nbsp;
+<a href='/ambassadors?hl=en'>Ambassadors</a> <br>
+<br>
+<br>
+<br>
+<img src="/images/rss_small.gif" alt="RSS Feed for Latest Gadgets">
+<a href="/feeds/gadgets.xml?hl=en&amp;type=rss" type="application/rss+xml">Latest Gadgets</a>
+<br>
+<br>
+<br>
+<br></font></p></td>
+<td id="dots" width="10"></td></td>
+<td><table><tr style="height:10px;"></tr>
+<tr id="gadgetDetails"><td id="gadgetImage" valign="top" align="center"><img alt="AnswerBall" src="/plugins/images/answerball.gif" class="screenshot-image"></td>
+<td id="gadgetDetails" valign="top"><h3>AnswerBall</h3>
+Ask a question to AnswerBall and it will give you the response!
+<br>
+<p><a href="http://lukeongaro.googlepages.com/answerball">Learn more</a>
+-
+<a href="http://groups.google.com/group/Google-Desktop-Plugin-AnswerBall">Discuss this gadget</a></p>
+<table cellpadding="2" cellspacing="2"><tr><td><strong>Author:</strong></td>
+<td>Luca Ongaro</td></tr>
+<tr><td><strong>Size:</strong></td>
+<td>40KB</td></tr>
+<tr><td><strong>Version:</strong></td>
+<td>1.0.0.0</td></tr>
+<tr><td><strong>Date:</strong></td>
+<td>May 4, 2007</td></tr></table>
+<p><b>This gadget requires  <a href="http://desktop.google.com?hl=en"> Google Desktop  4  or above. </a></b></p>
+<div style="width: 250;"><table cellpadding="0" cellspacing="0"><tr><td class="button-left"></td>
+<td class="button-center"><a href="/url?id=answerball">Download gadget</a></td>
+<td class="button-right"></td></tr></table></div>
+<br>
+<a href="http://www.google.com/ig/add?moduleurl=http://desktop.google.com/gow/gadgets/answerball.xml">Add this gadget to your iGoogle page</a></td></tr>
+<tr id="reviewsAndComments"><td valign="top" colspan="2"><script type="text/javascript" src="/gadgetComments.js">
+</script>
+<div style="min-width: 600; max-width: 800"><table width="100%"><tr><td><span id="commentsSpan" class="linkoff">Reviews</span></td>
+<td align="right">
+
+<a href="http://desktop.google.com/plugins/i/answerball.html?start=20">Next &raquo;</a></td></tr></table>
+<hr size="1" noshade>
+<a href="http://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/answerball.html">Sign in</a> to write a comment
+<br><br>
+<div id="comments">
+
+<table id="review 1" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse1" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=BfSUGjsmbPVZkBeoR0lZ8dESu-Hdkzk_UwAAAFSVCDgzLrMih2pjbAsJVJ1Lk1wEjI1swHOlfAoeq-NSxIkQW6JDl64m8AWX_8Olpg38XeY8hwrV4T1kHLT_ScPaQy4DSyJi-cppTpojKTyVwUPtv1-kBeyeTH35G9k34Q&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+wowwwwwwww
+<br>
+<br> <table id="review 2" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse2" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=z8E442vXT20hByESJ8pEq0A9s7zdkzk_UwAAAEIeuPk8YnFKjwHZLJkyZxdF0Phavz8EkRe2MsUMNyxAxIkQW6JDl64m8AWX_8Olpg38XeY8hwrV4T1kHLT_ScPn47PTwRdpW9_wIy12KLfozCf0Xas1LsnIqyNiVG-WKw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I think its all bullshit
+<br>
+<br> <table id="review 3" cellpadding="0" cellspacing="0"><tr>
+<td><b>kareen</b>
+&nbsp;</td>
+<td><div id="abuse3" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=TB_tI1tALU_U6e8DGdwICVwXz3Ldkzk_UwAAAKiQLmg0EiBsEOWPCHwSUvtEYIZkdAJUV_vgjcZ613cSxIkQW6JDl64m8AWX_8Olpg38XeY8hwrV4T1kHLT_ScO4_4E2c4oWLn66Ri-SgDe4Yol_oOk65PZhikAoCbXuUA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+how can i have this one??
+where can i buy??
+<br>
+<br> <table id="review 4" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>Pecan</b>
+&nbsp;</td>
+<td><div id="abuse4" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=L5tGd19m04PbeN-d4D7cBIn223_dkzk_UwAAAAcjft8iChUtd_f2XAhpLcr1dt9qo8MS5g0LfaGNuIALxIkQW6JDl64m8AWX_8Olpg38XeY8hwrV4T1kHLT_ScNjBOvDaK1UEyu5_LzNwYA-PT3n7lI5YJqzn21kv7Lvtw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Those answers are SO true!!!!!
+<br>
+<br> <table id="review 5" cellpadding="0" cellspacing="0"><tr>
+<td><b>DarkVixen</b>
+&nbsp;</td>
+<td><div id="abuse5" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=JenTF04H80T8LIdfXt6ChJXAOY7dkzk_UwAAADByBjHmSTQl5Er2xPnD0hSrShjWH0fM9xTCD9ojLUgMxIkQW6JDl64m8AWX_8Olpg38XeY8hwrV4T1kHLT_ScMCEunmuJD_HSVz9kcWy5zsfpIU8U33JqNGRIwNY478mQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+It is called the magick 8 ball.. Sheesh
+<br>
+<br> <table id="review 6" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Hootie</b>
+&nbsp;</td>
+<td><div id="abuse6" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=R4YzHAOPv44lm9sNLgs66yTKJErdkzk_UwAAALH0D_uX7cjWl4XGUyKVpn1pGw70UdLe5aZyjcmmCmi1xIkQW6JDl64m8AWX_8Olpg38XeY8hwrV4T1kHLT_ScOWV10_LKGdGOaiREG6qpafLw79DxZkuQhMtGexgyxfXg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Oh my, gr8 game to play!
+I have one just like that but i do not remember the name......
+<br>
+<br> <table id="review 7" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse7" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=zore1XTkP1Nmvby6V1LICuiVrkLdkzk_UwAAAKiQLmg0EiBsEOWPCHwSUvstF2_tl9bowo8yy39sjTChxIkQW6JDl64m8AWX_8Olpg38XeY8hwrV4T1kHLT_ScNjBOvDaK1UEyu5_LzNwYA-_Nsc5BmUJv1SGZgjsxLEQA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+It just depends on how you shake the ball. It reads emotions.
+<br>
+<br> <table id="review 8" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse8" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=WJJLDs8WnCGW7QZ3bzh3Pljt3BPdkzk_UwAAANikjPRBRdP3Ln2R1TjG54a7wgEzdip9tb1JLUchRzsnxIkQW6JDl64m8AWX_8Olpg38XeY8hwrV4T1kHLT_ScOAPi7MBQPkJif5aaJDNKu3Ume4PYvxN6vpPpGG2JBOLw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+This is so awesome Whenever I say something it just answers it and my mom laughs so much about the answer!!!!!!!!!!!!!!!!!!!!!!!!
+<br>
+<br> <table id="review 9" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse9" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=lWERBtP9LXf0h0Qpzk2bkunJ5yXdkzk_UwAAAIBdwH5vsurIJVJLt11S1Zy_98FyEDW_NHYQgJ8r4EWyxIkQW6JDl64m8AWX_8Olpg38XeY8hwrV4T1kHLT_ScPCX1Jzmpy0Ibzjx1UWicqCk2wbmcG3W1Xp_YHuf5rytg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Come funzia?
+<br>
+<br> <table id="review 10" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse10" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=gH13WrAdt4_-ddRi0OiZ-Kl-m5Xdkzk_UwAAACnSFIIFldgmpJDeIw5gjypdbHS8Jhgx1PtUAnXXXh4ixIkQW6JDl64m8AWX_8Olpg38XeY8hwrV4T1kHLT_ScMs0iRoq3el_WpAII1pXH5iMzOR6WDqSlyQhHcOANTVXA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+So cool if you ask it the same question over and over again the answer doesn&#39;t change! :D
+<br>
+<br> <table id="review 11" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse11" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=hxhGSNb5_4E9bDLFk3RElAdVghPdkzk_UwAAAMxdVxoX6pu1FzOop8PhDF-9YMApQXDa4_9H4xRcu9STxIkQW6JDl64m8AWX_8Olpg38XeY8hwrV4T1kHLT_ScPnbIdA0wblqfGB-0ME_Id-sgdRQcwBQhbnRokBPTuY-Q&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+This is the coolest gadget I&#39;ve ever downloaded
+<br>
+<br> <table id="review 12" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse12" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=Bh63KxktVhuIIVMWWUOxJjztc0Ldkzk_UgAAAOqAMLbbQnvhXeCqo-JAZ0MpfLT3uxnUYzvOtgg4Iz0xOkfid5InW-rQBsYtUMQhjtIumeJTLGzmIQmP3Xm5Bmc4MzFg4JqctoybmfMSjm8nChbhFASHyHyCD4Wf3Z9o8g&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+lt&#39;s so nice i love this magic ball !!! 
+<br>
+<br> <table id="review 13" cellpadding="0" cellspacing="0"><tr>
+<td><b>Fred</b>
+&nbsp;</td>
+<td><div id="abuse13" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=CHbH6uTeozrxPHZknFXWMSfTtLPdkzk_UwAAANikjPRBRdP3Ln2R1TjG54bGXDXfWOaTPVkEeD_Zq-LDxIkQW6JDl64m8AWX_8Olpg38XeY8hwrV4T1kHLT_ScOAPi7MBQPkJif5aaJDNKu3Tcc1RjnA-NFo-XbiGGTx7w&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+LOL i just downloaded this gadget and i ask if my day is going to be good and it said my &quot;source says no&quot; Damn.
+<br>
+<br> <table id="review 14" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b></b>
+&nbsp;</td>
+<td><div id="abuse14" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=_3oaM2zEtAycgM3A3lgjbPPsi3Xdkzk_UgAAAKCIO6VCgEe_mFK2J2iILPqTksFNpzswzf6pxgcjb6h_Okfid5InW-rQBsYtUMQhjtIumeJTLGzmIQmP3Xm5BmcMSmLDMB1NH5sM2pkLa3CVM-5jDC1zIQ8WPJq0GI0vuw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+ci vorrebbe anche la lingua italiana!
+<br>
+<br> <table id="review 15" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>MizQ</b>
+&nbsp;</td>
+<td><div id="abuse15" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=sMYeoRr5GDU601BaEKwOM47cBvDdkzk_UwAAAKmxl-h-SBY4m9r8OaURH5uRVLCZp7JSqfKLvBaoAEcJxIkQW6JDl64m8AWX_8Olpg38XeY8hwrV4T1kHLT_ScPHhEp9OG_Q4MOmGuwjtTvKUCYZy4zVfuvyL_nsUMy0_g&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Awesome, just installed it, it&#39;s AWESOME!
+<br>
+<br> <table id="review 16" cellpadding="0" cellspacing="0"><tr>
+<td><b>Luigi</b>
+&nbsp;</td>
+<td><div id="abuse16" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=LewksIiH0znTVlRPNBDLeKek-B7dkzk_UwAAAEIeuPk8YnFKjwHZLJkyZxeZlT7mXgxDGe1gEPVSUIm6xIkQW6JDl64m8AWX_8Olpg38XeY8hwrV4T1kHLT_ScPpb-1M7PxtLf738ovsJKUWJz1KgGB6oDa8zDAXbYKMTA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I asked it if it is always right and it said:&quot;Don&#39;t bet on it&quot;.
+Gli ho chiesto se ci azzeccava sempre e mi ha risposto: &quot;Non scommetterci&quot;
+<br>
+<br> <table id="review 17" cellpadding="0" cellspacing="0"><tr>
+<td><b>Tayner0315</b>
+&nbsp;</td>
+<td><div id="abuse17" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=5iwAzUEupZO094RbSwSgFgl0c2Tdkzk_UwAAAJh402dLYBjdVwP8PYjBFt5AdgFAsMIKNo4Fl3U_nGEkxIkQW6JDl64m8AWX_8Olpg38XeY8hwrV4T1kHLT_ScOp-iuLr-SpR77YjFOyi-wXPUTuHv7fRYeSrbt5J1gHmg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Wow! Great gadget! Works like a charm! It helps predict my day!
+<br>
+<br> <table id="review 18" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>GreenFabre</b>
+&nbsp;</td>
+<td><div id="abuse18" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=RoN02DV6DmvjV4_tv9Oa4pn3cufdkzk_UwAAAPzzZLzpHKo_635_PaRQVxQ82vC5Q4Zqv5p9q3CHiX7VxIkQW6JDl64m8AWX_8Olpg38XeY8hwrV4T1kHLT_ScMrDofjSw42hcE-odQFJXcv7pASHW9tH0Q0H-urP8MQNA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+If only i could change the color of the ball to green..it would be great
+<br>
+<br> <table id="review 19" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>blackmetalpy</b>
+&nbsp;</td>
+<td><div id="abuse19" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=7qpcqIHERbhNYdJiD1a2PLNPQtndkzk_UwAAAHVwuwtk0xiX4NFL22TZTJvWkHjxfRYAoX0t818QxtlExIkQW6JDl64m8AWX_8Olpg38XeY8hwrV4T1kHLT_ScMFUc42Vti8dDsrW2E1Tzy4fNekrEUdlvZxFC_Cad8zFA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+coolest gadget ever!!
+at least for me, it&#39;s never wrong.
+
+never misses one.
+
+oh, and you have to shake it for it to be more effective.
+<br>
+<br> <table id="review 20" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse20" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=0pbTh9p6M7IPWs-mesyopdm_9LHdkzk_UwAAAMgcMkEIudNMoRCRGsMXKfOV9lTKU_2Mq70bX4KwRBZVxIkQW6JDl64m8AWX_8Olpg38XeY8hwrV4T1kHLT_ScMjA7G3ptwQPBun-InNUkHoIsJ-NtpDlDmWsk6Fl3EmKw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+lo vorrei in italiano!
+<br>
+<br>
+<div align="right">
+
+<a href="http://desktop.google.com/plugins/i/answerball.html?start=20">Next &raquo;</a></div></div>
+<form action="/submitcomment" method="POST" name="commentForm" id="commentForm"><div id="writeComment" style="display:none"><table><tr><td valign="top">Rate gadget:</td>
+<td><table cellspacing="0" cellpadding="0"><tr><td><img alt="" src="/images/rateStarsLeft.gif"></td>
+<td><img alt="" id="star1" src="/images/rateStarOff.gif" onclick="setStars(1)" onmouseover="showStars(1)" onmouseout="showStars()"></td>
+<td><img alt="" id="star2" src="/images/rateStarOff.gif" onclick="setStars(2)" onmouseover="showStars(2)" onmouseout="showStars()"></td>
+<td><img alt="" id="star3" src="/images/rateStarOff.gif" onclick="setStars(3)" onmouseover="showStars(3)" onmouseout="showStars()"></td>
+<td><img alt="" id="star4" src="/images/rateStarOff.gif" onclick="setStars(4)" onmouseover="showStars(4)" onmouseout="showStars()"></td>
+<td><img alt="" id="star5" src="/images/rateStarOff.gif" onclick="setStars(5)" onmouseover="showStars(5)" onmouseout="showStars()"></td>
+<td><img alt="" src="/images/rateStarsRight.gif"></td></tr></table></td></tr>
+<tr><td valign="top">Your name:</td>
+<td><b></b>
+&nbsp;
+<input type="checkbox" name="anonymous" value="true" id="anonymous">
+Anonymous</td></tr>
+<tr><td valign="top">Comments:</td>
+<td><textarea name="reviewText" rows="4" cols="25" id="reviewText" style="border: 1px solid #bbcced"></textarea></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="rating" value="0" id="rating" style="display:none;">
+<input type="hidden" name="pluginId" value="answerball" id="pluginId">
+<input type="submit" value="Post Comment">
+<input type="reset" value="Discard" onclick="showComments()"></td></tr>
+<tr style="height:20px;"></tr></table></div></form>
+<div id="abuseLinkDiv"></div></div></td></tr></table></td>
+<td id="recommendations"><b>You might also like...</b>
+<hr noshade size="1">
+<table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/askdrweil_4111.html?hl=en"><img alt="Ask Dr Weil" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/askdrweil_4111_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/askdrweil_4111.html?hl=en">Ask Dr Weil</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=askdrweil_4111">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/windsy_windsy.html?hl=en"><img alt="Windsy" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/windsy_windsy_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/windsy_windsy.html?hl=en">Windsy</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=windsy_windsy">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/windowsdock_stefanva.html?hl=en"><img alt="Windows Dock" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/windowsdock_stefanva_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/windowsdock_stefanva.html?hl=en">Windows Dock</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=windowsdock_stefanva">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/hdock_stefanvandamme.html?hl=en"><img alt="H Dock" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/hdock_stefanvandamme_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/hdock_stefanvandamme.html?hl=en">H Dock</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=hdock_stefanvandamme">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/boredombutton_rcrdfe.html?hl=en"><img alt="Boredom Button" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/boredombutton_rcrdfe_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/boredombutton_rcrdfe.html?hl=en">Boredom Button</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=boredombutton_rcrdfe">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/0_2885.html?hl=en"><img alt="Work Timer Gadget" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/0_2885_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/0_2885.html?hl=en">Work Timer Gadget</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=0_2885">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table>
+<br>
+<br></td></tr>
+<tr><td colspan="5" align="center" id="footer">&copy;  2010  Google
+-
+<a href="/privacypolicy.html">Privacy Policy</a>
+-
+<a href="http://www.google.com/accounts/TOS?hl=en">Terms of Service</a>
+-
+<a href="/copyrights.html">Copyright Notices</a></td></tr></table></body></html>

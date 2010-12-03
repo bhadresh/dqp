@@ -1,0 +1,810 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Stillwater Mining Company: NYSE:SWC quotes & news - Google Finance</title>
+<meta name="Description" content="Get detailed financial information on Stillwater Mining Company (NYSE:SWC) including real-time stock quotes, historical charts & financial news, all for free!">
+<link rel="stylesheet" type="text/css" href="/finance/s/i3gpPu9Jou8/styles/finance_us.css">
+<style>#gbar,#guser{font-size:13px;padding-right:8px;padding-top:4px !important}#gbar{padding-left:8px;float:left;height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}#gbs,.gbm{background:#fff;left:0;position:absolute;text-align:left;visibility:hidden;z-index:1000}.gbm{border:1px solid;border-color:#c9d7f1 #36c #36c #a2bae7;z-index:1001}.gb1{margin-right:.5em}.gb1,.gb3{zoom:1}.gb2{display:block;padding:.2em .5em}.gb2,.gb3{text-decoration:none;border-bottom:none}a.gb1,a.gb2,a.gb3,a.gb4{color:#00c !important}.gbi .gb3,.gbi .gb2,.gbi .gb4{color:#dd8e27 !important}.gbf .gb3,.gbf .gb2,.gbf .gb4{color:#900 !important}a.gb2:hover{background:#36c;color:#fff !important}div#gbar{padding-left:0}</style>
+<script>(function(){function i(a,b,d){var c="on"+b;if(a.addEventListener)a.addEventListener(b,d,false);else if(a.attachEvent)a.attachEvent(c,d);else{var f=a[c];a[c]=function(){var g=f.apply(this,arguments),e=d.apply(this,arguments);return g==undefined?e:e==undefined?g:e&&g}}};var j,k,l,m=window.gbar={},n={};function _tvs(a,b){return a||b}function _tvn(a,b){var d=parseInt(a,10);return isNaN(d)?b:d}function _tvf(a,b){var d=parseFloat(a);return isNaN(d)?b:d}function _tvb(a,b){return a=="true"?true:a=="false"?false:b}var o,p,q;function r(a){var b=window.b&&(document.forms[0].f||"").value;if(b)a.href=a.href.replace(/([?&])q=[^&]*|$/,function(d,c){return(c||"&")+"q="+encodeURIComponent(b)})}l=r;
+function s(a,b,d,c,f,g){var e=document.getElementById(a);if(e){var h=e.style;h.left=c?"auto":b+"px";h.right=c?b+"px":"auto";h.top=d+"px";h.visibility=p?"hidden":"visible";if(f&&g){h.width=f+"px";h.height=g+"px"}else{s(o,b,d,c,e.offsetWidth,e.offsetHeight);p=p?"":a}}}
+var w=function(a){a=a||window.event;var b,d=a.target||a.srcElement;a.cancelBubble=true;if(o!=null)t(d);else{b=document.createElement(Array.every||window.createPopup?"iframe":"div");b.frameBorder="0";o=b.id="gbs";b.src="javascript:''";d.parentNode.appendChild(b);i(document,"click",u);t(d);n.a&&n.a(function(){var c=document.getElementById("gbli");if(c){var f=c.parentNode;v(f,c);var g=c.e;f.removeChild(c);n.g(f,g);b.style.height=f.offsetHeight+"px"}})}};
+function t(a){var b=0;if(a.className!="gb3")a=a.parentNode;var d=a.getAttribute("aria-owns")||"gbi",c=a.offsetWidth,f=a.offsetTop>20?46:24;if(document.getElementById("tphdr"))f-=3;var g=false;do b+=a.offsetLeft||0;while(a=a.offsetParent);a=(document.documentElement.clientWidth||document.body.clientWidth)-b-c;var e;c=document.body;var h=document.defaultView;if(h&&h.getComputedStyle){if(c=h.getComputedStyle(c,""))e=c.direction}else e=c.currentStyle?c.currentStyle.direction:c.style.direction;e=e=="rtl";
+if(d=="gbi"){c=document.getElementById("gbi");v(c,document.getElementById("gbli")||c.firstChild);if(e){b=a;g=true}}else if(!e){b=a;g=true}p!=d&&u();s(d,b,f,g)}var u=function(){p&&s(p,0,0)};function v(a,b){for(var d,c=window.d;c&&(d=c.pop());){var f=a,g=d,e=b;if(!q){q="gb2";if(n.a){var h=n.c(f);if(h)q=h}}f.insertBefore(g,e).className=q}}
+var x=function(a,b,d){if((b=document.getElementById(b))&&a){a.className="gb4";var c=document.createElement("span");c.appendChild(a);c.appendChild(document.createTextNode(" | "));c.id=d;b.appendChild(c)}};m.qs=l;m.setContinueCb=k;m.pc=j;m.tg=w;m.close=u;m.addLink=x;})();
+</script>
+<link rel="icon"
+        type="image/vnd.microsoft.icon" href="/finance/favicon.ico">
+<script>(function(){function a(c){this.t={};this.tick=function(e,f,b){b=b?b:(new Date).getTime();this.t[e]=[b,f]};this.tick("start",null,c)}var d=new a;window.jstiming={Timer:a,load:d};try{var g=null;if(window.chrome&&window.chrome.csi)g=Math.floor(window.chrome.csi().pageT);if(g==null)if(window.gtbExternal)g=window.gtbExternal.pageT();if(g==null)if(window.external)g=window.external.pageT;if(g)window.jstiming.pt=g}catch(h){};function i(c){window.jstiming&&window.jstiming.load.tick(c)}window._tck=i;})();
+</script>
+<script type="text/javascript">var google=google||{};var _cleardot = '/finance/s/m4C5KaofCbA/images/cleardot.gif';</script>
+<script type="text/javascript" src="/finance/s/HctJl7DXpjg/js/finance-opt.js?hl=en&gl=us"></script>
+<script type="text/javascript">
+(function(){var d=navigator.userAgent.toLowerCase().indexOf("msie")!=-1;function e(){for(var a=document.styleSheets,b=a.length-1;b>=0;--b){var c=a[b].href;if(c)if(c.indexOf("styles/finance_")!=-1||c.indexOf("styles_")!=-1)return a[b]}return null}function f(){var a=e();if(a){a=a.rules;return a.length>0&&a[a.length-1].selectorText==".lastFinanceRule"}return false}
+function g(){if(document.scripts)for(var a=0;a<document.scripts.length;++a){var b=document.scripts[a];if(b&&b.src.indexOf("/js/gen_finance.js")!=-1)return b}return null}function _chkCssJs(){if(d){if(typeof _lastFinanceFn!="function"){var a=g();if(a&&a.src){var b=a.src.indexOf("?")!=-1?"&":"?";a.src+=b+"zx="+Math.random()}}if(!f())if((a=e())&&a.href){b=a.href.indexOf("?")!=-1?"&":"?";a.href+=b+"zx="+Math.random()}}};_chkCssJs();})();
+  
+    _setStickyUrlParams("");
+  </script>
+<style>
+html {
+min-height: 100%; margin-bottom: 0.01em;
+}
+.blogref a:link,.blogref a:active,.blogref a:visited,.blogref {color:#7777CC}
+.lac {text-decoration:underline; color:#00C; cursor:pointer;}
+.lnac {text-decoration:none; color:#A1A1A1; cursor:text;}
+.imgac {cursor:pointer; border:0px;}
+.imgnac {cursor:none; border:0px;}
+.r {
+margin-top:-2px; margin-left:30px; margin-bottom:0px; margin-right:5px;
+padding:7px 10px 10px 10px; line-height:1.3em; position:absolute; display:none; z-index:10;
+border:2px solid #9DDF99; background-color:#FFF;
+}
+</style>
+</head>
+<body>
+<div class=g-doc id=outer-wrapper>
+<div id=body-wrapper>
+<div id=gbar><nobr><a href="http://www.google.com/search?q=NYSE:SWC&sa=N&hl=en&tab=ew" onclick=gbar.qs(this) class=gb1>Web</a> <a href="http://www.google.com/images?q=NYSE:SWC&source=og&sa=N&hl=en&tab=ei" onclick=gbar.qs(this) class=gb1>Images</a> <a href="http://www.google.com/search?q=NYSE:SWC&tbo=u&tbs=vid:1&source=og&sa=N&hl=en&tab=ev" onclick=gbar.qs(this) class=gb1>Videos</a> <a href="http://maps.google.com/maps?q=NYSE:SWC&sa=N&hl=en&tab=el" onclick=gbar.qs(this) class=gb1>Maps</a> <a href="http://www.google.com/search?q=NYSE:SWC&tbo=u&tbs=nws:1&source=og&sa=N&hl=en&tab=en" onclick=gbar.qs(this) class=gb1>News</a> <a href="http://www.google.com/search?q=NYSE:SWC&tbo=u&tbs=shop:1&source=og&sa=N&hl=en&tab=ef" onclick=gbar.qs(this) class=gb1>Shopping</a> <a href="http://mail.google.com/mail/?hl=en&tab=em" class=gb1>Gmail</a> <a href="http://www.google.com/intl/en/options/" onclick="this.blur();gbar.tg(event);return !1" aria-haspopup=true class=gb3><u>more</u> <small>&#9660;</small></a><div class=gbm id=gbi><a href="http://www.google.com/search?q=NYSE:SWC&tbo=u&tbs=bks:1&source=og&sa=N&hl=en&tab=ep" onclick=gbar.qs(this) class=gb2>Books</a> <b class=gb2>Finance</b> <a href="http://translate.google.com/translate_t?q=NYSE:SWC&sa=N&hl=en&tab=eT" onclick=gbar.qs(this) class=gb2>Translate</a> <a href="http://scholar.google.com/scholar?q=NYSE:SWC&sa=N&hl=en&tab=es" onclick=gbar.qs(this) class=gb2>Scholar</a> <a href="http://www.google.com/search?q=NYSE:SWC&tbo=u&tbs=blg:1&source=og&sa=N&hl=en&tab=eb" onclick=gbar.qs(this) class=gb2>Blogs</a> <a href="http://www.google.com/search?q=NYSE:SWC&tbo=u&tbs=mbl:1&source=og&sa=N&hl=en&tab=eY" onclick=gbar.qs(this) class=gb2>Updates</a> <div class=gb2><div class=gbd></div></div><a href="http://www.youtube.com/results?q=NYSE:SWC&sa=N&hl=en&tab=e1" onclick=gbar.qs(this) class=gb2>YouTube</a> <a href="http://www.google.com/calendar/render?hl=en&tab=ec" class=gb2>Calendar</a> <a href="http://picasaweb.google.com/lh/view?q=NYSE:SWC&sa=N&hl=en&tab=eq" onclick=gbar.qs(this) class=gb2>Photos</a> <a href="http://docs.google.com/?hl=en&tab=eo" class=gb2>Documents</a> <a href="http://www.google.com/reader/view/?hl=en&tab=ey" class=gb2>Reader</a> <a href="http://sites.google.com/?hl=en&tab=e3" class=gb2>Sites</a> <a href="http://groups.google.com/groups?q=NYSE:SWC&sa=N&hl=en&tab=eg" onclick=gbar.qs(this) class=gb2>Groups</a> <div class=gb2><div class=gbd></div></div><a href="http://www.google.com/intl/en/options/" class=gb2>even more &raquo;</a> </div></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.com/support/finance?hl=en-US" class=gb4>Help</a> | <a href="https://www.google.com/accounts/Login?hl=en&continue=http://www.google.com/finance%3Fq%3DNYSE:SWC&service=finance" class=gb4>Sign in</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div>
+<script>window.locale={hl:'en',gl:'us',locale:'en-US'};</script>
+<div class="g-section g-tpl-75-25 g-split search-header">
+<div class="g-unit g-first">
+<div class=sfe-logo>
+<a href="/finance">
+<img src="/finance/s/M4XFgDr56u4/images/logo_us.gif" alt="Google Finance.">
+</a>
+</div>
+<div class=sfe-search>
+<form method=GET action="/finance" name=f>
+<input name=q id=searchbox autocomplete=off size=40 maxlength=2048
+             type=text tabindex=1 title="Quote search input"
+             value="NYSE:SWC">
+<input type=submit value="Get quotes" >
+<br>
+<span class="searchExample">
+Example: "CSCO" or "Google"</span>
+</form>
+</div>
+</div>
+<div class="g-unit promo">
+</div>
+</div>
+<div class="g-section g-tpl-nav-main">
+<div class="g-unit g-first" id="left-nav">
+<ul id=navmenu>
+<li class="nav-selected nav-expanded">Company
+<li class=navsub>
+<div>Summary
+</div>
+<li class=navsub>
+<a id="nav-cn" 
+  href="/finance/company_news?q=NYSE:SWC">News
+</a>
+<li class=navsub>
+<a id="nav-co" 
+  href="/finance/option_chain?q=NYSE:SWC">Option chain
+</a>
+<li class=navsub>
+<a id="nav-cr" 
+  href="/finance/related?q=NYSE:SWC">Related companies
+</a>
+<li class=navsub>
+<a id="nav-ch" 
+  href="/finance/historical?q=NYSE:SWC">Historical prices
+</a>
+<li class=navsub>
+<a id="nav-cf" 
+  href="/finance?q=NYSE:SWC&amp;fstype=ii">Financials
+</a>
+<li class=nav-item>
+<a id="nav-m" 
+  href="/finance">
+<div>Markets</div></a>
+<li class=nav-item>
+<a id="nav-n" 
+  href="/finance/market_news">
+<div>News</div></a>
+<li class=nav-item>
+<a href="https://www.google.com/accounts/ServiceLogin?hl=en&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com%3A80%2Ffinance%2Fportfolio%3Faction%3Dview" >
+<div>Portfolios</div></a>
+<li class=nav-item>
+<a id="nav-s" 
+  href="/finance/stockscreener">
+<div>Stock screener</div></a>
+<li class=nav-item>
+<a id="nav-q" 
+  href="/finance/domestic_trends">
+<div>Google Domestic Trends</div></a>
+</ul>
+<div id=rq-box>
+<h4>Recent quotes</h4>
+<div id=rq-toggle></div>
+<div id=rq-table></div>
+<a id=rq-create href="https://www.google.com/accounts/ServiceLogin?hl=en&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com%2Ffinance%3Fq%3DNYSE%3ASWC" >Sign in to create portfolio</a>
+</div>
+<script>
+setTimeout(
+function() {try{google.finance.renderRecentQuotes();}catch(e){}}, 200);
+</script>
+<form id=new_pform_nav
+      action=/finance/portfolio/create?hash= method=post>
+<input id=new_pform_name type=hidden name=pname />
+<input id=new_pform_cids type=hidden name=pcids />
+<input id=is_logged_in type=hidden name=is_logged_in
+           value=0 />
+</form>
+<div id=ra-target></div>
+</div>
+<div class="g-unit sfe-break-left" id="rt-content">
+<!-- a -->
+<script>
+(function() {
+if (_finance_chart) {
+var el = document.getElementById('chart_anchor');
+if (el) {
+el.innerHTML = '';
+}
+_finance_chart = null;
+}
+})();
+var _ticker = 'NYSE:SWC';
+var _slHeight = 221;
+var _companyName = 'Stillwater Mining Company';
+var _displayVolume = true;
+var _companyId = 657715;
+_s_Store._numToDisplay = 6;
+_comparison_charts_Store._numToDisplay = 8;
+_comparison_charts_Store._allowMultiTimezoneCompare = true;
+function onCompanyLoad() {
+_external_target = "";
+_emitFlashChartOnLoad(
+"/finance/s/OFspRxwQDQg/chart9.swf?hl=en&gl=us",
+_ticker, "chart_anchor", "market-data-div",
+_chartConfigObject);
+google.finance.onCompanyLoad();
+_initAutoFocus();
+if (google.finance.initTechnicals) {
+google.finance.initTechnicals(true);
+}
+}
+</script>
+<div class=g-wrap>
+<div class="g-section sfe-break-bottom-8">
+<div class="g-tpl-67-33 g-split hdg top" id=companyheader>
+<div class="g-unit g-first"><h3>Stillwater Mining Company&nbsp;</h3>(Public, NYSE:SWC)&nbsp;&nbsp;
+<a href="/finance/portfolio?action=add&amp;addticker=NYSE%3ASWC" class=norm>Watch this stock</a>
+&nbsp;&nbsp;
+</div><div class="g-unit norm">Find more results for<b>
+<a href="?noIL=1&q=SWC" id=searchmore>SWC</a></b>
+</div>
+</div>
+</div>
+
+<div id=ra-src class=hide>
+<div id=ra-target></div>
+</div>
+<script>
+google.finance.renderRecentActivities();
+_ac_register(function (input, event) {
+if (input.id == 'add_comparison_symbol') {
+_comparison_charts_Store.baseTicker = "NYSE:SWC";
+return _comparison_charts_Store;
+}
+});
+var _prefs=_prefs||{};_prefs.hash="";
+_prefs.feeds=_prefs.feeds||{};
+_prefs.ch=_prefs.ch||{};
+_prefs.ch_compare=_prefs.ch_compare||{};
+_eventid = 'k-T2TOGkHI-ArQOXpPj2CQ';
+var google = google || {};
+google.finance = google.finance || {};
+google.finance.data = {common:{rq:{ct:""},up:"chg",down:"chr",linktargetInternal:"",hash:"",dfp:"http://ad-g.doubleclick.net/adi/com.gf.company/basic_materials;fe=nyse;ft=swc;fm=mid;sz=300x250;dcopt=ist;myd=ad"},company:{news:{clusters:[{imp:2,idx:0,id:0,ed:"Nov 30, 2010",tt:1291155871,lead_story_url:"http://www.tradingmarkets.com/news/stock-alert/swc_securities-act-registrations-1338353.html",a:[{t:"SECURITIES ACT REGISTRATIONS",u:"http://www.tradingmarkets.com/news/stock-alert/swc_securities-act-registrations-1338353.html",s:"Trading Markets",d:"Nov 30, 2010",tt:1291155871,fid:880457}],score:11.816259384155273},{idx:1,id:2033545,tt:1291148700,lead_story_url:"http://stocks.us.reuters.com/stocks/keyDevelopments.asp?rpc=66\x26symbol=SWC\x26timestamp=20101130202500",a:[{t:"Stillwater Mining Company Completes Acquisition Of Marathon PGM Corporation",u:"http://stocks.us.reuters.com/stocks/keyDevelopments.asp?rpc=66\x26symbol=SWC\x26timestamp=20101130202500",s:"Reuters Key Development",d:"Nov 30, 2010",tt:1291148700}],score:36},{nrel:1,imp:2,idx:2,id:17593824693629,ed:"Nov 29, 2010",tt:1291072818,lead_story_url:"http://online.barrons.com/article/SB50001424052970204033804575645202177515216.html?mod=googlenews_barrons",a:[{t:"SWC AMAG KKD AMRN: Stocks in the Spotlight Monday",u:"http://online.barrons.com/article/SB50001424052970204033804575645202177515216.html?mod=googlenews_barrons",s:"Barron's",d:"Nov 29, 2010",tt:1291072818,fid:875457}],score:10.973974227905273},{nrel:2,imp:3,idx:3,id:17593824599196,ed:"Nov 29, 2010",tt:1291046514,lead_story_url:"http://www.investors.com/NewsAndAnalysis/Newsfeed/Article/122798330/201011291055/Stillwater-Mining-is-Among-the-Companies-in-the-Basic-Materials-Sector-With-the-Lowest-Relative-Performance-SWC-LNG-JASO-CSIQ-MOS-.aspx",a:[{t:"Stillwater Mining is Among the Companies in the Basic Materials Sector With the Lowest Relative Performance (SWC, LNG, JASO, CSIQ, MOS)",u:"http://www.investors.com/NewsAndAnalysis/Newsfeed/Article/122798330/201011291055/Stillwater-Mining-is-Among-the-Companies-in-the-Basic-Materials-Sector-With-the-Lowest-Relative-Performance-SWC-LNG-JASO-CSIQ-MOS-.aspx",s:"Investor's Business Daily",d:"Nov 29, 2010",tt:1291046514,fid:857457}],score:9.4599323272705078},{nrel:1,imp:2,idx:4,id:17593824663062,ed:"Nov 29, 2010",tt:1291045389,lead_story_url:"http://www.investors.com/NewsAndAnalysis/Article/555033/201011291037/US-Stocks-Tumble-In-Early-Trade.aspx",a:[{t:"U.S. Stocks Tumble In Early Trade",u:"http://www.investors.com/NewsAndAnalysis/Article/555033/201011291037/US-Stocks-Tumble-In-Early-Trade.aspx",s:"Investor's Business Daily",d:"Nov 29, 2010",tt:1291045389,fid:853457}],score:13.004001617431641},{nrel:2,imp:3,idx:5,id:17593824667155,ed:"Nov 29, 2010",tt:1291044707,lead_story_url:"http://www.tech24.org/173615-top-losers-of-nyse-gu-swc-bbva-gtn-phg.html",a:[{t:"5 Top Losers of NYSE (GU, SWC, BBVA, GTN, PHG)",u:"http://www.tech24.org/173615-top-losers-of-nyse-gu-swc-bbva-gtn-phg.html",s:"Tech24",d:"Nov 29, 2010",tt:1291044707,fid:852457},{t:"Today\x26#39;s Big Losers: AONE, SWC, GT, BSDM, PHG",u:"http://www.istockanalyst.com/article/viewarticle/articleid/4702493",s:"istockAnalyst.com"}],score:9.4378957748413086},{nrel:2,imp:2,idx:6,id:17593824640796,ed:"Nov 29, 2010",tt:1291040015,lead_story_url:"http://www.businessweek.com/news/2010-11-29/netspend-simon-property-unitedhealth-u-s-equity-preview.html",a:[{t:"Amazon.com, FedEx, Stillwater, Walgreen: US Equity Movers",u:"http://www.businessweek.com/news/2010-11-29/netspend-simon-property-unitedhealth-u-s-equity-preview.html",s:"BusinessWeek",d:"Nov 29, 2010",tt:1291040015,fid:872457}],score:11.990897178649902},{nrel:1,imp:3,idx:7,id:17593824576672,ed:"Nov 29, 2010",tt:1291036938,lead_story_url:"http://www.sfgate.com/cgi-bin/article.cgi?f=%2Fg%2Fa%2F2010%2F11%2F29%2Fbloomberg1376-LCIEZG1A1I4H01-6HSH4SJESAHDJ2T5DNJVTKBPIK.DTL",a:[{t:"AMAG, Quiksilver, Stillwater, Theravance: U.S. Equity Preview",u:"http://www.sfgate.com/cgi-bin/article.cgi?f=%2Fg%2Fa%2F2010%2F11%2F29%2Fbloomberg1376-LCIEZG1A1I4H01-6HSH4SJESAHDJ2T5DNJVTKBPIK.DTL",s:"San Francisco Chronicle",d:"Nov 29, 2010",tt:1291036938,fid:845457}],score:9.3047380447387695},{nrel:210,imp:1,idx:8,id:17593825034655,ed:"Nov 29, 2010",tt:1291030961,lead_story_url:"http://www.marketwatch.com/story/stillwater-mining-company-completes-acquisition-of-marathon-pgm-corporation-2010-11-30-185220?reflink=MW_news_stmp",a:[{t:"Stillwater Mining Company Completes Acquisition of Marathon PGM Corporation",u:"http://www.marketwatch.com/story/stillwater-mining-company-completes-acquisition-of-marathon-pgm-corporation-2010-11-30-185220?reflink=MW_news_stmp",s:"MarketWatch",d:"Nov 29, 2010",tt:1291030961,fid:879457},{t:"Stillwater Closes On Ontario Platinum Reserve",u:"http://www.thestreet.com/story/10935930/1/stillwater-closes-on-ontario-platinum-reserve.html",s:"TheStreet.com"},{t:"Stillwater purchases Ontario platinum reserve",u:"http://www.forbes.com/feeds/ap/2010/12/01/business-materials-mt-montana-platinum_8174888.html?boxes=Homepagebusinessnews",s:"Forbes"},{t:"Russia\x26#39;s Norilsk Nickel to sell Stillwater stake",u:"http://www.bloomberg.com/news/2010-11-30/russia-s-norilsk-nickel-to-sell-stillwater-stake.html",s:"Bloomberg"},{t:"Stillwater Mining Company acquires Marathon PGM Corp",u:"http://www.tradingmarkets.com/news/stock-alert/mar_mrpgf_swc_stillwater-mining-company-acquires-marathon-pgm-corp-1339405.html",s:"Trading Markets"},{t:"Stillwater Announces Commencement of Secondary Offerings by Its Majority Shareholder",u:"http://www.einnews.com/pr-news/244889-stillwater-announces-commencement-of-secondary-offerings-by-its-majority-shareholder-",s:"EIN News"}],score:22.656417846679688},{idx:9,id:2032043,tt:1291030920,lead_story_url:"http://stocks.us.reuters.com/stocks/keyDevelopments.asp?rpc=66\x26symbol=SWC\x26timestamp=20101129114200",a:[{t:"Stillwater Mining Company Announces Commencement Of Secondary Offerings By Shareholder",u:"http://stocks.us.reuters.com/stocks/keyDevelopments.asp?rpc=66\x26symbol=SWC\x26timestamp=20101129114200",s:"Reuters Key Development",d:"Nov 29, 2010",tt:1291030920}],score:2},{idx:10,id:-1}],result_start_num:1,result_end_num:0,result_total_articles:18},related:{cols:[0,1,4,30,34,31,32,5,2,33,3],rows:[{id:657715,values:["SWC","Stillwater Mining Company","20.80","+1.88","chg","9.94","","2.04B","NYSE","657715","SWC"]},{id:16269394,values:["PLG","Platinum Group Metals Ltd. (USA)","2.12","+0.13","chg","6.53","","199.13M","AMEX","16269394","PLG"]},{id:685040,values:["ANO","Anooraq Resources Corp. (USA)","1.28","+0.01","chg","0.79","","258.26M","AMEX","685040","ANO"]},{id:665577,values:["PAL","North American Palladium Ltd.","5.75","+0.11","chg","1.95","","855.71M","AMEX","665577","PAL"]},{id:8197,values:["CDE","Coeur d'Alene Mines Corp.","24.77","+0.42","chg","1.72","","2.21B","NYSE","8197","CDE"]},{id:16961,values:["HL","Hecla Mining Company","9.72","+0.13","chg","1.36","","2.49B","NYSE","16961","HL"]},{id:708296,values:["GMO","General Moly, Inc.","5.45","-0.07","chr","-1.27","","395.63M","AMEX","708296","GMO"]},{id:664107,values:["AAUKY","Anglo American plc (ADR)","22.73","+0.66","chg","2.99","","60.00B","PINK","664107","AAUKY"]},{id:708283,values:["XPL","Solitario Exploration \x26 Royalty Corp.","2.34","-0.05","chr","-2.01","","69.68M","AMEX","708283","XPL"]},{id:697218,values:["PLM","PolyMet Mining Corp. (USA)","2.10","+0.06","chg","2.94","","313.79M","AMEX","697218","PLM"]},{id:598784,values:["USEG","U.S. Energy Corp.","5.08","+0.16","chg","3.25","","137.06M","NASDAQ","598784","USEG"]}],visible_cols:[0,1,4,30,34,31,32,5]},related_str:"657715,16269394,685040,665577,8197,16961,708296,664107,708283,697218,598784",perf:[{u:"/finance?q=INDEXDJX:.DJI",name:"Dow Jones",cp:"2.27",p:"11,255.78",cid:983582},{u:"/finance?q=INDEXSP:.INX",name:"S\x26P 500",cp:"2.16",p:"1,206.07",cid:626307},{u:"/finance?catid=us-57629812",name:"Basic Materials",cp:"2.57",cid:0},{u:"/finance?q=NYSE:SWC",name:"SWC",cp:"9.94",p:"20.80",cid:657715}]},stickyUrlArgs:"",chart:{_5d:"EXCHANGE%3DNYSE\nMARKET_OPEN_MINUTE=570\nMARKET_CLOSE_MINUTE=960\nINTERVAL=120\nCOLUMNS=DATE,CLOSE,VOLUME\nDATA=\nTIMEZONE_OFFSET=-300\na1290609120,20.33,6734\n1,20.37,13365\n2,20.31,10750\n3,20.27,11560\n4,20.28,4200\n5,20.29,1600\n6,20.15,11800\n7,20.17,15100\n8,20.15,5511\n9,20.09,5600\n10,20.08,8640\n11,20.2,3641\n12,20.217,8800\n13,20.27,7872\n14,20.19,10300\n15,20.14,10581\n16,20.16,10378\n17,20.23,15000\n18,20.19,13700\n19,20.24,9300\n20,20.2,1950\n21,20.15,14187\n22,20.17,7000\n23,20.2,4100\n24,20.26,4687\n25,20.21,10943\n26,20.26,6000\n27,20.32,8010\n28,20.2801,12908\n29,20.24,19728\n30,20.33,3500\n31,20.33,2700\n32,20.34,3100\n33,20.39,9700\n34,20.34,3800\n35,20.35,10185\n36,20.315,4300\n37,20.4,10694\n38,20.35,4188\n39,20.32,4207\n40,20.29,4200\n41,20.3575,10849\n42,20.43,15053\n43,20.41,14500\n44,20.4,1100\n45,20.37,2000\n46,20.384,6459\n47,20.41,3020\n48,20.47,2283\n49,20.44,9312\n50,20.48,10250\n51,20.48,11000\n52,20.52,23822\n53,20.52,8100\n54,20.53,12500\n55,20.492,9700\n56,20.5,4600\n57,20.45,4900\n58,20.48,2375\n59,20.4925,4103\n60,20.49,11947\n61,20.49,4503\n62,20.48,5047\n63,20.47,2000\n64,20.48,800\n65,20.5,4000\n66,20.48,610\n67,20.42,4700\n68,20.38,3400\n69,20.37,3950\n70,20.39,2800\n71,20.412,6000\n72,20.45,1900\n73,20.43,2100\n74,20.4625,1650\n75,20.47,2400\n76,20.4836,8050\n77,20.57,21963\n78,20.5504,8700\n79,20.61,45389\n80,20.59,9300\n81,20.63,9100\n82,20.67,13200\n83,20.67,9900\n84,20.7,10734\n85,20.68,3350\n86,20.6602,2700\n87,20.64,3394\n88,20.64,5800\n89,20.6281,4600\n90,20.62,11052\n91,20.62,4000\n92,20.61,700\n93,20.62,2400\n94,20.6299,8400\n95,20.63,5700\n96,20.595,17802\n97,20.57,8204\n98,20.56,3331\n99,20.5599,1364\n100,20.58,4014\n101,20.57,1400\n102,20.54,5700\n103,20.52,3260\n104,20.54,2565\n105,20.53,4000\n106,20.53,2276\n107,20.52,2900\n108,20.5025,3100\n109,20.53,4336\n110,20.52,4600\n111,20.5296,3500\n112,20.52,1800\n113,20.5299,2550\n114,20.56,4600\n115,20.59,7571\n116,20.565,3200\n117,20.5881,9615\n118,20.58,1000\n119,20.58,2851\n120,20.55,3100\n121,20.57,1800\n122,20.57,2800\n123,20.568,842\n124,20.54,1600\n125,20.6,10100\n126,20.58,3800\n127,20.53,1200\n128,20.58,5300\n129,20.56,300\n130,20.57,2080\n131,20.581,2200\n132,20.55,5900\n133,20.53,2737\n134,20.54,7100\n135,20.55,2900\n136,20.59,18900\n137,20.55,5600\n138,20.55,4500\n139,20.55,3800\n140,20.5099,7598\n141,20.53,4522\n142,20.53,35700\n143,20.53,4500\n144,20.53,9080\n145,20.54,5800\n146,20.54,1900\n147,20.535,1200\n148,20.5435,11050\n149,20.535,3500\n150,20.55,4900\n151,20.54,400\n152,20.56,3618\n153,20.58,3000\n154,20.57,8400\n155,20.57,1600\n156,20.58,6900\n157,20.6125,8682\n158,20.58,3200\n159,20.58,2500\n160,20.61,3400\n161,20.57,2500\n162,20.5936,4645\n163,20.57,3100\n164,20.58,3000\n165,20.6,2200\n166,20.62,6576\n167,20.63,11909\n168,20.62,4250\n169,20.61,7000\n170,20.5901,4090\n171,20.6,4300\n172,20.62,14906\n173,20.61,2950\n174,20.61,7552\n175,20.62,1550\n176,20.65,4750\n177,20.65,3700\n178,20.65,3700\n179,20.62,7210\n180,20.61,2642\n181,20.63,7049\n182,20.66,5000\n183,20.64,10661\n184,20.62,4401\n185,20.59,10009\n186,20.59,9381\n187,20.56,11600\n188,20.6,15306\n189,20.6,14327\n190,20.6,19022\n191,20.595,23824\n192,20.59,15130\n193,20.59,31173\n194,20.66,58018\n195,20.63,16521\na1290781920,19.8,36160\n1,19.86,59952\n2,19.99,26170\n3,19.94,23343\n4,19.99,6500\n5,19.8585,16520\n6,19.93,955\n7,19.87,5800\n8,19.94,4900\n9,19.92,2500\n10,20.05,7095\n11,20.07,7937\n12,20,10922\n13,20.01,4069\n14,20.03,10630\n15,20.02,7425\n16,20.02,3996\n17,20.02,4500\n18,19.99,4200\n19,20.03,2700\n20,20.08,8900\n21,20.08,3100\n22,20.11,21476\n23,20.09,2950\n24,20.07,3400\n25,20.0992,2600\n26,20.04,5400\n27,20.02,4150\n28,20.02,2750\n29,19.98,6471\n30,19.99,4400\n31,20.02,3870\n32,20.05,1530\n33,20.05,400\n34,20.0701,4871\n35,20.08,6500\n36,20.0901,3773\n37,20.02,5700\n38,20.039,4400\n39,20.06,2000\n40,20.06,4100\n41,20.0201,1000\n42,20.011,2650\n43,20.01,3500\n44,20.025,5748\n45,20.04,2300\n46,20.05,4300\n47,20.057,2550\n48,20.07,2700\n49,20.1395,1789\n50,20.09,4200\n51,20.09,1600\n52,20.09,5000\n53,20.0801,4300\n54,20.09,2800\n55,20.0696,5800\n56,20.07,3200\n57,20.05,7000\n58,19.99,24150\n59,19.985,6750\n60,19.99,5300\n61,19.9,27000\n62,19.9,7395\n63,19.89,6250\n64,19.89,2200\n65,19.831,7900\n66,19.84,8988\n67,19.85,5725\n68,19.86,1900\n69,19.916,2400\n70,19.91,200\n71,19.89,4600\n72,19.84,7000\n73,19.826,4160\n74,19.9,3700\n75,19.87,3500\n76,19.85,1400\n77,19.88,3900\n78,19.88,1600\n79,19.9,1300\n80,19.91,700\n81,19.91,5200\n82,19.93,1500\n83,19.92,5447\n84,19.93,900\n85,19.9899,7600\n86,20.03,2060\n87,20.0201,1300\n88,20.03,3410\n89,20.01,9100\n90,19.99,2200\n91,20.0005,1800\n92,20.04,2820\n93,20.039,8768\n94,20.04,1300\n95,20.03,4950\n96,20.05,9900\n97,20.02,14310\n98,20.01,8200\n99,20.03,2900\n100,20.05,6798\n101,20.05,3650\n102,20.06,14760\n103,20.06,11464\n104,20.06,20071\n106,20.01,11534\na1291041000,19,600\n1,18.98,46626\n2,18.81,55646\n3,18.5719,87420\n4,18.4,72993\n5,18.4,79195\n6,18.24,13900\n7,18.3,7712\n8,18.28,39300\n9,18.4,43209\n10,18.22,82997\n11,18.36,35701\n12,18.31,35349\n13,18.19,81549\n14,18.18,11038\n15,18.11,3100\n16,18.125,27045\n17,18.13,29181\n18,18.14,13707\n19,18.172,17978\n20,18.19,22950\n21,18.11,36244\n22,18.15,13889\n23,18.31,16759\n24,18.288,28790\n25,18.3601,23785\n26,18.37,9900\n27,18.42,16259\n28,18.45,59447\n29,18.45,16554\n30,18.42,16441\n31,18.5,20950\n32,18.6102,36491\n33,18.55,22397\n34,18.54,13712\n35,18.54,16418\n36,18.5399,7670\n37,18.562,6900\n38,18.59,19885\n39,18.5699,37687\n40,18.53,14600\n41,18.56,15840\n42,18.53,12100\n43,18.53,11106\n44,18.43,39596\n45,18.45,10415\n46,18.42,12600\n47,18.47,8050\n48,18.518,29662\n49,18.56,12800\n50,18.56,4568\n51,18.57,7500\n52,18.63,34402\n53,18.76,45914\n54,18.74,18128\n55,18.7199,11450\n56,18.68,24816\n57,18.69,5700\n58,18.69,20146\n59,18.8,6521\n60,18.82,24306\n61,18.8201,5958\n62,18.82,11330\n63,18.72,16715\n64,18.8,7451\n65,18.75,3873\n66,18.72,10210\n67,18.63,15868\n68,18.58,25300\n69,18.54,24542\n70,18.5198,10816\n71,18.48,10852\n72,18.44,39950\n73,18.56,20350\n74,18.5999,7600\n75,18.56,21098\n76,18.62,5522\n77,18.55,17115\n78,18.57,5100\n79,18.61,11580\n80,18.68,9100\n81,18.749,11109\n82,18.82,32517\n83,18.75,9305\n84,18.73,7900\n85,18.82,13850\n86,18.86,22133\n87,18.83,12580\n88,18.81,8100\n89,18.81,12800\n90,18.82,7150\n91,18.71,21657\n92,18.71,11128\n93,18.7,9840\n94,18.71,2320\n95,18.71,13560\n96,18.73,48690\n97,18.724,29622\n98,18.76,12868\n99,18.78,600\n100,18.77,7219\n101,18.74,5200\n102,18.7,13650\n103,18.73,3850\n104,18.73,1800\n105,18.7,8100\n106,18.66,14550\n107,18.67,7710\n108,18.7,5300\n109,18.65,6600\n110,18.63,30571\n111,18.59,18701\n112,18.57,5430\n113,18.59,5700\n114,18.59,4000\n115,18.62,3930\n116,18.63,3800\n117,18.64,300\n118,18.62,5200\n119,18.59,3900\n120,18.6,3600\n121,18.6,5200\n122,18.57,3500\n123,18.59,3100\n124,18.5525,13300\n125,18.58,18305\n126,18.63,9100\n127,18.66,10665\n128,18.63,6600\n129,18.63,16850\n130,18.65,10450\n131,18.65,5219\n132,18.6504,10500\n133,18.64,10619\n134,18.66,5050\n135,18.66,3400\n136,18.68,4416\n137,18.6601,10944\n138,18.668,13166\n139,18.67,8700\n140,18.6899,7359\n141,18.66,9890\n142,18.68,12440\n143,18.69,5900\n144,18.73,19000\n145,18.73,6980\n146,18.73,4880\n147,18.71,11200\n148,18.68,4900\n149,18.73,10100\n150,18.78,19100\n151,18.82,30341\n152,18.815,9850\n153,18.835,59929\n154,18.8499,41551\n155,18.8,13450\n156,18.82,9833\n157,18.8,8312\n158,18.79,36250\n159,18.81,13609\n160,18.8,4166\n161,18.74,31522\n162,18.78,10204\n163,18.77,12300\n164,18.78,6700\n165,18.84,16678\n166,18.84,7752\n167,18.88,23936\n168,18.87,12537\n169,18.89,14900\n170,18.85,16400\n171,18.83,7941\n172,18.81,30900\n173,18.81,7112\n174,18.88,14065\n175,18.95,30446\n176,18.93,10550\n177,18.89,36700\n178,18.92,9000\n179,18.91,13150\n180,18.94,21413\n181,18.925,19247\n182,18.9301,14400\n183,18.975,32850\n184,18.99,23087\n185,19,17864\n186,19,23096\n187,19.05,27700\n188,19.1,37054\n189,19.18,54765\n190,19.19,38743\n191,19.15,40853\n192,19.08,59237\n193,19.08,57116\n194,19.015,51733\n195,19.03,59603\n196,19.05,6340\n721,18.41,11323\n722,18.67,18934\n723,18.65,16762\n724,18.65,25905\n725,18.67,8543\n726,18.66,500\n727,18.71,100\n728,18.6,11100\n729,18.7,24050\n730,18.673,15944\n731,18.7,6470\n732,18.7,11584\n733,18.76,15521\n734,18.72,29185\n735,18.65,5106\n736,18.72,4000\n737,18.61,8617\n738,18.6,6000\n739,18.68,7700\n740,18.65,1200\n741,18.68,2300\n742,18.688,10200\n743,18.71,6500\n744,18.8,8200\n745,18.8096,16200\n746,18.805,7584\n747,18.88,13090\n748,18.85,9600\n749,18.8901,11182\n750,18.87,8450\n751,18.85,2500\n752,18.9,18700\n753,18.96,12963\n754,18.97,13405\n755,19,17921\n756,18.97,7714\n757,18.98,2500\n758,18.95,8690\n759,18.878,3775\n760,18.87,5900\n761,18.7881,10050\n762,18.8,11398\n763,18.84,4300\n764,18.875,7919\n765,18.86,4800\n766,18.8601,5580\n767,18.9108,9065\n768,18.86,8047\n769,18.85,5900\n770,18.87,3500\n771,18.9,2000\n772,18.82,2900\n773,18.8099,4200\n774,18.86,3500\n775,18.919,5500\n776,18.91,4920\n777,18.91,3350\n778,18.97,1129\n779,18.96,6325\n780,18.95,19401\n781,18.94,6710\n782,18.97,10850\n783,18.98,5700\n784,19,5050\n785,19.04,4380\n786,19.12,10467\n787,19.105,10200\n788,19.1,4193\n789,19.13,7150\n790,19.11,2600\n791,19.12,2900\n792,19.13,6762\n793,19.13,10400\n794,19.23,16954\n795,19.21,10451\n796,19.2099,5350\n797,19.23,1590\n798,19.1801,24231\n799,19.14,7100\n800,19.11,6150\n801,19.18,7100\n802,19.1701,6200\n803,19.1301,8800\n804,19.11,8200\n805,19.109,5400\n806,19.1396,7536\n807,19.16,3200\n808,19.15,6000\n809,19.12,4915\n810,19.16,5500\n811,19.17,7370\n812,19.135,3600\n813,19.14,600\n814,19.11,2450\n815,19.12,900\n816,19.14,14043\n817,19.17,4700\n818,19.24,14041\n819,19.25,12862\n820,19.23,4350\n821,19.3,8733\n822,19.3599,24919\n823,19.33,42234\n824,19.35,3000\n825,19.33,2450\n826,19.35,7610\n827,19.38,8473\n828,19.35,5210\n829,19.35,12500\n830,19.36,7350\n831,19.39,7040\n832,19.34,8300\n833,19.39,13100\n834,19.44,21700\n835,19.49,54611\n836,19.5,47267\n837,19.44,27000\n838,19.36,17100\n839,19.38,5100\n840,19.31,14040\n841,19.31,6340\n842,19.3,6900\n843,19.27,12792\n844,19.29,18900\n845,19.27,7684\n846,19.26,14300\n847,19.21,3600\n848,19.15,15028\n849,19.11,15650\n850,19.11,17814\n851,19.07,22400\n852,19.05,11600\n853,19.0501,7000\n854,19.03,5263\n855,19.06,30500\n856,19.12,13538\n857,19.06,4500\n858,19.07,2324\n859,19.14,5144\n860,19.09,8424\n861,19.05,14076\n862,19.04,9700\n863,19,5900\n864,18.96,10550\n865,19.02,6800\n866,19.06,10600\n867,19,3100\n868,18.97,11400\n869,18.952,63200\n870,18.89,8787\n871,18.8701,22955\n872,18.87,6700\n873,18.84,12730\n874,18.86,6000\n875,18.8521,9510\n876,18.92,12300\n877,18.92,8800\n878,18.94,11100\n879,18.8706,29000\n880,18.88,12221\n881,18.86,10479\n882,18.81,12121\n883,18.84,16300\n884,18.88,18400\n885,18.87,7520\n886,18.86,9502\n887,18.96,17446\n888,18.97,6869\n889,18.95,13702\n890,18.94,4050\n898,19.01,1100\n899,18.96,12634\n900,18.98,6658\n901,19.02,8705\n902,18.99,5657\n903,18.9504,10453\n904,18.96,9500\n905,18.93,7370\n906,18.87,13100\n907,18.81,12430\n908,18.88,9830\n909,18.84,13858\n910,18.84,7996\n911,18.91,7200\n912,18.9,14140\n913,18.91,13214\n914,18.95,200\n915,18.9,22310\n917,18.92,29649\na1291213920,19.55,6531\n1,19.53,5800\n2,19.45,9200\n3,19.45,14900\n4,19.46,26173\n5,19.37,5655\n6,19.46,2600\n7,19.51,21610\n8,19.5,14600\n9,19.5064,13620\n10,19.43,30011\n11,19.61,25740\n12,19.71,19600\n13,19.63,16009\n14,19.67,4900\n15,19.68,23790\n16,19.76,53318\n17,19.81,32671\n18,19.76,13193\n19,19.71,12300\n20,19.69,18212\n21,19.69,28756\n22,19.77,6100\n23,19.75,5331\n24,19.78,11516\n25,19.77,3600\n26,19.74,5380\n27,19.7,3750\n28,19.69,3800\n29,19.61,15105\n30,19.65,9287\n31,19.655,6227\n32,19.68,8800\n33,19.68,3087\n34,19.67,3700\n35,19.67,14892\n36,19.66,6429\n37,19.75,7300\n38,19.73,5550\n39,19.79,10300\n40,19.8,9591\n41,19.76,11198\n42,19.78,2600\n43,19.79,7200\n44,19.76,24933\n45,19.76,7388\n46,19.79,8000\n47,19.77,4100\n48,19.76,5487\n49,19.74,2831\n50,19.76,16264\n51,19.78,3600\n52,19.76,1600\n53,19.75,4750\n54,19.7301,7041\n55,19.72,2200\n56,19.75,3017\n57,19.76,2755\n58,19.73,18286\n59,19.73,4700\n60,19.74,2400\n61,19.75,1810\n62,19.73,1518\n63,19.75,5288\n64,19.74,10100\n65,19.74,300\n66,19.81,10188\n67,19.82,4900\n68,19.81,6809\n69,19.8,6250\n70,19.92,25272\n71,19.92,7100\n72,19.96,11978\n73,19.93,12040\n74,19.8801,6200\n75,19.89,8153\n76,19.89,2000\n77,19.85,6665\n78,19.88,6650\n79,19.88,5965\n80,19.89,4535\n81,19.93,4300\n82,19.89,5550\n83,19.89,7750\n84,19.8801,1900\n85,19.87,14800\n86,19.84,4600\n87,19.86,7820\n88,19.87,2800\n89,19.85,1830\n90,19.86,4633\n91,19.89,4342\n92,19.85,6400\n93,19.83,5995\n94,19.79,14250\n95,19.84,16550\n96,19.8,3900\n97,19.89,9900\n98,19.87,4928\n99,19.91,1800\n100,19.92,7100\n101,19.895,2000\n102,19.9,3375\n103,19.88,6509\n104,19.9,3500\n105,19.9,5014\n106,19.9,7100\n107,19.89,10400\n108,19.895,4300\n109,19.87,13600\n110,19.88,1300\n111,19.9,2800\n112,19.94,15737\n113,19.9219,6000\n114,19.8305,13420\n115,19.81,15366\n116,19.85,6270\n117,19.8199,2800\n118,19.82,6900\n119,19.83,4100\n120,19.85,2900\n121,19.845,4100\n122,19.79,5119\n123,19.82,3100\n124,19.87,9179\n125,19.8001,9500\n126,19.79,7400\n127,19.83,11900\n128,19.8201,4734\n129,19.933,92471\n130,19.96,18600\n131,19.91,33050\n132,19.94,3750\n133,20.01,34506\n134,20.03,19930\n135,20.08,33895\n136,20.09,5300\n137,20.1,1700\n138,20.14,200\n139,20.16,400\n141,20.2,10600\n142,20.15,20685\n143,20.14,18250\n144,20.2,11344\n145,20.2,10500\n146,20.2,11324\n147,20.24,9894\n148,20.3,39200\n149,20.32,34906\n150,20.35,20850\n151,20.36,16822\n152,20.32,12013\n153,20.34,18470\n154,20.34,12535\n155,20.33,44450\n156,20.315,20880\n157,20.33,22100\n158,20.3599,6450\n159,20.395,29693\n160,20.3902,3800\n161,20.39,3600\n162,20.42,18953\n163,20.42,4500\n164,20.44,16055\n165,20.4201,23650\n166,20.425,8575\n167,20.42,12150\n168,20.45,8805\n169,20.48,23695\n170,20.55,58901\n171,20.54,18220\n172,20.53,31230\n173,20.572,18300\n174,20.57,23246\n175,20.61,26072\n176,20.63,16720\n177,20.625,25516\n178,20.64,51062\n179,20.64,29727\n180,20.6699,15220\n181,20.68,54245\n182,20.7,35158\n183,20.752,74965\n184,20.77,38959\n185,20.78,47636\n186,20.8,30043\n187,20.84,48973\n188,20.7501,45787\n189,20.73,91184\n190,20.7,61716\n191,20.73,70778\n192,20.725,52258\n193,20.7702,64403\n194,20.762,49832\n196,20.8,17987\n",_5Y:"EXCHANGE%3DNYSE\nMARKET_OPEN_MINUTE=570\nMARKET_CLOSE_MINUTE=960\nINTERVAL=604800\nCOLUMNS=DATE,CLOSE,VOLUME,CDAYS\nDATA=\nTIMEZONE_OFFSET=-300\na1133557200,11.09,2772100,5\n1,11.8,3008100,5\n2,11.62,3241500,5\n3,11.36,1896400,5\n4,11.57,1701700,4\n5,12.44,2645100,4\n6,12.31,1976900,5\n7,12.84,2584800,4\n8,13.82,2733200,5\n9,14.74,5560100,5\n10,12.92,4078400,5\n11,13.76,3984200,5\n12,13.95,2514300,4\n13,14.47,4237000,5\n14,13.15,4652600,5\n15,14.85,3307900,5\n16,15.98,4058800,5\n17,16.46,3903700,5\nTIMEZONE_OFFSET=-240\na1144440000,16.88,3486400,5\na1144958400,17.25,2721500,5\na1145649600,17.73,5390800,5\n1,16.97,3892300,5\n2,17.63,3217900,5\n3,16.58,4534500,5\n4,13.85,6301900,5\n5,14.09,4425000,5\n6,14.28,2263600,4\n7,12.02,4527600,5\n8,11.65,5395900,5\n9,12.17,3648100,5\n10,12.68,2610400,5\n11,12.39,1659400,4\n12,11.53,3160600,5\n13,10.18,3570000,5\n14,11.38,2633900,5\n15,11.5,2537000,5\n16,9.05,4708700,5\n17,9.61,3898300,5\n18,9.2,3127300,5\n19,9.39,2634400,5\n20,8.88,2888300,4\n21,8.39,5138100,5\n22,8.3,2710100,5\n23,8.4,4306100,5\n24,8.67,4228100,5\n25,9.42,3613600,5\n26,10.16,4064800,5\n27,10.82,3184500,5\nTIMEZONE_OFFSET=-300\na1162587600,10.86,3011400,5\n1,12.47,5673500,5\n2,11.93,3940100,5\na1164391200,13.41,3887600,4\na1165006800,13.69,3694500,5\n1,13.33,3468300,5\n2,12.78,2961500,5\n3,12.2,2856300,5\n4,12.49,2032300,4\n5,11.36,2213700,3\n6,11.93,2464300,5\n7,11.47,2014500,4\n8,12.3,3586900,5\n9,13.1,3898400,5\n10,13.06,2780700,5\n11,13.53,2039600,5\n12,13.79,3641800,4\n13,11.95,4332000,5\n14,12.65,3464200,5\nTIMEZONE_OFFSET=-240\na1174075200,12.15,2655100,5\n1,12.54,2287400,5\n2,12.69,2422600,5\na1175803200,13.55,2647200,5\na1176494400,14.41,3032900,5\n1,14.7,4163600,5\n2,15.67,5220800,5\n3,14.31,4476600,5\n4,13.1,4721200,5\n5,11.84,6179900,5\n6,12.17,5578600,5\n7,12.99,2960000,4\n8,11.88,3345500,5\n9,12.13,3420400,5\n10,11.34,4235800,5\n11,11.01,3916000,5\n12,11.11,2472800,4\n13,12,4510400,5\n14,11.25,4389600,5\n15,9.35,7651000,5\n16,8.56,4898800,5\n17,8.66,13273900,5\n18,8.57,7515500,5\n19,9.06,4559400,5\n20,9.39,3557900,5\n21,9.17,2547700,4\n22,9.35,3297600,5\n23,10.35,3896600,5\n24,10.29,2707100,5\n25,10.44,3439500,5\n26,11.29,3907900,5\n27,10.71,3756800,5\n28,10.8,3324600,5\n29,10.8,3528900,5\nTIMEZONE_OFFSET=-300\na1194642000,10.08,5624300,5\n1,9.78,4011800,5\na1195840800,9.6,2303600,4\na1196456400,9.7,3899800,5\n1,10.58,2607700,5\n2,9.1,2882600,5\n3,9.69,3917000,5\n4,9.78,1618300,4\n5,9.03,2092600,4\n6,8.93,3856400,5\n7,8.13,4377100,5\n8,10.41,7950700,4\n9,12.77,10639600,5\n10,15,13768600,5\n11,16.1,11899600,5\n12,18.9,12963200,4\n13,20.53,16730700,5\n14,17.1,26327600,5\nTIMEZONE_OFFSET=-240\na1205524800,18.4,14088600,5\na1206043200,15.86,11825600,5\na1206734400,16,7544200,5\n1,17.27,7818400,5\n2,16.97,6691800,5\n3,17.5,7142800,5\n4,15.45,4762600,5\n5,13.49,5683100,5\n6,13.08,8284600,5\n7,14.95,8674700,5\n8,15.56,9678000,5\n9,14.35,6537400,4\n10,12.85,7783400,5\n11,10.93,7793900,5\n12,11.43,12599100,5\n13,12.39,9659600,5\na1215104400,10.11,7711900,5\na1215806400,10.98,8886000,5\n1,10.21,10360600,5\n2,9.96,6379400,5\n3,8.32,7466600,5\n4,6.4,17556400,5\n5,6.6,10285200,5\n6,7.45,7256800,5\n7,7.45,5255600,5\n8,7.05,5332700,4\n9,6.85,10850200,5\n10,6.5,16441000,5\n11,6.49,6663100,5\n12,4.63,5482100,5\n13,3.3,9208800,5\n14,4.42,5970800,5\n15,3.05,5479800,5\n16,3.96,4744700,5\nTIMEZONE_OFFSET=-300\na1226091600,3.88,2932500,5\n1,2.41,5540014,5\n2,2.71,3976296,5\na1227895200,3.13,2691504,4\na1228510800,2.86,3202875,5\n1,3.92,5425769,5\n2,4.76,5915996,5\n3,4.66,2249822,4\n4,5.4,3466115,4\n5,4.84,5685903,5\n6,4.29,4700710,5\n7,4.26,3077167,4\n8,4.15,2935973,5\n9,4.98,3795420,5\n10,5.02,3857287,5\n11,4.4,3166948,4\n12,3.16,4169834,5\n13,2.81,4022962,5\nTIMEZONE_OFFSET=-240\na1236974400,3.06,3795057,5\n1,4,3548785,5\n2,4.1,4757033,5\n3,4.08,4344683,5\na1239307200,4.31,3489889,4\na1239998400,4.86,6580226,5\n1,4.64,5828696,5\n2,4.43,4052155,5\n3,5.97,7777829,5\n4,5.19,4537076,5\n5,6.28,6294174,5\n6,7.39,5962260,4\n7,7.44,6288786,5\n8,7.67,5702168,5\n9,6.49,4738833,5\n10,6.16,5645725,5\na1246564800,5.62,2365159,4\na1247256000,4.74,5245583,5\n1,6.15,3787844,5\n2,6.47,5915737,5\n3,6.69,4362691,5\n4,6.65,4581023,5\n5,6.79,2749006,5\n6,7.01,3285508,5\n7,6.69,3164152,5\n8,6.93,3409812,5\n9,7.28,2844019,4\n10,8.05,4875472,5\n11,6.71,4625016,5\n12,6.59,4693593,5\n13,7.72,4338164,5\n14,8.07,4729725,5\n15,7.45,3597401,5\n16,6.2,4475117,5\nTIMEZONE_OFFSET=-300\na1257541200,7.5,4260268,5\n1,7.7,3459399,5\n2,8.85,7678197,5\na1259344800,9.34,4881150,4\na1259960400,9.56,5544100,5\n1,9.26,3399369,5\n2,8.67,3724133,5\na1261677600,8.89,2756679,4\na1262293200,9.48,3062011,4\na1262984400,12.8,13818167,5\n1,12.46,8863629,5\n2,11.61,11808249,4\n3,10.05,9726711,5\n4,10.28,9919317,5\n5,11.03,7122369,5\n6,11.7,4967490,4\n7,11.35,6214196,5\n8,13.67,12021914,5\n9,14.2,8409625,5\nTIMEZONE_OFFSET=-240\na1269028800,13.45,13848598,5\n1,12.62,8500576,5\na1270152000,13.43,5465735,4\na1270843200,15.69,12471561,5\n1,16.41,13683543,5\n2,17.62,12601563,5\n3,16.9,12966315,5\n4,14.37,22045201,5\n5,15.59,14780658,5\n6,12.92,19479200,5\n7,13.24,12485453,5\n8,11.49,8284375,4\n9,12.72,13375021,5\n10,13.53,9023782,5\n11,13.09,11239263,5\n12,11.36,11272733,5\n13,12.48,5596630,4\n14,12.68,9442024,5\n15,13.79,7684756,5\n16,13.77,9883302,5\n17,13.88,7790710,5\n18,12.74,7562123,5\n19,13.59,8215654,5\n20,13.83,6989097,5\n21,15.28,8525413,5\n22,14.48,6869637,4\n23,15.27,11102775,5\n24,16.59,10559742,5\n25,16.98,9490811,5\n26,16.59,11368269,5\n27,16.89,10274876,5\n28,16.16,9827334,5\n29,17.8,9657194,5\n30,20.23,11220825,5\nTIMEZONE_OFFSET=-300\na1289595600,20.04,11986512,5\n1,19.78,12611753,5\n2,20.01,4372940,4\n",corp_actions:"[{\"_quote\":\"NYSE:SWC\",\"_type\":\"split\",\"_date\":\"915460200\",\"_old_shares\":\"2\",\"_new_shares\":\"3\"}]",related_items:[{ticker:"INDEXDJX:.DJI",name:"Dow Jones",timezone_offset:-18000,is_index:true,different_market_session:false},{ticker:"INDEXSP:.INX",name:"S\x26P 500",timezone_offset:-18000,is_index:true,different_market_session:false},{ticker:"AMEX:PLG",name:"PLG",timezone_offset:-18000,is_index:false},{ticker:"AMEX:ANO",name:"ANO",timezone_offset:-18000,is_index:false},{ticker:"AMEX:PAL",name:"PAL",timezone_offset:-18000,is_index:false},{ticker:"NYSE:CDE",name:"CDE",timezone_offset:-18000,is_index:false},{ticker:"NYSE:HL",name:"HL",timezone_offset:-18000,is_index:false},{ticker:"AMEX:GMO",name:"GMO",timezone_offset:-18000,is_index:false},{ticker:"PINK:AAUKY",name:"AAUKY",timezone_offset:-18000,is_index:false}]}};
+google.finance.data.numberFormat = [{'threshold':1000000, 'symbol':'M'}, {'threshold':1000000000,'symbol':'B'}, {'threshold':1000000000000,'symbol':'T'}] ;
+if (_s_Store) {
+_s_Store._allowMatchAdvancedSearch = true;
+var _fieldToDisplayNameMap = {GrossMargin:"Gross margin&nbsp;(%)",Return1Week:"1w return",Return156Week:"156w return",NextYearEPS:"Next year EPS",LTDebtToAssetsYear:"LT debt/assets (Recent&nbsp;yr)&nbsp;(%)",RevenueGrowthRate5Years:"5y revenue growth rate",EarningsAfterTaxes:"Earnings after taxes",DividendPerShare:"Div per share",MarketCap:"Market cap",NetProfitMarginPercent:"Net profit margin&nbsp;(%)",Float:"Float",EarningsBeforeTaxes:"Earnings before taxes",QuotePercChange:"Quote change&nbsp;(%)",TotalDebtToEquityYear:"Total debt/equity (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToCapitalQuarter:"Total debt/capital (Recent&nbsp;qtr)&nbsp;(%)",LTDebtToCapitalQuarter:"LT debt/capital (Recent&nbsp;qtr)&nbsp;(%)",EPSGrowthRate10Years:"10y EPS growth rate",Beta:"Beta",ReturnOnAssetsPTM:"Return on assets (PTM)&nbsp;(%)",CapitalGain:"Capital gain",BetaDown:"Beta down from RAS",IncomeDividend:"Income dividend",RevenueGrowthRate10Years:"10y revenue growth rate",MarketCapShareBasis:"Market cap share basis",IAD:"Div rate indicated annual",Return4Week:"4w return",Price150DayAverage:"150d avg price",EPSGrowthRate5Years:"5y EPS growth rate",ReturnOnAssetsTTM:"Return on assets (TTM)&nbsp;(%)",TotalDebtToAssetsYear:"Total debt/assets (Recent&nbsp;yr)&nbsp;(%)",Volume:"Volume",DividendRecentQuarter:"Div recent quarter",CurrentRatioYear:"Current ratio",Low52Week:"52w low",ExpenseRatio:"Expense ratio",Price13WeekPercChange:"13w&nbsp;price change&nbsp;(%)",Price1DayPercChange:"1d&nbsp;price change&nbsp;(%)",ReturnOnEquity5Years:"Return on equity (5&nbsp;yr&nbsp;avg)&nbsp;(%)",TotalDebtToCapitalYear:"Total debt/capital (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToAssetsQuarter:"Total debt/assets (Recent&nbsp;qtr)&nbsp;(%)",NavChange:"Nav change",OperatingMargin:"Operating margin&nbsp;(%)",DPSRecentYear:"Div per share (Recent&nbsp;yr)",ANI:"Earnings after taxes (Recent&nbsp;yr)",AverageVolume:"Average volume",High52Week:"52w high",Return13Week:"13w return",PriceToCashFlowPerShare:"Price to cash flow per share",ATAXRATE:"Tax rate (Recent&nbsp;yr)",Price26WeekPercChange:"26w&nbsp;price change&nbsp;(%)",QuoteChange:"Quote change",NetIncomeChangePerc:"Net income change&nbsp;(%)",ReturnOnInvestment5Years:"Return on investment (5&nbsp;yr&nbsp;avg)&nbsp;(%)",PE:"P/E ratio",ReturnOnInvestmentYear:"Return on investment (Recent&nbsp;yr)&nbsp;(%)",Price200DayAverage:"200d avg price",DividendNextQuarter:"Div next quarter",EBITD:"EBITDA",PriceYTDPercChange:"YTD&nbsp;price change&nbsp;(%)",ReturnOnInvestmentTTM:"Return on investment (TTM)&nbsp;(%)",NavChangePercent:"Nav change&nbsp;(%)",EBITDMargin:"EBITDA margin&nbsp;(%)",LTDebtToEquityQuarter:"LT debt/equity (Recent&nbsp;qtr)&nbsp;(%)",BetaRAS:"Beta from RAS",PriceSales:"Price to sales",NetAssets:"Net assets",ReturnOnEquityTTM:"Return on equity (TTM)&nbsp;(%)",CashPerShareYear:"Cash/share",ReturnOnAssets5Years:"Return on assets (5&nbsp;yr&nbsp;avg)&nbsp;(%)",ReturnDay:"1d return",Return52Week:"52w return",ForwardPE1Year:"1y fwd P/E",NetIncomeGrowthRate5Years:"5y net income growth rate",DividendYield:"Div yield&nbsp;(%)",Dividend:"Div from cash flow",BetaUp:"Beta up from RAS",LTDebtToCapitalYear:"LT debt/capital (Recent&nbsp;yr)&nbsp;(%)",nprice:"Price from RAS",Return260Week:"260w return",ReturnOnEquityQuarter:"Return on equity (Recent&nbsp;qtr)&nbsp;(%)",ACOGS:"Cost of goods sold",LTDebtToAssetsQuarter:"LT debt/assets (Recent&nbsp;qtr)&nbsp;(%)",PriceToBook:"Price to book",LTDebtToEquityYear:"LT debt/equity (Recent&nbsp;yr)&nbsp;(%)",ReturnYTD:"Return YTD",ReturnOnEquityYear:"Return on equity (Recent&nbsp;yr)&nbsp;(%)",ReturnOnAssetsQuarter:"Return on assets (Recent&nbsp;qtr)&nbsp;(%)",TotalDebtToEquityQuarter:"Total debt/equity (Recent&nbsp;qtr)&nbsp;(%)",NavPrior:"Nav prior",AINTCOV:"Interest coverage",EPS:"EPS",ReturnOnInvestmentQuarter:"Return on investment (Recent&nbsp;qtr)&nbsp;(%)",QuoteLast:"Last price",Price50DayAverage:"50d avg price",Price4WeekPercChange:"4w&nbsp;price change&nbsp;(%)",ReturnOnAssetsYear:"Return on assets (Recent&nbsp;yr)&nbsp;(%)",MarketCapRAS:"Mkt cap from RAS",Price52WeekPercChange:"52w&nbsp;price change&nbsp;(%)",ShortInterestRatioPercent:"Short interest ratio&nbsp;(%)",InstitutionalPercentHeld:"Institutional percent held",BookValuePerShareYear:"Book value/share",ReturnOnEquityPTM:"Return on equity (PTM)&nbsp;(%)"};
+_s_Store._asStore._addStrings(_fieldToDisplayNameMap);
+}
+if (_s_Store) {
+_s_Store._allowMultipleInBox = true;
+}
+_regOnLoad(onCompanyLoad);
+google.finance.renderRecentQuotes();
+</script>
+<script>
+title = "SWC: {LAST} {CHANGE} ({CHANGE_PCT}%) - Stillwater Mining Company";_aQ("NYSE:SWC", "657715",title);_aQ("NYSE:SWC","657715");_aQ("AMEX:PLG","16269394");_aQ("AMEX:ANO","685040");_aQ("AMEX:PAL","665577");_aQ("NYSE:CDE","8197");_aQ("NYSE:HL","16961");_aQ("AMEX:GMO","708296");_aQ("PINK:AAUKY","664107");_aQ("AMEX:XPL","708283");_aQ("AMEX:PLM","697218");_aQ("NASD:USEG","598784");
+</script>
+<script>
+_chartConfigObject.expandButtonEnabled = true;
+</script>
+<div class="g-section g-tpl-right-1">
+<div class="g-unit g-first">
+<div class=g-c>
+<div id=r-perf class="g-section g-tpl-67-33 g-split nwp">
+<div id=r-perf-quotes class="g-unit g-first"></div>
+<div id=r-perf-charts class=g-unit></div>
+</div>
+<script>google.finance.renderRelativePerformance();</script>
+</div>
+</div>
+<div class=g-unit>
+<div id=market-data-div style="display:none" class="nwp g-floatfix">
+<div id=price-panel style="float:left">
+<div>
+<span class="pr">
+<span id="ref_657715_l">20.80</span>
+</span>
+<div id=price-change class=nwp>
+<span class="ch bld"><span class="chg" id="ref_657715_c">+1.88</span>
+<span class="chg" id="ref_657715_cp">(9.94%)</span>
+</span>
+</div>
+</div>
+<div>After Hours:&nbsp;<span class=bld id="ref_657715_el">20.75</span>
+<span id="ref_657715_ec" class="chr">-0.05</span>
+<span id="ref_657715_ecp" class="chr">(-0.24%)</span>
+<div id="ref_657715_elt">Dec 1, 5:55PM EST&nbsp;&nbsp;<div class=mdata-dis>
+<span class=dis-large><nobr>NYSE real-time data -
+<a href=
+  "http://www.google.com/help/stock_disclaimer.html#realtime"
+  class=dis-large>Disclaimer</a>
+</nobr></span>
+<div>Currency in USD</div>
+</div>
+</div>
+</div>
+</div>
+<div id=snap-panel
+       class=goog-inline-block style="overflow:hidden;height:82px">
+<ol id=snap-data class=id-snap-data>
+<li>
+<span class="goog-inline-block key" data-snapfield="range">Range</span>
+<span class="goog-inline-block val">19.35 - 20.86</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="range_52week">52 week</span>
+<span class="goog-inline-block val">8.37 - 21.73</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="open">Open</span>
+<span class="goog-inline-block val">19.48</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="vol_and_avg">Vol / Avg.</span>
+<span class="goog-inline-block val">3.46M/2.22M</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="market_cap">Mkt cap</span>
+<span class="goog-inline-block val">2.04B</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="pe_ratio">P/E</span>
+<span class="goog-inline-block val">77.47</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="latest_dividend-dividend_yield">Div/yield</span>
+<span class="goog-inline-block val">&nbsp;&nbsp;&nbsp;&nbsp;-</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="eps">EPS</span>
+<span class="goog-inline-block val">0.27</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="shares">Shares</span>
+<span class="goog-inline-block val">97.90M</span>
+<li>
+<span class="goog-inline-block key" data-snapfield="beta">Beta</span>
+<span class="goog-inline-block val">2.22</span>
+</ol>
+</div>
+</div>
+<script>google.finance.renderMarketData();</script>
+</div>
+</div>
+<div class="g-section g-tpl-right-1 sfe-break-top-5">
+<div class="g-unit g-first">
+<div class=g-c><div>
+<div id=newstabsgroup>
+<div id=news-tabs class=hide>
+<div class="goog-tab goog-tab-selected"><a id=news_tab_title class=t>
+<b class=t><b class=t>News</b></b></a></div>
+<div class=goog-tab><a id=blogs_tab_title class=t>
+<b class=t><b class=t>Blogs</b></b></a></div>
+<div class=goog-tab><a id=plot_feeds_title class=t>
+<b class=t><b class=t>Feeds</b></b></a></div>
+</div>
+<div id=tabs-clear class=goog-tab-bar-clear class=hide></div>
+<div id=news_div_cont style="display:none"></div>
+<div id=blogs_div_cont style="display:none"></div>
+<div id=plot_feed_div_cont style="display:none"></div>
+</div>
+<div class="sfe-section clf" id=news-footer>
+<div id=news-sidebar-footer class="g-section g-tpl-67-33 g-split">
+<div class="g-unit g-first">
+<a href="/finance/company_news?q=NYSE:SWC" >All news for Stillwater Mining Company &raquo;</a>
+</div><div class=g-unit>
+<a href="/finance/company_news?q=NYSE:SWC&output=rss">Subscribe</a>
+<a href="/finance/company_news?q=NYSE:SWC&output=rss"><img class=SP_subscribe src="/finance/s/m4C5KaofCbA/images/cleardot.gif" alt="Subscribe." id=rss
+        width=15 height=15 /></a>
+</div>
+</div>
+</div>
+</div>
+<div id=ad class="sfe-break-top sfe-break-bottom-16">
+<div id=ad-label class=invisible>Advertisement</div>
+<div id=ad-target class=ads-300-250></div>
+</div>
+<div class="g-section g-tpl-25-75 g-split hdg">
+<div class="g-unit g-first">
+<h3>Events</h3>
+</div>
+<div class="g-unit">
+<div class=sfe-break-right-em>
+<img src="/finance/s/m4C5KaofCbA/images/cleardot.gif"
+               width=16 height=16 class=SP_calendar id=calendar alt="">
+<a onclick="_GF_click('', 'add_ical', 'SWC', '')" href="http://www.google.com/calendar/render?hl=en&cid=http://www.google.com:80%2Ffinance%2Fevents%3Fq%3DNYSE%3ASWC%26output%3Dical" >Add SWC to my calendars</a>
+</div>
+</div>
+</div>
+<div class="events sfe-section">
+<div class=event>
+<div class="bld date">Nov 10, 2010</div>
+<div>JOHN TUMAZOS VERY INDEPENDENT RESEARCH, LLC (JTVIR LLC) Metals &amp; Mining Conference
+</div>
+</div>
+<div class=event>
+<div class="bld date">Oct 29, 2010</div>
+<div>Q3 2010 Earnings Conference Call -
+<a onclick="_GF_click('', 'webcast', 'SWC', '')" href="http://web.servicebureau.net/conf/meta?i=1113212107&amp;c=2343&amp;m=was&amp;u=/w_ccbn.xsl&amp;date_ticker=SWC"  class=time>
+<img alt="Webcast" src="/finance/s/m4C5KaofCbA/images/cleardot.gif"
+                width=19 height=16 class=SP_webcast id=webcast>
+</a>
+</div>
+</div>
+<div class=event>
+<div class="bld date">Oct 29, 2010</div>
+<div>Q3 2010 Earnings Release
+</div>
+</div>
+<div class=event>
+<div class="bld date">Sep 21, 2010</div>
+<div>Denver Gold Group Forum
+</div>
+</div>
+<div class=event>
+<div class="bld date">Sep 7, 2010</div>
+<div>Marathon PGM Corp Announce Acquisition Agreement - Conference Call
+</div>
+</div>
+<table><tr>
+<td>
+<a href="http://www.dailyfinance.com/event/SWC/usa" >
+More events from DailyFinance &raquo;</a>&nbsp;
+&nbsp;&nbsp;<nobr>
+</td>
+</tr></table>
+</div>
+<div class=hdg><h3>Key stats and ratios</h3></div>
+<div class=sfe-section>
+<table class="quotes rgt nwp" width="100%">
+<thead><tr>
+<td width=50%>
+<td class=colHeader>Q3 (Sep &#39;10)
+<td class=colHeader>2009
+</tr></thead>
+<tr>
+<td class="lft name">Net profit margin
+<td class=period>4.12%
+<td class=period>-2.34%
+<tr>
+<td class="lft name">Operating margin
+<td class=period>4.50%
+<td class=period>0.94%
+<tr>
+<td class="lft name">EBITD margin
+<td class=period>-
+<td class=period>18.80%
+<tr>
+<td class="lft name">Return on average assets
+<td class=period>3.05%
+<td class=period>-1.27%
+<tr>
+<td class="lft name">Return on average equity
+<td class=period>4.86%
+<td class=period>-2.12%
+<tr>
+<td class="lft name">Employees
+<td class=period>1,273
+<td class=period>-
+<tr>
+<td class="lft name">Carbon Disclosure Rating
+<td class=period>-
+<td class=period>
+-
+</table>
+<div class=sfe-break-top>
+<a id="similar" href="/finance/similar?q=NYSE:SWC" >Screen stocks with similar metrics &raquo;</a></div>
+</div>
+<div class=hdg><h3>Address</h3></div>
+<div class=sfe-section>1321 Discovery Drive<br/>Billings, MT 59102<br/>United States
+- <a href="http://maps.google.com/maps?q=1321+Discovery+Drive+Billings+59102+United+States%20(Stillwater+Mining+Company)" >Map</a><br/>+1-406-3738700 (Phone)<br>+1-406-3229985 (Fax)<br>
+</div>
+<div class=hdg><h3>Website links</h3></div>
+<div class=sfe-section><div class=item>Company website:<br>
+<a id=fs-chome href="http://www.stillwatermining.com" >
+http://www.stillwatermining.com
+</a>
+</div>
+<div class=item><a id=fs- href="http://phx.corporate-ir.net/phoenix.zhtml?c=99837&p=irol-news" >News Releases</a></div>
+<div class=item><a id=fs- href="http://phx.corporate-ir.net/phoenix.zhtml?c=99837&p=irol-IRHome" >Investor Relations</a></div>
+<div class=item><a id=fs- href="http://phx.corporate-ir.net/phoenix.zhtml?c=99837&p=irol-sec" >Financial Information</a></div>
+<div class=item><a id=fs- href="http://www.stillwatermining.com/overView.html" >Corporate History/Profile</a></div>
+<div class=item><a id=fs- href="http://www.stillwatermining.com/CorporateGovernance/Officers/Officers.html" >Executives</a></div>
+<div class=item><a id=fs- href="http://www.stillwatermining.com/mineOperations.html" >Products/Services</a></div>
+<div class=item><a id=fs- href="http://www.stillwatermining.com/HumanResources/Employment/Employment.html" >Employment Opportunities</a></div>
+</div>
+<div class=hdg><h3>External links</h3></div>
+<div class=sfe-section>
+<div class=item><a id=m-analyst
+                 href=http://www.marketwatch.com/tools/quotes/snapshot.asp?symb=SWC&pg=analyst >Analyst Estimates</a> - <font color="#6F6F6F">MarketWatch</font></div>
+<div class=item><a id=m-sec
+                 href=http://google.brand.edgar-online.com?sym=SWC >SEC Filings</a> - <font color="#6F6F6F">EDGAR Online</font></div>
+<div class=item><a id=m-hold
+                 href=http://moneycentral.msn.com/investor/invsub/ownership/ownership.asp?Symbol=SWC >Major Holders</a> - <font color="#6F6F6F">MSN Money</font></div>
+<div class=item><a id=m-research
+                 href=http://finance.yahoo.com/q/rr?s=SWC >Research Reports</a> - <font color="#6F6F6F">Yahoo Finance</font></div>
+<div class=item><a id=m-annualreport
+                 href=http://annualreports.com/partners/Report/17715 >Annual Report (PDF)</a> - <font color="#6F6F6F">AnnualReports.com</font></div>
+<div class=item><a href="//groups.google.com/groups/finance?cid=657715&hl=en" >Discussion Group</a> - <font color="#6F6F6F">Google Finance</font></div>
+</div>
+</div>
+</div>
+<div class=g-unit>
+<div id=top-section class="g-c sfe-break-right">
+<div id=chart-section>
+<div>
+<div id=compare-bar-wrapper>
+<div id=compare-bar class="id-compare-bar g-section">
+</div>
+</div>
+<div id=chart_anchor class=id-chart_anchor>
+<script>
+var _minZoomDays = 1;
+var _timeZoneOffset = '-18000';
+_chartConfigObject.hasVolume = _displayVolume;
+_chartConfigObject.hasNews = true;
+_chartConfigObject.hasExtendedHours = true;
+_chartConfigObject.hasDefaultZoomSetting = true;
+_chartConfigObject.hasVerticalScaleSetting = true;
+_chartConfigObject.displayVolume = 'true';
+_chartConfigObject.displayNewsPins = 'true';
+_chartConfigObject.displayDividends = 'true';
+_chartConfigObject.displaySplits = 'true';
+_chartConfigObject.displayExtendedHours = 'false';
+_chartConfigObject.enableCustomDateEntry = true
+_chartConfigObject.defaultZoomDays = '3';
+_chartConfigObject.snapping = false;
+_chartConfigObject.verticalScaling = 'maximized';
+_chartConfigObject.sparklineType = 'dynamic';
+// set _minZoomDays and _minZoomDaysNoIntraDay in each page before emit the
+// chart to passing the value to chart, otherwise default value will be use.
+_chartConfigObject.minZoomDaysNormal = _minZoomDays;
+_chartConfigObject.minZoomDaysNoIntraDay = _minZoomDaysNoIntraDay;
+_chartConfigObject.enableIndicator = true;
+_chartConfigObject.companyId = '657715';
+_chartConfigObject.enableRealtimeChart = true;
+_chartConfigObject.isMarketOpenState = 0;
+_chartConfigObject.stateRemainingMinutes = 857;
+_chartConfigObject.delayedMinutes = 0;
+_chartConfigObject.delayedMinutes = Math.max(
+_chartConfigObject.delayedMinutes,
+15);
+_chartConfigObject.enableChartTypeSetting = true;
+_chartConfigObject.lineStyle = 'IntervalBasedLine';
+_chartConfigObject.defaultInterval = '86400';
+_chartConfigObject.enableIndicatorSetting = true;
+_chartConfigObject.biasSetting = '';
+_chartConfigObject.emaSetting = '';
+_chartConfigObject.kdjSetting = '';
+_chartConfigObject.macdSetting = '';
+_chartConfigObject.rsiSetting = '';
+_chartConfigObject.smaSetting = '';
+_chartConfigObject.vmaSetting = '';
+_chartConfigObject.cciSetting = '';
+_chartConfigObject.williamsPercentRSetting = '';
+_chartConfigObject.bollingerBandsSetting = '';
+_chartConfigObject.fastStochasticSetting = '';
+_chartConfigObject.slowStochasticSetting = '';
+_chartConfigObject.companyCurrency = 'USD';
+_chartConfigObject.displayDividendsUnits = 'true';
+var configStringFromCookie = '{}';
+var configString = unescape(configStringFromCookie);
+var obj = eval('(' + configString + ')');
+for (var attribute in obj) {
+_chartConfigObject[attribute] = obj[attribute];
+}
+_external_target = "";
+_emitFlashChart(
+"/finance/s/OFspRxwQDQg/chart9.swf?hl=en&gl=us",
+_ticker, _chartConfigObject,"http:\x2F\x2Fwww.google.com:80");
+</script>
+<noscript>
+<div id=image_chart style="display:block;">
+<table>
+<tr><td class=itxt align=left>
+</td></tr>
+<tr><td>
+<img alt="Chart." src="/finance/getchart?q=SWC&x=NYSE&p=3d&i=240" width="500" height="322">
+</td></tr>
+</table>
+</div>
+</noscript>
+</div>
+<div class="g-section g-tpl-67-33 g-split sfe-break-bottom-8"
+      style="padding-top:1px">
+<div id="chart-footer-links" class="g-unit g-first id-chart-footer-links">
+<a id="settings-link" class="chart-footer-link"
+            href="javascript:google.finance.clickSettingsLink();">
+Settings</a>
+<span>|</span>
+<a id="plot-feeds-link" class="chart-footer-link"
+            href="javascript:google.finance.clickPlotFeedsLink();">
+Plot&nbsp;feeds</a>
+<span>|</span>
+<a id="technicals-link" class="chart-footer-link"
+            href="javascript:google.finance.clickTechnicalsLink();">
+Technicals</a>
+<span>|</span>
+<span style="white-space:nowrap;">
+<img width="16" hight="9" alt="Link to chart icon."
+            id="link-to-chart-img" class="SP_link"
+            src="/finance/s/m4C5KaofCbA/images/cleardot.gif" />
+<a id="link-to-chart-link" class="chart-footer-link"
+            href="javascript:google.finance.clickLinkToChartLink();">
+Link&nbsp;to&nbsp;this&nbsp;chart</a>
+</span>
+</div>
+<div class="g-unit">
+<span class="chart-dis">Volume delayed by 15 mins.
+</span>
+</div>
+</div>
+<div id=settings-panel-wrapper>
+<div id=settings-panel class=sfe-section style="display:none"></div>
+</div>
+<div style="height:1em;"></div>
+</div>
+</div>
+</div>
+<div class="g-c sfe-break-right">
+<div id=related class=hide>
+<div class="hdg">
+<div class="g-section g-tpl-50-50 g-split gf-control">
+<div class="g-unit g-first"><h3>Related companies</h3>&nbsp;Show:
+<select id=related-select>
+<option value=mrq >
+Most Recent Quarter
+</option>
+<option value=mra selected>
+Most Recent Annual
+</option>
+</select>
+</div>
+<div class=g-unit>
+<span id=related-edit-col class=linkbtn>Add or remove columns</span>
+<button id=related-save style="display:none">Save changes</button>
+<button id=related-cancel style="display:none">Cancel</button>
+</div>
+</div>
+</div>
+<div id=related-table class=gf-table-scroll-x style="padding-bottom:15px;">
+</div>
+<div class=sfe-section>Sector: <a id=sector href="?catid=us-57629812" >Basic Materials</a> &gt; Industry: <a href="?catid=us-53214960" >Metal Mining</a>
+</div>
+</div>
+<div id=reorder><div class=mid-reorder>
+<div id=blogs-section
+>
+<div id=blogs>
+<div class=hdg><div class=float>
+<h3>Stillwater Mining Company discussed on blogs</h3></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class="sfe-section news">
+<div class=item>
+<a id="b-p-5" href="http://topstockspick.blogspot.com/2010/12/biggest-stock-gainers-losers-120110.html" rel="nofollow" >Top Stocks Pick: Biggest Stock Gainers &amp; Losers 12/01/10</a>
+<span class=src>- Ahsan Haque</span>
+<span class=src>- Top Stocks Pick</span>
+- 1 hour ago
+</div>
+<div class=item>
+<a id="b-p-5" href="http://thesmarttrader-blog.blogspot.com/2010/12/mad-moneys-jim-cramer-tells-you-whether.html" rel="nofollow" >TheSmartTrader: Mad Money&#39;s Jim Cramer tells you whether to buy or ...</a>
+<span class=src>- TheSmartTrader</span>
+<span class=src>- TheSmartTrader</span>
+- 11 hours ago
+</div>
+<div class=sfe-break-top>
+<a id="b-m-" href="http://www.google.com/blogsearch?hl=en&q=%22NYSE+SWC%22" >More blog posts about Stillwater Mining Company &raquo; </a>
+</div>
+</div>
+</div>
+</div>
+<div id=discussions-section
+>
+</div><script>_tck('aft');</script>
+<div id=summary-section
+>
+<div id=summary>
+<div class=hdg><div class=float>
+<h3>Description</h3></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class=sfe-section>
+<div class=companySummary>
+Stillwater Mining Company, incorporated in 1992, is engaged in the development, extraction, processing, refining and marketing of palladium, platinum and associated metals (platinum group metals (PGMs)) from a geological formation in south central Montana known as the J-M Reef and from the recycling of spent catalytic converters. The Company conducts mining operations at the Stillwater Mine near Nye, Montana and at the East Boulder Mine near Big Timber, Montana. Ore extraction at both mines takes place within the J-M Reef. The Company operates a smelter and base metal refinery at Columbus, Montana, which improve the mined concentrates into a PGM-rich filter cake. Besides processing mine concentrates, the Company also recycles spent catalyst material at the smelter and base metal refinery to recover the contained PGMs palladium, platinum and rhodium.
+<div class=sfe-break-top>
+<a id=m-rprofile href="http://stocks.us.reuters.com/stocks/fullDescription.asp?rpc=66&symbol=SWC" >
+More from Reuters &raquo;
+</a></div>
+</div>
+</div>
+</div>
+</div>
+<div id=mgmt-section
+>
+<div id=management style="margin-bottom:1.5em;">
+<div class=hdg><div class=float>
+<h3>Officers and directors</h3></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class=sfe-section>
+<table id=mgmt-table width=100%><tbody>
+<tr >
+<td class="p linkbtn">Francis R. McAllister
+<td class=i>
+<td class=t>Chairman of the Board, Chief Executive Officer
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 67<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SWC&officerId=169641" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Gregory A. Wing
+<td class=i>
+<td class=t>Chief Financial Officer, Vice President
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 60<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SWC&officerId=460132" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">John R. Stark
+<td class=i>
+<td class=t>Executive Vice President, Chief Commercial Officer
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 57<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SWC&officerId=87863" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Terrell I. Ackerman
+<td class=i>
+<td class=t>Vice President, General Manager - East Boulder Mine Operations
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 56<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SWC&officerId=250737" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Kevin G. Shiell
+<td class=i>
+<td class=t>Vice President, General Manager - Stillwater Mine
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 52<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SWC&officerId=1471937" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Kris Koss
+<td class=i>
+<td class=t>Vice President
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SWC&officerId=1503840" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Bruce Gilbert
+<td class=i>
+<td class=t>Vice President
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SWC&officerId=1503845" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Patrick M. James
+<td class=i>
+<td class=t>Lead Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 64<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SWC&officerId=169642" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Sheryl K. Pressler
+<td class=i>
+<td class=t>Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 59<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SWC&officerId=250736" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Craig L. Fuller
+<td class=i>
+<td class=t>Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 59<br>
+<a class=e-p href="http://www.reuters.com/finance/stocks/officerProfile?symbol=SWC&officerId=769884" >Bio&nbsp;&amp;&nbsp;Compensation</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+</table>
+<div class=gb>
+<a href="http://stocks.us.reuters.com/stocks/officersDirectors.asp?symbol=SWC&WTmodLOC=C4-Officers-5" >
+Full list on Reuters &raquo;</a></div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+<!-- b -->
+</div>
+</div>
+<div id=footer>
+<center>
+<div class=footerBorder>
+<div class=editions>Google Finance Beta available in:
+<a href="http://www.google.com.hk/finance?hl=zh-TW" >&#39321;&#28207;&#29256; (Hong Kong)</a>&nbsp;-
+<a href="http://www.google.ca/finance" >Canada</a>&nbsp;-
+<a href="http://www.google.com/finance" >U.S.</a>&nbsp;-
+<a href="http://www.google.com/finance?gl=cn&amp;hl=zh-CN" >&#31616;&#20307;&#20013;&#25991; (China)</a>&nbsp;-
+<a href="http://www.google.co.uk/finance" >U.K.</a>
+</div>
+<div class=footerDisclaimer>
+Information is provided 'as is' and solely for informational purposes, not
+for trading purposes or advice, and may be delayed.<br/>
+To see all exchange delays, please
+<a href=
+    "http://www.google.com/intl/en-US/help/stock_disclaimer.html"
+  style="color:#7777cc">see disclaimer</a>.
+<br><br>
+</div>
+<div class=footerLinks>
+&copy;2010 Google &nbsp;&nbsp;
+<a href="http://www.google.com" class=q>Google Home</a>
+- <a href="http://googlefinanceblog.blogspot.com/">Blog</a>
+- <a href=
+  "http://www.google.com/support/finance?hl=en-US"
+ class=q>Help</a>
+- <a href="http://www.google.com/intl/en-US/privacy.html" class=q>Privacy Policy</a>
+- <a href="http://www.google.com/accounts/TOS?loc=us" class=q>Terms of Service</a><br><br><br>
+</div>
+</div>
+</center>
+</div>
+</div>
+</div>
+</body>
+</html>

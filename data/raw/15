@@ -1,0 +1,1100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Digg
+                    - Business
+                 - The Latest News Headlines, Videos and Images
+    </title>
+    
+        <meta name="keywords" content="Digg, pictures, breaking news, entertainment, politics, technology, headline news, celebrity news, offbeat, world business, sports, funny videos">
+        <meta name="description" content="The best news, videos and pictures on the web as voted on by the Digg community. Breaking news on Technology, Politics, Entertainment, and more!">
+    
+    
+        
+        <link rel="apple-touch-icon" href="http://cdn1.diggstatic.com/img/iphone/icon.63e34426.png"/>
+    
+    
+    <link rel="alternate" type="application/rss+xml" title="Digg - The Latest News Headlines, Videos and Images" href="/news/business.rss">
+    
+        <link rel="shortcut icon" href="http://cdn1.diggstatic.com/img/favicon.a015f25c.ico">
+    
+        <link rel="stylesheet" type="text/css" href="http://cdn1.diggstatic.com/css/library/global.280a6733.css" media="all">
+        <!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://cdn1.diggstatic.com/css/support/ie_7.9b9d4168.css" media="all"><![endif]-->
+        <!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://cdn4.diggstatic.com/css/support/ie_8.88a26ac5.css" media="all"><![endif]-->
+        
+    
+    <script type='text/javascript'>
+var DUI=function(){function d(){for(e=1;b.length;)b.shift()();b=null}var e,b=[];if(window.attachEvent)attachEvent("onload",d);else window.addEventListener&&addEventListener("load",d,true);return{mergeIn:function(a){for(propName in a)this[propName]=a[propName]},onPageLoad:function(a){e?a():b.push(a)},loadScript:function(a){var c=document.createElement("SCRIPT"),f=document.getElementsByTagName("SCRIPT")[0];c.type="text/javascript";c.async=true;c.src=a;f.parentNode.insertBefore(c,f)}}}();
+DUI.mergeIn({"digg_security_token":"1291248638_170c529c74fd3bc1a04ecef62a4fbec056394c96cf8c429d99f47eca503d28b4","digg_loggedin_state":0,"digg_location_id":20,"digg_language":"en_US","digg_trap_js_errors":0,"poll_digg_counters":0,"fb_app_id":"22108119377"})
+</script>
+
+    <script type="text/html" id="ad_template"><div id="main" class="story-item ad-river group <@=ad_id@>"><div class="story-item-gutters group"><div class="story-item-diggbtn"><div class="digg-btn has-tooltip<@=(ad_user_has_dugg ? " digg-dugg" : "")@>" data-id="<@=ad_id@>"><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="digg-count-wrapper"><span class="digg-count"><span><@=ad_meta.diggs@></span></span></a><a class="digg-it digg-advert group<@=ad_user_has_dugg ?" digg-dugg\" href=\"" + ad_server + ad_click_url + "\"" : "\""@>></a></div></div><div class="story-item-content group"><div class="story-item-details"><h3 class="story-item-title"><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="story-title"><@=ad_meta.title@></a></h3><p class="story-item-description"><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="story-item-source"><@=ad_meta.display_url@></a><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="story-item-teaser">&mdash; <@=ad_meta.description@></a></p></div><ul class="story-item-meta group"><li class="sponsored-by">Sponsored by <strong><@=ad_meta.sponsored_by@></strong></li><li class="story-item-bury"><a class="hide-link"><span class="storylist-icon bury dib"></span>Bury</a></li></ul></div><div class="story-item-media"><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="story-item-thumb"><div class="thumb-edges"></div><img src="<@=ad_meta.thumbnail_url@>" alt="<@=ad_meta.title@>"></a></div><@ if (ad_meta.impression_url) { @><img src="<@=ad_meta.impression_url@>" class="ad-pixel"><@ } @></div></div></script>
+<script type="text/javascript" charset="utf-8">DUI.ad_url_uprrail1 = 'http://ad.doubleclick.net/adj/dgg.busi/home_tn_uprrail1;pt=tn;media=all;kw=crafts;kw=gifts;kw=thoughtful;kw=tuesday;kw=experts;kw=latest;kw=brain;kw=nations;kw=leave;kw=climate;kw=prison;kw=months;kw=outrank;kw=crisis;kw=vuitton;kw=fiscal;kw=commission;kw=cut;kw=past;kw=google;kw=hierarchy;kw=years;kw=outlet;kw=massproduced;kw=reincarnation;kw=business;dv=v4;scat=busi;sync=yes;pos=uprrail1;sz=300x250,300x330;tile=1;ord=1291248638.75495';DUI.ad_url_siderailpromo1 = 'http://ad.doubleclick.net/adj/dgg.busi/home_tn_siderailpromo1;pt=tn;media=all;kw=crafts;kw=gifts;kw=thoughtful;kw=tuesday;kw=experts;kw=latest;kw=brain;kw=nations;kw=leave;kw=climate;kw=prison;kw=months;kw=outrank;kw=crisis;kw=vuitton;kw=fiscal;kw=commission;kw=cut;kw=past;kw=google;kw=hierarchy;kw=years;kw=outlet;kw=massproduced;kw=reincarnation;kw=business;dv=v4;scat=busi;pos=siderailpromo1;sz=300x75;tile=2;ord=1291248638.75495';</script>
+    
+</head>
+<body class="fixed ">
+<div id="fb-root"></div>
+<script src="http://cdn1.diggstatic.com/js/common/fb_loader.4050a241.js" type="text/javascript"></script><form class="hidden">
+    <input type="text" name="ident" value="" id="ident-saved">
+    <input type="password" name="password" value="" id="password-saved">
+</form><div id="modal-wrapper"></div><div id="message-dock">
+    <div id="message-sleeve" class="group">
+        <p><span class="sprite message-icon"></span><span id="message-text"></span><a class="dismiss"></a></p>
+    </div>
+</div><div class="tooltip-container" id="digg-tooltip"></div><div class="header-wrapper"><div class="header group">
+<a href="/" class="sprite digg-logo" id="header-logo">Digg</a>
+    <ul class="main-navigation tabbed-navigation group">
+        <li>
+            <a href="/" id="header-mynews"><span class="elbow-left"></span><span class="elbow-right"></span>My News</a>
+        </li>
+        <li>
+            <a href="/news" class="active" id="header-topnews"><span class="elbow-left"></span><span class="elbow-right"></span>Top News</a>
+        </li>
+        <li>
+            <a href="/upcoming" id="header-upcoming"><span class="elbow-left"></span><span class="elbow-right"></span>Upcoming</a>
+        </li>
+    </ul>
+<div class="float-right group">    <ul class="loggedout-navigation group">
+        <li><a href="/register" id="modal-create-account" class="auth-register">Join Digg!</a></li>
+        <li><a href="/login" id="modal-login" class="auth-login">Login</a></li>
+    </ul>
+<form action="/search" method="get" class="header-search" id="header-search-form">
+    <input type="text" name="q" id="q" autocomplete="off" placeholder="Search Users or Stories">
+    <input type="submit" name="submit" id="search-button" value="">
+</form>
+</div></div></div>
+<div class="page-wrapper group "><div class="column-container group"><div class="columns group">
+    <div class="pre-content">
+        <div class="attached-menu group" id="page-topbar">
+            <ul class="pillboxes group">
+    <li><a href="/news/business" class="active" id="filter-recent">Most Recent</a></li>
+    <li><a href="/news/business/24hr"  id="filter-24hours">Top in 24 Hours</a></li>
+    <li><a href="/news/business/week"  id="filter-7days">7 Days</a></li>
+    <li><a href="/news/business/month"  id="filter-30days">30 Days</a></li>
+</ul>
+            <div id="submission-form-container">
+    <form action="/ajax/submit/crawl" method="post" class="group" id="submit-form">
+        <button type="submit" name="submit" class="btn btn-special has-tooltip" id="url-submit-button">Digg it <span class="sprite digg-it-large"></span></button>
+        <div class="flexible-input" id="submission-url-row">
+            <input type="text" name="submission" placeholder="Submit a link" class="text-input" id="url-submit-url" value="">
+        </div>
+    </form>
+</div>
+            <div id="submission-editor-wrapper">
+    <div id="submission-editor" class="group"></div>
+</div>
+<div class="dropdown-container" id="dropdown-prototype">
+    <a class="dropdown-label"><span class="sprite menu-arrows"></span></a>
+    <ul></ul>
+</div>
+        </div>
+    </div>
+
+    <div class="column narrow topbar-spacer group" id="left-column">
+        <ul class="sidebar-menu">
+    <li><a href="/news/recent" >All Topics</a></li>
+                    <li><a href="/news/business" class="active">Business</a></li>
+                    <li><a href="/news/entertainment" >Entertainment</a></li>
+                    <li><a href="/news/gaming" >Gaming</a></li>
+                    <li><a href="/news/lifestyle" >Lifestyle</a></li>
+                    <li><a href="/news/offbeat" >Offbeat</a></li>
+                    <li><a href="/news/politics" >Politics</a></li>
+                    <li><a href="/news/science" >Science</a></li>
+                    <li><a href="/news/sports" >Sports</a></li>
+                    <li><a href="/news/technology" >Technology</a></li>
+                    <li><a href="/news/world_news" >World News</a></li>
+    </ul>
+    </div>
+
+    <div class="column group" id="main-column">
+
+        <div class="main-content-header group topbar-spacer">
+                            <h1>Business News</h1>
+                                        <ul class="pillboxes group">
+                    <li><a href="/news/business/media/recent" class="active">All</a></li>
+                    <li><a href="/news/business/images/recent" >Images</a></li>
+                    <li><a href="/news/business/videos/recent" >Videos</a></li>
+                    <li><a href="/news/business/stories/recent" >Stories</a></li>
+                </ul>
+                    </div>
+
+        
+                    <p class="paginglabel" id="paginglabel">Pagination</p>
+                            <noscript>
+                    <h2><a href="/news/business/media/1">View in ajax free mode</a></h2>
+                </noscript>
+                        
+                <div id="story-list-container" class="list-container hidden no-ajax">
+        <div class="story-list inner-container topbar-spacer" id="story-items">
+                <div class="stories" data-digg-hashstate="">
+
+            
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201104139_aa862c18-2ea2-40aa-a8e0-ccdc4fab3e04  first-item group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201104139_aa862c18-2ea2-40aa-a8e0-ccdc4fab3e04" data-digg-raw-diggs="67"><a href="/news/business/prison_outlet_store_sells_crafts_made_by_inmates" class="digg-count-wrapper"><span class="digg-count"><span>67</span></span></a><a class="digg-it diggable group" href="/news/business/prison_outlet_store_sells_crafts_made_by_inmates"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/prison_outlet_store_sells_crafts_made_by_inmates" target="_blank">Prison Outlet Store Sells Crafts Made by Inmates</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:asylum.com" class="story-item-source">asylum.com</a>                            <a href="/news/business/prison_outlet_store_sells_crafts_made_by_inmates" class="story-item-teaser">&mdash; In the hierarchy of thoughtful Christmas presents, handmade gifts always outrank the generic mass-produced ones.
+                                <span class="timestamp">9 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/asylumdotcom" class="hcard-trigger" data-digg-username="asylumdotcom">asylumdotcom</a></li>
+                                                                <li class="story-item-comments"><a href="/news/business/prison_outlet_store_sells_crafts_made_by_inmates"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">5</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/business/prison_outlet_store_sells_crafts_made_by_inmates" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn1.diggstatic.com/story/prison_outlet_store_sells_crafts_made_by_inmates/t.png" alt="Prison Outlet Store Sells Crafts Made by Inmates">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101130210814_584de1b8-225c-42fc-9723-d888cff05877 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130210814_584de1b8-225c-42fc-9723-d888cff05877" data-digg-raw-diggs="126"><a href="/news/business/reincarnation_pic_3" class="digg-count-wrapper"><span class="digg-count"><span>126</span></span></a><a class="digg-it diggable group" href="/news/business/reincarnation_pic_3"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/reincarnation_pic_3" target="_blank">Reincarnation [PIC]</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:i.imgur.com" class="story-item-source">i.imgur.com</a>                            <a href="/news/business/reincarnation_pic_3" class="story-item-teaser">&mdash; 
+                                <span class="timestamp">1 hr 10 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/chroniccolonic" class="hcard-trigger" data-digg-username="chroniccolonic">chroniccolonic</a></li>
+                                                                <li class="story-item-comments"><a href="/news/business/reincarnation_pic_3"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">18</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                    <div class="diggadsriver" id="diggad-1291248638-23952-3"></div>
+<script>
+  DUI.onPageLoad(function () {
+    DUI.render_diggad($('#diggad-1291248638-23952-3'), 'http://dads.new.digg.com', 'kw=pos:3&kw=topics:business&kw=pagetype:topnews');
+  });
+</script>
+
+            
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201154331_d6fa3d96-5830-4249-ae6e-c1388ab28851  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201154331_d6fa3d96-5830-4249-ae6e-c1388ab28851" data-digg-raw-diggs="190"><a href="/news/business/hypocrisy_in_one_beautiful_image_pic" class="digg-count-wrapper"><span class="digg-count"><span>190</span></span></a><a class="digg-it diggable group" href="/news/business/hypocrisy_in_one_beautiful_image_pic"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/hypocrisy_in_one_beautiful_image_pic" target="_blank">Hypocrisy in One Beautiful Image (PIC)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:theothercritic.com" class="story-item-source">theothercritic.com</a>                            <a href="/news/business/hypocrisy_in_one_beautiful_image_pic" class="story-item-teaser">&mdash; Bono + Louis Vuitton = Africa?
+                                <span class="timestamp">3 hr 50 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/usq1111" class="hcard-trigger" data-digg-username="usq1111">usq1111</a></li>
+                                                                <li class="story-item-comments"><a href="/news/business/hypocrisy_in_one_beautiful_image_pic"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">33</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/business/hypocrisy_in_one_beautiful_image_pic" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon image"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/hypocrisy_in_one_beautiful_image_pic/t.png" alt="Hypocrisy in One Beautiful Image (PIC)">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201050843_f0a37300-1822-4286-9a7e-a2afdece7b43  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201050843_f0a37300-1822-4286-9a7e-a2afdece7b43" data-digg-raw-diggs="113"><a href="/news/business/brain_drain_google_s_green_guru_is_latest_to_step_down" class="digg-count-wrapper"><span class="digg-count"><span>113</span></span></a><a class="digg-it diggable group" href="/news/business/brain_drain_google_s_green_guru_is_latest_to_step_down"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/brain_drain_google_s_green_guru_is_latest_to_step_down" target="_blank">Brain Drain: Google&#039;s Green Guru is Latest to Step Down</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:fastcompany.com" class="story-item-source">fastcompany.com</a>                            <a href="/news/business/brain_drain_google_s_green_guru_is_latest_to_step_down" class="story-item-teaser">&mdash; The latest big brain to leave Google is Dan Reicher, the company&#039;s director of climate change and energy initiatives for the past four years.
+                                <span class="timestamp">5 hr 10 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/tbhurst" class="hcard-trigger" data-digg-username="tbhurst">tbhurst</a></li>
+                                                                <li class="story-item-comments"><a href="/news/business/brain_drain_google_s_green_guru_is_latest_to_step_down"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">10</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/business/brain_drain_google_s_green_guru_is_latest_to_step_down" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn2.diggstatic.com/story/brain_drain_google_s_green_guru_is_latest_to_step_down/t.png" alt="Brain Drain: Google&#039;s Green Guru is Latest to Step Down">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101130092532_a85836cf-9cf9-42ee-a593-4270d2aba8af  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130092532_a85836cf-9cf9-42ee-a593-4270d2aba8af" data-digg-raw-diggs="160"><a href="/news/business/heeding_wake_up_call_could_mitigate_debt_crisis" class="digg-count-wrapper"><span class="digg-count"><span>160</span></span></a><a class="digg-it diggable group" href="/news/business/heeding_wake_up_call_could_mitigate_debt_crisis"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/heeding_wake_up_call_could_mitigate_debt_crisis" target="_blank">Heeding Wake-Up Call Could Mitigate Debt Crisis</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:npr.org" class="story-item-source">npr.org</a>                            <a href="/news/business/heeding_wake_up_call_could_mitigate_debt_crisis" class="story-item-teaser">&mdash; President Obama&#039;s fiscal commission begins its final round of meetings Tuesday, which may or may not produce a plan to cut the nation&#039;s g...
+                                <span class="timestamp">18 hr 19 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/allnuts" class="hcard-trigger" data-digg-username="allnuts">allnuts</a></li>
+                                                                <li class="story-item-comments"><a href="/news/business/heeding_wake_up_call_could_mitigate_debt_crisis"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">40</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/business/heeding_wake_up_call_could_mitigate_debt_crisis" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn1.diggstatic.com/story/heeding_wake_up_call_could_mitigate_debt_crisis/t.png" alt="Heeding Wake-Up Call Could Mitigate Debt Crisis">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101130200125_359a0f39-2c1e-4b15-bf66-2822d30d94e3  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130200125_359a0f39-2c1e-4b15-bf66-2822d30d94e3" data-digg-raw-diggs="192"><a href="/news/business/are_those_yahoo_layoffs_starting_to_roll_out_today" class="digg-count-wrapper"><span class="digg-count"><span>192</span></span></a><a class="digg-it diggable group" href="/news/business/are_those_yahoo_layoffs_starting_to_roll_out_today"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/are_those_yahoo_layoffs_starting_to_roll_out_today" target="_blank">Are Those Yahoo Layoffs Starting To Roll Out Today?</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:techcrunch.com" class="story-item-source">techcrunch.com</a>                            <a href="/news/business/are_those_yahoo_layoffs_starting_to_roll_out_today" class="story-item-teaser">&mdash; After we reported on rumors that Yahoo plans to cut as much as 20 percent of its workforce a few weeks ago, Yahoo called that number
+                                <span class="timestamp">1 day 50 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/smurfz" class="hcard-trigger" data-digg-username="smurfz">smurfz</a></li>
+                                                                <li class="story-item-comments"><a href="/news/business/are_those_yahoo_layoffs_starting_to_roll_out_today"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">55</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/business/are_those_yahoo_layoffs_starting_to_roll_out_today" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/are_those_yahoo_layoffs_starting_to_roll_out_today/t.png" alt="Are Those Yahoo Layoffs Starting To Roll Out Today?">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101130111611_a934edd5-5e1c-4948-bab9-cb59dcdf1978  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130111611_a934edd5-5e1c-4948-bab9-cb59dcdf1978" data-digg-raw-diggs="109"><a href="/news/business/e_u_opens_antitrust_investigation_into_google_nytimes_com" class="digg-count-wrapper"><span class="digg-count"><span>109</span></span></a><a class="digg-it diggable group" href="/news/business/e_u_opens_antitrust_investigation_into_google_nytimes_com"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/e_u_opens_antitrust_investigation_into_google_nytimes_com" target="_blank">E.U. Opens Antitrust Investigation Into Google - NYTimes.com</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:nytimes.com" class="story-item-source">nytimes.com</a>                            <a href="/news/business/e_u_opens_antitrust_investigation_into_google_nytimes_com" class="story-item-teaser">&mdash; The European regulator said it would examine claims the Internet giant has abused its dominance in online search.
+                                <span class="timestamp">20 hr 30 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/mike5885" class="hcard-trigger" data-digg-username="mike5885">mike5885</a></li>
+                                                                <li class="story-item-comments"><a href="/news/business/e_u_opens_antitrust_investigation_into_google_nytimes_com"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">41</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/business/e_u_opens_antitrust_investigation_into_google_nytimes_com" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn1.diggstatic.com/story/e_u_opens_antitrust_investigation_into_google_nytimes_com/t.png" alt="E.U. Opens Antitrust Investigation Into Google - NYTimes.com">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101129220508_d1446aa7-c3ae-4c5d-aa5f-256624302e5f  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101129220508_d1446aa7-c3ae-4c5d-aa5f-256624302e5f" data-digg-raw-diggs="111"><a href="/news/business/move_over_think_mitsubishi_i_highest_selling_electric_car_for_now" class="digg-count-wrapper"><span class="digg-count"><span>111</span></span></a><a class="digg-it diggable group" href="/news/business/move_over_think_mitsubishi_i_highest_selling_electric_car_for_now"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/move_over_think_mitsubishi_i_highest_selling_electric_car_for_now" target="_blank">Move Over THINK: Mitsubishi i Highest Selling Electric Car (For Now)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:allcarselectric.com" class="story-item-source">allcarselectric.com</a>                            <a href="/news/business/move_over_think_mitsubishi_i_highest_selling_electric_car_for_now" class="story-item-teaser">&mdash; A few months ago we reported that the diminutive Think City had snatched the top spot as the world&#039;s best-selling city EV with over 2,500 vehi...
+                                <span class="timestamp">21 hr 50 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/021kelly" class="hcard-trigger" data-digg-username="021kelly">021kelly</a></li>
+                                                                <li class="story-item-comments"><a href="/news/business/move_over_think_mitsubishi_i_highest_selling_electric_car_for_now"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">18</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/business/move_over_think_mitsubishi_i_highest_selling_electric_car_for_now" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn1.diggstatic.com/story/move_over_think_mitsubishi_i_highest_selling_electric_car_for_now/t.png" alt="Move Over THINK: Mitsubishi i Highest Selling Electric Car (For Now)">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101130000614_fa488a9c-85d6-4f1c-b733-f224ea599a79  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130000614_fa488a9c-85d6-4f1c-b733-f224ea599a79" data-digg-raw-diggs="335"><a href="/news/business/what_is_the_social_security_tax_graphic" class="digg-count-wrapper"><span class="digg-count"><span>335</span></span></a><a class="digg-it diggable group" href="/news/business/what_is_the_social_security_tax_graphic"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/what_is_the_social_security_tax_graphic" target="_blank">What is the Social Security Tax? (Graphic)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:blog.turbotax.intuit.com" class="story-item-source">blog.turbotax.intuit.com</a>                            <a href="/news/business/what_is_the_social_security_tax_graphic" class="story-item-teaser">&mdash; Understanding what the social security tax is exactly can be confusing. Here we breakdown the different components that make up the social security...
+                                <span class="timestamp">1 day 4 hr ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/romemondol" class="hcard-trigger" data-digg-username="romemondol">romemondol</a></li>
+                                                                <li class="story-item-comments"><a href="/news/business/what_is_the_social_security_tax_graphic"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">84</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/business/what_is_the_social_security_tax_graphic" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon image"></div>
+                                                        <img src="http://cdn2.diggstatic.com/story/what_is_the_social_security_tax_graphic/t.png" alt="What is the Social Security Tax? (Graphic)">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101130144817_156d14bb-ed15-4260-86c4-f97877dd9ba7  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130144817_156d14bb-ed15-4260-86c4-f97877dd9ba7" data-digg-raw-diggs="146"><a href="/news/business/ceos_who_said_too_much_w_pics" class="digg-count-wrapper"><span class="digg-count"><span>146</span></span></a><a class="digg-it diggable group" href="/news/business/ceos_who_said_too_much_w_pics"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/ceos_who_said_too_much_w_pics" target="_blank">CEOs Who Said Too Much (w/ pics)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:newsweek.com" class="story-item-source">newsweek.com</a>                            <a href="/news/business/ceos_who_said_too_much_w_pics" class="story-item-teaser">&mdash; From minor faux pas to career-ending comments, here&#039;s a look at head honchos who opted perhaps not to think before they spoke.
+                                <span class="timestamp">1 day 5 hr ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/Newsweek" class="hcard-trigger" data-digg-username="Newsweek">Newsweek</a></li>
+                                                                <li class="story-item-comments"><a href="/news/business/ceos_who_said_too_much_w_pics"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">14</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/business/ceos_who_said_too_much_w_pics" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn1.diggstatic.com/story/ceos_who_said_too_much_w_pics/t.png" alt="CEOs Who Said Too Much (w/ pics)">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101129224757_73a6968e-42d0-4ed2-8dd4-b7de0b49afda  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101129224757_73a6968e-42d0-4ed2-8dd4-b7de0b49afda" data-digg-raw-diggs="370"><a href="/news/business/exclusive_u_s_bank_is_wikileaks_next_target" class="digg-count-wrapper"><span class="digg-count"><span>370</span></span></a><a class="digg-it diggable group" href="/news/business/exclusive_u_s_bank_is_wikileaks_next_target"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/exclusive_u_s_bank_is_wikileaks_next_target" target="_blank">Exclusive: U.S. Bank Is WikiLeaks&#039; Next Target</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:blogs.forbes.com" class="story-item-source">blogs.forbes.com</a>                            <a href="/news/business/exclusive_u_s_bank_is_wikileaks_next_target" class="story-item-teaser">&mdash; In a rare interview with Forbes, Assange says the release of Pentagon and State Department documents are just the beginning. His next target: big b...
+                                <span class="timestamp">1 day 9 hr ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/cubreporter52" class="hcard-trigger" data-digg-username="cubreporter52">cubreporter52</a></li>
+                                                                <li class="story-item-comments"><a href="/news/business/exclusive_u_s_bank_is_wikileaks_next_target"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">110</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/business/exclusive_u_s_bank_is_wikileaks_next_target" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn1.diggstatic.com/story/exclusive_u_s_bank_is_wikileaks_next_target/t.png" alt="Exclusive: U.S. Bank Is WikiLeaks&#039; Next Target">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101129221801_301b16d1-46b9-4508-a48d-28e106cf8184  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101129221801_301b16d1-46b9-4508-a48d-28e106cf8184" data-digg-raw-diggs="402"><a href="/news/business/google_rumored_to_have_bought_groupon_for_2_5_billion" class="digg-count-wrapper"><span class="digg-count"><span>402</span></span></a><a class="digg-it diggable group" href="/news/business/google_rumored_to_have_bought_groupon_for_2_5_billion"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/google_rumored_to_have_bought_groupon_for_2_5_billion" target="_blank">Google rumored to have bought Groupon for $2.5 billion</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:downloadsquad.switched.com" class="story-item-source">downloadsquad.switched.com</a>                            <a href="/news/business/google_rumored_to_have_bought_groupon_for_2_5_billion" class="story-item-teaser">&mdash; It seems, if unnamed insider sources and some speculation are to be believed, that Google has just bought Groupon, the deal-of-the-day website, for...
+                                <span class="timestamp">1 day 18 hr ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/baddbrainz" class="hcard-trigger" data-digg-username="baddbrainz">baddbrainz</a></li>
+                                                                <li class="story-item-comments"><a href="/news/business/google_rumored_to_have_bought_groupon_for_2_5_billion"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">90</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/business/google_rumored_to_have_bought_groupon_for_2_5_billion" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn2.diggstatic.com/story/google_rumored_to_have_bought_groupon_for_2_5_billion/t.png" alt="Google rumored to have bought Groupon for $2.5 billion">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101129214755_7ddfaad4-d9ec-421d-a4e1-850289373fea  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101129214755_7ddfaad4-d9ec-421d-a4e1-850289373fea" data-digg-raw-diggs="198"><a href="/news/business/why_you_can_t_delete_your_own_credit_file" class="digg-count-wrapper"><span class="digg-count"><span>198</span></span></a><a class="digg-it diggable group" href="/news/business/why_you_can_t_delete_your_own_credit_file"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/why_you_can_t_delete_your_own_credit_file" target="_blank">Why You Can’t Delete Your Own Credit File</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:mint.com" class="story-item-source">mint.com</a>                            <a href="/news/business/why_you_can_t_delete_your_own_credit_file" class="story-item-teaser">&mdash; We all know what the credit reporting agencies will allow consumers to do. They’ll let you either purchase your credit reports or claim freebies pe...
+                                <span class="timestamp">1 day 18 hr ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/pulsewave" class="hcard-trigger" data-digg-username="pulsewave">pulsewave</a></li>
+                                                                <li class="story-item-comments"><a href="/news/business/why_you_can_t_delete_your_own_credit_file"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">15</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/business/why_you_can_t_delete_your_own_credit_file" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn1.diggstatic.com/story/why_you_can_t_delete_your_own_credit_file/t.png" alt="Why You Can’t Delete Your Own Credit File">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101129191017_08f83135-5dc9-436b-b238-bac05f98a2a2 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101129191017_08f83135-5dc9-436b-b238-bac05f98a2a2" data-digg-raw-diggs="128"><a href="/news/business/court_rejects_tiffany_s_case_on_ebay_counterfeits" class="digg-count-wrapper"><span class="digg-count"><span>128</span></span></a><a class="digg-it diggable group" href="/news/business/court_rejects_tiffany_s_case_on_ebay_counterfeits"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/court_rejects_tiffany_s_case_on_ebay_counterfeits" target="_blank">Court rejects Tiffany’s case on eBay counterfeits</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:digitaltrends.com" class="story-item-source">digitaltrends.com</a>                            <a href="/news/business/court_rejects_tiffany_s_case_on_ebay_counterfeits" class="story-item-teaser">&mdash; The U.S. Supreme Court has refused to consider Tiffany &amp; Co.&#039;s appeal claiming eBay is responsible for fake goods sold on its auction site.
+                                <span class="timestamp">1 day 15 hr ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/janinco" class="hcard-trigger" data-digg-username="janinco">janinco</a></li>
+                                                                <li class="story-item-comments"><a href="/news/business/court_rejects_tiffany_s_case_on_ebay_counterfeits"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">21</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                    <div class="diggadsriver" id="diggad-1291248638-23952-16"></div>
+<script>
+  DUI.onPageLoad(function () {
+    DUI.render_diggad($('#diggad-1291248638-23952-16'), 'http://dads.new.digg.com', 'kw=pos:16&kw=topics:business&kw=pagetype:topnews');
+  });
+</script>
+
+            
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101129222125_a93fbbcc-b618-41a0-8404-e76b485ce738  last-item group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101129222125_a93fbbcc-b618-41a0-8404-e76b485ce738" data-digg-raw-diggs="145"><a href="/news/business/leaked_cables_depict_a_world_guessing_about_north_korea" class="digg-count-wrapper"><span class="digg-count"><span>145</span></span></a><a class="digg-it diggable group" href="/news/business/leaked_cables_depict_a_world_guessing_about_north_korea"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/leaked_cables_depict_a_world_guessing_about_north_korea" target="_blank">Leaked Cables Depict a World Guessing About North Korea</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:www10.nytimes.com" class="story-item-source">www10.nytimes.com</a>                            <a href="/news/business/leaked_cables_depict_a_world_guessing_about_north_korea" class="story-item-teaser">&mdash; The cables on North Korea are long on guesses and short on facts, even when conveying thoughts of diplomats from China, the North&#039;s ally.
+                                <span class="timestamp">1 day 16 hr ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/adeelarshad82" class="hcard-trigger" data-digg-username="adeelarshad82">adeelarshad82</a></li>
+                                                                <li class="story-item-comments"><a href="/news/business/leaked_cables_depict_a_world_guessing_about_north_korea"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">24</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/business/leaked_cables_depict_a_world_guessing_about_north_korea" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn2.diggstatic.com/story/leaked_cables_depict_a_world_guessing_about_north_korea/t.png" alt="Leaked Cables Depict a World Guessing About North Korea">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                        </div>
+        </div>
+    </div>
+
+<div id="inline-comment-container-home">
+    </div>
+            <ul class="pagination group btn-loader btn-loader-bottom no-prev story-list-container"data-digg-offsetparam="page"role="navigation"aria-labelledby="paginglabel"><li class="prev"><a class="btn btn-default btn-small" href="/news/business/media/1" rel="prev" data-digg-ajaxqs='%7B%22filter%22%3A%22recent%22%2C%22mediaType%22%3A%22media%22%2C%22topic%22%3A%22business%22%2C%22page%22%3A1%7D'><span class="uitext">Prev</span></a></li><li class="page-num">Page <span class="pagination-current"></span></li><li class="next"><a class="btn btn-default btn-small" href="/news/business/media/2" rel="next" data-digg-ajaxqs='%7B%22filter%22%3A%22recent%22%2C%22mediaType%22%3A%22media%22%2C%22topic%22%3A%22business%22%2C%22page%22%3A2%7D'><span class="uitext">Next</span></a></li></ul>
+    <script type="text/javascript">
+    (function () {
+        var stories, hash;
+        stories = document.getElementById('story-list-container');
+        if (stories) {
+            hash = window.location.hash;
+            if ('' === hash) {
+                stories.className = stories.className.replace('hidden', '');
+            }
+        }
+    })();
+    </script>
+            </div>
+</div>
+    <div class="column wide group" id="right-column">
+        <div class="ad uprrail1">
+    <iframe src="about:blank" width="300" height="250" scrolling="no" frameborder="0" hspace="0" vspace="0" id="ad-uprrail1" data-digg-javascriptURL="http://ad.doubleclick.net/adj/dgg.busi/home_tn_uprrail1;pt=tn;kw=crafts;kw=gifts;kw=thoughtful;kw=tuesday;kw=experts;kw=latest;kw=brain;kw=nations;kw=leave;kw=climate;kw=prison;kw=months;kw=outrank;kw=crisis;kw=vuitton;kw=fiscal;kw=commission;kw=cut;kw=past;kw=google;kw=hierarchy;kw=years;kw=outlet;kw=massproduced;kw=reincarnation;kw=business;dv=v4;scat=busi;sync=yes;pos=uprrail1;sz=300x250,300x330;tile=3;media=media;ord=1291248638.75495">
+        <a href="http://ad.doubleclick.net/jump/dgg.busi/home_tn_uprrail1;pt=tn;kw=crafts;kw=gifts;kw=thoughtful;kw=tuesday;kw=experts;kw=latest;kw=brain;kw=nations;kw=leave;kw=climate;kw=prison;kw=months;kw=outrank;kw=crisis;kw=vuitton;kw=fiscal;kw=commission;kw=cut;kw=past;kw=google;kw=hierarchy;kw=years;kw=outlet;kw=massproduced;kw=reincarnation;kw=business;dv=v4;scat=busi;sync=yes;pos=uprrail1;sz=300x250,300x330;tile=3;media=media;ord=1291248638.75495?"><img src="http://ad.doubleclick.net/ad/dgg.busi/home_tn_uprrail1;pt=tn;kw=crafts;kw=gifts;kw=thoughtful;kw=tuesday;kw=experts;kw=latest;kw=brain;kw=nations;kw=leave;kw=climate;kw=prison;kw=months;kw=outrank;kw=crisis;kw=vuitton;kw=fiscal;kw=commission;kw=cut;kw=past;kw=google;kw=hierarchy;kw=years;kw=outlet;kw=massproduced;kw=reincarnation;kw=business;dv=v4;scat=busi;sync=yes;pos=uprrail1;sz=300x250,300x330;tile=3;media=media;ord=1291248638.75495?"></a>
+    </iframe>
+</div>
+
+                        <div class="sidebar-content"><h2 class="header-division">Top News<span class="subtitle">&nbsp;in Business</span></h2><ul class="mini-sidebar-list list-type-stories"><li class="group"><div class="media"><a href="/news/business/hypocrisy_in_one_beautiful_image_pic" class="digg-count-small">190</a></div><a href="/news/business/hypocrisy_in_one_beautiful_image_pic" class="rounded-img small" style="background-image: url(http://cdn1.diggstatic.com/story/hypocrisy_in_one_beautiful_image_pic/a.png)">Hypocrisy in One Beautiful Image (PIC)</a><h3><a href="/news/business/hypocrisy_in_one_beautiful_image_pic">Hypocrisy in One Beautiful Image (PIC)</a></h3></li><li class="group"><div class="media"><a href="/news/business/heeding_wake_up_call_could_mitigate_debt_crisis" class="digg-count-small">160</a></div><a href="/news/business/heeding_wake_up_call_could_mitigate_debt_crisis" class="rounded-img small" style="background-image: url(http://cdn1.diggstatic.com/story/heeding_wake_up_call_could_mitigate_debt_crisis/a.png)">Heeding Wake-Up Call Could Mitigate Debt Crisis</a><h3><a href="/news/business/heeding_wake_up_call_could_mitigate_debt_crisis">Heeding Wake-Up Call Could Mitigate Debt Crisis</a></h3></li><li class="group"><div class="media"><a href="/news/business/brain_drain_google_s_green_guru_is_latest_to_step_down" class="digg-count-small">113</a></div><a href="/news/business/brain_drain_google_s_green_guru_is_latest_to_step_down" class="rounded-img small" style="background-image: url(http://cdn3.diggstatic.com/story/brain_drain_google_s_green_guru_is_latest_to_step_down/a.png)">Brain Drain: Google&#039;s Green Guru is Latest to Step Down</a><h3><a href="/news/business/brain_drain_google_s_green_guru_is_latest_to_step_down">Brain Drain: Google&#039;s Green Guru is Latest to Step Down</a></h3></li><li class="group"><div class="media"><a href="/news/business/prison_outlet_store_sells_crafts_made_by_inmates" class="digg-count-small">67</a></div><a href="/news/business/prison_outlet_store_sells_crafts_made_by_inmates" class="rounded-img small" style="background-image: url(http://cdn3.diggstatic.com/story/prison_outlet_store_sells_crafts_made_by_inmates/a.png)">Prison Outlet Store Sells Crafts Made by Inmates</a><h3><a href="/news/business/prison_outlet_store_sells_crafts_made_by_inmates">Prison Outlet Store Sells Crafts Made by Inmates</a></h3></li></ul></div>
+                    <div class="ad ad-div side-container">
+    <iframe name="dadLwrrlIframe" src="http://dads.new.digg.com/view.html?kw=zone:5&amp;kw=crafts&amp;kw=gifts&amp;kw=thoughtful&amp;kw=tuesday&amp;kw=experts&amp;kw=latest&amp;kw=brain&amp;kw=nations&amp;kw=leave&amp;kw=climate&amp;kw=prison&amp;kw=months&amp;kw=outrank&amp;kw=crisis&amp;kw=vuitton&amp;kw=fiscal&amp;kw=commission&amp;kw=cut&amp;kw=past&amp;kw=google&amp;kw=hierarchy&amp;kw=years&amp;kw=outlet&amp;kw=massproduced&amp;kw=reincarnation&amp;kw=business&amp;kw=pagetype:topnews&amp;template=5" frameborder="no"
+    scrolling="no" hspace="0" vspace="0"></iframe>
+</div>
+            </div>
+</div></div><div class="footer">
+    <ul class="group">
+        <li>&copy; Digg Inc. 2010</li>
+        <li><a href="http://about.digg.com">About Digg</a></li>
+        <li><a href="http://about.digg.com/ads">Advertise</a></li>
+        <li><a href="http://about.digg.com/partnership">Partners</a></li>
+        <li><a href="http://developers.digg.com">API &amp; Resources</a></li>
+        <li><a href="http://about.digg.com/blog">Blogs</a></li>
+        <li><a href="http://about.digg.com/contact">Contact Us</a></li>
+        <li><a href="http://jobs.digg.com">Jobs</a></li>
+        <li><a href="http://about.digg.com/faq">Help &amp; FAQ</a></li>
+        <li><a href="http://about.digg.com/terms-use">Terms of Service</a></li>
+        <li><a href="/topic">Topics</a></li>
+        <li class="last"><a href="http://about.digg.com/privacy">Privacy</a></li>
+                    <li id="rss-link"><a href="/news/business.rss">RSS</a></li>
+            </ul>
+</div>
+<div id="feedback-bar" class="group">
+    <span title="10.2.129.156 Build: 173 - Wed Dec  1 12:31:14 PST 2010">Digg v4: 144.07ms</span>
+    <ul>
+        <li><a href="http://about.digg.com/contact">Give us feedback</a> |</li>
+        <li><a href="http://www.surveymonkey.com/s/ZNBQMYJ" id="feedback-bar-survey">Take the survey</a></li>
+    </ul>
+</div>
+<script src="http://cdn3.diggstatic.com/js/lib.c4aecf59.js" type="text/javascript"></script>    <script src="http://cdn2.diggstatic.com/js/App_TopNews/pagination.f8efea3b.js" type="text/javascript"></script>
+
+
+    <!-- Begin comScore Tag -->
+<script>
+document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+
+<script>
+COMSCORE.beacon({
+c1:2,
+c2:6299437,
+c3:"",
+c4:"",
+c5:"",
+c6:"",
+c15:""
+});
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6299437&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+    <!-- digg is done serving you. 2.01355321270u 137.03599911 6.6742x10-11m3kg-1s-2 6.6742x10-11m3kg-1s-2 -->
+<script type="text/javascript">var s_account = "diggcomv4";</script>
+<script src="http://cdn3.diggstatic.com/js/Omniture/omniture.6c48dd51.js" type="text/javascript"></script>
+
+<script type="text/javascript"><!--
+s.pageName = 'topnews:index';
+s.eVar23 = 'topnews:index';
+s.heir1 = 'topnews';
+s.heir2 = 'index';
+s.channel = 'topnews';
+s.eVar22 = 'topnews';
+s.prop5 = 'anonymous';
+s.eVar5 = 'anonymous';
+s.prop4 = 'anonymous';
+s.eVar4 = 'anonymous';
+s.prop9 = 'business';
+s.eVar9 = 'business';
+s.events = 'event2';
+var s_code=s.t();
+if (s_code) document.write(s_code);
+//--></script></body>
+</html>

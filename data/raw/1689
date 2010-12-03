@@ -1,0 +1,309 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head >
+ <title>PEPr :: Details :: Config_Lite</title>
+ <link rel="shortcut icon" href="/gifs/favicon.ico" />
+ <link rel="stylesheet" type="text/css" href="/css/reset-fonts.css" />
+ <link rel="stylesheet" type="text/css" href="/css/style.css" />
+ <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/css/IE7styles.css" /><![endif]-->
+ <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/css/IE6styles.css" /><![endif]-->
+ <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+ <link rel="alternate" type="application/rss+xml" title="RSS feed" href="http://pear.php.net/feeds/latest.rss" />
+ <!-- compliance patch for microsoft browsers -->
+<!--[if lt IE 8]>
+ <script type="text/javascript" src="/javascript/IE8.js"></script>
+<![endif]-->
+ <link rel="search" type="application/opensearchdescription+xml" title="PEAR Search Plugin" href="http://pear.php.net/osd.xml" />
+</head>
+
+<body>
+<div>
+<a id="TOP"></a>
+</div>
+
+<div id="doc3">
+<!-- START HEADER -->
+ <div id="user">
+  <ul>
+   <li><a href="/account-request.php">Register</a></li>
+   <li class="last"><a href="/login.php?redirect=%2Fpepr%2Fpepr-proposal-show.php%3Fid%3D645">Login</a></li>
+  </ul>
+ </div>
+
+ <div id="search">
+  <form method="get" action="/search.php">
+   <p style="margin: 0px;">
+    <span class="accesskey">S</span>earch for
+    <input type="text" name="q" value="" size="20" accesskey="s" />
+    in the
+    <select name="in">
+        <option value="packages">Packages</option>
+        <option value="site">This site (using Yahoo!)</option>
+        <option value="users">Developers</option>
+        <option value="pear-dev">Developer mailing list</option>
+        <option value="pear-general">General mailing list</option>
+        <option value="pear-cvs">SVN commits mailing list</option>
+    </select>
+    <input type="image" src="/gifs/small_submit_white.gif" alt="search" style="vertical-align: middle;" />
+   </p>
+  </form>
+ </div>
+
+  <div id="header">
+   <a href="/"><img src="/gifs/pearsmall.gif" style="border: 0;" width="104" height="50" alt="PEAR"  /></a><br />
+  </div>
+
+<div id="menubar">
+
+<ul id="menu">
+ <li class="menu-item"><a href="/index.php">Main</a></li>
+ <li class="menu-item"><a href="/support/">Support</a></li>
+ <li class="menu-item"><a href="/manual/">Documentation</a></li>
+ <li class="menu-item"><a href="/packages.php">Packages</a></li>
+ <li class="menu-item current"><a href="/pepr/">Package Proposals</a></li>
+ <li class="menu-item"><a href="/accounts.php">Developers</a></li>
+ <li class="menu-item menu-item-last"><a href="/bugs/">Bugs</a></li>
+</ul>
+
+</div>
+
+
+<ul id="submenu">
+ <li class="menu-item current"><a href="/pepr/">Browse Proposals</a></li>
+ <li class="menu-item menu-item-last"><a href="/pepr/pepr-proposal-edit.php">New Proposal</a></li>
+</ul>
+
+<!-- END HEADER -->
+<!-- START MIDDLE -->
+
+<!-- START MAIN CONTENT -->
+
+  <div id="body">
+
+<h1>Proposal for &quot;Config_Lite&quot;</h1>
+<div id="nav">
+  <ul>
+    <li><a href="pepr-proposal-show.php?id=645" title="View proposal details">Main</a></li>
+    <li><a href="pepr-comments-show.php?id=645" title="View and/or enter comments">Comments</a></li>
+    <li><a href="pepr-votes-show.php?id=645" title="View and/or enter votes">Votes</a></li>
+  </ul>
+</div>
+
+<table border="0" cellspacing="0" cellpadding="2" style="width: 100%">
+
+ <tr>
+  <th class="headrow" style="width: 50%">&raquo; Metadata</th>
+  <th class="headrow" style="width: 50%">&raquo; Status</th>
+ </tr>
+ <tr>
+  <td class="ulcell" valign="top">
+   <ul>
+    <li>
+     Category: Configuration    </li>
+    <li>
+     Proposer: <a href="/user/pce">Patrick Engel</a>&nbsp;    </li>
+    <li>
+     License: LGPL    </li>
+   </ul>
+  </td>
+
+  <td class="ulcell" valign="top">
+   <ul>
+    <li>
+     Status: Proposed    </li>
+
+
+   </ul>
+  </td>
+ </tr>
+
+ <tr>
+  <th class="headrow" colspan="2">&raquo; Description</th>
+ </tr>
+ <tr>
+  <td class="textcell" valign="top" colspan="2">
+   <p>a lightweight and fast Config Class for &quot;INI-Style&quot; Configuration Files. <br />
+Config_Lite is inspired by Pythons ConfigParser.</p>
+
+<p>A &quot;Config_Lite&quot; file consists of  sections, &quot;[section]&quot;, followed by &quot;name = value&quot; entries.</p>
+
+
+<h4 id="toc0">EXAMPLE</h4>
+<p>The Config_Lite Pear Package:</p>
+
+
+<pre><code>
+https://github.com/pce/config_lite</code></pre>
+
+<hr />
+<p>A Configuration File: `test.cfg'<br />
+
+<pre><code>
+
+[general]
+lang = de
+appname = ConfigTest
+
+[users]
+email = john@doe.com
+name = John Doe</code></pre>
+
+</p>
+
+<hr />
+<p>Example to read `test.cfg':<br />
+
+<pre><code><span style="color: #000000">
+<span style="color: #0000BB">&lt;?php
+
+</span><span style="color: #007700">require_once </span><span style="color: #DD0000">'Config/Lite.php'</span><span style="color: #007700">;
+
+</span><span style="color: #0000BB">$config </span><span style="color: #007700">= new </span><span style="color: #0000BB">Config_Lite</span><span style="color: #007700">();
+</span><span style="color: #0000BB">$config</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">read</span><span style="color: #007700">(</span><span style="color: #DD0000">'./test.cfg'</span><span style="color: #007700">);
+
+echo </span><span style="color: #0000BB">$config</span><span style="color: #007700">;
+
+</span><span style="color: #FF8000">// create new Section with Key `count'
+</span><span style="color: #0000BB">$config</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">set</span><span style="color: #007700">(</span><span style="color: #DD0000">'mailbox1234567test'</span><span style="color: #007700">, </span><span style="color: #DD0000">'count'</span><span style="color: #007700">, </span><span style="color: #0000BB">1</span><span style="color: #007700">);
+
+</span><span style="color: #FF8000">// array get Section 
+</span><span style="color: #0000BB">print_r</span><span style="color: #007700">(</span><span style="color: #0000BB">$config</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">getSection</span><span style="color: #007700">(</span><span style="color: #DD0000">'mailbox1234567test'</span><span style="color: #007700">));
+
+</span><span style="color: #FF8000">// get value with default value 0
+</span><span style="color: #007700">echo </span><span style="color: #0000BB">$config</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">get</span><span style="color: #007700">(</span><span style="color: #DD0000">'mailbox1234567test'</span><span style="color: #007700">, </span><span style="color: #DD0000">'count'</span><span style="color: #007700">, </span><span style="color: #0000BB">0</span><span style="color: #007700">);
+
+echo </span><span style="color: #0000BB">$config</span><span style="color: #007700">;
+</span><span style="color: #0000BB">?&gt;</span>
+</span></code></pre>
+
+</p>
+
+<p>Another Example to save `test.cfg':<br />
+
+<pre><code><span style="color: #000000">
+<span style="color: #0000BB">&lt;?php
+
+</span><span style="color: #007700">require_once </span><span style="color: #DD0000">'Config/Lite.php'</span><span style="color: #007700">;
+
+</span><span style="color: #0000BB">$config </span><span style="color: #007700">= new </span><span style="color: #0000BB">Config_Lite</span><span style="color: #007700">();
+</span><span style="color: #0000BB">$config</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">read</span><span style="color: #007700">(</span><span style="color: #DD0000">'./test.cfg'</span><span style="color: #007700">);
+</span><span style="color: #FF8000">// set `count' to 1
+</span><span style="color: #0000BB">$config</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">set</span><span style="color: #007700">(</span><span style="color: #DD0000">'mailbox1234567test'</span><span style="color: #007700">, </span><span style="color: #DD0000">'count'</span><span style="color: #007700">, </span><span style="color: #0000BB">1</span><span style="color: #007700">);
+echo </span><span style="color: #0000BB">$config</span><span style="color: #007700">;
+</span><span style="color: #0000BB">$config</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">save</span><span style="color: #007700">();
+
+</span><span style="color: #0000BB">$config</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">read</span><span style="color: #007700">(</span><span style="color: #DD0000">'./test.cfg'</span><span style="color: #007700">);
+echo </span><span style="color: #0000BB">$config</span><span style="color: #007700">;
+</span><span style="color: #FF8000">// set `count' to 0
+</span><span style="color: #0000BB">$config</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">set</span><span style="color: #007700">(</span><span style="color: #DD0000">'mailbox1234567test'</span><span style="color: #007700">, </span><span style="color: #DD0000">'count'</span><span style="color: #007700">, </span><span style="color: #0000BB">0</span><span style="color: #007700">);
+</span><span style="color: #0000BB">$config</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">save</span><span style="color: #007700">();
+echo </span><span style="color: #0000BB">$config</span><span style="color: #007700">;
+</span><span style="color: #0000BB">?&gt;</span>
+</span></code></pre>
+
+</p>
+
+  </td>
+ </tr>
+
+ <tr>
+  <th class="headrow" style="width: 50%">&raquo; Dependencies</th>
+  <th class="headrow" style="width: 50%">&raquo; Links</th>
+ </tr>
+ <tr>
+  <td class="ulcell" valign="top">
+   <ul>
+
+
+   </ul>
+  </td>
+  <td class="ulcell" valign="top">
+   <ul>
+
+    <li><a href="http://code.pc-e.org/pear/Config_Lite-0.2.0.tgz">PEAR package file (.tgz)</a></li>
+    <li><a href="http://code.pc-e.org/pear/Config_Lite/Lite.phps">Package source file (.phps/.htm)</a></li>
+    <li><a href="http://code.pc-e.org/pear/Config_Lite/tests/AllTests.phps">Package source file (.phps/.htm)</a></li>
+    <li><a href="http://code.pc-e.org/pear/tests/config_example.phps">Package example source (.phps/.htm)</a></li>
+
+   </ul>
+  </td>
+ </tr>
+
+ <tr>
+  <th class="headrow" style="width: 50%">&raquo; Timeline</th>
+  <th class="headrow" style="width: 50%">&raquo; Changelog</th>
+ </tr>
+ <tr>
+  <td class="ulcell" valign="top">
+   <ul>
+    <li>
+     First Draft: 2010-08-30    </li>
+
+    <li>Proposal: 2010-09-09</li>
+
+   </ul>
+  </td>
+  <td class="ulcell" valign="top">
+
+<ul>
+<li><p style="margin: 0em 0em 0.3em 0em; font-size: 90%;">Patrick Engel<br />[2010-09-19 17:09 UTC]</p><p>- Code beautified, fits PEAR Coding Standard (according to phpcs).<br />
+  <a href="http://code.pc-e.org/pear/Config_Lite/Lite.phps" onclick="window.open(this.href, '_blank'); return false;">http://code.pc-e.org/pear/Config_Lite/Lite.phps</a></p>
+
+<p>- throws Config_Lite_Exception, which inherits Exception, updated the unit Tests:<br />
+  <a href="http://code.pc-e.org/pear/Config_Lite/tests/AllTests.phps" onclick="window.open(this.href, '_blank'); return false;">http://code.pc-e.org/pear/Config_Lite/tests/AllTests.phps</a></p>
+
+</li>
+<li><p style="margin: 0em 0em 0.3em 0em; font-size: 90%;">Patrick Engel<br />[2010-09-24 11:47 UTC]</p><ul>
+    <li>updated the Config_Lite Package (used pear to create it),</li>
+    <li>throws Exception, no dependencies, </li>
+    <li>$ phpunit AllTests.php works,</li>
+    <li>phpcs is still quite,</li>
+    <li>package validated</li>
+</ul>
+
+<ul>
+    <li>to run the phpunit AllTests.php, i used a &quot;if  Condition&quot;,</li>
+</ul>
+
+<p>like PHP_CodeSniffer.</p>
+
+<p>Is it valid to test if it is installed, <br />
+  also in the Package's `Lite.php'?</p>
+
+<p>Should we better throw an Exception that inherits  PEAR_Exception?</p>
+
+</li>
+<li><p style="margin: 0em 0em 0.3em 0em; font-size: 90%;">Patrick Engel<br />[2010-12-01 04:28 UTC]</p><p>- draft: <a href="https://github.com/pce/config_lite" onclick="window.open(this.href, '_blank'); return false;">https://github.com/pce/config_lite</a><br />
+- added static autoload method<br />
+- added (set|get)String with (add|strip)slashes<br />
+- Config_Lite_Exception is a Interface, and is implemented by Config_Lite_Exceptions which inherits SPL Excpetions,</p>
+
+</li>
+</ul>
+  </td>
+ </tr>
+</table>
+
+  </div>
+
+<!-- END MAIN CONTENT -->
+<!-- END MIDDLE -->
+
+<!-- START FOOTER -->
+<div id="footer">
+  <div id="foot-bar"><a href="/about/privacy.php">PRIVACY POLICY</a>&nbsp;|&nbsp;<a href="/about/credits.php">CREDITS</a></div>
+  <div id="foot-copy">
+    <a href="/copyright.php">Copyright &copy; 2001-2010 The PHP Group</a>    All rights reserved.
+  </div>
+
+  <div id="foot-source">
+    Bandwidth and hardware provided by:
+    <a href="http://www.eukhost.com/">eUKhost</a>
+  </div>
+</div>
+
+<!-- Onload focus to pear -->
+<!-- END FOOTER -->
+ </div>
+</body>
+</html>

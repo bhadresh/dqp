@@ -1,0 +1,1107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Digg
+                    - All Topics
+                 - The Latest News Headlines, Videos and Images
+    </title>
+    
+        <meta name="keywords" content="Digg, pictures, breaking news, entertainment, politics, technology, headline news, celebrity news, offbeat, world business, sports, funny videos">
+        <meta name="description" content="The best news, videos and pictures on the web as voted on by the Digg community. Breaking news on Technology, Politics, Entertainment, and more!">
+    
+    
+        
+        <link rel="apple-touch-icon" href="http://cdn1.diggstatic.com/img/iphone/icon.63e34426.png"/>
+    
+    
+    <link rel="alternate" type="application/rss+xml" title="Digg - The Latest News Headlines, Videos and Images" href="/news/all/videos/recent.rss">
+    
+        <link rel="shortcut icon" href="http://cdn1.diggstatic.com/img/favicon.a015f25c.ico">
+    
+        <link rel="stylesheet" type="text/css" href="http://cdn1.diggstatic.com/css/library/global.280a6733.css" media="all">
+        <!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://cdn1.diggstatic.com/css/support/ie_7.9b9d4168.css" media="all"><![endif]-->
+        <!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://cdn4.diggstatic.com/css/support/ie_8.88a26ac5.css" media="all"><![endif]-->
+        
+    
+    <script type='text/javascript'>
+var DUI=function(){function d(){for(e=1;b.length;)b.shift()();b=null}var e,b=[];if(window.attachEvent)attachEvent("onload",d);else window.addEventListener&&addEventListener("load",d,true);return{mergeIn:function(a){for(propName in a)this[propName]=a[propName]},onPageLoad:function(a){e?a():b.push(a)},loadScript:function(a){var c=document.createElement("SCRIPT"),f=document.getElementsByTagName("SCRIPT")[0];c.type="text/javascript";c.async=true;c.src=a;f.parentNode.insertBefore(c,f)}}}();
+DUI.mergeIn({"digg_security_token":"1291248647_97e119e42d3b73a22dbbd78c3bbf232e5a1fcd0940f716b3175aeec1ff06b9c1","digg_loggedin_state":0,"digg_location_id":20,"digg_language":"en_US","digg_trap_js_errors":0,"poll_digg_counters":0,"fb_app_id":"22108119377"})
+</script>
+
+    <script type="text/html" id="ad_template"><div id="main" class="story-item ad-river group <@=ad_id@>"><div class="story-item-gutters group"><div class="story-item-diggbtn"><div class="digg-btn has-tooltip<@=(ad_user_has_dugg ? " digg-dugg" : "")@>" data-id="<@=ad_id@>"><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="digg-count-wrapper"><span class="digg-count"><span><@=ad_meta.diggs@></span></span></a><a class="digg-it digg-advert group<@=ad_user_has_dugg ?" digg-dugg\" href=\"" + ad_server + ad_click_url + "\"" : "\""@>></a></div></div><div class="story-item-content group"><div class="story-item-details"><h3 class="story-item-title"><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="story-title"><@=ad_meta.title@></a></h3><p class="story-item-description"><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="story-item-source"><@=ad_meta.display_url@></a><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="story-item-teaser">&mdash; <@=ad_meta.description@></a></p></div><ul class="story-item-meta group"><li class="sponsored-by">Sponsored by <strong><@=ad_meta.sponsored_by@></strong></li><li class="story-item-bury"><a class="hide-link"><span class="storylist-icon bury dib"></span>Bury</a></li></ul></div><div class="story-item-media"><a href="<@=ad_server@><@=ad_click_url@>" target="_blank" class="story-item-thumb"><div class="thumb-edges"></div><img src="<@=ad_meta.thumbnail_url@>" alt="<@=ad_meta.title@>"></a></div><@ if (ad_meta.impression_url) { @><img src="<@=ad_meta.impression_url@>" class="ad-pixel"><@ } @></div></div></script>
+<script type="text/javascript" charset="utf-8">DUI.ad_url_uprrail1 = 'http://ad.doubleclick.net/adj/dgg.tn/home_tn_uprrail1;pt=tn;media=all;dv=v4;scat=tn;sync=yes;pos=uprrail1;sz=300x250,300x330;tile=1;kw=bring;kw=commentators;kw=christmas;kw=execution;kw=people;kw=world;kw=playboys;kw=announcing;kw=combine;kw=future;kw=wikileakers;kw=tim;kw=matter;kw=4;kw=hans;kw=lectures;kw=charted;kw=nfl;kw=said;kw=best;kw=stats;kw=video;kw=public;kw=oreilly;kw=voice;kw=all;ord=1291248647.17076';DUI.ad_url_siderailpromo1 = 'http://ad.doubleclick.net/adj/dgg.tn/home_tn_siderailpromo1;pt=tn;media=all;dv=v4;scat=tn;kw=bring;kw=commentators;kw=christmas;kw=execution;kw=people;kw=world;kw=playboys;kw=announcing;kw=combine;kw=future;kw=wikileakers;kw=tim;kw=matter;kw=4;kw=hans;kw=lectures;kw=charted;kw=nfl;kw=said;kw=best;kw=stats;kw=video;kw=public;kw=oreilly;kw=voice;kw=all;pos=siderailpromo1;sz=300x75;tile=2;ord=1291248647.17076';</script>
+    
+</head>
+<body class="fixed ">
+<div id="fb-root"></div>
+<script src="http://cdn1.diggstatic.com/js/common/fb_loader.4050a241.js" type="text/javascript"></script><form class="hidden">
+    <input type="text" name="ident" value="" id="ident-saved">
+    <input type="password" name="password" value="" id="password-saved">
+</form><div id="modal-wrapper"></div><div id="message-dock">
+    <div id="message-sleeve" class="group">
+        <p><span class="sprite message-icon"></span><span id="message-text"></span><a class="dismiss"></a></p>
+    </div>
+</div><div class="tooltip-container" id="digg-tooltip"></div><div class="header-wrapper"><div class="header group">
+<a href="/" class="sprite digg-logo" id="header-logo">Digg</a>
+    <ul class="main-navigation tabbed-navigation group">
+        <li>
+            <a href="/" id="header-mynews"><span class="elbow-left"></span><span class="elbow-right"></span>My News</a>
+        </li>
+        <li>
+            <a href="/news" class="active" id="header-topnews"><span class="elbow-left"></span><span class="elbow-right"></span>Top News</a>
+        </li>
+        <li>
+            <a href="/upcoming" id="header-upcoming"><span class="elbow-left"></span><span class="elbow-right"></span>Upcoming</a>
+        </li>
+    </ul>
+<div class="float-right group">    <ul class="loggedout-navigation group">
+        <li><a href="/register" id="modal-create-account" class="auth-register">Join Digg!</a></li>
+        <li><a href="/login" id="modal-login" class="auth-login">Login</a></li>
+    </ul>
+<form action="/search" method="get" class="header-search" id="header-search-form">
+    <input type="text" name="q" id="q" autocomplete="off" placeholder="Search Users or Stories">
+    <input type="submit" name="submit" id="search-button" value="">
+</form>
+</div></div></div>
+<div class="page-wrapper group "><div class="column-container group"><div class="columns group">
+    <div class="pre-content">
+        <div class="attached-menu group" id="page-topbar">
+            <ul class="pillboxes group">
+    <li><a href="/news" class="active" id="filter-recent">Most Recent</a></li>
+    <li><a href="/news/24hr"  id="filter-24hours">Top in 24 Hours</a></li>
+    <li><a href="/news/week"  id="filter-7days">7 Days</a></li>
+    <li><a href="/news/month"  id="filter-30days">30 Days</a></li>
+</ul>
+            <div id="submission-form-container">
+    <form action="/ajax/submit/crawl" method="post" class="group" id="submit-form">
+        <button type="submit" name="submit" class="btn btn-special has-tooltip" id="url-submit-button">Digg it <span class="sprite digg-it-large"></span></button>
+        <div class="flexible-input" id="submission-url-row">
+            <input type="text" name="submission" placeholder="Submit a link" class="text-input" id="url-submit-url" value="">
+        </div>
+    </form>
+</div>
+            <div id="submission-editor-wrapper">
+    <div id="submission-editor" class="group"></div>
+</div>
+<div class="dropdown-container" id="dropdown-prototype">
+    <a class="dropdown-label"><span class="sprite menu-arrows"></span></a>
+    <ul></ul>
+</div>
+        </div>
+    </div>
+
+    <div class="column narrow topbar-spacer group" id="left-column">
+        <ul class="sidebar-menu">
+    <li><a href="/news/recent" class="active">All Topics</a></li>
+                    <li><a href="/news/business" >Business</a></li>
+                    <li><a href="/news/entertainment" >Entertainment</a></li>
+                    <li><a href="/news/gaming" >Gaming</a></li>
+                    <li><a href="/news/lifestyle" >Lifestyle</a></li>
+                    <li><a href="/news/offbeat" >Offbeat</a></li>
+                    <li><a href="/news/politics" >Politics</a></li>
+                    <li><a href="/news/science" >Science</a></li>
+                    <li><a href="/news/sports" >Sports</a></li>
+                    <li><a href="/news/technology" >Technology</a></li>
+                    <li><a href="/news/world_news" >World News</a></li>
+    </ul>
+    </div>
+
+    <div class="column group" id="main-column">
+
+        <div class="main-content-header group topbar-spacer">
+                            <h1>Top News</h1>
+                                        <ul class="pillboxes group">
+                    <li><a href="/news/all/media/recent" >All</a></li>
+                    <li><a href="/news/all/images/recent" >Images</a></li>
+                    <li><a href="/news/all/videos/recent" class="active">Videos</a></li>
+                    <li><a href="/news/all/stories/recent" >Stories</a></li>
+                </ul>
+                    </div>
+
+        
+                    <p class="paginglabel" id="paginglabel">Pagination</p>
+                            <noscript>
+                    <h2><a href="/news/all/videos/1">View in ajax free mode</a></h2>
+                </noscript>
+                        
+                <div id="story-list-container" class="list-container hidden no-ajax">
+        <div class="story-list inner-container topbar-spacer" id="story-items">
+                <div class="stories" data-digg-hashstate="">
+
+            
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201151834_84c4899e-6aa1-43d8-a680-b0d25550e68d  first-item group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201151834_84c4899e-6aa1-43d8-a680-b0d25550e68d" data-digg-raw-diggs="81"><a href="/news/sports/magic_johnson_joining_with_aeg_to_bring_nfl_to_l_a_video" class="digg-count-wrapper"><span class="digg-count"><span>81</span></span></a><a class="digg-it diggable group" href="/news/sports/magic_johnson_joining_with_aeg_to_bring_nfl_to_l_a_video"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/magic_johnson_joining_with_aeg_to_bring_nfl_to_l_a_video" target="_blank">Magic Johnson: Joining with AEG to Bring NFL to L.A. (video)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:tvsquad.com" class="story-item-source">tvsquad.com</a>                            <a href="/news/sports/magic_johnson_joining_with_aeg_to_bring_nfl_to_l_a_video" class="story-item-teaser">&mdash; &quot;I&#039;m announcing this today: I&#039;ve teamed up with Tim Leiweke at AEG, and we&#039;re gonna come together to bring the NFL back to Los ...
+                                <span class="timestamp">50 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/casspa" class="hcard-trigger" data-digg-username="casspa">casspa</a></li>
+                                                                <li class="story-item-comments"><a href="/news/sports/magic_johnson_joining_with_aeg_to_bring_nfl_to_l_a_video"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">6</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/sports/magic_johnson_joining_with_aeg_to_bring_nfl_to_l_a_video" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon video"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/magic_johnson_joining_with_aeg_to_bring_nfl_to_l_a_video/t.png" alt="Magic Johnson: Joining with AEG to Bring NFL to L.A. (video)">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201144902_075ef5e9-444f-41b4-8fc7-888c086bfb10  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201144902_075ef5e9-444f-41b4-8fc7-888c086bfb10" data-digg-raw-diggs="122"><a href="/news/entertainment/playboy_s_hottest_women_in_the_world_video" class="digg-count-wrapper"><span class="digg-count"><span>122</span></span></a><a class="digg-it diggable group" href="/news/entertainment/playboy_s_hottest_women_in_the_world_video"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/playboy_s_hottest_women_in_the_world_video" target="_blank">Playboy&#039;s Hottest Women In The World (video)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:youtube.com" class="story-item-source">youtube.com</a>                            <a href="/news/entertainment/playboy_s_hottest_women_in_the_world_video" class="story-item-teaser">&mdash; A mashup of some of the hottest women to pose for Playboy.
+                                <span class="timestamp">1 hr 50 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/playboy" class="hcard-trigger" data-digg-username="playboy">playboy</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/playboy_s_hottest_women_in_the_world_video"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">12</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/entertainment/playboy_s_hottest_women_in_the_world_video" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon video"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/playboy_s_hottest_women_in_the_world_video/t.png" alt="Playboy&#039;s Hottest Women In The World (video)">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                    <div class="diggadsriver" id="diggad-1291248647-8784-3"></div>
+<script>
+  DUI.onPageLoad(function () {
+    DUI.render_diggad($('#diggad-1291248647-8784-3'), 'http://dads.new.digg.com', 'kw=pos:3&kw=topics:%2A&kw=pagetype:topnews');
+  });
+</script>
+
+            
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101130133811_0d9b383d-5032-46ea-a3f9-d53c2c3f4b65  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130133811_0d9b383d-5032-46ea-a3f9-d53c2c3f4b65" data-digg-raw-diggs="125"><a href="/news/science/200_countries_charted_over_200_years_in_4_minutes" class="digg-count-wrapper"><span class="digg-count"><span>125</span></span></a><a class="digg-it diggable group" href="/news/science/200_countries_charted_over_200_years_in_4_minutes"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/200_countries_charted_over_200_years_in_4_minutes" target="_blank">200 Countries Charted Over 200 Years In 4 Minutes</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:youtube.com" class="story-item-source">youtube.com</a>                            <a href="/news/science/200_countries_charted_over_200_years_in_4_minutes" class="story-item-teaser">&mdash; Hans Rosling&#039;s famous lectures combine enormous quantities of public data with a sport&#039;s commentator&#039;s style to reveal the story of ...
+                                <span class="timestamp">5 hr 20 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/mookiblaylock" class="hcard-trigger" data-digg-username="mookiblaylock">mookiblaylock</a></li>
+                                                                <li class="story-item-comments"><a href="/news/science/200_countries_charted_over_200_years_in_4_minutes"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">21</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/science/200_countries_charted_over_200_years_in_4_minutes" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                            <div class="storylist-icon video"></div>
+                            <img src="http://cdn4.diggstatic.com/story/200_countries_charted_over_200_years_in_4_minutes/t.png" alt="200 Countries Charted Over 200 Years In 4 Minutes">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101130182726_bc0c73d9-fd83-4837-ac08-fee7adc4a96c  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130182726_bc0c73d9-fd83-4837-ac08-fee7adc4a96c" data-digg-raw-diggs="90"><a href="/news/entertainment/the_best_christmas_commercials_of_all_time" class="digg-count-wrapper"><span class="digg-count"><span>90</span></span></a><a class="digg-it diggable group" href="/news/entertainment/the_best_christmas_commercials_of_all_time"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/the_best_christmas_commercials_of_all_time" target="_blank">The Best Christmas Commercials of All-Time</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:tvsquad.com" class="story-item-source">tvsquad.com</a>                            <a href="/news/entertainment/the_best_christmas_commercials_of_all_time" class="story-item-teaser">&mdash; There are two types of people in the world: those that love Christmas commercials and those that don&#039;t.
+                                <span class="timestamp">6 hr 40 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/timbuc1" class="hcard-trigger" data-digg-username="timbuc1">timbuc1</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/the_best_christmas_commercials_of_all_time"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">15</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/entertainment/the_best_christmas_commercials_of_all_time" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon video"></div>
+                                                        <img src="http://cdn2.diggstatic.com/story/the_best_christmas_commercials_of_all_time/t.png" alt="The Best Christmas Commercials of All-Time">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101201110101_ea38cc4d-2c12-45ef-86ff-75eaec0e3d18  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101201110101_ea38cc4d-2c12-45ef-86ff-75eaec0e3d18" data-digg-raw-diggs="135"><a href="/news/world_news/bill_o_reilly_calls_tor_the_execution_of_wikileakers_video" class="digg-count-wrapper"><span class="digg-count"><span>135</span></span></a><a class="digg-it diggable group" href="/news/world_news/bill_o_reilly_calls_tor_the_execution_of_wikileakers_video"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/bill_o_reilly_calls_tor_the_execution_of_wikileakers_video" target="_blank">Bill O&#039;Reilly Calls tor the Execution of WikiLeakers (VIDEO)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:tvsquad.com" class="story-item-source">tvsquad.com</a>                            <a href="/news/world_news/bill_o_reilly_calls_tor_the_execution_of_wikileakers_video" class="story-item-teaser">&mdash; It was only a matter of time before a prominent voice called for heads over the WikiLeaks security breach.
+                                <span class="timestamp">7 hr ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/mklopez" class="hcard-trigger" data-digg-username="mklopez">mklopez</a></li>
+                                                                <li class="story-item-comments"><a href="/news/world_news/bill_o_reilly_calls_tor_the_execution_of_wikileakers_video"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">97</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/world_news/bill_o_reilly_calls_tor_the_execution_of_wikileakers_video" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon video"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/bill_o_reilly_calls_tor_the_execution_of_wikileakers_video/t.png" alt="Bill O&#039;Reilly Calls tor the Execution of WikiLeakers (VIDEO)">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101130170937_75e98c93-ca4f-47e7-886c-f44a9d3a83ad  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130170937_75e98c93-ca4f-47e7-886c-f44a9d3a83ad" data-digg-raw-diggs="163"><a href="/news/offbeat/elephant_trolls_minivan_driver_video" class="digg-count-wrapper"><span class="digg-count"><span>163</span></span></a><a class="digg-it diggable group" href="/news/offbeat/elephant_trolls_minivan_driver_video"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/elephant_trolls_minivan_driver_video" target="_blank">Elephant trolls minivan driver [Video]</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:regretfulmorning.com" class="story-item-source">regretfulmorning.com</a>                            <a href="/news/offbeat/elephant_trolls_minivan_driver_video" class="story-item-teaser">&mdash; This funny elephant hides himself behind some trees and waits for a car to get close.....
+                                <span class="timestamp">7 hr 49 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/deafbeat" class="hcard-trigger" data-digg-username="deafbeat">deafbeat</a></li>
+                                                                <li class="story-item-comments"><a href="/news/offbeat/elephant_trolls_minivan_driver_video"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">19</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/offbeat/elephant_trolls_minivan_driver_video" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon video"></div>
+                                                        <img src="http://cdn1.diggstatic.com/story/elephant_trolls_minivan_driver_video/t.png" alt="Elephant trolls minivan driver [Video]">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101130231858_d6006661-d5aa-4ce2-8e17-a8fa215e244f  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130231858_d6006661-d5aa-4ce2-8e17-a8fa215e244f" data-digg-raw-diggs="164"><a href="/news/lifestyle/inappropriate_theme_park_photos_video" class="digg-count-wrapper"><span class="digg-count"><span>164</span></span></a><a class="digg-it diggable group" href="/news/lifestyle/inappropriate_theme_park_photos_video"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/inappropriate_theme_park_photos_video" target="_blank">Inappropriate Theme Park Photos (Video)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:gadling.com" class="story-item-source">gadling.com</a>                            <a href="/news/lifestyle/inappropriate_theme_park_photos_video" class="story-item-teaser">&mdash; Now, thanks to a video of theme park photos circulating on the Web, my eyes have been opened to a myriad of indignities that the people who portray...
+                                <span class="timestamp">9 hr 10 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/baddbrainz" class="hcard-trigger" data-digg-username="baddbrainz">baddbrainz</a></li>
+                                                                <li class="story-item-comments"><a href="/news/lifestyle/inappropriate_theme_park_photos_video"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">16</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/lifestyle/inappropriate_theme_park_photos_video" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon video"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/inappropriate_theme_park_photos_video/t.png" alt="Inappropriate Theme Park Photos (Video)">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101130193850_457f7993-240a-4b27-86cd-6a310d91ccee no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130193850_457f7993-240a-4b27-86cd-6a310d91ccee" data-digg-raw-diggs="146"><a href="/news/entertainment/jon_stewart_mocks_the_media_for_their_punny_business" class="digg-count-wrapper"><span class="digg-count"><span>146</span></span></a><a class="digg-it diggable group" href="/news/entertainment/jon_stewart_mocks_the_media_for_their_punny_business"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/jon_stewart_mocks_the_media_for_their_punny_business" target="_blank">Jon Stewart Mocks the Media for Their Punny Business</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:indecisionforever.com" class="story-item-source">indecisionforever.com</a>                            <a href="/news/entertainment/jon_stewart_mocks_the_media_for_their_punny_business" class="story-item-teaser">&mdash; I thought this segment was punderfully punny. Really pun in a million.
+                                <span class="timestamp">11 hr ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/ccinsider" class="hcard-trigger" data-digg-username="ccinsider">ccinsider</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/jon_stewart_mocks_the_media_for_their_punny_business"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">26</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101130212611_4517b6ec-8994-40ac-bc13-72d7fc2eedfb  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130212611_4517b6ec-8994-40ac-bc13-72d7fc2eedfb" data-digg-raw-diggs="224"><a href="/news/offbeat/gwar_disembowel_a_sarah_palin_effigy_on_stage" class="digg-count-wrapper"><span class="digg-count"><span>224</span></span></a><a class="digg-it diggable group" href="/news/offbeat/gwar_disembowel_a_sarah_palin_effigy_on_stage"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/gwar_disembowel_a_sarah_palin_effigy_on_stage" target="_blank">GWAR disembowel a Sarah Palin effigy on stage</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:thedailybeast.com" class="story-item-source">thedailybeast.com</a>                            <a href="/news/offbeat/gwar_disembowel_a_sarah_palin_effigy_on_stage" class="story-item-teaser">&mdash; GWAR would like to ensure you that you never have to worry about Sarah Palin being your president ever again.
+                                <span class="timestamp">15 hr 9 min ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/mikehayes19" class="hcard-trigger" data-digg-username="mikehayes19">mikehayes19</a></li>
+                                                                <li class="story-item-comments"><a href="/news/offbeat/gwar_disembowel_a_sarah_palin_effigy_on_stage"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">65</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/offbeat/gwar_disembowel_a_sarah_palin_effigy_on_stage" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon video"></div>
+                                                        <img src="http://cdn2.diggstatic.com/story/gwar_disembowel_a_sarah_palin_effigy_on_stage/t.png" alt="GWAR disembowel a Sarah Palin effigy on stage">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101130142135_dc4f3f5f-26a6-447d-9a19-691a01a556a6  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130142135_dc4f3f5f-26a6-447d-9a19-691a01a556a6" data-digg-raw-diggs="194"><a href="/news/gaming/call_of_duty_black_ops_multiplayer_myths_busted" class="digg-count-wrapper"><span class="digg-count"><span>194</span></span></a><a class="digg-it diggable group" href="/news/gaming/call_of_duty_black_ops_multiplayer_myths_busted"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/call_of_duty_black_ops_multiplayer_myths_busted" target="_blank">Call of Duty: Black Ops multiplayer myths busted</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:gameranx.com" class="story-item-source">gameranx.com</a>                            <a href="/news/gaming/call_of_duty_black_ops_multiplayer_myths_busted" class="story-item-teaser">&mdash; Can you place a C-4 on top of an RC-XD? Is it possible to shoot down a Valkyrie Missile? Can care package helicopters crash into each other? There ...
+                                <span class="timestamp">1 day 3 hr ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/xraymaster" class="hcard-trigger" data-digg-username="xraymaster">xraymaster</a></li>
+                                                                <li class="story-item-comments"><a href="/news/gaming/call_of_duty_black_ops_multiplayer_myths_busted"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">30</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/gaming/call_of_duty_black_ops_multiplayer_myths_busted" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon video"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/call_of_duty_black_ops_multiplayer_myths_busted/t.png" alt="Call of Duty: Black Ops multiplayer myths busted">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101130094516_da962126-91dd-46f6-b695-d8b2da79c82b  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130094516_da962126-91dd-46f6-b695-d8b2da79c82b" data-digg-raw-diggs="133"><a href="/news/sports/the_sneakiest_trick_plays_in_football_videos" class="digg-count-wrapper"><span class="digg-count"><span>133</span></span></a><a class="digg-it diggable group" href="/news/sports/the_sneakiest_trick_plays_in_football_videos"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/the_sneakiest_trick_plays_in_football_videos" target="_blank">The Sneakiest Trick Plays in Football (Videos)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:asylum.com" class="story-item-source">asylum.com</a>                            <a href="/news/sports/the_sneakiest_trick_plays_in_football_videos" class="story-item-teaser">&mdash; Football is a game that rewards brains as much as brawn. It&#039;s not enough to outrun or outsmash your opponent, you must also have a man where n...
+                                <span class="timestamp">1 day 3 hr ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/asylumdotcom" class="hcard-trigger" data-digg-username="asylumdotcom">asylumdotcom</a></li>
+                                                                <li class="story-item-comments"><a href="/news/sports/the_sneakiest_trick_plays_in_football_videos"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">22</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/sports/the_sneakiest_trick_plays_in_football_videos" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon video"></div>
+                                                        <img src="http://cdn1.diggstatic.com/story/the_sneakiest_trick_plays_in_football_videos/t.png" alt="The Sneakiest Trick Plays in Football (Videos)">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101130143401_397bc21e-794b-48c8-9023-788b8f6ae370  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130143401_397bc21e-794b-48c8-9023-788b8f6ae370" data-digg-raw-diggs="140"><a href="/news/gaming/10_weird_fighting_game_crossovers" class="digg-count-wrapper"><span class="digg-count"><span>140</span></span></a><a class="digg-it diggable group" href="/news/gaming/10_weird_fighting_game_crossovers"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/10_weird_fighting_game_crossovers" target="_blank">10 Weird Fighting Game Crossovers</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:joystickdivision.com" class="story-item-source">joystickdivision.com</a>                            <a href="/news/gaming/10_weird_fighting_game_crossovers" class="story-item-teaser">&mdash; Winnie the Pooh can take on Bowser, just like Rambo can pummel Captain America. Fights like these exist, and no one&#039;s stopping them.
+                                <span class="timestamp">1 day 6 hr ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/NickCobb" class="hcard-trigger" data-digg-username="NickCobb">NickCobb</a></li>
+                                                                <li class="story-item-comments"><a href="/news/gaming/10_weird_fighting_game_crossovers"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">11</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/gaming/10_weird_fighting_game_crossovers" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon video"></div>
+                                                        <img src="http://cdn3.diggstatic.com/story/10_weird_fighting_game_crossovers/t.png" alt="10 Weird Fighting Game Crossovers">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101130012855_e8b79fef-83e7-4b4c-a829-d9d6bc50f0bb no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101130012855_e8b79fef-83e7-4b4c-a829-d9d6bc50f0bb" data-digg-raw-diggs="118"><a href="/news/sports/kid_falls_onto_field_during_ucla_arizona_state_game" class="digg-count-wrapper"><span class="digg-count"><span>118</span></span></a><a class="digg-it diggable group" href="/news/sports/kid_falls_onto_field_during_ucla_arizona_state_game"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/kid_falls_onto_field_during_ucla_arizona_state_game" target="_blank">Kid Falls Onto Field During UCLA Arizona State Game</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:sports.break.com" class="story-item-source">sports.break.com</a>                            <a href="/news/sports/kid_falls_onto_field_during_ucla_arizona_state_game" class="story-item-teaser">&mdash; 
+                                <span class="timestamp">1 day 7 hr ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/rishikapor400" class="hcard-trigger" data-digg-username="rishikapor400">rishikapor400</a></li>
+                                                                <li class="story-item-comments"><a href="/news/sports/kid_falls_onto_field_during_ucla_arizona_state_game"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">18</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101129231844_a09e9eb3-9ca5-4663-a1f9-4e21a7f4ee23  group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101129231844_a09e9eb3-9ca5-4663-a1f9-4e21a7f4ee23" data-digg-raw-diggs="391"><a href="/news/technology/kid_sees_dark_side_of_internet_for_the_first_time_video" class="digg-count-wrapper"><span class="digg-count"><span>391</span></span></a><a class="digg-it diggable group" href="/news/technology/kid_sees_dark_side_of_internet_for_the_first_time_video"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/kid_sees_dark_side_of_internet_for_the_first_time_video" target="_blank">Kid Sees Dark Side Of Internet For The First Time (Video)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:break.com" class="story-item-source">break.com</a>                            <a href="/news/technology/kid_sees_dark_side_of_internet_for_the_first_time_video" class="story-item-teaser">&mdash; Check out the kid&#039;s expression as his classmates trick him into watching mature content on the internet for the first time. And that, ladies a...
+                                <span class="timestamp">1 day 9 hr ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/jamied83" class="hcard-trigger" data-digg-username="jamied83">jamied83</a></li>
+                                                                <li class="story-item-comments"><a href="/news/technology/kid_sees_dark_side_of_internet_for_the_first_time_video"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">64</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/technology/kid_sees_dark_side_of_internet_for_the_first_time_video" class="story-item-thumb">
+                            <div class="thumb-edges"></div>
+                                                            <div class="storylist-icon video"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/kid_sees_dark_side_of_internet_for_the_first_time_video/t.png" alt="Kid Sees Dark Side Of Internet For The First Time (Video)">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                    <div class="diggadsriver" id="diggad-1291248647-8784-16"></div>
+<script>
+  DUI.onPageLoad(function () {
+    DUI.render_diggad($('#diggad-1291248647-8784-16'), 'http://dads.new.digg.com', 'kw=pos:16&kw=topics:%2A&kw=pagetype:topnews');
+  });
+</script>
+
+            
+                                                                                                                                                                        
+
+
+    
+
+
+                        
+    <div class="story-item item-20101129233327_f0aa481a-d4b5-42a1-805b-b62ea0192309 no-media last-item group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20101129233327_f0aa481a-d4b5-42a1-805b-b62ea0192309" data-digg-raw-diggs="186"><a href="/news/lifestyle/tiny_house_movement_thrives_amid_real_estate_bust_video" class="digg-count-wrapper"><span class="digg-count"><span>186</span></span></a><a class="digg-it diggable group" href="/news/lifestyle/tiny_house_movement_thrives_amid_real_estate_bust_video"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/tiny_house_movement_thrives_amid_real_estate_bust_video" target="_blank">Tiny house movement thrives amid real estate bust (video)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:news.yahoo.com" class="story-item-source">news.yahoo.com</a>                            <a href="/news/lifestyle/tiny_house_movement_thrives_amid_real_estate_bust_video" class="story-item-teaser">&mdash; As Americans downsize in the aftermath of a colossal real estate bust, at least one tiny corner of the housing market appears to be thriving. To sa...
+                                <span class="timestamp">1 day 11 hr ago</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/bettverboten" class="hcard-trigger" data-digg-username="bettverboten">bettverboten</a></li>
+                                                                <li class="story-item-comments"><a href="/news/lifestyle/tiny_house_movement_thrives_amid_real_estate_bust_video"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">33</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                        </div>
+        </div>
+    </div>
+
+<div id="inline-comment-container-home">
+    </div>
+            <ul class="pagination group btn-loader btn-loader-bottom no-prev story-list-container"data-digg-offsetparam="page"role="navigation"aria-labelledby="paginglabel"><li class="prev"><a class="btn btn-default btn-small" href="/news/all/videos/1" rel="prev" data-digg-ajaxqs='%7B%22filter%22%3A%22recent%22%2C%22mediaType%22%3A%22videos%22%2C%22topic%22%3A%22all%22%2C%22page%22%3A1%7D'><span class="uitext">Prev</span></a></li><li class="page-num">Page <span class="pagination-current"></span></li><li class="next"><a class="btn btn-default btn-small" href="/news/all/videos/2" rel="next" data-digg-ajaxqs='%7B%22filter%22%3A%22recent%22%2C%22mediaType%22%3A%22videos%22%2C%22topic%22%3A%22all%22%2C%22page%22%3A2%7D'><span class="uitext">Next</span></a></li></ul>
+    <script type="text/javascript">
+    (function () {
+        var stories, hash;
+        stories = document.getElementById('story-list-container');
+        if (stories) {
+            hash = window.location.hash;
+            if ('' === hash) {
+                stories.className = stories.className.replace('hidden', '');
+            }
+        }
+    })();
+    </script>
+            </div>
+</div>
+    <div class="column wide group" id="right-column">
+        <div class="ad uprrail1">
+    <iframe src="about:blank" width="300" height="250" scrolling="no" frameborder="0" hspace="0" vspace="0" id="ad-uprrail1" data-digg-javascriptURL="http://ad.doubleclick.net/adj/dgg.tn/home_tn_uprrail1;pt=tn;dv=v4;scat=tn;kw=bring;kw=commentators;kw=christmas;kw=execution;kw=people;kw=world;kw=playboys;kw=announcing;kw=combine;kw=future;kw=wikileakers;kw=tim;kw=matter;kw=4;kw=hans;kw=lectures;kw=charted;kw=nfl;kw=said;kw=best;kw=stats;kw=video;kw=public;kw=oreilly;kw=voice;kw=all;sync=yes;pos=uprrail1;sz=300x250,300x330;tile=3;media=videos;ord=1291248647.17076">
+        <a href="http://ad.doubleclick.net/jump/dgg.tn/home_tn_uprrail1;pt=tn;dv=v4;scat=tn;kw=bring;kw=commentators;kw=christmas;kw=execution;kw=people;kw=world;kw=playboys;kw=announcing;kw=combine;kw=future;kw=wikileakers;kw=tim;kw=matter;kw=4;kw=hans;kw=lectures;kw=charted;kw=nfl;kw=said;kw=best;kw=stats;kw=video;kw=public;kw=oreilly;kw=voice;kw=all;sync=yes;pos=uprrail1;sz=300x250,300x330;tile=3;media=videos;ord=1291248647.17076?"><img src="http://ad.doubleclick.net/ad/dgg.tn/home_tn_uprrail1;pt=tn;dv=v4;scat=tn;kw=bring;kw=commentators;kw=christmas;kw=execution;kw=people;kw=world;kw=playboys;kw=announcing;kw=combine;kw=future;kw=wikileakers;kw=tim;kw=matter;kw=4;kw=hans;kw=lectures;kw=charted;kw=nfl;kw=said;kw=best;kw=stats;kw=video;kw=public;kw=oreilly;kw=voice;kw=all;sync=yes;pos=uprrail1;sz=300x250,300x330;tile=3;media=videos;ord=1291248647.17076?"></a>
+    </iframe>
+</div>
+
+                        <div class="sidebar-content"><h2 class="header-division">Top News<span class="subtitle">&nbsp;in All Topics</span></h2><ul class="mini-sidebar-list list-type-stories"><li class="group"><div class="media"><a href="/news/world_news/wikileaks_interpol_issues_wanted_notice_for_julian_assange" class="digg-count-small">412</a></div><a href="/news/world_news/wikileaks_interpol_issues_wanted_notice_for_julian_assange" class="rounded-img small" style="background-image: url(http://cdn2.diggstatic.com/story/wikileaks_interpol_issues_wanted_notice_for_julian_assange/a.png)">WikiLeaks: Interpol issues wanted notice for Julian Assange</a><h3><a href="/news/world_news/wikileaks_interpol_issues_wanted_notice_for_julian_assange">WikiLeaks: Interpol issues wanted notice for Julian Assange</a></h3></li><li class="group"><div class="media"><a href="/news/science/china_s_ban_kept_100_billion_plastic_bags_out_of_the_trash" class="digg-count-small">394</a></div><a href="/news/science/china_s_ban_kept_100_billion_plastic_bags_out_of_the_trash" class="rounded-img small" style="background-image: url(http://cdn4.diggstatic.com/story/china_s_ban_kept_100_billion_plastic_bags_out_of_the_trash/a.png)">China&#039;s Ban Kept 100 Billion Plastic Bags Out of the Trash</a><h3><a href="/news/science/china_s_ban_kept_100_billion_plastic_bags_out_of_the_trash">China&#039;s Ban Kept 100 Billion Plastic Bags Out of the Trash</a></h3></li><li class="group"><div class="media"><a href="/news/technology/student_faces_three_years_in_prison_for_modifying_xbox_360" class="digg-count-small">383</a></div><a href="/news/technology/student_faces_three_years_in_prison_for_modifying_xbox_360" class="rounded-img small" style="background-image: url(http://cdn1.diggstatic.com/story/student_faces_three_years_in_prison_for_modifying_xbox_360/a.png)">Student faces three years in prison for modifying Xbox 360</a><h3><a href="/news/technology/student_faces_three_years_in_prison_for_modifying_xbox_360">Student faces three years in prison for modifying Xbox 360</a></h3></li><li class="group"><div class="media"><a href="/news/politics/the_15_smartest_and_dumbest_presidents_of_the_united_states" class="digg-count-small">359</a></div><a href="/news/politics/the_15_smartest_and_dumbest_presidents_of_the_united_states" class="rounded-img small" style="background-image: url(http://cdn1.diggstatic.com/story/the_15_smartest_and_dumbest_presidents_of_the_united_states/a.png)">The 15 Smartest and Dumbest Presidents of the United States</a><h3><a href="/news/politics/the_15_smartest_and_dumbest_presidents_of_the_united_states">The 15 Smartest and Dumbest Presidents of the United States</a></h3></li><li class="group"><div class="media"><a href="/news/technology/after_a_four_year_run_firefox_is_no_longer_the_top_browser_on_techcrunch_chrome_is" class="digg-count-small">330</a></div><a href="/news/technology/after_a_four_year_run_firefox_is_no_longer_the_top_browser_on_techcrunch_chrome_is" class="rounded-img small" style="background-image: url(http://cdn3.diggstatic.com/story/after_a_four_year_run_firefox_is_no_longer_the_top_browser_on_techcrunch_chrome_is/a.png)">After A Four Year Run, Firefox Is No Longer The Top Browser On TechCrunch — Chrome Is</a><h3><a href="/news/technology/after_a_four_year_run_firefox_is_no_longer_the_top_browser_on_techcrunch_chrome_is">After A Four Year Run, Firefox Is No Longer The Top Browser On TechCrunch — Chrome Is</a></h3></li><li class="group"><div class="media"><a href="/news/technology/can_p2p_dns_system_kill_icann_after_us_domain_seizures" class="digg-count-small">316</a></div><h3><a href="/news/technology/can_p2p_dns_system_kill_icann_after_us_domain_seizures">Can P2P DNS System Kill ICANN After US Domain Seizures?</a></h3></li><li class="group"><div class="media"><a href="/news/politics/joe_scarborough_exposes_rush_limbaugh_and_glenn_beck_s_fake_support_of_sarah_palin" class="digg-count-small">319</a></div><a href="/news/politics/joe_scarborough_exposes_rush_limbaugh_and_glenn_beck_s_fake_support_of_sarah_palin" class="rounded-img small" style="background-image: url(http://cdn2.diggstatic.com/story/joe_scarborough_exposes_rush_limbaugh_and_glenn_beck_s_fake_support_of_sarah_palin/a.png)">Joe Scarborough Exposes Rush Limbaugh and Glenn BecK&#039;S Fake Support of Sarah Palin</a><h3><a href="/news/politics/joe_scarborough_exposes_rush_limbaugh_and_glenn_beck_s_fake_support_of_sarah_palin">Joe Scarborough Exposes Rush Limbaugh and Glenn BecK&#039;S Fake Support of Sarah Palin</a></h3></li><li class="group"><div class="media"><a href="/news/offbeat/quadriplegic_age_27_begs_to_die_but_hospital_refuses" class="digg-count-small">281</a></div><a href="/news/offbeat/quadriplegic_age_27_begs_to_die_but_hospital_refuses" class="rounded-img small" style="background-image: url(http://cdn3.diggstatic.com/story/quadriplegic_age_27_begs_to_die_but_hospital_refuses/a.png)">Quadriplegic, Age 27, Begs to Die, But Hospital Refuses ‎</a><h3><a href="/news/offbeat/quadriplegic_age_27_begs_to_die_but_hospital_refuses">Quadriplegic, Age 27, Begs to Die, But Hospital Refuses ‎</a></h3></li><li class="group"><div class="media"><a href="/news/science/possibly_the_best_meteorological_image_of_all_time_nasa_apod_thundercell" class="digg-count-small">274</a></div><a href="/news/science/possibly_the_best_meteorological_image_of_all_time_nasa_apod_thundercell" class="rounded-img small" style="background-image: url(http://cdn3.diggstatic.com/story/possibly_the_best_meteorological_image_of_all_time_nasa_apod_thundercell/a.png)">Possibly the best meteorological image of all time: Nasa APOD Thundercell</a><h3><a href="/news/science/possibly_the_best_meteorological_image_of_all_time_nasa_apod_thundercell">Possibly the best meteorological image of all time: Nasa APOD Thundercell</a></h3></li><li class="group"><div class="media"><a href="/news/offbeat/gwar_disembowel_a_sarah_palin_effigy_on_stage" class="digg-count-small">224</a></div><a href="/news/offbeat/gwar_disembowel_a_sarah_palin_effigy_on_stage" class="rounded-img small" style="background-image: url(http://cdn1.diggstatic.com/story/gwar_disembowel_a_sarah_palin_effigy_on_stage/a.png)">GWAR disembowel a Sarah Palin effigy on stage</a><h3><a href="/news/offbeat/gwar_disembowel_a_sarah_palin_effigy_on_stage">GWAR disembowel a Sarah Palin effigy on stage</a></h3></li></ul></div>
+                    <div class="ad ad-div side-container">
+    <iframe name="dadLwrrlIframe" src="http://dads.new.digg.com/view.html?kw=zone:5&amp;kw=bring&amp;kw=commentators&amp;kw=christmas&amp;kw=execution&amp;kw=people&amp;kw=world&amp;kw=playboys&amp;kw=announcing&amp;kw=combine&amp;kw=future&amp;kw=wikileakers&amp;kw=tim&amp;kw=matter&amp;kw=4&amp;kw=hans&amp;kw=lectures&amp;kw=charted&amp;kw=nfl&amp;kw=said&amp;kw=best&amp;kw=stats&amp;kw=video&amp;kw=public&amp;kw=oreilly&amp;kw=voice&amp;kw=all&amp;kw=pagetype:topnews&amp;template=5" frameborder="no"
+    scrolling="no" hspace="0" vspace="0"></iframe>
+</div>
+            </div>
+</div></div><div class="footer">
+    <ul class="group">
+        <li>&copy; Digg Inc. 2010</li>
+        <li><a href="http://about.digg.com">About Digg</a></li>
+        <li><a href="http://about.digg.com/ads">Advertise</a></li>
+        <li><a href="http://about.digg.com/partnership">Partners</a></li>
+        <li><a href="http://developers.digg.com">API &amp; Resources</a></li>
+        <li><a href="http://about.digg.com/blog">Blogs</a></li>
+        <li><a href="http://about.digg.com/contact">Contact Us</a></li>
+        <li><a href="http://jobs.digg.com">Jobs</a></li>
+        <li><a href="http://about.digg.com/faq">Help &amp; FAQ</a></li>
+        <li><a href="http://about.digg.com/terms-use">Terms of Service</a></li>
+        <li><a href="/topic">Topics</a></li>
+        <li class="last"><a href="http://about.digg.com/privacy">Privacy</a></li>
+                    <li id="rss-link"><a href="/news/all/videos/recent.rss">RSS</a></li>
+            </ul>
+</div>
+<div id="feedback-bar" class="group">
+    <span title="10.2.129.226 Build: 173 - Wed Dec  1 12:31:14 PST 2010">Digg v4: 193.90ms</span>
+    <ul>
+        <li><a href="http://about.digg.com/contact">Give us feedback</a> |</li>
+        <li><a href="http://www.surveymonkey.com/s/ZNBQMYJ" id="feedback-bar-survey">Take the survey</a></li>
+    </ul>
+</div>
+<script src="http://cdn3.diggstatic.com/js/lib.c4aecf59.js" type="text/javascript"></script>    <script src="http://cdn2.diggstatic.com/js/App_TopNews/pagination.f8efea3b.js" type="text/javascript"></script>
+
+
+    <!-- Begin comScore Tag -->
+<script>
+document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+
+<script>
+COMSCORE.beacon({
+c1:2,
+c2:6299437,
+c3:"",
+c4:"",
+c5:"",
+c6:"",
+c15:""
+});
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6299437&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+    <!-- digg is done serving you. 2.01355321270u 137.03599911 6.6742x10-11m3kg-1s-2 6.6742x10-11m3kg-1s-2 -->
+<script type="text/javascript">var s_account = "diggcomv4";</script>
+<script src="http://cdn3.diggstatic.com/js/Omniture/omniture.6c48dd51.js" type="text/javascript"></script>
+
+<script type="text/javascript"><!--
+s.pageName = 'topnews:index:recent';
+s.eVar23 = 'topnews:index:recent';
+s.heir1 = 'topnews';
+s.heir2 = 'index';
+s.heir3 = 'recent';
+s.channel = 'topnews';
+s.eVar22 = 'topnews';
+s.prop5 = 'anonymous';
+s.eVar5 = 'anonymous';
+s.prop4 = 'anonymous';
+s.eVar4 = 'anonymous';
+s.prop9 = 'all';
+s.eVar9 = 'all';
+s.events = 'event2';
+var s_code=s.t();
+if (s_code) document.write(s_code);
+//--></script></body>
+</html>

@@ -1,0 +1,583 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Google Gadgets:&nbsp;
+Day Night World Clock</title>
+<link href="/desktop/styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+a.selected {
+  font-weight: bold;
+  color: #666;
+  text-decoration: none;
+}
+
+p#nav {
+  line-height: 1.4em;
+}
+
+table.gadget {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+table.gadget td img {
+  border: 1px solid #000;
+  margin: 4px 0px;
+}
+
+body {
+  margin-top: 0px;
+}
+
+table.gadget td input {
+  font-size: 11px;
+  width: 82px;
+}
+
+table.header {
+  margin-bottom: 10px;
+}
+
+table.header h3 {
+  margin-bottom: 0px;
+}
+
+table.header hr {
+  color: #ccc;
+  background-color: #ccc;
+  border-bottom: 1px solid #ccc;
+  height: 1px;
+  margin-top: 0px;
+}
+
+.disclaimer {
+  color: #999;
+}
+
+div.errorheader {
+  color: red;
+  font-weight: bold;
+}
+
+div.errormsg {
+  color: red;
+}
+
+td.button-left {
+  width: 6px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-left_sm.gif');
+  background-repeat: none;
+}
+
+td.button-center {
+  padding-left: 10px;
+  padding-right: 14px;
+  padding-bottom: 3px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-center_sm.gif')
+    ;
+  background-repeat: repeat-x;
+}
+
+td.button-center a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: arial;
+  padding-bottom: 6px;
+}
+
+td.button-right {
+  width: 9px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-right_sm.gif');
+  background-repeat: none;
+}
+
+.linkon {
+  color: #0000cc;
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: normal
+}
+
+.linkoff {
+  font-weight: bold
+}
+
+.review_author {
+  font-weight: bold
+}
+
+td.download-button-left {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_left.gif');
+  background-repeat: none;
+}
+
+td.download-button-center {
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  height: 22px;
+  background: url('/images/add_button_middle.gif');
+  background-repeat: repeat-x;
+}
+
+td.download-button-center a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
+
+td.download-button-right {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_right.gif');
+  background-repeat: none;
+}
+
+.similar-gadget {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.screenshot-image {
+  border: 1px solid #bbcced;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+pre.terms {
+  height:200;
+  width:600;
+  overflow: auto;
+  border-style:inset;
+  border-color:graytext;
+  border-width: thin;
+  text-wrap: unrestricted;
+  white-space: -moz-pre-wrap; /* Moz */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  white-space: pre-wrap; /* CSS3  */
+  word-wrap: break-word; /* IE 5.5+ */
+}
+
+table.confirmation-table td {
+  vertical-align: top;
+}
+
+.gadgetError {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FBE3E4;
+  color: #D12F19;
+  border-color: #FBC2C4;
+}
+
+.gadgetWarning {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FFF6BF;
+  color: #817134;
+  border-color: #FFD324;
+}
+
+</style>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+<script type="text/javascript">
+    _uacct="UA-18007-1";
+    _uanchor=1;
+    urchinTracker();
+  </script></head>
+<body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><a href="/?hl=en"><img src="/en/images/logo3.gif" border="0" height="55" vspace="12" width="150" alt="Google Desktop"></a></td>
+<td width="100%" style="padding-left:12px;padding-top:12px;" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="right" nowrap><font face="Arial, sans-serif" size="-1"><a href="https://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/daynightclock.html">Sign In</a></font></td></tr>
+<tr><td><img alt="" width="1" height="1"></td></tr></table>
+<table cellpadding="0" cellspacing="0" width="100%"><tr><td bgcolor="#3399cc"><img alt="" height="1" width="1"></td></tr></table>
+<table cellspacing="0" cellpadding="2" border="0" width="100%"><tr><td bgcolor="#e8f4f7">&nbsp;
+<font size="3"><b>Google Gadgets</b></font></td></tr></table></td></tr></table>
+<table cellspacing="0" width="100%"><tr valign="top"><td><td nowrap valign="top" width="160"><p id="nav"><font size="-1">Google Gadgets
+<br>
+
+&nbsp;&nbsp;&bull;
+<a href='/plugins/?hl=en'>All</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/news.html?hl=en'>News</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/tools.html?hl=en'>Tools</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/communication.html?hl=en'>Communication</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/finance.html?hl=en'>Finance</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/fun_games.html?hl=en'>Fun & Games</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/google.html?hl=en'>Google</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/sports.html?hl=en'>Sports</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/lifestyle.html?hl=en'>Lifestyle</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/technology.html?hl=en'>Technology</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href="/plugins/c/sidebar/holiday.html?hl=en"><b><font color="red">Holidays</font></b></a>
+<br>
+<br>
+<a href='/plugins/c/index/all.html?hl=en'>Indexing Plugins</a>
+<br>
+<br>
+<br>
+<a href="http://groups.google.com/group/Google-Desktop">Desktop Search Forum</a></font></p>
+<p><font size="-1"><b>For Developers</b>
+<br>
+
+&nbsp;&nbsp;
+<a href='/downloadsdksubmit?hl=en'>Download SDK</a><br>
+&nbsp;&nbsp;
+<a href="/dev/index.html">Developer Guide</a><br>
+&nbsp;&nbsp;
+<a href="/dev/kb.html">FAQ</a><br>
+&nbsp;&nbsp;
+<a href='/pluginsubmit?hl=en'>Submit Software</a><br>
+
+&nbsp;&nbsp;
+<a href="http://groups.google.com/group/Google-Desktop-Developer">Developer Forum</a><br>
+&nbsp;&nbsp;
+<a href='/authors?hl=en'>Hall of Fame</a><br>
+&nbsp;&nbsp;
+<a href='/ambassadors?hl=en'>Ambassadors</a> <br>
+<br>
+<br>
+<br>
+<img src="/images/rss_small.gif" alt="RSS Feed for Latest Gadgets">
+<a href="/feeds/gadgets.xml?hl=en&amp;type=rss" type="application/rss+xml">Latest Gadgets</a>
+<br>
+<br>
+<br>
+<br></font></p></td>
+<td id="dots" width="10"></td></td>
+<td><table><tr style="height:10px;"></tr>
+<tr id="gadgetDetails"><td id="gadgetImage" valign="top" align="center"><img alt="Day Night World Clock" src="/plugins/images/daynightclock.gif" class="screenshot-image"></td>
+<td id="gadgetDetails" valign="top"><h3>Day Night World Clock</h3>
+Watch any town from satellite view, as the day and night changes! All of this on the face of a stylish analogue clock!
+<br>
+<p>
+<a href="http://groups.google.com/group/Google-Desktop-Plugin-DayNightWorldClock">Discuss this gadget</a></p>
+<table cellpadding="2" cellspacing="2"><tr><td><strong>Author:</strong></td>
+<td>Beatrix Gottanka</td></tr>
+<tr><td><strong>Size:</strong></td>
+<td>672KB</td></tr>
+<tr><td><strong>Version:</strong></td>
+<td>1.0.0.5</td></tr>
+<tr><td><strong>Date:</strong></td>
+<td>August 24, 2006</td></tr></table>
+<p><b>This gadget requires  <a href="http://desktop.google.com?hl=en"> Google Desktop  4  or above. </a></b></p>
+<div style="width: 250;"><table cellpadding="0" cellspacing="0"><tr><td class="button-left"></td>
+<td class="button-center"><a href="/url?id=daynightclock">Download gadget</a></td>
+<td class="button-right"></td></tr></table></div>
+<br>
+<a href="http://www.google.com/ig/add?moduleurl=http://desktop.google.com/gow/gadgets/daynightclock.xml">Add this gadget to your iGoogle page</a></td></tr>
+<tr id="reviewsAndComments"><td valign="top" colspan="2"><script type="text/javascript" src="/gadgetComments.js">
+</script>
+<div style="min-width: 600; max-width: 800"><table width="100%"><tr><td><span id="commentsSpan" class="linkoff">Reviews</span></td>
+<td align="right">
+
+<a href="http://desktop.google.com/plugins/i/daynightclock.html?start=20">Next &raquo;</a></td></tr></table>
+<hr size="1" noshade>
+<a href="http://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/daynightclock.html">Sign in</a> to write a comment
+<br><br>
+<div id="comments">
+
+<table id="review 1" cellpadding="0" cellspacing="0"><tr>
+<td><b>Joop Vrielink</b>
+&nbsp;</td>
+<td><div id="abuse1" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=RaqvRh4PSp3nOAAljrtrMAcuP5vdkzk_YAAAAFSVCDgzLrMih2pjbAsJVJ2bRDEP9ytGeZ_xgviGOJEDXeDjEyPvXH35fuBOljOaoNECcOT87WEgh016VopYsknR9_Dh_4RMX3_dQ41XRwxfRUpuGk1tHjk2sqwwxg-iAQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Get it off!!!
+It&#39;s shit
+<br>
+<br> <table id="review 2" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>RomeoandJoe</b>
+&nbsp;</td>
+<td><div id="abuse2" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=27YVZnQT2IIdYmn7HWQk83pJQtLdkzk_YAAAALH0D_uX7cjWl4XGUyKVpn3joCt4Fv553w1efhOgIbiLXeDjEyPvXH35fuBOljOaoNECcOT87WEgh016VopYsknR9_Dh_4RMX3_dQ41XRwxfbqVaICDmMgQOvhEOOpCC9w&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Doesn&#39;t show actual time in other cities. Fix or it&#39;s useless! Going back to Yahoo.
+<br>
+<br> <table id="review 3" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>mike</b>
+&nbsp;</td>
+<td><div id="abuse3" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=mhLUkqhfubh1LPAM_cCrfP8rn2vdkzk_YAAAAESVgvbp8sIyq4PbPijD4hbEAIIkp0aT0wpEfw2nqkyWXeDjEyPvXH35fuBOljOaoNECcOT87WEgh016VopYsknR9_Dh_4RMX3_dQ41XRwxfjOI6YW0M79cDnW6RynbKHw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Does not bring up any cities using either zip code or name!!
+
+USELESS!! PLEASE FIX!
+<br>
+<br> <table id="review 4" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse4" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=lYzV1bPlpwHJkrLks1YZNZ-ns5vdkzk_YAAAAKmxl-h-SBY4m9r8OaURH5vEvE8fKkiJcFu9EG-2Q8XzXeDjEyPvXH35fuBOljOaoNECcOT87WEgh016VopYsknR9_Dh_4RMX3_dQ41XRwxf_rChQJNTYQ33fVdPsR4G_A&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+doesn&#39;t show actual time, what&#39;s the meaning of a world clock!?! Useless!
+<br>
+<br> <table id="review 5" cellpadding="0" cellspacing="0"><tr>
+<td><b>Ingrid</b>
+&nbsp;</td>
+<td><div id="abuse5" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=RjTmyFJGlN4haY79a1IJzc4fGp7dkzk_YAAAAFn_SY6VxzqAHus-iV1unpYoQ_8Gnjwu1mOfVXnUXSAzXeDjEyPvXH35fuBOljOaoNECcOT87WEgh016VopYsknR9_Dh_4RMX3_dQ41XRwxfBdEWEE1a_1oONzrzbevONg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+B&aring;da klockan och v&auml;derkupan visar natt p&aring; Nya Zeeland, helt felaktigt, samtidig som i Sverige. Kan ni &aring;tg&auml;rda detta? Ingrid Fredriksson
+<br>
+<br> <table id="review 6" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse6" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=cUMkRfM_sYHiXnhz_MG9F8JPFkfdkzk_YAAAADByBjHmSTQl5Er2xPnD0hRADWzaVqzuK_aQ2M4trm31XeDjEyPvXH35fuBOljOaoNECcOT87WEgh016VopYsknR9_Dh_4RMX3_dQ41XRwxf5HXtwlrt7e5kqsuOUG-IGw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+
+<br>
+<br> <table id="review 7" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse7" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=NpsJHuPObBH1c_b2nMXjDHiwjO7dkzk_YAAAAJh402dLYBjdVwP8PYjBFt5Vn1URnJ48CSlhEZk6okqVXeDjEyPvXH35fuBOljOaoNECcOT87WEgh016VopYsknR9_Dh_4RMX3_dQ41XRwxfF-gLXfBFoXbOWEVksUHe-w&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+esta tudo otimo os gadgets do Google, bem como o Destkop
+<br>
+<br> <table id="review 8" cellpadding="0" cellspacing="0"><tr>
+<td><b>latha</b>
+&nbsp;</td>
+<td><div id="abuse8" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=0ElC1SScreAsdFWr11w2u5a4g7Ddkzk_YAAAAOohhwyh2Fe4COmrUNkiAbVtHFIHHeJrblT-xdMdhnvSXeDjEyPvXH35fuBOljOaoNECcOT87WEgh016VopYsknR9_Dh_4RMX3_dQ41XRwxf74iVMIGTuFsBez-_bTI_Lg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+
+<br>
+<br> <table id="review 9" cellpadding="0" cellspacing="0"><tr>
+<td><b>Frank</b>
+&nbsp;</td>
+<td><div id="abuse9" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=e-A44Uui2zM6bz0NMpw52sVbfh3dkzk_YAAAAFn_SY6VxzqAHus-iV1unpY-x489unwFlyXYcNBMP6TmXeDjEyPvXH35fuBOljOaoNECcOT87WEgh016VopYsknR9_Dh_4RMX3_dQ41XRwxfWvt2KpcEHHPze93eWIdL1g&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+My name is Frank.  I agree with most of the other reviews.  I hoped it would give the time of the area I put into it. It doesn&#39;t. It also gets smaller each time I click onto it. Now it is 1/4 in dia. It was pretty, but useless for anything but keeping the time.  It doesn&#39;t do any of the items it claims.  I am removing it from my screen permanently.
+<br>
+<br> <table id="review 10" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Daniel Noveryan</b>
+&nbsp;</td>
+<td><div id="abuse10" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=QoWee3IL8IRTHCCRIuQ0B-WEp17dkzk_YAAAANajb4KtUE4sd3cNPx5_w87iOUwAcqyTdIzKo6B1nebvXeDjEyPvXH35fuBOljOaoNECcOT87WEgh016VopYsknR9_Dh_4RMX3_dQ41XRwxf7rFSOQcIJxSicYd_wpCfzw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+how come there is no big cities in south-east asia ?
+the creator should put MORE cities into this gadget.
+<br>
+<br> <table id="review 11" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse11" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=wQU6TCr6WV9vnqryCNEotlh9VCPdkzk_YAAAANikjPRBRdP3Ln2R1TjG54b-ROEeKDOa8yjFuDzEWwSdXeDjEyPvXH35fuBOljOaoNECcOT87WEgh016VopYsknR9_Dh_4RMX3_dQ41XRwxfGxOIY-_jtjFoVwk9g8Ygig&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+http://kratosellas.blogspot.com   online tv,videos,gossip,news,photo,sport    http://kratosellas.blogspot.com   
+<br>
+<br> <table id="review 12" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse12" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=f6NtX-QYl7-qrWvmtA_UwE6Aj0Ddkzk_YAAAAG5q8TcNm0rPrbcTIGEuiRskviJ78sbSUOS7m_SMMeq7XeDjEyPvXH35fuBOljOaoNECcOT87WEgh016VopYsknR9_Dh_4RMX3_dQ41XRwxfZVMhB4t-pAzS31uKd_oJXw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#1054;&#1095;&#1077;&#1085;&#1100; &#1089;&#1090;&#1088;&#1072;&#1085;&#1085;&#1099;&#1077; &quot;&#1084;&#1080;&#1088;&#1086;&#1074;&#1099;&#1077; &#1095;&#1072;&#1089;&#1099;&quot;. &#1086;&#1085;&#1080; &#1087;&#1086;&#1082;&#1072;&#1079;&#1099;&#1074;&#1072;&#1102;&#1090; &#1090;&#1086;&#1083;&#1100;&#1082;&#1086; &#1086;&#1076;&#1085;&#1086; &#1074;&#1088;&#1077;&#1084;&#1103;, &#1082;&#1072;&#1082; &#1085;&#1072; &#1074;&#1072;&#1096;&#1077;&#1084; &#1082;&#1086;&#1084;&#1087;&#1100;&#1102;&#1090;&#1077;&#1088;&#1077;. &#1056;&#1077;&#1079;&#1091;&#1083;&#1100;&#1090;&#1072;&#1090; &#1088;&#1072;&#1073;&#1086;&#1090;&#1099; Google &#1086;&#1090;&#1074;&#1088;&#1072;&#1090;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1099;&#1081;.
+<br>
+<br> <table id="review 13" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse13" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=eqaAubwuv8eiBruZjLE5TazLMAXdkzk_XwAAAMwNImUkflQRp4N3h-Gom5-KTekEL9EKqpGGY-x_3IBciMtN0wThn1c0DIqvY5VM94lb3AQz9T4GLxB37leXJXMaPJImQ9AfDpRZLqdidWsSe9WyhMYZ-UZimud_wWwjbw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+It would be nice if you could zoom in on the city some more
+<br>
+<br> <table id="review 14" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse14" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=QwCNFFLaRDKCuJhFQUTMqeANqAbdkzk_XwAAALl9iToq3roPqThn9s7ih09BQN3ENT8DJ6k7xmxfePUjiMtN0wThn1c0DIqvY5VM94lb3AQz9T4GLxB37leXJXMaPJImQ9AfDpRZLqdidWsS16H2drEU6tBMGkgv7zjgrw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+PLZ someone give anothere site because i cant download this gadget from iran 
+
+<br>
+<br> <table id="review 15" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse15" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=TrB-Kb7UKQxACoumG_7u8Ep1Fc7dkzk_YAAAAFn_SY6VxzqAHus-iV1unpZSkgAqs4FEDthFX_Vbp1H6XeDjEyPvXH35fuBOljOaoNECcOT87WEgh016VopYsknR9_Dh_4RMX3_dQ41XRwxfA36nsdYOj5ClatoGAnppRA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+it does not show the correct time at the city where I want to keep track off. 
+<br>
+<br> <table id="review 16" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>redfisher</b>
+&nbsp;</td>
+<td><div id="abuse16" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=bCc_V3NTIOzwqWz_swfpeuSvns_dkzk_YAAAALp9HUZoOi-qjdjNBEm2jv-RlmJPUQpI7JUHl94U9OFzXeDjEyPvXH35fuBOljOaoNECcOT87WEgh016VopYsknR9_Dh_4RMX3_dQ41XRwxfK1MIktf7z55z5-CSiRgyXg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Got this gadget to keep track of sunrise and sunset times, however; the times are displaying as HH:MM:SS and I can only see MM:SS...totally useless.
+<br>
+<br> <table id="review 17" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>&#29577;&#34085;</b>
+&nbsp;</td>
+<td><div id="abuse17" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=muTQQ9AxMPouV9K354D9zCCeEdLdkzk_YAAAAFSVCDgzLrMih2pjbAsJVJ1S1VmY3Xr_XRv7TYjY3UMoXeDjEyPvXH35fuBOljOaoNECcOT87WEgh016VopYsknR9_Dh_4RMX3_dQ41XRwxftTE5n1ZTg_G0SxWbpUxJWw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+cannot save changes
+<br>
+<br> <table id="review 18" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>&#1605;&#1581;&#1605;&#1583;</b>
+&nbsp;</td>
+<td><div id="abuse18" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=TOZUqXiMdaRE2--c-NDbhFPNylndkzk_YAAAACnSFIIFldgmpJDeIw5gjyogI0U84475z_WzR1Q2wJd3XeDjEyPvXH35fuBOljOaoNECcOT87WEgh016VopYsknR9_Dh_4RMX3_dQ41XRwxfIHgpqtrBPKVlKuetTBFJrg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+It is a good gadget but for a single domestic time clock only .. you can&#39;t use it for many different timezones aas it has no option to adjust the time neither manually nor automatically .. it just picks your computer pre-adjusted time as default and no other.
+<br>
+<br> <table id="review 19" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse19" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=fMlBokZBPsnWX50hrEJ7nQIe1vrdkzk_YAAAAIBdwH5vsurIJVJLt11S1ZwcsG3aiBTjs3zAwd61w-M2XeDjEyPvXH35fuBOljOaoNECcOT87WEgh016VopYsknR9_Dh_4RMX3_dQ41XRwxfhH-QqTwLIWeBnns2_qHuGg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+This is not a world clock. I waisted my time.
+<br>
+<br> <table id="review 20" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse20" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=ZnryI1k65qQ5zBwZBb5yo7CCYCndkzk_XwAAAOAyuFNT2P6KAo0ccYSJq1EcTrlvQUnUMZ9QV2M07BkO8jeJZdD_si77Wz43recpbpvHOV6hGTPe7b9I12C5d6DidEdopQ3r1M_Pbg6U5nsTi2S0fvYXZTfjEFNeF4gmLA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+The options window is so large I can&#39;t see or click on the OK at the bottom, when using my netbook.  Size is fine on my PC.
+<br>
+<br>
+<div align="right">
+
+<a href="http://desktop.google.com/plugins/i/daynightclock.html?start=20">Next &raquo;</a></div></div>
+<form action="/submitcomment" method="POST" name="commentForm" id="commentForm"><div id="writeComment" style="display:none"><table><tr><td valign="top">Rate gadget:</td>
+<td><table cellspacing="0" cellpadding="0"><tr><td><img alt="" src="/images/rateStarsLeft.gif"></td>
+<td><img alt="" id="star1" src="/images/rateStarOff.gif" onclick="setStars(1)" onmouseover="showStars(1)" onmouseout="showStars()"></td>
+<td><img alt="" id="star2" src="/images/rateStarOff.gif" onclick="setStars(2)" onmouseover="showStars(2)" onmouseout="showStars()"></td>
+<td><img alt="" id="star3" src="/images/rateStarOff.gif" onclick="setStars(3)" onmouseover="showStars(3)" onmouseout="showStars()"></td>
+<td><img alt="" id="star4" src="/images/rateStarOff.gif" onclick="setStars(4)" onmouseover="showStars(4)" onmouseout="showStars()"></td>
+<td><img alt="" id="star5" src="/images/rateStarOff.gif" onclick="setStars(5)" onmouseover="showStars(5)" onmouseout="showStars()"></td>
+<td><img alt="" src="/images/rateStarsRight.gif"></td></tr></table></td></tr>
+<tr><td valign="top">Your name:</td>
+<td><b></b>
+&nbsp;
+<input type="checkbox" name="anonymous" value="true" id="anonymous">
+Anonymous</td></tr>
+<tr><td valign="top">Comments:</td>
+<td><textarea name="reviewText" rows="4" cols="25" id="reviewText" style="border: 1px solid #bbcced"></textarea></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="rating" value="0" id="rating" style="display:none;">
+<input type="hidden" name="pluginId" value="daynightclock" id="pluginId">
+<input type="submit" value="Post Comment">
+<input type="reset" value="Discard" onclick="showComments()"></td></tr>
+<tr style="height:20px;"></tr></table></div></form>
+<div id="abuseLinkDiv"></div></div></td></tr></table></td>
+<td id="recommendations"><b>You might also like...</b>
+<hr noshade size="1">
+<table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/daynightworldclk.html?hl=en"><img alt="Day Night World Clock" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/daynightworldclk_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/daynightworldclk.html?hl=en">Day Night World Clock</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=daynightworldclk">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/auctionwatchsellers.html?hl=en"><img alt="eBay Sellers Watch" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/auctionwatchsellers_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/auctionwatchsellers.html?hl=en">eBay Sellers Watch</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=auctionwatchsellers">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/britishmuseumgadget1.html?hl=en"><img alt="British Museum object of the day" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/britishmuseumgadget1_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/britishmuseumgadget1.html?hl=en">British Museum object of the day</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=britishmuseumgadget1">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/bastiennedigitalcloc.html?hl=en"><img alt="Bastienne Digital Clock" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/bastiennedigitalcloc_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/bastiennedigitalcloc.html?hl=en">Bastienne Digital Clock</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=bastiennedigitalcloc">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/colorclock.html?hl=en"><img alt="Color Clock" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/colorclock_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/colorclock.html?hl=en">Color Clock</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=colorclock">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/timswebcam.html?hl=en"><img alt="Tim&#39;s Webcam Viewer" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/timswebcam_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/timswebcam.html?hl=en">Tim&#39;s Webcam Viewer</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=timswebcam">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table>
+<br>
+<br></td></tr>
+<tr><td colspan="5" align="center" id="footer">&copy;  2010  Google
+-
+<a href="/privacypolicy.html">Privacy Policy</a>
+-
+<a href="http://www.google.com/accounts/TOS?hl=en">Terms of Service</a>
+-
+<a href="/copyrights.html">Copyright Notices</a></td></tr></table></body></html>

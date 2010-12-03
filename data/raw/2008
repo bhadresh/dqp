@@ -1,0 +1,1091 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Digg
+            - 501 Results For site:icanhasinternets.com
+    </title>
+    
+        <meta name="keywords" content="Digg, pictures, breaking news, entertainment, politics, technology, headline news, celebrity news, offbeat, world business, sports, funny videos">
+        <meta name="description" content="The best news, videos and pictures on the web as voted on by the Digg community. Breaking news on Technology, Politics, Entertainment, and more!">
+    
+    
+        
+        <link rel="apple-touch-icon" href="http://cdn1.diggstatic.com/img/iphone/icon.63e34426.png"/>
+    
+        <link rel="shortcut icon" href="http://cdn1.diggstatic.com/img/favicon.a015f25c.ico">
+    
+        <link rel="stylesheet" type="text/css" href="http://cdn1.diggstatic.com/css/library/global.280a6733.css" media="all">
+        <!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://cdn1.diggstatic.com/css/support/ie_7.9b9d4168.css" media="all"><![endif]-->
+        <!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://cdn4.diggstatic.com/css/support/ie_8.88a26ac5.css" media="all"><![endif]-->
+        
+    
+    <link rel="stylesheet" type="text/css" href="http://cdn2.diggstatic.com/css/App_Search/search.930c4ff2.css" media="all">
+
+    <script type='text/javascript'>
+var DUI=function(){function d(){for(e=1;b.length;)b.shift()();b=null}var e,b=[];if(window.attachEvent)attachEvent("onload",d);else window.addEventListener&&addEventListener("load",d,true);return{mergeIn:function(a){for(propName in a)this[propName]=a[propName]},onPageLoad:function(a){e?a():b.push(a)},loadScript:function(a){var c=document.createElement("SCRIPT"),f=document.getElementsByTagName("SCRIPT")[0];c.type="text/javascript";c.async=true;c.src=a;f.parentNode.insertBefore(c,f)}}}();
+DUI.mergeIn({"digg_security_token":"1291248790_22f53a46fea310bae8ed67be09f92c6251aeab884e8a9975b813fa077f4add2f","digg_loggedin_state":0,"digg_location_id":6,"digg_language":"en_US","digg_trap_js_errors":0,"poll_digg_counters":0,"fb_app_id":"22108119377"})
+</script>
+
+    
+    
+</head>
+<body class="fixed ">
+<div id="fb-root"></div>
+<script src="http://cdn1.diggstatic.com/js/common/fb_loader.4050a241.js" type="text/javascript"></script><form class="hidden">
+    <input type="text" name="ident" value="" id="ident-saved">
+    <input type="password" name="password" value="" id="password-saved">
+</form><div id="modal-wrapper"></div><div id="message-dock">
+    <div id="message-sleeve" class="group">
+        <p><span class="sprite message-icon"></span><span id="message-text"></span><a class="dismiss"></a></p>
+    </div>
+</div><div class="tooltip-container" id="digg-tooltip"></div><div class="header-wrapper"><div class="header group">
+<a href="/" class="sprite digg-logo" id="header-logo">Digg</a>
+    <ul class="main-navigation tabbed-navigation group">
+        <li>
+            <a href="/" id="header-mynews"><span class="elbow-left"></span><span class="elbow-right"></span>My News</a>
+        </li>
+        <li>
+            <a href="/news" id="header-topnews"><span class="elbow-left"></span><span class="elbow-right"></span>Top News</a>
+        </li>
+        <li>
+            <a href="/upcoming" id="header-upcoming"><span class="elbow-left"></span><span class="elbow-right"></span>Upcoming</a>
+        </li>
+    </ul>
+<div class="float-right group">    <ul class="loggedout-navigation group">
+        <li><a href="/register" id="modal-create-account" class="auth-register">Join Digg!</a></li>
+        <li><a href="/login" id="modal-login" class="auth-login">Login</a></li>
+    </ul>
+<form action="/search" method="get" class="header-search" id="header-search-form">
+    <input type="text" name="q" id="q" autocomplete="off" placeholder="Search Users or Stories">
+    <input type="submit" name="submit" id="search-button" value="">
+</form>
+</div></div></div>
+<div class="page-wrapper group "><div class="column-container group">
+    <div class="pre-content outer">
+        <div class="attached-menu group" id="search-menu">
+    <div class="column narrow">
+        <dl>
+            <dt>501</dt>
+            <dd>Story Results</dd>
+        </dl>
+    </div>
+    <div class="column">
+        <ul class="pillboxes group">
+            <li><a href="/search?q=site:icanhasinternets.com" class="active" id="filter-bestmatch">Best Match</a></li>
+            <li><a href="/search?q=site:icanhasinternets.com&amp;sort=digg" id="filter-mostdugg">Most Dugg</a></li>
+            <li><a href="/search?q=site:icanhasinternets.com&amp;sort=newest" id="filter-mostrecent">Most Recent</a></li>
+        </ul>
+    </div>
+    <div class="column wide float-right">
+        <dl>
+            <dt>0</dt>
+            <dd>Profile Results</dd>
+        </dl>
+    </div>
+</div>
+    </div>
+<div class="columns group">
+    <div class="column narrow topbar-spacer group" id="left-column">
+                    <div class="search-facet group">
+    <h4>Age</h4>
+    <ul class="facet-list">
+                                                    <li class="group">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance" class="active" id="facet-all-dates">All Dates</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;age=last_day" id="facet-last-day">Last Day</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;age=last_week" id="facet-last-week">Last Week</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;age=last_month" id="facet-last-month">Last Month</a>
+                                    </li>
+                                    </ul>
+</div>
+            <div class="search-facet group">
+    <h4>Digg Count</h4>
+    <ul class="facet-list">
+                                                    <li class="group">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance" class="active" id="facet-all-diggs">All Diggs</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;digg_count=50" id="facet-50-diggs">50+</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;digg_count=100" id="facet-100-diggs">100+</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;digg_count=500" id="facet-500-diggs">500+</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;digg_count=1000" id="facet-1000-diggs">1000+</a>
+                                    </li>
+                                                                        <li><a class="facet-more"><span class="sprite"></span>more</a></li>
+                        </ul>
+</div>
+            <div class="search-facet group">
+    <h4>Media</h4>
+    <ul class="facet-list">
+                                                    <li class="group">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance" class="active" id="facet-all-media-types">All Media Types</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;media=news" id="facet-news">News</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;media=images" id="facet-images">Images</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;media=videos" id="facet-videos">Videos</a>
+                                    </li>
+                                    </ul>
+</div>
+            <div class="search-facet group">
+    <h4>Topics</h4>
+    <ul class="facet-list">
+                                                    <li class="group">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance" class="active" id="facet-all-topics">All Topics</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;topic=offbeat" id="facet-offbeat">Offbeat</a>
+                                    </li>
+                                                                            <li class="group">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;topic=lifestyle" id="facet-lifestyle">Lifestyle</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;topic=entertainment" id="facet-entertainment">Entertainment</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;topic=gaming" id="facet-gaming">Gaming</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;topic=business" id="facet-business">Business</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;topic=sports" id="facet-sports">Sports</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;topic=technology" id="facet-technology">Technology</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;topic=science" id="facet-science">Science</a>
+                                    </li>
+                                                                            <li class="group hidden">
+                                            <a href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;topic=politics" id="facet-politics">Politics</a>
+                                    </li>
+                                                                        <li><a class="facet-more"><span class="sprite"></span>more</a></li>
+                        </ul>
+</div>
+            </div>
+
+    <div class="column group" id="main-column">
+                    <p class="paginglabel" id="paginglabel">Pagination</p>
+                            <div id="story-list-container" class="list-container  no-ajax">
+        <div class="story-list inner-container topbar-spacer" id="story-items">
+                <div class="stories" data-digg-hashstate="">
+
+            
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100824130745_23413480 no-media first-item group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100824130745_23413480" data-digg-raw-diggs="1449"><a href="/news/entertainment/Driver_s_Test_PIC" class="digg-count-wrapper"><span class="digg-count"><span>1,449</span></span></a><a class="digg-it diggable group" href="/news/entertainment/Driver_s_Test_PIC"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/Driver_s_Test_PIC" target="_blank">Driver&#039;s Test (PIC)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:icanhasinternets.com" class="story-item-source">icanhasinternets.com</a>                            <a href="/news/entertainment/Driver_s_Test_PIC" class="story-item-teaser" rel="nofollow">&mdash; I&#039;m not saying I agree with this...but...
+                                <span class="timestamp">Aug 24, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/melrienne" class="hcard-trigger" data-digg-username="melrienne">melrienne</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/Driver_s_Test_PIC" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">236</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100816132518_23284424 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100816132518_23284424" data-digg-raw-diggs="3593"><a href="/news/entertainment/A_Big_Fat_Thanks_To_Record_Execs_PIC" class="digg-count-wrapper"><span class="digg-count"><span>3,593</span></span></a><a class="digg-it diggable group" href="/news/entertainment/A_Big_Fat_Thanks_To_Record_Execs_PIC"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/A_Big_Fat_Thanks_To_Record_Execs_PIC" target="_blank">A Big Fat Thanks To Record Execs (PIC)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:icanhasinternets.com" class="story-item-source">icanhasinternets.com</a>                            <a href="/news/entertainment/A_Big_Fat_Thanks_To_Record_Execs_PIC" class="story-item-teaser" rel="nofollow">&mdash; In their recent edition, Rolling Stone Magazine has issued a thank you letter to the record label executives. Hopefully they&#039;ll read it and ge...
+                                <span class="timestamp">Aug 16, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/mms54" class="hcard-trigger" data-digg-username="mms54">mms54</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/A_Big_Fat_Thanks_To_Record_Execs_PIC" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">378</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100808192000_23156998 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100808192000_23156998" data-digg-raw-diggs="1922"><a href="/news/offbeat/This_Dog_Just_Watched_Inception_PIC" class="digg-count-wrapper"><span class="digg-count"><span>1,922</span></span></a><a class="digg-it diggable group" href="/news/offbeat/This_Dog_Just_Watched_Inception_PIC"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/This_Dog_Just_Watched_Inception_PIC" target="_blank">This Dog Just Watched Inception (PIC)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:icanhasinternets.com" class="story-item-source">icanhasinternets.com</a>                            <a href="/news/offbeat/This_Dog_Just_Watched_Inception_PIC" class="story-item-teaser" rel="nofollow">&mdash; This is pretty much on par with how I looked for the 24 hours after I saw the movie too..until I could go back and see it again.
+                                <span class="timestamp">Aug 8, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/xraymaster" class="hcard-trigger" data-digg-username="xraymaster">xraymaster</a></li>
+                                                                <li class="story-item-comments"><a href="/news/offbeat/This_Dog_Just_Watched_Inception_PIC" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">194</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100807134010_23142566 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100807134010_23142566" data-digg-raw-diggs="1706"><a href="/news/lifestyle/Seat_Savers_PICS" class="digg-count-wrapper"><span class="digg-count"><span>1,706</span></span></a><a class="digg-it diggable group" href="/news/lifestyle/Seat_Savers_PICS"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/Seat_Savers_PICS" target="_blank">Seat Savers (PICS)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:icanhasinternets.com" class="story-item-source">icanhasinternets.com</a>                            <a href="/news/lifestyle/Seat_Savers_PICS" class="story-item-teaser" rel="nofollow">&mdash; Leave one of these guys lying on your seat and it&#039;ll be good for hours.
+                                <span class="timestamp">Aug 7, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/xraymaster" class="hcard-trigger" data-digg-username="xraymaster">xraymaster</a></li>
+                                                                <li class="story-item-comments"><a href="/news/lifestyle/Seat_Savers_PICS" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">85</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100801194441_23031639 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100801194441_23031639" data-digg-raw-diggs="1096"><a href="/news/offbeat/Peace_PIC" class="digg-count-wrapper"><span class="digg-count"><span>1,096</span></span></a><a class="digg-it diggable group" href="/news/offbeat/Peace_PIC"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/Peace_PIC" target="_blank">Peace (PIC) </a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:icanhasinternets.com" class="story-item-source">icanhasinternets.com</a>                            <a href="/news/offbeat/Peace_PIC" class="story-item-teaser" rel="nofollow">&mdash; I&#039;m sure this boy means no harm by this, bless his heart.  
+                                <span class="timestamp">Aug 1, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/mrdextergenius" class="hcard-trigger" data-digg-username="mrdextergenius">mrdextergenius</a></li>
+                                                                <li class="story-item-comments"><a href="/news/offbeat/Peace_PIC" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">118</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100801130728_23027126 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100801130728_23027126" data-digg-raw-diggs="1623"><a href="/news/lifestyle/Trifecta_PIC" class="digg-count-wrapper"><span class="digg-count"><span>1,623</span></span></a><a class="digg-it diggable group" href="/news/lifestyle/Trifecta_PIC"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/Trifecta_PIC" target="_blank">Trifecta (PIC)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:icanhasinternets.com" class="story-item-source">icanhasinternets.com</a>                            <a href="/news/lifestyle/Trifecta_PIC" class="story-item-teaser" rel="nofollow">&mdash; The ultimate triple threat in child&#039;s potty humor, all set in stone.
+                                <span class="timestamp">Aug 1, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/alderoun" class="hcard-trigger" data-digg-username="alderoun">alderoun</a></li>
+                                                                <li class="story-item-comments"><a href="/news/lifestyle/Trifecta_PIC" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">119</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100728133819_22943846 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100728133819_22943846" data-digg-raw-diggs="1292"><a href="/news/story/Conception_PIC" class="digg-count-wrapper"><span class="digg-count"><span>1,292</span></span></a><a class="digg-it diggable group" href="/news/story/Conception_PIC"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/Conception_PIC" target="_blank">Conception (PIC)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:icanhasinternets.com" class="story-item-source">icanhasinternets.com</a>                            <a href="/news/story/Conception_PIC" class="story-item-teaser" rel="nofollow">&mdash; From the director of The Dark Knight...
+                                <span class="timestamp">Jul 28, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/curbowb81" class="hcard-trigger" data-digg-username="curbowb81">curbowb81</a></li>
+                                                                <li class="story-item-comments"><a href="/news/story/Conception_PIC" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">109</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100725132427_22864258 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100725132427_22864258" data-digg-raw-diggs="2538"><a href="/news/offbeat/Yes_yes_yes_no_GIF" class="digg-count-wrapper"><span class="digg-count"><span>2,538</span></span></a><a class="digg-it diggable group" href="/news/offbeat/Yes_yes_yes_no_GIF"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/Yes_yes_yes_no_GIF" target="_blank">Yes, yes, yes....no!!! [GIF]</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:icanhasinternets.com" class="story-item-source">icanhasinternets.com</a>                            <a href="/news/offbeat/Yes_yes_yes_no_GIF" class="story-item-teaser" rel="nofollow">&mdash; Oh this poor little fellow...
+                                <span class="timestamp">Jul 25, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/aliangel748" class="hcard-trigger" data-digg-username="aliangel748">aliangel748</a></li>
+                                                                <li class="story-item-comments"><a href="/news/offbeat/Yes_yes_yes_no_GIF" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">160</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100710133937_22512159 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100710133937_22512159" data-digg-raw-diggs="1971"><a href="/news/offbeat/Nobody_Remains_Virgin_PIC" class="digg-count-wrapper"><span class="digg-count"><span>1,971</span></span></a><a class="digg-it diggable group" href="/news/offbeat/Nobody_Remains_Virgin_PIC"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/Nobody_Remains_Virgin_PIC" target="_blank">Nobody Remains Virgin (PIC)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:icanhasinternets.com" class="story-item-source">icanhasinternets.com</a>                            <a href="/news/offbeat/Nobody_Remains_Virgin_PIC" class="story-item-teaser" rel="nofollow">&mdash;  
+                                <span class="timestamp">Jul 10, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/eatingtheroad" class="hcard-trigger" data-digg-username="eatingtheroad">eatingtheroad</a></li>
+                                                                <li class="story-item-comments"><a href="/news/offbeat/Nobody_Remains_Virgin_PIC" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">112</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100707130803_22435829 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100707130803_22435829" data-digg-raw-diggs="1109"><a href="/news/lifestyle/You_re_Only_Fooling_Yourself_Lady_PIC" class="digg-count-wrapper"><span class="digg-count"><span>1,109</span></span></a><a class="digg-it diggable group" href="/news/lifestyle/You_re_Only_Fooling_Yourself_Lady_PIC"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/You_re_Only_Fooling_Yourself_Lady_PIC" target="_blank">You&#039;re Only Fooling Yourself Lady (PIC) </a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:icanhasinternets.com" class="story-item-source">icanhasinternets.com</a>                            <a href="/news/lifestyle/You_re_Only_Fooling_Yourself_Lady_PIC" class="story-item-teaser" rel="nofollow">&mdash; I guess if all the Alli pills, South Beach Diet, Weight Watchers or gastric bypass hasn&#039;t worked this is the best and quickest method to weigh...
+                                <span class="timestamp">Jul 7, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/fyque" class="hcard-trigger" data-digg-username="fyque">fyque</a></li>
+                                                                <li class="story-item-comments"><a href="/news/lifestyle/You_re_Only_Fooling_Yourself_Lady_PIC" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">161</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100703164242_22353005 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100703164242_22353005" data-digg-raw-diggs="2921"><a href="/news/offbeat/World_s_Greatest_Homeless_Sign_Ever_PIC" class="digg-count-wrapper"><span class="digg-count"><span>2,921</span></span></a><a class="digg-it diggable group" href="/news/offbeat/World_s_Greatest_Homeless_Sign_Ever_PIC"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/World_s_Greatest_Homeless_Sign_Ever_PIC" target="_blank">World&#039;s Greatest Homeless Sign Ever! [PIC]</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:icanhasinternets.com" class="story-item-source">icanhasinternets.com</a>                            <a href="/news/offbeat/World_s_Greatest_Homeless_Sign_Ever_PIC" class="story-item-teaser" rel="nofollow">&mdash; There is no question in my mind that this is the greatest and most creative homeless sign I&#039;ve ever seen.
+                                <span class="timestamp">Jul 3, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/nationdiggie" class="hcard-trigger" data-digg-username="nationdiggie">nationdiggie</a></li>
+                                                                <li class="story-item-comments"><a href="/news/offbeat/World_s_Greatest_Homeless_Sign_Ever_PIC" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">170</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100626135011_22200558 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100626135011_22200558" data-digg-raw-diggs="3053"><a href="/news/entertainment/Classic_Pop_Icons_Seen_In_A_Different_Light_PICS" class="digg-count-wrapper"><span class="digg-count"><span>3,053</span></span></a><a class="digg-it diggable group" href="/news/entertainment/Classic_Pop_Icons_Seen_In_A_Different_Light_PICS"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/Classic_Pop_Icons_Seen_In_A_Different_Light_PICS" target="_blank">Classic Pop Icons Seen In A Different Light (PICS)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:icanhasinternets.com" class="story-item-source">icanhasinternets.com</a>                            <a href="/news/entertainment/Classic_Pop_Icons_Seen_In_A_Different_Light_PICS" class="story-item-teaser" rel="nofollow">&mdash; From Pulp Fiction, Super Mario Bros., Flash, Pac Man, Link, ALF, Robocop and many many more...see your favorite characters like you&#039;ve never s...
+                                <span class="timestamp">Jun 26, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/jrod4040" class="hcard-trigger" data-digg-username="jrod4040">jrod4040</a></li>
+                                                                <li class="story-item-comments"><a href="/news/entertainment/Classic_Pop_Icons_Seen_In_A_Different_Light_PICS" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">100</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100519060602_21337420 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100519060602_21337420" data-digg-raw-diggs="3267"><a href="/news/story/Steve_Must_Be_A_Pretty_Darned_Cool_Guy_PIC" class="digg-count-wrapper"><span class="digg-count"><span>3,267</span></span></a><a class="digg-it diggable group" href="/news/story/Steve_Must_Be_A_Pretty_Darned_Cool_Guy_PIC"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/Steve_Must_Be_A_Pretty_Darned_Cool_Guy_PIC" target="_blank">Steve Must Be A Pretty Darned Cool Guy (PIC)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:icanhasinternets.com" class="story-item-source">icanhasinternets.com</a>                            <a href="/news/story/Steve_Must_Be_A_Pretty_Darned_Cool_Guy_PIC" class="story-item-teaser" rel="nofollow">&mdash; 
+                                <span class="timestamp">May 19, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/confuciussay" class="hcard-trigger" data-digg-username="confuciussay">confuciussay</a></li>
+                                                                <li class="story-item-comments"><a href="/news/story/Steve_Must_Be_A_Pretty_Darned_Cool_Guy_PIC" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">377</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100328061945_20222541 no-media group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100328061945_20222541" data-digg-raw-diggs="2468"><a href="/news/story/Crack_Kills_PICS" class="digg-count-wrapper"><span class="digg-count"><span>2,468</span></span></a><a class="digg-it diggable group" href="/news/story/Crack_Kills_PICS"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/Crack_Kills_PICS" target="_blank">Crack Kills (PICS)</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:icanhasinternets.com" class="story-item-source">icanhasinternets.com</a>                            <a href="/news/story/Crack_Kills_PICS" class="story-item-teaser" rel="nofollow">&mdash; 
+                                <span class="timestamp">Mar 28, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/eatingtheroad" class="hcard-trigger" data-digg-username="eatingtheroad">eatingtheroad</a></li>
+                                                                <li class="story-item-comments"><a href="/news/story/Crack_Kills_PICS" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">247</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                    
+            </div>
+        </div>
+        </div>
+                                    
+
+                                                                                                                
+
+
+    
+
+    
+
+    <div class="story-item item-20100926130609_230ca35b-4774-4d6b-b6b0-0240e49bfe73  last-item group" >
+
+        
+        <div class="story-item-gutters group">
+            <div class="story-item-diggbtn">
+                <div class="digg-btn has-tooltip item-20100926130609_230ca35b-4774-4d6b-b6b0-0240e49bfe73" data-digg-raw-diggs="577"><a href="/news/lifestyle/women_s_english_vs_men_s_english_2" class="digg-count-wrapper"><span class="digg-count"><span>577</span></span></a><a class="digg-it diggable group" href="/news/lifestyle/women_s_english_vs_men_s_english_2"></a></div>
+            </div>
+
+            <div class="story-item-content group">
+                <div class="story-item-details">
+                    <h3 class="story-item-title">
+                                                    <a href="/story/r/women_s_english_vs_men_s_english_2" target="_blank">Women&#039;s English vs. Men&#039;s English</a>
+                                            </h3>
+                                            
+                        <p class="story-item-description">
+                            <a href="/search?q=site:icanhasinternets.com" class="story-item-source">icanhasinternets.com</a>                            <a href="/news/lifestyle/women_s_english_vs_men_s_english_2" class="story-item-teaser" rel="nofollow">&mdash; Here&#039;s a handy little list to help you decipher the nuances and differences between what women and men say...and what they mean.
+                                <span class="timestamp">Sep 26, 2010</span>                            </a>
+                        </p>
+                        
+                                    </div>
+
+                
+                <ul class="story-item-meta group">
+                                            <li class="story-item-submitter">via <a href="/sunsacredten" class="hcard-trigger" data-digg-username="sunsacredten">sunsacredten</a></li>
+                                                                <li class="story-item-comments"><a href="/news/lifestyle/women_s_english_vs_men_s_english_2" rel="nofollow"><span class="storylist-icon comments dib"></span><span class="storylist-item-comment-count">58</span> Comments</a></li>
+                                                                                                            <li class="story-item-save"><a class="action-save has-tooltip" title="Save"><span class="storylist-icon save dib"></span><span class="action-label">Save</span></a></li>
+                                                                                                                            <li class="story-item-bury"><a class="action-bury has-tooltip"><span class="storylist-icon bury dib"></span><span class="action-label">Bury</span></a></li>
+                                                                                        </ul>
+
+                <div class="inline-comment-container">
+                                    </div>
+
+                <div class="story-item-activity group hidden">
+            
+    
+                
+        </div>            </div>
+
+            <div class="story-item-media">
+                
+                                            <a href="/news/lifestyle/women_s_english_vs_men_s_english_2" class="story-item-thumb" rel="nofollow">
+                            <div class="thumb-edges"></div>
+                                                        <img src="http://cdn4.diggstatic.com/story/women_s_english_vs_men_s_english_2/t.png" alt="Women&#039;s English vs. Men&#039;s English">
+                        </a>
+                                    
+            </div>
+        </div>
+        </div>
+                        </div>
+        </div>
+    </div>
+
+<div id="inline-comment-container-home">
+    </div>            <ul class="pagination group btn-loader btn-loader-bottom no-prev story-list-container"data-digg-offsetparam="page"role="navigation"aria-labelledby="paginglabel"><li class="prev"><a class="btn btn-default btn-small" href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;ajax=off&amp;page=1" rel="prev" data-digg-ajaxqs='%7B%22q%22%3A%22site%3Aicanhasinternets.com%22%2C%22sort%22%3A%22relevance%22%2C%22page%22%3A1%7D'><span class="uitext">Prev</span></a></li><li class="page-num">Page <span class="pagination-current"></span></li><li class="next"><a class="btn btn-default btn-small" href="/search?q=site:icanhasinternets.com&amp;sort=relevance&amp;ajax=off&amp;page=2" rel="next" data-digg-ajaxqs='%7B%22q%22%3A%22site%3Aicanhasinternets.com%22%2C%22sort%22%3A%22relevance%22%2C%22page%22%3A2%7D'><span class="uitext">Next</span></a></li></ul>
+    <script type="text/javascript">
+    (function () {
+        var stories, hash;
+        stories = document.getElementById('story-list-container');
+        if (stories) {
+            hash = window.location.hash;
+            if ('' === hash) {
+                stories.className = stories.className.replace('hidden', '');
+            }
+        }
+    })();
+    </script>
+            </div>
+            <!-- search time: 0.0190441608429 recv_tstamp: 1291248790.74 item recv time: 0.0343019962311 -->
+        <!-- recv TS: 7500
+             send TS: 7500
+             query recv TS: 7500
+             query send TS: 7500
+             query time (SOLR): 9
+         -->
+    </div>
+    <div class="column wide" id="right-column">
+                    <div class="nothing-found">
+                <p class="title">Sorry.</p>
+                <p>No profile results were found for site:icanhasinternets.com</p>
+            </div>
+            </div>
+</div></div><div class="footer">
+    <ul class="group">
+        <li>&copy; Digg Inc. 2010</li>
+        <li><a href="http://about.digg.com">About Digg</a></li>
+        <li><a href="http://about.digg.com/ads">Advertise</a></li>
+        <li><a href="http://about.digg.com/partnership">Partners</a></li>
+        <li><a href="http://developers.digg.com">API &amp; Resources</a></li>
+        <li><a href="http://about.digg.com/blog">Blogs</a></li>
+        <li><a href="http://about.digg.com/contact">Contact Us</a></li>
+        <li><a href="http://jobs.digg.com">Jobs</a></li>
+        <li><a href="http://about.digg.com/faq">Help &amp; FAQ</a></li>
+        <li><a href="http://about.digg.com/terms-use">Terms of Service</a></li>
+        <li><a href="/topic">Topics</a></li>
+        <li class="last"><a href="http://about.digg.com/privacy">Privacy</a></li>
+            </ul>
+</div>
+<div id="feedback-bar" class="group">
+    <span title="10.2.128.119 Build: 173 - Wed Dec  1 12:31:14 PST 2010">Digg v4: 136.14ms</span>
+    <ul>
+        <li><a href="http://about.digg.com/contact">Give us feedback</a> |</li>
+        <li><a href="http://www.surveymonkey.com/s/ZNBQMYJ" id="feedback-bar-survey">Take the survey</a></li>
+    </ul>
+</div>
+<script src="http://cdn3.diggstatic.com/js/lib.c4aecf59.js" type="text/javascript"></script>    <script src="http://cdn1.diggstatic.com/js/App_Search/index.754d0683.js" type="text/javascript"></script>
+
+
+    <!-- Begin comScore Tag -->
+<script>
+document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+
+<script>
+COMSCORE.beacon({
+c1:2,
+c2:6299437,
+c3:"",
+c4:"",
+c5:"",
+c6:"",
+c15:""
+});
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6299437&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+    <!-- digg is done serving you. 2.01355321270u 137.03599911 6.6742x10-11m3kg-1s-2 6.6742x10-11m3kg-1s-2 -->
+<script type="text/javascript">var s_account = "diggcomv4";</script>
+<script src="http://cdn3.diggstatic.com/js/Omniture/omniture.6c48dd51.js" type="text/javascript"></script>
+
+<script type="text/javascript"><!--
+s.pageName = 'search:index';
+s.eVar23 = 'search:index';
+s.heir1 = 'search';
+s.heir2 = 'index';
+s.channel = 'search';
+s.eVar22 = 'search';
+s.prop5 = 'anonymous';
+s.eVar5 = 'anonymous';
+s.prop4 = 'anonymous';
+s.eVar4 = 'anonymous';
+s.prop1 = 'site:icanhasinternets.com';
+s.eVar1 = 'site:icanhasinternets.com';
+s.prop2 = '501';
+s.events = 'event2,event1';
+var s_code=s.t();
+if (s_code) document.write(s_code);
+//--></script></body>
+</html>

@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Finance - US jobs - Google</title>
+<link charset="utf-8" href="http://www.google.com/jobs/css/styles.css" media="all" rel="stylesheet">
+<script charset="utf-8">
+document.onload = setCookies();
+function setCookies() {
+  var cookieValue = getQuery('src');
+  if (cookieValue){
+    var today = new Date();
+    var expire = new Date();
+    expire.setTime(today.getTime() + 3600000 * 24 * 14);
+    document.cookie = 'JobsSrc' + '=' + escape(cookieValue) +
+    ';expires=' + expire.toGMTString() + ';path=/';
+  }
+}
+function getCookie(cookieName) {
+  if (document.cookie.length > 0) {
+    cookieStart = document.cookie.indexOf(cookieName + '=');
+    if (cookieStart != -1) {
+      cookieStart += cookieName.length + 1;
+      cookieEnd = document.cookie.indexOf(';', cookieStart);
+      if (cookieEnd == -1) cookieEnd = document.cookie.length;
+      return document.cookie.substring(cookieStart, cookieEnd);
+    }
+  } else return '';
+}
+function getQuery(queryName) {
+  var queryString = window.location.hash.substring(1);
+  if (queryString.length > 0) {
+    queryStart = queryString.indexOf(queryName + '=');
+    if (queryStart != -1) {
+      queryStart += queryName.length + 1;
+      queryEnd = queryString.indexOf('&', queryStart);
+      if (queryEnd == -1) queryEnd = queryString.length;
+      return queryString.substring(queryStart, queryEnd);
+    }
+  } else return '';
+}
+</script>
+<script>
+function searchQuery() {
+  var query = document.getElementById('q').value
+  if (query){
+    window.location.href = '/intl/en/jobs/search/index.html#q=' + encodeURI(query);
+  } else {
+  alert('To search jobs, please enter a keyword or phrase.');
+  }
+    }
+</script>
+</head>
+<body>
+<h1><a href="/" title="Google"><img alt="Google" id="logo" name="logo" src="http://www.google.com/images/logo_sm.gif"></a>US jobs</h1>
+<p id="x-breadcrumb"><a href="../index.html">Jobs</a> &gt; <strong>Finance</strong></p>
+<ul id="nav">
+<li><a href="/intl/en/jobs/index.html">Jobs</a></li>
+<li><a href="/intl/en/jobs/lifeatgoogle/index.html">Life at Google</a></li>
+<li><a href="/intl/en/jobs/locations/index.html">Office locations</a></li>
+<li><a href="/intl/en/jobs/joininggoogle/index.html">Joining Google</a></li>
+<li><a href="http://www.google.com/jobs/students">Student jobs</a></li>
+</ul>
+<form id="x-search" method="post" name="x-search" onsubmit="searchQuery(); return false"><label for="q">Search US openings</label> <input id="q" maxlength="80" name="q" size="15" type="text" value=""><input type="submit" value="Search"></form>
+<div id="aux">
+<div id="maincontent">
+<h2>Finance</h2>
+<p>Google Finance is an ideal place to work for those who prefer to stay on the right side of the balance sheet and enjoy watching cash flow in a positive direction. Here, seasoned professionals in accounting and finance focus on developing global processes, providing financial analysis, and managing financial operations so that Google remains a vibrant and healthy enterprise.</p>
+<h3>Focus area descriptions</h3>
+<p><em>Click a tab below to see a description of our Finance focus areas!</em></p>
+<div class="tabs">
+<ul class="tab">
+<li><a class="selected" href="#tab1" id="tab1tab" name="tab1tab" onclick="javascript:showTab('1');">Accounting &amp; controls</a></li>
+<li><a href="#tab2" id="tab2tab" name="tab2tab" onclick="javascript:showTab('2');">Finance operations</a></li>
+<li><a href="#tab3" id="tab3tab" name="tab3tab" onclick="javascript:showTab('3');">Financial planning &amp; analysis</a></li>
+<li><a href="#tab4" id="tab4tab" name="tab4tab" onclick="javascript:showTab('4');">Strategy &amp; development</a></li>
+<li><a href="#tab5" id="tab5tab" name="tab5tab" onclick="javascript:showTab('5');">Tax &amp; treasury</a></li>
+</ul>
+<div class="tab_content">
+<div id="tab1">
+<h4>Accounting &amp; controls</h4>
+<p>Consisting of experienced, motivated, creative, self-sufficient, and savvy high performers in the finance and accounting fields, our team handles the core accounting roles at Google. We have a preference for those who like to work and play hard and who are enthused about working on collaborative global teams while performing M&amp;A;, external reporting, and internal audit functions.</p>
+</div>
+<div id="tab2">
+<h4>Finance operations</h4>
+<p>With the end goal of providing the highest levels of service and efficiency at the lowest attainable cost, the FinOps team designs and executes Google&rsquo;s core finance transaction processes. These include order-to-cash, payroll, procure-to-pay, and travel.</p>
+</div>
+<div id="tab3">
+<h4>Financial planning &amp; analysis</h4>
+<p>In addition to assisting business leaders throughout the company with all finance-related matters, the Financial Planning &amp; Analysis (FP&amp;A) organization is also consistently looked upon to provide analytical perspectives to important strategic decisions. Our mandate is to design, implement, and manage the processes that support business needs. This includes developing financial forecasts and analyses, generating internal management reports, monitoring key performance indicators, and driving the scaling and automation of financial processes. We also provide decision support and conduct financial reviews of a wide range of business issues -- from deal analysis to data center rollouts.</p>
+</div>
+<div id="tab4">
+<h4>Strategy &amp; development</h4>
+<p>Google&rsquo;s Strategy &amp; Development team plans, implements, and deploys strategic initiatives dedicated to process and system improvements across all of Finance. Our responsibilities include leading cross-organization project management, improving communication among Finance teams, serving as a liaison between Finance and IT on infrastructure projects, and providing strategic staff development, training, and rotation programs.</p>
+</div>
+<div id="tab5">
+<h4>Tax &amp; treasury</h4>
+<p>Google&rsquo;s Tax &amp; Treasury teams consist of strong, creative performers with deep expertise in their respective fields. We contribute to our company&rsquo;s growing global success by dealing with challenging issues and concepts and then applying them to rapidly evolving business models. In Treasury, we provide funding, risk management, and mitigation support, as well as investment oversight. The Tax group is responsible for global tax planning and compliance, defending the company in tax audits, and ensuring that the company accurately reports its tax matters in public filings.</p>
+</div>
+</div>
+</div>
+</div>
+<div id="right">
+<div class="box">
+<h3>Interested?</h3>
+<p>We have positions available in the following offices:</p>
+<ul>
+<li><a href="../uslocations/mountain-view/finance/index.html">CA - Mountain View</a></li>
+<li><a href="../uslocations/new-york/finance/index.html">NY - New York</a></li>
+</ul>
+</div>
+</div>
+<div id="about">&copy;2010 Google - <a href="http://www.google.com/">Home</a> - <a href="http://www.google.com/intl/en/about.html">About Google</a> - <a href="http://www.google.com/intl/en/jobs/privacy/">Privacy Policy</a></div>
+</div>
+<script>
+  var numTabs=5;
+  function showTab(whichTab) {
+    if(whichTab>0&&whichTab<=numTabs) {
+      for(var i=1;i<=numTabs;i++) {
+        document.getElementById('tab'+i+'tab').className="";
+        document.getElementById('tab'+i).style.display="none";
+      }
+      document.getElementById('tab'+whichTab+'tab').className="selected";
+      document.getElementById('tab'+whichTab).style.display="block";
+    }
+  }
+  showTab('1');
+</script><script src="http://www.google.com/js/twisties.js">
+</script><script>
+  var twisties = new goog.ui.Twisties( {
+    enableFade: true,
+    classTwisty: 'twisty',
+    classCollapse: 'twistyExpand',
+    classExpand: 'twistyCollapse'
+  } );
+</script><script>
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script>
+  try {
+    var pageTracker = _gat._getTracker("UA-18025-1");
+    pageTracker._setAllowAnchor(true);
+    pageTracker._setCookiePath("/intl/en/jobs/");
+    pageTracker._trackPageview();
+  } catch(err) {}
+</script>
+</body>
+</html>

@@ -1,0 +1,611 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+<script type="text/javascript">serverResponseTimeDelta=window.external&&window.external.pageT?window.external.pageT:-1;pageStartTime=new Date().getTime();</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Fix an error on Google Maps - Maps Help</title>
+<meta name="description" content="
+Help us make Maps better
+Community edits allow you to modify the information you see on Google Maps, making it more accurate for everyone.
+Find out how you can:
+Report incorrect map data if you f" />
+<meta name="google-site-verification"
+content="l0nCskQHeO/C11y6qeq7ngDGZ0QVdN1hX7F4SGj3PHg=" />
+<link rel="canonical" href="http://maps.google.com/support/bin/answer.py?hl=en&answer=98014" />
+<link rel="icon" href="//www.google.com/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="http://maps.google.com/support/bin/resource/all.css?v=244_2" />
+<script type="text/javascript">
+var internal = 0;
+var hc_protocol = "http://";
+var hc_page_info = "answer=98014";
+var country = 'US';
+var countryGroup = 'Americas';
+var autoExpand = '';
+var global_error_general = "Sorry, we weren't able to submit your information. Please try again.";
+var hc_urchin = "UA-18500-14";
+var global_hc_bookmark = new Array("add","remove","toggle");
+global_hc_bookmark.add = new Array();
+global_hc_bookmark.remove = new Array();
+global_hc_bookmark.toggle = new Array();
+global_hc_bookmark["add"].url = "";
+global_hc_bookmark["add"].token = "";
+global_hc_bookmark["remove"].url = "";
+global_hc_bookmark["remove"].token = "";
+global_hc_bookmark["toggle"].url = "";
+global_hc_bookmark["toggle"].token = "";
+</script>
+<script
+src="//maps.google.com/support/bin/resource/js_variables.js?v=2&hl=en"
+type="text/javascript"></script>
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script
+src="//maps.google.com/support/bin/resource/search_util.js"
+type="text/javascript"></script>
+<script type="text/javascript">
+enableSearchSuggest("015370535719049289317:fwtvunla7fg");
+</script>
+<script
+src="//maps.google.com/support/bin/resource/js_minified.js?v=64"
+type="text/javascript"></script>
+<script
+src="//maps.google.com/support/bin/resource/tooltips_static.js?v=3"
+type="text/javascript"></script>
+<script src='//www.google-analytics.com/ga.js'
+type='text/javascript'></script>
+<script type="text/javascript">
+var analytics_async = 0;
+</script>
+<script
+src="//maps.google.com/support/bin/resource/urchin_util.js?v=7"
+type="text/javascript"></script>
+<script type="text/javascript">
+var cookiePathArray = [];
+</script>
+<script type="text/javascript">
+urchinTracker('\x2Fsupport\x2Fbin\x2Fanswer.py?hl=en\x26answer=98014');
+</script>
+</head>
+<body onload="
+setCookies_default('LocalSupportLocale',
+'en','formLoad'); makeRequest('/support/bin/stats?r='+serverResponseTimeDelta+'&l='+(new Date().getTime()-pageStartTime)); 
+"
+dir="ltr"
+class=" answer_page ltr lang_en show_modules show_leftnav other  other  modules_widescreen new-ui ">
+<a href="#content" class="skiplink">Skip to content</a>
+<div class="wrapper" id="baseDiv">
+<div class="one_google">
+<a href="https://www.google.com/accounts/Login?continue=http%3A%2F%2Fmaps.google.com%2Fsupport%2Fbin%2Fanswer.py%3Fhl%3Den%26answer%3D98014&/">Sign in</a>
+</div>
+<div id="hc_error"></div>
+<div class="header_wrapper">
+<table class="header">
+<tr><td class="logo">
+<a href="http://maps.google.com"
+onclick="track('Header', 'Logo')">
+<img src="//www.google.com/intl/en/images/logos/maps_logo.gif" alt="Google" height="40"  class="logo" />
+</a>
+</td><td class="header_right">
+<form name="search_form"
+id="search_form"
+title="Search Help"
+method="get" action="/support/bin/search.py"
+onsubmit="track('Search Help', document.getElementById('query').value);"
+class="">
+<input type="hidden" name="ctx" value="en:searchbox" />
+<input size="24"
+type="text" name="query"
+class="searchbox"
+autocomplete="off"
+title="Search"
+value=""
+id="query" />
+<input type="submit"
+value="Search Help" />
+</form>
+</td>
+</tr>
+</table>
+</div>
+<div class="header_bar">
+<h1>Maps Help</h1>
+<div class="clear"></div>
+</div>
+<table class="layout" border="0"><tr>
+<td class="left_column">
+<ul class="leftnav">
+<li class="">
+<a href="http://maps.google.com/support/"
+onclick='track("Left Nav", "Help topics");'>Help articles</a>
+</li>
+<li class="leftnav_topics ">
+<a href="/support/bin/topic.py?topic=15920"
+onclick='track("Left Nav", "topic=15920");'>Getting Started</a>
+</li>
+<li class="leftnav_topics ">
+<a href="/support/bin/topic.py?topic=28902"
+onclick='track("Left Nav", "topic=28902");'>Popular Features</a>
+</li>
+<li class="leftnav_topics ">
+<a href="/support/bin/topic.py?topic=23520"
+onclick='track("Left Nav", "topic=23520");'>Map Your World</a>
+</li>
+<li class="leftnav_topics ">
+<a href="/support/bin/topic.py?topic=29021"
+onclick='track("Left Nav", "topic=29021");'>Fix a Problem</a>
+</li>
+<li class="forum">
+<a href="http://www.google.com/support/forum/p/maps?hl=en&utm_source=HC&utm_medium=leftnav&utm_campaign=maps"
+onclick='track("Left Nav", "u2u");'>Help forum</a>
+</li>
+<li class="LeftNav_LBC first">
+<a href="http://maps.google.com/local/add?hl=en"  onclick="track('LeftNav', 'LBC');">Google Places</a>
+</li>
+<li class="LeftNav_LatLongBlog">
+<a href="http://google-latlong.blogspot.com/"  onclick="track('LeftNav', 'LatLongBlog');">Google Lat Long Blog</a>
+</li>
+<li class="LeftNav_WaterCoolerBlog">
+<a href="http://maps-forum-announcements.blogspot.com/"  onclick="track('LeftNav', 'WaterCoolerBlog');">Maps Support Blog</a>
+</li>
+<li class="LeftNav_Add">
+<a href="http://maps.google.com/help/maps/getmaps/"  onclick="track('LeftNav', 'Add');">Add a map to your site</a>
+</li>
+<li class="LeftNav_Partner">
+<a href="http://www.google.com/mapcontent"  onclick="track('LeftNav', 'Partner');">Submit Your Map Content</a>
+</li>
+<ul id="LeftNavZippyContent_Topic"
+style="display:none">
+</ul></li>
+</td>
+<td class="content new-ui">
+<div class="inner_content">
+<p class="breadcrumbs">
+<a href="http://maps.google.com">Maps</a>
+&rsaquo;
+<a href="http://maps.google.com/support/">Help articles</a>
+&rsaquo;
+<a href="/support/bin/topic.py?topic=29021">Fix a Problem</a>
+&rsaquo;
+<a href="/support/bin/topic.py?topic=10781">Troubleshooting</a>
+&rsaquo;
+<a href="/support/bin/topic.py?topic=14837">Problem Fixing</a>
+&rsaquo; Fix an error on Google Maps
+&nbsp;</p>
+<div id="hcError" style="display:none"></div>
+<a name="content"></a>
+<div id="page-content">
+<div id="zippy-dropdown-container"
+class="zippy-dropdown-container-hide"></div>
+<div class="answer_heading">
+<h2 class="answer-title">Fix an error on Google Maps</h2>
+<div class="answer-features">
+<a class="share-page"
+href="javascript:toggleLayer('share-links');
+track('Page Actions', 'Share');">Share</a>
+<div id="share-links" style="display:none">
+<img src="//www.google.com/help/hc/images/icon_close.gif"
+onclick="hideLayer('share-links')"
+class="icon-close" />
+<ul id="share-links">
+<li style="background-image:url(//www.google.com/help/hc/images/share_icon_googlemail.gif);">
+<a href="https://mail.google.com/mail/?ui=2&view=cm&fs=1&tf=1&su=Fix+an+error+on+Google+Maps&body=http%3A%2F%2Fmaps.google.com%2Fsupport%2Fbin%2Fanswer.py%3Fhl%3Den%26answer%3D98014%26ctx%3Dshare%0A%0AShared+with+Google+Share+Button"
+onclick="track('Page Actions',
+'Share - Gmail')"
+target="_blank">Gmail</a>
+</li>
+<li style="background-image:url(//www.google.com/images/icons/product/blogger-16.png);">
+<a href="http://www.blogger.com/blog_this.pyra?u=http%3A%2F%2Fmaps.google.com%2Fsupport%2Fbin%2Fanswer.py%3Fhl%3Den%26answer%3D98014%26ctx%3Dshare&n=Fix+an+error+on+Google+Maps"
+onclick="track('Page Actions',
+'Share - Blogger')"
+target="_blank">Blogger</a>
+</li>
+<li style="background-image:url(//www.google.com/help/hc/images/share_icon_buzz.gif);">
+<a href="http://www.google.com/buzz/post?url=http%3A%2F%2Fmaps.google.com%2Fsupport%2Fbin%2Fanswer.py%3Fhl%3Den%26answer%3D98014%26ctx%3Dshare"
+onclick="track('Page Actions',
+'Share - Buzz')"
+target="_blank">Buzz</a>
+</li>
+<li style="background-image:url(//www.google.com/images/icons/product/orkut-16.png);">
+<a href="http://promote.orkut.com/preview?nt=orkut.com&du=http%3A%2F%2Fmaps.google.com%2Fsupport%2Fbin%2Fanswer.py%3Fhl%3Den%26answer%3D98014%26ctx%3Dshare&tt=Fix+an+error+on+Google+Maps"
+onclick="track('Page Actions',
+'Share - Orkut')"
+target="_blank">Orkut</a>
+</li>
+<li style="background-image:url(//www.google.com/images/icons/product/reader-16.png);">
+<a href="http://www.google.com/reader/link?url=http%3A%2F%2Fmaps.google.com%2Fsupport%2Fbin%2Fanswer.py%3Fhl%3Den%26answer%3D98014%26ctx%3Dshare&title=Fix+an+error+on+Google+Maps"
+onclick="track('Page Actions',
+'Share - Reader')"
+target="_blank">Google Reader</a>
+</li>
+<li style="background-image:url(//www.google.com/help/hc/images/share_icon_bookmarks.gif);">
+<a href="https://www.google.com/bookmarks/mark?op=edit&bkmk=http%3A%2F%2Fmaps.google.com%2Fsupport%2Fbin%2Fanswer.py%3Fhl%3Den%26answer%3D98014%26ctx%3Dshare&title=Fix+an+error+on+Google+Maps"
+onclick="track('Page Actions',
+'Share - Bookmarks')"
+target="_blank">Bookmarks</a>
+</li>
+<li><a href="http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=174566"
+onclick="track('Page Actions',
+'Share - More for Chrome')"
+target="_blank">&raquo; More</a></li>
+</ul>
+</div>
+<a class="comment-on-page"
+id="sidewiki-open-ui-button"
+onclick="track('Page Actions', 'Comment')">Comment</a>
+<a class="print-page" href="javascript:window.print();"
+onclick="track('Page Actions', 'Print')">Print</a>
+</div>
+<div class="clear"></div>
+</div>
+<div class="article_content" id="article-content-div">
+<h3>Help us make Maps better</h3>
+<p>Community edits allow you to modify the information you see on Google Maps, making it more accurate for everyone.
+<p>Find out how you can:
+<p></p><a class="zippy"><strong>Report incorrect map data if you found an error regarding a street, address, driving directions, or search result.</strong></a>
+<div>
+<p>If you notice that the underlying map data is incorrect, you can report the error to the data provider. Our data providers are listed in the lower right-hand corner of the map. In some cases, you may have to zoom in to see the specific provider for an area.</p>
+How to report errors to specific data providers:
+<ul>
+<li>Google: Use the <a href="http://maps.google.com/support/bin/answer.py?hl=en&answer=162873">Report a Problem</a> link. This is currently available in Australia, Austria, Belgium, Canada, Denmark, Lichtenstein, Netherlands, New Zealand, Norway, South Africa, Switzerland, and the United States. In areas where <a href="http://www.google.com/mapmaker">Map Maker</a> is available, you can edit map data directly.
+<li>Tele Atlas: Report a map error using their <a href="http://mapinsight.teleatlas.com/">Map Insight</a> system.</li>
+</ul>
+Other providers will be added as tools become available for users to submit corrections. If you don't find your local data provider in the above list and <a href="http://www.google.com/mapmaker">Map Maker</a> isn't available, please locate the correct data provider on the lower right-hand corner of the map and contact them directly.
+</p>
+</div>
+<p></p><a class="zippy"><strong>Add a point of interest that you think your neighbors would want to find.</strong></a>
+<div>
+<p>If you are a business owner, you can add your business to <a href="http://www.google.com/local/add">Google Places</a>. You can also verify an existing listing and add additional details about your business.</p>
+<p>To let us know about a point of interest other than a business, use the <a href="http://maps.google.com/support/bin/answer.py?hl=en&answer=162873">Report a Problem</a> link and follow these instructions:</p>
+<ol>
+<li>Drag the marker to the position where the point of interest is located.</li>
+<li> Under &quot;Which element is wrong?&quot;, select &quot;A place or landmark.&quot;</li>
+<li>Under &quot;Which place?&quot;, select &quot;Place isn't listed.&quot;</li>
+<li>Fill out the details under &quot;Problem Description&quot; and click <strong>Report Problem</strong></li></ol></div>
+<p></p><a class="zippy"><strong>Move the marker for a location if it's in the wrong place.</strong></a>
+<div>
+<p>If you notice that a marker is positioned incorrectly, you can move it to the right spot on the map.
+<ol>
+<li>Optional: Switch to <a href="http://maps.google.com/support/bin/static.py?page=guide.cs&guide=21670&topic=21674&answer=144341">Satellite view</a>. This allows you to move the marker more accurately, as you can see both roads and satellite imagery.
+</li>
+<li>
+After you search for a place, click the <a href="http://maps.google.com/support/bin/static.py?page=guide.cs&guide=21670&topic=21671&answer=144335">marker</a> you would like to re-position.The <a href="http://maps.google.com/support/bin/static.py?page=guide.cs&guide=21670&topic=21671&answer=144335">info window</a> will appear. </li>
+<li>To make changes, click <strong>Edit</strong>.</li>
+<li>
+Click <strong>Move marker</strong> and drag the marker to the correct location. Use the <strong>X</strong> at the base of the marker to help you place it correctly. We recommend placing the marker at the entrance of the location, as this helps improve the accuracy of our <a href="http://maps.google.com/support/bin/static.py?page=guide.cs&guide=21670&topic=21673&answer=144339">driving directions</a>.
+</li>
+<li>
+Click <strong>Save</strong>.
+</li>
+</ol>
+<p>Notes:</p>
+<div class="alert">
+<ul>
+<li>
+If you move the marker more than 200 meters away from its original location, we'll need to review this change before it can appear in Google Maps.
+</li>
+<li>
+If you can't edit a business location, it may be because the business owner has already verified the business on <a href="http://www.google.com/local/add/lookup?hl=en-US&amp;gl=US" target="_blank">Google Places</a>. Verified listings can only be edited by the owner. If a listed business is yours, be sure to <a href="http://www.google.com/local/add/lookup?hl=en-US&amp;gl=US">claim your business</a>.
+</li>
+<li>If you do not see an &quot;Edit&quot; link in the info window for a location, you can use the <a href="http://www.google.com/url?q=http%3A%2F%2Fmaps.google.com%2Fsupport%2Fbin%2Fanswer.py%3Fhl%3Den%26answer%3D162873">Report a problem</a> link to let us know about the error.</li>
+</ul>
+</p>
+</div>
+</div>
+<p></p><a class="zippy"><strong>Edit details for a local business that you notice are incorrect.</strong></a>
+<div>
+<p>If you are a business owner and have already claimed and verified your listing, <a href="http://maps.google.com/support/bin/static.py?page=guide.cs&guide=21029&topic=21036">follow these instructions</a> to edit your listing.</p>
+<p>You can edit details such as the business name, address, phone, category, or website:
+<ol>
+<li>
+Once you've located your business on Google Maps, select the business's <a href="http://maps.google.com/support/bin/static.py?page=guide.cs&guide=21670&topic=21671&answer=144335">marker</a>. The <a href="http://maps.google.com/support/bin/static.py?page=guide.cs&guide=21670&topic=21671&answer=144335">info window</a> will appear.
+</li>
+<li>
+To make changes, click <strong>more</strong> and select <strong>Edit details</strong>.
+</li>
+<li>
+Make the appropriate changes and click <strong>Publish</strong>.
+</li>
+</ol>
+<p>You can also edit this information directly from your Place Page. Click <strong>Edit this place</strong> at the top of the Place Page to edit the business listing.</p>
+<div class="note">
+If you are the owner of this business, feel free to use community edits to fix your listing, then <a href="http://www.google.com/local/add/lookup?hl=en-US&amp;gl=US" target="_blank">claim your business</a>. Businesses whose listings have been claimed and verified through Google Places can't be edited by the community or flagged for removal. Claiming your listing through Google Places is the only way to prevent community edits to your listing.</div></p>
+</div>
+</div>
+<p></p><a class="zippy"><strong>Report a listing on Google Maps that's closed down, a duplicate of another listing, or contains private information.</strong></a>
+<div>
+<p>If you see a place on the map that isn't there anymore (or perhaps was never there in the first place), let us know about it. Here's how: </p>
+<ol>
+<li>
+After you search for a place, click the appropriate <a href="http://maps.google.com/support/bin/static.py?page=guide.cs&guide=21670&topic=21671&answer=144335">marker</a>. The <a href="http://maps.google.com/support/bin/static.py?page=guide.cs&guide=21670&topic=21671&answer=144335">info window</a> appears.
+</li>
+<li>
+Click <strong>Edit > Report a problem</strong>.
+</li>
+<li>
+Select the issue that pertains to this place and add any comments you have.
+</li>
+<li>
+Click <strong>Report a problem</strong>. Google will investigate the place you have reported.
+</li>
+</ol>
+<p>
+<div class="note">Users cannot report problems for owner-verified business listings on Google Places. Visit <a href="http://www.google.com/local/add">Google Places</a> to find out how to verify or remove your business listing.</p></div>
+</div>
+<p></p><a class="zippy"><strong>Track your edits.</strong></a>
+<div>
+<p>To view a history of the edits made to a particular place, open the info window and click <strong>Edit</strong>. Click <strong>View history</strong> in the info window to see a list of edits. To see only the edits you've made, click <strong>My Profile</strong> at the top right of your screen.</p>
+<p><strong><strong>Other ways to edit</strong>
+</strong></p>
+<p><strong><a href="http://www.google.com/mapmaker">Google Map Maker</a></strong> allows you to contribute, share and edit map information for <a href="http://maps.google.com/support/bin/answer.py?hl=en&answer=155415">174 countries and territories</a>. Map Maker provides a set of tools to create and edit map features in order to improve the quality of maps and local information in your region. Learn how to <a href="http://maps.google.com/support/bin/answer.py?hl=en&answer=155406">get started with Map Maker</a>.
+<p><strong>Go beyond edits</strong>
+<p>Community edits, such as adjusting marker locations, will appear in Google Maps search results. You can also create a custom map that highlights specific locations, areas, and routes and share it with others using My Maps. Points of interest that you create on your custom map won't appear in Google Maps search results.</p>
+<p>To access this feature, click the <strong>My Maps</strong> tab in Google Maps. Or, learn more about <a href="http://maps.google.com/support/bin/answer.py?answer=68480">custom maps</a>.</p>
+</div>
+<script type="text/javascript">
+if(document.getElementById('kb_other') != null)
+showLayer('kb_other');
+if(document.getElementById('kb_other_') != null)
+showLayer('kb_other_');
+if(document.getElementById('z_other') != null)
+toggleZippy('z_other');
+if(document.getElementById('z_other_') != null)
+toggleZippy('z_other_');
+if(document.getElementById('kb_'))
+showLayer('kb_');
+if(document.getElementById('z_'))
+toggleZippy('z_');
+if(document.getElementById('kb_other'))
+showLayer('kb_other');
+if(document.getElementById('z_other'))
+toggleZippy('z_other');
+if(document.getElementById('kb_US'))
+showLayer('kb_US');
+if(document.getElementById('z_US'))
+toggleZippy('z_US');
+</script>
+</div>
+<a href="#" name="helpful" ></a>
+</div>
+<div class="clear"></div>
+</div>
+</td>
+<td class="right_column">
+<div class="module">
+<h2>Maps Video Playlist</h2>
+<center>
+<object type="application/x-shockwave-flash" data="http://www.youtube.com/p/98DA918472BB3131&hl=en&fs=1%26enablejsapi=1%26playerapiid=MapsVideoPlaylist" width="280"
+height="180" id="MapsVideoPlaylist">
+<param name="src" value="http://www.youtube.com/p/98DA918472BB3131&hl=en&fs=1%26enablejsapi=1%26playerapiid=MapsVideoPlaylist" />
+<param name="wmode" value="transparent" />
+<param name="allowscriptaccess" value="always" />
+<param name="allowFullScreen" value="true" />
+</object>
+</center>
+</div>
+<div class="module">
+<h2>Recommended articles and discussions</h2>
+<ul class="no_bullets">
+<li>
+<a href="/support/bin/answer.py?answer=72644&amp;cbid=10hvuay6mri1h&amp;src=cb&amp;lev= answer"
+onclick="track('Recommended Articles Module',
+'answer=72644');">Embedding a map into a website or blog
+</a>
+</li>
+<li>
+<a href="/support/bin/answer.py?answer=153802&amp;cbid=1rhw0zniuof45&amp;src=cb&amp;lev= answer"
+onclick="track('Recommended Articles Module',
+'answer=153802');">Using My Location
+</a>
+</li>
+<li>
+<a href="/support/bin/answer.py?answer=16532&amp;cbid=-1t0upty904aww&amp;src=cb&amp;lev= answer"
+onclick="track('Recommended Articles Module',
+'answer=16532');">System requirements
+</a>
+</li>
+<li>
+<a href="http://www.google.com/support/forum/p/maps/thread?tid=1d9d4ab4b168886d&hl=en"
+onclick="track('Recommended Articles Module',
+'u2u');">google maps mobile has a bug? my gps works fine with foursquare but not with gmaps</a>
+<img src="//www.google.com/help/hc/images/discussion.gif"
+align="absmiddle" />
+<span class="light_subtext">0</span>
+</li>
+<li>
+<a href="http://www.google.com/support/forum/p/maps/thread?tid=2f182d9d0c51cebd&hl=en"
+onclick="track('Recommended Articles Module',
+'u2u');">google places rejected all of a sudden due to google employee changing information without permission</a>
+<img src="//www.google.com/help/hc/images/discussion.gif"
+align="absmiddle" />
+<span class="light_subtext">9</span>
+</li>
+</ul>
+</div>
+<div class="module">
+<h2>Help resources</h2>
+<ul class="combo-mod">
+<li style="background-image:url(//www.google.com/help/hc/images/maps_icon_module.gif)" class="combo-mod-item no-subtext">
+<a href="http://maps.google.com/help/maps/casestudies/"
+onclick="track('Combo Module', 'success_stories');" >Success Stories</a>
+</li>
+<li style="background-image:url(//www.google.com/images/icons/product/patents-32.png)" class="combo-mod-item no-subtext">
+<a href="/support/bin/static.py?page=suggestions.cs"
+onclick="track('Combo Module', 'suggestions');" >Feature Suggestions</a>
+<p></p>
+</li>
+<li style="background-image:url(//www.google.com/help/hc/images/flag_E5ECF4.gif)" class="combo-mod-item ">
+<a href="/support/bin/static.py?page=known_issues.cs"
+onclick="track('Combo Module', 'ki');" >Known issues</a>
+<p>Recently reported problems</p>
+</li>
+<li style="background-image:url(//www.google.com/help/hc/images/siteissues-32.gif)" class="combo-mod-item no-subtext">
+<a href="/support/bin/answer.py?hl=en&answer=98014"
+onclick="track('Combo Module', 'fix_error');" >Fix an error on Google Maps</a>
+</li>
+</ul>
+</div>
+<div class="module"
+style="">
+<h2>Google Maps Tips for Life</h2>
+<div class="">
+<a href="http://www.google.com/help/maps/tips/#utm_campaign=en&utm_medium=et&utm_source=en-et-na-us-gns-gm-help">Learn tips and tricks to save time, look smart, and manage your travels efficiently.</a>
+</div>
+</div>
+</td>
+</tr></table>
+<div style="clear:both"></div>
+<div class="footer-nav">
+<p>
+<a href="http://maps.google.com"
+onclick="track('Footer', 'Product home')">Maps</a>
+-
+<a href="/support/bin/request.py"
+onclick="track('Footer', 'Contacting us')">Contacting Us</a>
+-
+<a href="http://www.google.com/support/?hl=en"
+onclick="track('Footer', 'Help with other products')">Help with other Google products</a>
+-
+<form method="post" id="changelang" name="changelang"
+action="javascript:
+setCookies_default('LocalSupportLocale',
+this.document.changelang.lang.value, 'dropdown');
+track('LanguageDropdown', this.document.changelang.lang.value);"
+class="lang_dropdown">
+<label for="lang">Change Language:</label>
+<select name="lang" id="lang"
+onchange="document.getElementById('changelang').submit();">
+<option value="ar" >العربية</option>
+<option value="bg" >Български</option>
+<option value="bn" >বাংলা</option>
+<option value="ca" >Català</option>
+<option value="cs" >Česky</option>
+<option value="sr" >Српски</option>
+<option value="da" >Dansk</option>
+<option value="de" >Deutsch</option>
+<option value="en" selected="selected" class="selected">English (US)&lrm;</option>
+<option value="es" >Español (España)&lrm;</option>
+<option value="fr" >Français</option>
+<option value="it" >Italiano</option>
+<option value="lv" >Latviešu</option>
+<option value="lt" >Lietuvių</option>
+<option value="hu" >Magyar</option>
+<option value="nl" >Nederlands</option>
+<option value="no" >Norsk</option>
+<option value="pl" >Polski</option>
+<option value="pt" >Português (Portugal)&lrm;</option>
+<option value="br" >Português (Brasil)&lrm;</option>
+<option value="hr" >Hrvatski</option>
+<option value="ro" >Română</option>
+<option value="sk" >Slovenský</option>
+<option value="sl" >Slovenščina</option>
+<option value="fi" >Suomi</option>
+<option value="sv" >Svenska</option>
+<option value="ru" >Русский</option>
+<option value="th" >ภาษาไทย</option>
+<option value="tl" >Tagalog</option>
+<option value="tr" >Türkçe</option>
+<option value="uk" >Українська</option>
+<option value="el" >Ελληνικά</option>
+<option value="iw" >עברית</option>
+<option value="gu" >ગુજરાતી</option>
+<option value="hi" >हिन्दी</option>
+<option value="kn" >ಕನ್ನಡ</option>
+<option value="ml" >മലയാളം</option>
+<option value="mr" >मराठी</option>
+<option value="or" >Oriya</option>
+<option value="ta" >தமிழ்</option>
+<option value="te" >తెలుగు</option>
+<option value="vi" >Tiếng Việt</option>
+<option value="cn" >中文（简体）&lrm;</option>
+<option value="b5" >中文（繁體）&lrm;</option>
+<option value="jp" >日本語</option>
+<option value="kr" >한국어</option>
+</select>
+</form>
+</p>
+<div><p>
+<span class="footer-copyright">
+&copy;2010 Google
+</span>
+<span>
+-
+<a href="http://www.google.com/intl/en/"
+onclick="track('Footer', 'GoogleHome');
+">Home</a>
+</span>
+<span>
+-
+<a href="http://www.google.com/intl/en/privacy.html"
+onclick="track('Footer', 'PrivacyPolicy');
+">Privacy Policy</a>
+</span>
+<span>
+-
+<a href="http://maps.google.com/intl/en/help/terms_maps.html"
+onclick="track('Footer', 'Terms');
+">Terms of Service</a>
+</span>
+</p></div>
+</div>
+</div>
+<script type="text/javascript">
+googlehelp.Links.initLinks(
+[autoExpand, browser, browserGroup, os, osGroup, country], internal);
+if (googlehelp.initEls) {
+if (autoExpand) {
+googlehelp.initEls([autoExpand], userSettings, userSettingsDropdownText);
+} else {
+googlehelp.initEls([autoExpand, browser, browserGroup, os, osGroup,
+country, countryGroup], userSettings, userSettingsDropdownText);
+}
+}
+</script>
+<script src="//www.google.com/accounts/hosted/helpcenter/js/tooltips/TooltipLoader.js"
+type="text/javascript"> </script>
+<link href="//www.google.com/accounts/hosted/helpcenter/css/tooltips/TooltipLoader.css"
+type="text/css" rel="stylesheet" />
+<script src="//www.google.com/accounts/hosted/helpcenter/js/tooltips/XMLHttpRequest.js"
+type="text/javascript"></script>
+<div class="tooltipPopup" style="visibility:hidden;display:none;"
+id="loadingDiv"><strong>Loading...</strong><br/>
+<br/><br/><br/>
+<img src="//www.google.com/accounts/hosted/helpcenter/images/tooltips/spin_32.gif" alt=""
+style="width:32px; height:32px; border-style:none;" /><br/><br/><br/>
+</div>
+<iframe scrolling="no" class="tooltipPopup" frameborder="0"
+id="tooltipIframe"></iframe>
+<script type="text/javascript"><!--
+tooltipOnMouseover = function(imgIconId, isFocus) {
+if (isFocus == 'true') {
+document.getElementById(imgIconId).src = "//www.google.com/accounts/hosted/helpcenter/images/tooltips/923093475-question_mark_over.gif";
+} else {
+document.getElementById(imgIconId).src = "//www.google.com/accounts/hosted/helpcenter/images/tooltips/923093475-question_mark.gif";
+}
+}
+var tooltipLoader = new TooltipLoader("/support/bin/shortanswer.py?answer=");
+//-->
+</script>
+<script
+src="//maps.google.com/support/bin/resource/js_validate_static.js?v=16"
+type="text/javascript"></script>
+<script type="text/javascript">
+track('LeftNav',
+'LBC - Impression');
+track('LeftNav',
+'LatLongBlog - Impression');
+track('LeftNav',
+'WaterCoolerBlog - Impression');
+track('LeftNav',
+'Add - Impression');
+track('LeftNav',
+'Partner - Impression');
+track('Videos',
+'MapsVideoPlaylist Impressions');
+</script>
+<script src="//www.google.com/sidewiki/static/sidebar_element/sidebar-element-compiled.js"></script>
+<script defer="defer">
+var sidebarElement = new google.elements.sidewiki.SidebarElement(
+window.location.href,false);
+sidebarElement.bindToElement("sidewiki-open-ui-button");
+</script>
+</body>
+</html>

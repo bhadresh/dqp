@@ -1,0 +1,187 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<title>Enterprise Edition Features</title>
+
+<style>
+BODY {
+	MARGIN-LEFT: 1em; MARGIN-RIGHT: 1em
+}
+TD {FONT-FAMILY: arial,sans-serif}
+DIV {FONT-FAMILY: arial,sans-serif}
+.p {FONT-FAMILY: arial,sans-serif}
+A {FONT-FAMILY: arial,sans-serif}
+DIV {COLOR: #000}
+TD {COLOR: #000}
+.f {COLOR: #6f6f6f}
+.fl:link {COLOR: #6f6f6f}
+A:link {COLOR: #00c}
+.w {COLOR: #00c}
+A.w:link {COLOR: #00c}
+.w A:link {COLOR: #00c}
+A:visited {COLOR: #551a8b}
+.fl:visited {COLOR: #551a8b}
+A:active {COLOR: #f00}
+.fl:active {COLOR: #f00}
+.t A:link {COLOR: #000}
+.t A:active {COLOR: #000}
+.t A:visited {COLOR: #000}
+.t {COLOR: #000}
+.t {BACKGROUND-COLOR: #e5ecf9}
+.k {BACKGROUND-COLOR: #36c}
+.j {WIDTH: 33em}
+.h {COLOR: #36c}
+.i {COLOR: #a90a08}
+.i:link {COLOR: #a90a08}
+.a {COLOR: #008000}
+.a:link {COLOR: #008000}
+DIV.n {MARGIN-TOP: 1ex}
+.n A {FONT-SIZE: 10pt; COLOR: #000}
+.n .i {FONT-WEIGHT: bold; FONT-SIZE: 10pt}
+.q A:visited {COLOR: #00c}
+.q A:link {COLOR: #00c}
+.q A:active {COLOR: #00c}
+.q {COLOR: #00c}
+.b {FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #00c}
+.ch {CURSOR: hand}
+.e {MARGIN-TOP: 0.75em; MARGIN-BOTTOM: 0.75em}
+.g {MARGIN-TOP: 1em; MARGIN-BOTTOM: 1em}
+.z {MARGIN-LEFT: 1.25em; MARGIN-RIGHT: 1em}
+</STYLE>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+  _uacct="UA-18007-1";
+  _uanchor=1;
+  urchinTracker();
+</script></head>
+<body text=#000000 vLink=#800080 aLink=#ff0000 link=#0000cc bgColor=#ffffff topMargin=2>
+<table cellSpacing=0 cellPadding=5 width="99%" border=0>
+  <tr>
+    <td width="14%"><a href="/"><img height="55" alt="Google Desktop Search" src="../images/logo_ent.gif" width="150" vspace="12" border="0"></a></td>
+    <td width="86%">
+	  <table cellspacing="0" cellpadding="0" width="100%" border="0">
+        <tr>
+          <td bgcolor="#3399cc"><img height="1" alt="" width="1"></td>
+        </tr>
+      </table>
+      <table cellspacing="0" cellpadding="0" width="100%" bgcolor="#e8f4f7" border="0">
+        <tr>
+          <td nowrap="nowrap" bgcolor="#e8f4f7">&nbsp;<font face=arial,sans-serif
+            color=#000000><b>Enterprise Edition</b></font></td>
+        </tr>
+      </table>
+	</td>
+  </tr>
+  <tr valign=top>
+    <td width="14%">
+<p><font size="-1">
+<a href="/index.html">Download</a><br /><br />
+<a href="/features.html">Features</a><br /><br />
+<a href="/testimonials.html">Testimonials</a><br /><br />
+<a href="/gettingstarted.html">Getting Started</a><br /><br />
+<a href="http://googledesktop.blogspot.com/">Desktop Blog</a><br /><br />
+<a href="http://desktop.google.com/support?hl=en">Help Center</a><br /><br />
+<a href="http://groups.google.com/group/Google-Desktop">Discuss with others</a><br /><br />
+<b><a href="/enterprise/index.html">Enterprise Edition</a></b><br>
+&nbsp;&nbsp;<b>Features</b><br>
+&nbsp;&nbsp;<a href="/enterprise/adminguide.html">Admin Guide</a><br>
+&nbsp;&nbsp;<a href="http://groups.google.com/group/Google-Desktop-Enterprise?hl=en">Discuss Enterprise</a><br /><br />
+</font>
+</p>
+<table width=98%  border=0 cellpadding=5 cellspacing=1 bgcolor="#3399cc">
+<tr>
+<td align="center" bgcolor="#ffffff"><b><font size="-1"><a href="http://www.google.com/enterprise/mini/index.html">Google Mini</a></font></b><br>
+<a href="http://www.google.com/enterprise/mini/index.html"><img src="/enterprise/images/Mini_V3_130.jpg" width="130" height="58" border="0"><br>
+</a><font size="-1">Search your company's<br>website and intranet.</font></td>
+</tr>
+</table>
+</td>
+    <td><table width="100%" border="0" cellspacing="1" cellpadding="2">
+      <tr>
+        <td valign="top">
+				
+				
+	<p><b><b>Key Features</b></b></p>
+
+          <p><font size="-1">Google Desktop for Enterprise helps <a href="#end">users</a>
+              gain control over the ever-growing mountain of information located
+              on their computers and includes <a href="#admin">administrator</a>
+              features that provide enhanced security, centralized configuration
+              and easy deployment. </font></p>
+          <b><a name=end id="end"></a>Benefits for users</b>
+          <hr color="#3399cc" noshade="noshade" size="1">          <p><font size="-1"><b>Google
+                search for the computer</b></font></p>
+
+				
+				
+				
+			<p><font size="-1">With Google Desktop for Enterprise, users can search the full text of their email, files, viewed web pages and chats. Specifically, they can search:</font></p>
+<ul>
+	<li><font size="-1">Email from Gmail, IBM Lotus Notes, Outlook 2000+, Outlook Express 5+, Netscape Mail 7.1+, Mozilla Mail 1.4+ and Thunderbird</font></li>
+	<li><font size="-1">All the most popular business file types on their Windows-based PC, including Word, Excel, PowerPoint, PDF, MP3, ZIP files, image, audio and video files</font></li>
+	<li><font size="-1">Web pages you've viewed using Internet Explorer 5+, Netscape 7.1+, Mozilla 1.4+ and Firefox</font></li>
+	<li><font size="-1">Chats from Google Talk, AOL Instant Messenger 5+, and MSN Messenger</font></li>
+</ul>				
+				
+          <p><img src="images/gds_results.gif" width="413" height="307"></p>
+
+          <p><font size="-1"><b>A single place to search</b></font></p>          
+			<p><font size="-1">When used in conjunction with the <a href="http://www.google.com/enterprise/gsa">Google Search Appliance</a> or <a href="http://www.google.com/enterprise/mini">Google Mini</a>, our enterprise search appliances, Google Desktop for Enterprise gives employees a centralized way to search their PCs, the corporate network and the Internet. The results are returned in an easy-to-navigate interface that users are already familiar with.</font></p>
+            <p><font size="-1"><img src="images/ss6.jpg" width="416" height="232"></font></p>          <p><font size="-1"><b>More
+                information at their fingertips</b></font></p>
+          <p><font size="-1">In addition to its basic search functionality,
+              Google Desktop for Enterprise introduces new ways to access
+              relevant and time sensitive information. For example Google Desktop
+              Search organizes email search results into �conversations,� so
+              that all email messages in the same thread are grouped into a single
+            search result. </font></p>
+
+          <p><font size="-1"><a href="http://desktop.google.com/features.html">Learn
+            more</a> about user
+            features.</font><br>
+            <br>
+          </p>
+         <b><a name=admin id="admin"></a>Benefits for administrators</b>
+          <hr color="#3399cc" noshade="noshade" size="1">          <p><font size="-1"><b>Simple and safe to deploy</b></font></p>
+          <p><font size="-1"> The included Microsoft Windows Installer package
+              that makes organization-wide distribution a snap. And you can choose
+              to encrypt your users� search indexes for added security using
+            Encrypted File System (EFS).</font></p>          
+          <p><font size="-1"><b>Standards-based administration</b></font></p>
+
+			<p><font size="-1">Centrally manage user preferences using Microsoft Group Policy settings. For example, you can restrict Google Desktop Search from indexing specific websites that may contain sensitive information or prevent it from indexing a specific file type, such as IM chats. Similarly, administrators can disable Google Desktop�s Search Across Computers feature.</font></p>
+			<p><font size="-1"><img src="images/ss5.jpg" width="411" height="249"></font></p>              <p><font size="-1"><b>Support
+                for shared workstation environments</b></font></p>
+              <p><font size="-1">              Provide desktop search for multiple
+                  users on the same Windows machine. Google Desktop for Enterprise enables you to give users secure search across just
+              the files they have access to on shared workstations.</font></p>
+              <p><font size="-1"><b>Test before distributing</b></font></p>
+              <p><font size="-1"> Receive updated versions from Google at a
+                  centralized location, and�after satisfying yourself by testing
+                  the update within your corporate environment�distribute it
+              to the desktops of individual users.</font></p>            
+              <p><font size="-1"><a href="adminguide.html">Learn more</a> about
+                administrator features</font>.<br>
+          </p></td>
+        </tr>
+    </table>
+  </td>
+  </tr>
+  <tr valign=top>
+    <td colSpan=2>
+      <table cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <tr>
+          <td bgColor=#3399cc><img height=1 alt="" width=1></td>
+        </tr>
+      </table>
+      <table cellSpacing=0 cellPadding=0 width="100%" bgColor=#e8f4f7 border=0>
+        <tr>
+          <td noWrap align=right><div align=center><font class=p color=#000000 size=-1>&copy;2009 Google - </font><font size=-1><a href="/privacypolicy.html">Privacy Policy</a> - <a href="http://www.google.com/accounts/TOS">Terms and Conditions</a> - <a href="/copyrights.html">Copyright Notices</a> </font></div></td>
+        </tr>
+      </table>
+	</td>
+  </tr>
+</table>
+</body>
+</html>

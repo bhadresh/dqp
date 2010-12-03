@@ -1,0 +1,567 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Google Gadgets:&nbsp;
+Simple Calendar</title>
+<link href="/desktop/styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+a.selected {
+  font-weight: bold;
+  color: #666;
+  text-decoration: none;
+}
+
+p#nav {
+  line-height: 1.4em;
+}
+
+table.gadget {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+table.gadget td img {
+  border: 1px solid #000;
+  margin: 4px 0px;
+}
+
+body {
+  margin-top: 0px;
+}
+
+table.gadget td input {
+  font-size: 11px;
+  width: 82px;
+}
+
+table.header {
+  margin-bottom: 10px;
+}
+
+table.header h3 {
+  margin-bottom: 0px;
+}
+
+table.header hr {
+  color: #ccc;
+  background-color: #ccc;
+  border-bottom: 1px solid #ccc;
+  height: 1px;
+  margin-top: 0px;
+}
+
+.disclaimer {
+  color: #999;
+}
+
+div.errorheader {
+  color: red;
+  font-weight: bold;
+}
+
+div.errormsg {
+  color: red;
+}
+
+td.button-left {
+  width: 6px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-left_sm.gif');
+  background-repeat: none;
+}
+
+td.button-center {
+  padding-left: 10px;
+  padding-right: 14px;
+  padding-bottom: 3px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-center_sm.gif')
+    ;
+  background-repeat: repeat-x;
+}
+
+td.button-center a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: arial;
+  padding-bottom: 6px;
+}
+
+td.button-right {
+  width: 9px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-right_sm.gif');
+  background-repeat: none;
+}
+
+.linkon {
+  color: #0000cc;
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: normal
+}
+
+.linkoff {
+  font-weight: bold
+}
+
+.review_author {
+  font-weight: bold
+}
+
+td.download-button-left {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_left.gif');
+  background-repeat: none;
+}
+
+td.download-button-center {
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  height: 22px;
+  background: url('/images/add_button_middle.gif');
+  background-repeat: repeat-x;
+}
+
+td.download-button-center a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
+
+td.download-button-right {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_right.gif');
+  background-repeat: none;
+}
+
+.similar-gadget {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.screenshot-image {
+  border: 1px solid #bbcced;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+pre.terms {
+  height:200;
+  width:600;
+  overflow: auto;
+  border-style:inset;
+  border-color:graytext;
+  border-width: thin;
+  text-wrap: unrestricted;
+  white-space: -moz-pre-wrap; /* Moz */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  white-space: pre-wrap; /* CSS3  */
+  word-wrap: break-word; /* IE 5.5+ */
+}
+
+table.confirmation-table td {
+  vertical-align: top;
+}
+
+.gadgetError {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FBE3E4;
+  color: #D12F19;
+  border-color: #FBC2C4;
+}
+
+.gadgetWarning {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FFF6BF;
+  color: #817134;
+  border-color: #FFD324;
+}
+
+</style>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+<script type="text/javascript">
+    _uacct="UA-18007-1";
+    _uanchor=1;
+    urchinTracker();
+  </script></head>
+<body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><a href="/?hl=en"><img src="/en/images/logo3.gif" border="0" height="55" vspace="12" width="150" alt="Google Desktop"></a></td>
+<td width="100%" style="padding-left:12px;padding-top:12px;" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="right" nowrap><font face="Arial, sans-serif" size="-1"><a href="https://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/simplecalendar2.html">Sign In</a></font></td></tr>
+<tr><td><img alt="" width="1" height="1"></td></tr></table>
+<table cellpadding="0" cellspacing="0" width="100%"><tr><td bgcolor="#3399cc"><img alt="" height="1" width="1"></td></tr></table>
+<table cellspacing="0" cellpadding="2" border="0" width="100%"><tr><td bgcolor="#e8f4f7">&nbsp;
+<font size="3"><b>Google Gadgets</b></font></td></tr></table></td></tr></table>
+<table cellspacing="0" width="100%"><tr valign="top"><td><td nowrap valign="top" width="160"><p id="nav"><font size="-1">Google Gadgets
+<br>
+
+&nbsp;&nbsp;&bull;
+<a href='/plugins/?hl=en'>All</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/news.html?hl=en'>News</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/tools.html?hl=en'>Tools</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/communication.html?hl=en'>Communication</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/finance.html?hl=en'>Finance</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/fun_games.html?hl=en'>Fun & Games</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/google.html?hl=en'>Google</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/sports.html?hl=en'>Sports</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/lifestyle.html?hl=en'>Lifestyle</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/technology.html?hl=en'>Technology</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href="/plugins/c/sidebar/holiday.html?hl=en"><b><font color="red">Holidays</font></b></a>
+<br>
+<br>
+<a href='/plugins/c/index/all.html?hl=en'>Indexing Plugins</a>
+<br>
+<br>
+<br>
+<a href="http://groups.google.com/group/Google-Desktop">Desktop Search Forum</a></font></p>
+<p><font size="-1"><b>For Developers</b>
+<br>
+
+&nbsp;&nbsp;
+<a href='/downloadsdksubmit?hl=en'>Download SDK</a><br>
+&nbsp;&nbsp;
+<a href="/dev/index.html">Developer Guide</a><br>
+&nbsp;&nbsp;
+<a href="/dev/kb.html">FAQ</a><br>
+&nbsp;&nbsp;
+<a href='/pluginsubmit?hl=en'>Submit Software</a><br>
+
+&nbsp;&nbsp;
+<a href="http://groups.google.com/group/Google-Desktop-Developer">Developer Forum</a><br>
+&nbsp;&nbsp;
+<a href='/authors?hl=en'>Hall of Fame</a><br>
+&nbsp;&nbsp;
+<a href='/ambassadors?hl=en'>Ambassadors</a> <br>
+<br>
+<br>
+<br>
+<img src="/images/rss_small.gif" alt="RSS Feed for Latest Gadgets">
+<a href="/feeds/gadgets.xml?hl=en&amp;type=rss" type="application/rss+xml">Latest Gadgets</a>
+<br>
+<br>
+<br>
+<br></font></p></td>
+<td id="dots" width="10"></td></td>
+<td><table><tr style="height:10px;"></tr>
+<tr id="gadgetDetails"><td id="gadgetImage" valign="top" align="center"><img alt="Simple Calendar" src="/plugins/images/simplecalendar2.gif" class="screenshot-image"></td>
+<td id="gadgetDetails" valign="top"><h3>Simple Calendar</h3>
+This is a simple calendar.
+<br>
+<p><a href="http://www.dioce.co.jp/gadget/">Learn more</a>
+-
+<a href="http://groups.google.com/group/Google-Desktop">Discuss this gadget</a></p>
+<table cellpadding="2" cellspacing="2"><tr><td><strong>Author:</strong></td>
+<td>DAIDO-DIGITAL-DESIGN INTELLECTUA</td></tr>
+<tr><td><strong>Size:</strong></td>
+<td>62KB</td></tr>
+<tr><td><strong>Version:</strong></td>
+<td>1.1.0.0</td></tr>
+<tr><td><strong>Date:</strong></td>
+<td>March 13, 2008</td></tr></table>
+<p><b>This gadget requires  <a href="http://desktop.google.com?hl=en"> Google Desktop  4  or above. </a></b></p>
+<div style="width: 250;"><table cellpadding="0" cellspacing="0"><tr><td class="button-left"></td>
+<td class="button-center"><a href="/url?id=simplecalendar2">Download gadget</a></td>
+<td class="button-right"></td></tr></table></div>
+<br>
+<a href="http://www.google.com/ig/add?moduleurl=http://desktop.google.com/gow/gadgets/simplecalendar2.xml">Add this gadget to your iGoogle page</a></td></tr>
+<tr id="reviewsAndComments"><td valign="top" colspan="2"><script type="text/javascript" src="/gadgetComments.js">
+</script>
+<div style="min-width: 600; max-width: 800"><table width="100%"><tr><td><span id="commentsSpan" class="linkoff">Reviews</span></td>
+<td align="right">
+
+<a href="http://desktop.google.com/plugins/i/simplecalendar2.html?start=20">Next &raquo;</a></td></tr></table>
+<hr size="1" noshade>
+<a href="http://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/simplecalendar2.html">Sign in</a> to write a comment
+<br><br>
+<div id="comments">
+
+<table id="review 1" cellpadding="0" cellspacing="0"><tr>
+<td><b>Shintaro</b>
+&nbsp;</td>
+<td><div id="abuse1" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=hpP-y1SOKERd-Ut6-K7C0dt6cYzdkzk_VQAAALH0D_uX7cjWl4XGUyKVpn1I2IyDeTVAmLwBvzq6hs4JViQX8NSEREtwSuUg7xr4fUjwa9ybivuBUhS9nxA6coeIEXJyW7mrtGFby4jjWr6FhlqTizqpB1WFJwGLdX_d3Q&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#22303;&#26332;&#26085;&#12364;&#38738;&#12289;&#26085;&#26332;&#26085;&#12392;&#31069;&#31085;&#26085;&#12364;&#36196;&#12391;&#34920;&#31034;&#12373;&#12428;&#12390;&#12356;&#12390;&#35211;&#12420;&#12377;&#12367;&#20415;&#21033;&#12384;&#12392;&#24605;&#12356;&#12414;&#12377;&#12290;
+&#12383;&#12384;&#12289;&#12497;&#12477;&#12467;&#12531;&#12434;&#36215;&#21205;&#12375;&#12383;&#12414;&#12414;&#26085;&#20184;&#12364;&#22793;&#12431;&#12387;&#12390;&#12418;&#29694;&#22312;&#26085;&#12398;&#34920;&#31034;&#12364;&#22793;&#26356;&#12373;&#12428;&#12394;&#12356;&#12398;&#12364;&#27424;&#28857;&#12391;&#12377;&#12290;
+<br>
+<br> <table id="review 2" cellpadding="0" cellspacing="0"><tr>
+<td><b>Christine</b>
+&nbsp;</td>
+<td><div id="abuse2" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=iPQXUPi5ikrqKam_fhBalGoirFXdkzk_VQAAAKmxl-h-SBY4m9r8OaURH5swFzFYXajyVLKFLOGMwBwCViQX8NSEREtwSuUg7xr4fUjwa9ybivuBUhS9nxA6coeIEXJyW7mrtGFby4jjWr6FQ7kFZsdMFz5onyomECpfWg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+i tough the subject of the comment will be about the gadget on himself. who cares about the language I am french et merde , americains, english, spanish write something useful instead to arguing witch language this gadget should be
+<br>
+<br> <table id="review 3" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse3" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=NngExp4AP_EbvMk9hzlV8mkBlV7dkzk_VQAAALp9HUZoOi-qjdjNBEm2jv-Tb5Fa5lWBkgbxyWrqiNViViQX8NSEREtwSuUg7xr4fUjwa9ybivuBUhS9nxA6coeIEXJyW7mrtGFby4jjWr6FJ96IweNqZTc3fiXkxnH3dA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#12459;&#12524;&#12531;&#12480;&#12540;&#12398;&#19979;&#12395;&#12289;&#31777;&#21336;&#12395;&#12381;&#12398;&#26085;&#12364;&#32224;&#20999;&#12426;&#12398;&#12479;&#12473;&#12463;&#12434;&#12513;&#12514;&#12391;&#12365;&#12427;&#12424;&#12358;&#12395;&#12375;&#12390;&#12418;&#12425;&#12360;&#12427;&#12392;&#12356;&#12387;&#12381;&#12358;&#20351;&#12356;&#21213;&#25163;&#12364;&#12424;&#12356;
+<br>
+<br> <table id="review 4" cellpadding="0" cellspacing="0"><tr>
+<td><b>Jena</b>
+&nbsp;</td>
+<td><div id="abuse4" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=9xz3yrzSIe4py9F5yJ1BvbtAc6rdkzk_VQAAAFSVCDgzLrMih2pjbAsJVJ0D6MydNxWlg6a7uzH-nQIBViQX8NSEREtwSuUg7xr4fUjwa9ybivuBUhS9nxA6coeIEXJyW7mrtGFby4jjWr6FL6x4HQFkAL_L12KJcD-lYw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Yes, America does have an official language.. and it is English. Just sayin&#39;..
+<br>
+<br> <table id="review 5" cellpadding="0" cellspacing="0"><tr>
+<td><b>Stephanie</b>
+&nbsp;</td>
+<td><div id="abuse5" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=20UyAUlJJm0cMaYlsF0vq7ZwTxHdkzk_VAAAANH3MjxkQsM2HdXnzIhCVwuJxWsapdXOZztcn5mP9N3G3zm-YpzeF2wQfuUUWMhf9R44fxSssqeamwvy2sEqivg8ebTzNDSVBav8n8lMt3qISalb2XIQqRyMbxEjtVhhQw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+The United States has no official language.
+Secondly, if you do not want to use the language then do not use it. Why waste time unnecessarily criticizing something with which you do not have to deal.
+<br>
+<br> <table id="review 6" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse6" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=yHpcZglUTtt7AHt0xdEqFUtZ25ndkzk_VAAAAKKUjpF3H1KtGig4AY33T8CxBQG7H-SCmuhNVf_JGnoj3zm-YpzeF2wQfuUUWMhf9R44fxSssqeamwvy2sEqivg8ebTzNDSVBav8n8lMt3qIvSH8ooZZvbstlmPhG9b8KQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Really guys, are we this ignorant?  America doesn&#39;t have an official language.  Get over yourselves.
+<br>
+<br> <table id="review 7" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Angelica</b>
+&nbsp;</td>
+<td><div id="abuse7" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=7XjfF4RSxEHldczyaXHkIGpSmcLdkzk_VQAAACnSFIIFldgmpJDeIw5gjypXDd87-ea0ubqUPfb9jnvEViQX8NSEREtwSuUg7xr4fUjwa9ybivuBUhS9nxA6coeIEXJyW7mrtGFby4jjWr6FuOG-7EbXz2fbuAt3Vv27Mg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Google Gadgets are not just for those who live in the USA!! I live in Mexico and I use Google and its gadgets all the time! 
+And let me say that USA is no longer a country full of northamericans, look around you and you will notice that its full of hispanics, latins, chinese, etc, etc.
+And almost all of them know the english language!! 
+<br>
+<br> <table id="review 8" cellpadding="0" cellspacing="0"><tr>
+<td><b>Mark</b>
+&nbsp;</td>
+<td><div id="abuse8" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=OejsfC6-A_1WK4gRCu62-Ha9yUrdkzk_VQAAADHPi3Q4aF_Vcy5gVczZfqD6VsgCcQR9xzSEbcX1ZC8rViQX8NSEREtwSuUg7xr4fUjwa9ybivuBUhS9nxA6coeIEXJyW7mrtGFby4jjWr6FQmF1gHTdyX7bQg7BHx-D8w&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+To those believe that English is American, are you serious?
+English is English! From England.
+For those with straw in their skulls and the stars &amp; stripes up their back ends, England is not in America, nor does it belong to America and neither does it&#39;s language.
+America&#39;s primary language is correctly known as &quot;American English&quot; for a reason - Webster made the spelling easier in his original dictionary so that more Americans could claim to be able to spell simple words.Fortunately he didn&#39;t quite finish the job.
+<br>
+<br> <table id="review 9" cellpadding="0" cellspacing="0"><tr>
+<td><b></b>
+&nbsp;</td>
+<td><div id="abuse9" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=QMxVulsnxlc0hFaS-HbdWb2Iq3jdkzk_VQAAAFSVCDgzLrMih2pjbAsJVJ2iMkVDMTOfe5hGYuyN8CxJViQX8NSEREtwSuUg7xr4fUjwa9ybivuBUhS9nxA6coeIEXJyW7mrtGFby4jjWr6FfOBUWMD3WtEpf59k2jFIrw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+What I like about America is First Amendment Rights. Everyone has the right to speak up and tell the would how stupid they are! 
+Download the English verision: http://desktop.google.com/plugins/i/simplecalendar_info.html?hl=en
+
+I believe this is one world for sharing and respecting.
+
+A_Proud_American
+<br>
+<br> <table id="review 10" cellpadding="0" cellspacing="0"><tr>
+<td><b>Cynda</b>
+&nbsp;</td>
+<td><div id="abuse10" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=cb3oALOpeNIDM2UvW_SFCCDOU0Ldkzk_VQAAAFSVCDgzLrMih2pjbAsJVJ2CMFsrQCkntGYfqvN87gQyViQX8NSEREtwSuUg7xr4fUjwa9ybivuBUhS9nxA6coeIEXJyW7mrtGFby4jjWr6FyzIX9WIWoPTGPjbYffkPSw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I am in the USA..I want to see everything in english !!
+<br>
+<br> <table id="review 11" cellpadding="0" cellspacing="0"><tr>
+<td><b>redmistpete</b>
+&nbsp;</td>
+<td><div id="abuse11" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=eHfyBEDdyNKP3iFjbMI1zguLk6Pdkzk_VQAAADByBjHmSTQl5Er2xPnD0hSLrk2txW1arS4uCoNUx2d8ViQX8NSEREtwSuUg7xr4fUjwa9ybivuBUhS9nxA6coeIEXJyW7mrtGFby4jjWr6FJGvtHtzR0gkps8M6uF41mA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+to the people complaining about not providing it in English - look at the hardware you&#39;re running it on, it&#39;s not English/American. Show some respect please.
+<br>
+<br> <table id="review 12" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>&Delta;&Eta;&Mu;&Eta;&Tau;&Rho;&Iota;&Omicron;&Sigma;</b>
+&nbsp;</td>
+<td><div id="abuse12" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=VhhBbF9JWc8rvi-2Rcy1kp9gnQbdkzk_VQAAAL1-dX7y1w6pYjgG0yBqzpuuk4bv9nZZezXi2SR43Q6nViQX8NSEREtwSuUg7xr4fUjwa9ybivuBUhS9nxA6coeIEXJyW7mrtGFby4jjWr6F0cXHNFYEJGBf3psen-PU-g&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&gamma;&iota;&alpha;
+<br>
+<br> <table id="review 13" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse13" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=CYiiVMEzBD4gJ96M4LMMiDXQ1oXdkzk_VQAAAAcjft8iChUtd_f2XAhpLco1CBXcCzEkDRQGJ-TlJc8ZViQX8NSEREtwSuUg7xr4fUjwa9ybivuBUhS9nxA6coeIEXJyW7mrtGFby4jjWr6FJZFbwcC5wW0Fw6_GQGobPQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+@Anonymous - dude, who are you to criticise other people for their choice of language? In all honesty it is your fault for downloading it in the first place.
+
+Google is a worldwide brand, and not limited to the US, the US does not govern nor control Google so official languages and holidays do not matter in gadgets.
+
+The internet is for everyone, not just the US. I am shocked to see that some people still have this attitude. Would it really kill you to look for another calendar? 
+<br>
+<br> <table id="review 14" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse14" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=E_GqgVWtXbqfw2dHP4QVUVTYRU_dkzk_VQAAAESVgvbp8sIyq4PbPijD4hbKi127PY4n0JB5EPKnjFgmViQX8NSEREtwSuUg7xr4fUjwa9ybivuBUhS9nxA6coeIEXJyW7mrtGFby4jjWr6F75bmQLPJmiLLM7MyOa6gwQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+While you can figure out the days of the week, this is still The United States Of America.  Our official language is ENGLISH!!!!!!  Please learn to use it while you are in the US and furnishing data to the US!!!  I also believe that those in the US that don&#39;t want to speak and write our languare should just leave here and go back home.  Vacations here are one thing, but staying here is another.  We would not be expected to know your language when we go to your country unless we were staying there and then we should learn your language.    
+<br>
+<br> <table id="review 15" cellpadding="0" cellspacing="0"><tr>
+<td><b>anthony</b>
+&nbsp;</td>
+<td><div id="abuse15" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=XQWLWv61N3TiFZacM6nGOH8fF4bdkzk_VQAAAPzzZLzpHKo_635_PaRQVxTsYlSe4hfDV3x7DbM63tqJViQX8NSEREtwSuUg7xr4fUjwa9ybivuBUhS9nxA6coeIEXJyW7mrtGFby4jjWr6FyM5cuBJtH2yMnolcKXl8yg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+anthony
+<br>
+<br> <table id="review 16" cellpadding="0" cellspacing="0"><tr>
+<td><b>Hiizu</b>
+&nbsp;</td>
+<td><div id="abuse16" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=yiVcmPi1fx-sy19iV0bHbFM_3h7dkzk_VQAAAJh402dLYBjdVwP8PYjBFt60u8Ovdh6dgQYNw5SPtDwCViQX8NSEREtwSuUg7xr4fUjwa9ybivuBUhS9nxA6coeIEXJyW7mrtGFby4jjWr6F95nJWdsubAy0_fKp0-4kvA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#12473;&#12522;&#12540;&#12503;&#29366;&#24907;&#12395;&#12375;&#12390;&#12362;&#12356;&#12383;PC&#12434;&#27425;&#12398;&#26085;&#12395;&#20877;&#36215;&#21205;&#12377;&#12427;&#12392;&#12289;&#12459;&#12524;&#12531;&#12480;&#12540;&#12398;&#26085;&#20184;&#12364;&#21069;&#12398;&#26085;&#12398;&#12414;&#12414;&#12395;&#12394;&#12387;&#12390;&#12356;&#12414;&#12377;&#12290;
+<br>
+<br> <table id="review 17" cellpadding="0" cellspacing="0"><tr>
+<td><b>Dennis</b>
+&nbsp;</td>
+<td><div id="abuse17" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=Ohsxi8ufLQ42Eo6cUuy9dqX3e4Xdkzk_VQAAALB3huRIFem81kRXB8QiVV-k7dYGKZUmJk-zOLL5h_AGViQX8NSEREtwSuUg7xr4fUjwa9ybivuBUhS9nxA6coeIEXJyW7mrtGFby4jjWr6FmMFDNYguo7ghzZSvgMlSFg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+null?
+<br>
+<br> <table id="review 18" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>ilk</b>
+&nbsp;</td>
+<td><div id="abuse18" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=VixvYu28Zby-7KiSoX-_eug8xujdkzk_VQAAAFn_SY6VxzqAHus-iV1unpa-Jj0_B04WFf_OFZKU3Uh2ViQX8NSEREtwSuUg7xr4fUjwa9ybivuBUhS9nxA6coeIEXJyW7mrtGFby4jjWr6FF0F5xiC6DM6s5vvm2U9ReA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+
+http://www.youtubeje.com/
+
+<br>
+<br> <table id="review 19" cellpadding="0" cellspacing="0"><tr>
+<td><b>Hank</b>
+&nbsp;</td>
+<td><div id="abuse19" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=PNm8Y2MnC1NSfz36eV2SOr_Hox_dkzk_VQAAADByBjHmSTQl5Er2xPnD0hRCgrjePsdyp923BfNAKCX5ViQX8NSEREtwSuUg7xr4fUjwa9ybivuBUhS9nxA6coeIEXJyW7mrtGFby4jjWr6FjrzBncb5XJL5wRHqeX2lMA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Bad Title.  I am looking for a simple English Calendar.
+<br>
+<br> <table id="review 20" cellpadding="0" cellspacing="0"><tr>
+<td><b>Ali</b>
+&nbsp;</td>
+<td><div id="abuse20" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=bYgl9k4ea22M2oJIWFQgDSTiezzdkzk_VQAAADCgaHsqbzOTvWZidN35I5L2BRspwh5ry0A6NdfrLXPzViQX8NSEREtwSuUg7xr4fUjwa9ybivuBUhS9nxA6coeIEXJyW7mrtGFby4jjWr6F8mvQUUizgZiJN1dKfzX7-g&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+To be fair, the characters are shared equally in Chinese and in Japanese...
+<br>
+<br>
+<div align="right">
+
+<a href="http://desktop.google.com/plugins/i/simplecalendar2.html?start=20">Next &raquo;</a></div></div>
+<form action="/submitcomment" method="POST" name="commentForm" id="commentForm"><div id="writeComment" style="display:none"><table><tr><td valign="top">Rate gadget:</td>
+<td><table cellspacing="0" cellpadding="0"><tr><td><img alt="" src="/images/rateStarsLeft.gif"></td>
+<td><img alt="" id="star1" src="/images/rateStarOff.gif" onclick="setStars(1)" onmouseover="showStars(1)" onmouseout="showStars()"></td>
+<td><img alt="" id="star2" src="/images/rateStarOff.gif" onclick="setStars(2)" onmouseover="showStars(2)" onmouseout="showStars()"></td>
+<td><img alt="" id="star3" src="/images/rateStarOff.gif" onclick="setStars(3)" onmouseover="showStars(3)" onmouseout="showStars()"></td>
+<td><img alt="" id="star4" src="/images/rateStarOff.gif" onclick="setStars(4)" onmouseover="showStars(4)" onmouseout="showStars()"></td>
+<td><img alt="" id="star5" src="/images/rateStarOff.gif" onclick="setStars(5)" onmouseover="showStars(5)" onmouseout="showStars()"></td>
+<td><img alt="" src="/images/rateStarsRight.gif"></td></tr></table></td></tr>
+<tr><td valign="top">Your name:</td>
+<td><b></b>
+&nbsp;
+<input type="checkbox" name="anonymous" value="true" id="anonymous">
+Anonymous</td></tr>
+<tr><td valign="top">Comments:</td>
+<td><textarea name="reviewText" rows="4" cols="25" id="reviewText" style="border: 1px solid #bbcced"></textarea></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="rating" value="0" id="rating" style="display:none;">
+<input type="hidden" name="pluginId" value="simplecalendar2" id="pluginId">
+<input type="submit" value="Post Comment">
+<input type="reset" value="Discard" onclick="showComments()"></td></tr>
+<tr style="height:20px;"></tr></table></div></form>
+<div id="abuseLinkDiv"></div></div></td></tr></table></td>
+<td id="recommendations"><b>You might also like...</b>
+<hr noshade size="1">
+<table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/simplecalendar3.html?hl=en"><img alt="Simple Calendar" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/simplecalendar3_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/simplecalendar3.html?hl=en">Simple Calendar</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=simplecalendar3">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/simplecalendar4.html?hl=en"><img alt="Simple Calendar" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/simplecalendar4_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/simplecalendar4.html?hl=en">Simple Calendar</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=simplecalendar4">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/simplecalendar_info.html?hl=en"><img alt="Simple Calendar" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/simplecalendar_info_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/simplecalendar_info.html?hl=en">Simple Calendar</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=simplecalendar_info">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/desktopcalendar.html?hl=en"><img alt="Desktop Calendar" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/desktopcalendar_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/desktopcalendar.html?hl=en">Desktop Calendar</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=desktopcalendar">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/newcalendar_9192.html?hl=en"><img alt="Simple Japanese Calendar 1.4.0.4" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/newcalendar_9192_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/newcalendar_9192.html?hl=en">Simple Japanese Calendar 1.4.0.4</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=newcalendar_9192">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/calendartranspcolor.html?hl=en"><img alt="Calendar" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/calendartranspcolor_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/calendartranspcolor.html?hl=en">Calendar</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=calendartranspcolor">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table>
+<br>
+<br></td></tr>
+<tr><td colspan="5" align="center" id="footer">&copy;  2010  Google
+-
+<a href="/privacypolicy.html">Privacy Policy</a>
+-
+<a href="http://www.google.com/accounts/TOS?hl=en">Terms of Service</a>
+-
+<a href="/copyrights.html">Copyright Notices</a></td></tr></table></body></html>

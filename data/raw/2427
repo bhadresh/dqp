@@ -1,0 +1,135 @@
+<html>
+<head>
+<link rel="stylesheet" href="//www.google.com/css/header.css"><title>Google Books: Partner Success Stories</title>
+<style>
+.header { margin: 20px 0 20px 0; }
+<!--
+body,td,div,p,a,font,span{font-family:arial,sans-serif;}
+.si {line-height: 170%;}
+.buttonborder {
+  background-color: #3366CC;
+  margin: 0px;
+  padding: 2px;
+  border-width: 2px;
+  border-style: outset;
+  border-color: #339966;
+  border-spacing: 0;
+}
+//.buttonborder1 {  background-color: #3366CC;
+  margin: 0px;
+  padding: 2px;
+  border-width: 2px;
+  border-style: outset;
+  border-color: #339966;
+  border-spacing: 0;
+}
+-->
+    </style>
+<script language="javascript">
+function setCookie(name, value, expires) {
+   document.cookie = name + "=" + escape(value) +   ";expires=" +  expires + ";path=/";
+}
+function cookie() {
+var sourceid = getQueryVariable("sourceid");
+var subid = getQueryVariable("subid");
+var today = new Date();
+var expire = new Date();
+expire.setTime(today.getTime() + 3600000*24*90);
+if (sourceid && subid) {
+ 	setCookie("printReferralSourceId",sourceid, expire.toGMTString());
+        setCookie("printReferralSubId",subid, expire.toGMTString());
+        setCookie("printReferralClickId","", expire.toGMTString());
+     }
+}
+function getQueryVariable(variable) {
+  var query = window.location.search.substring(1);
+  var vars = query.split("&");
+  for (var i=0;i<vars.length;i++) {
+    var pair = vars[i].split("=");
+    if (pair[0] == variable) {
+      return pair[1];
+    }
+  }
+ }
+</script>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">  _uacct="UA-18010-1";  _uanchor=1;  _utcp="/googlebooks/"; urchinTracker();</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
+<body bgcolor="#ffffff" text="#000000" link="#0000CC" vlink="#800080" alink="#ff0000" topmargin="10" onLoad="javascript:cookie();">
+<div class="g-section header">
+<a href="/books/"><img src="/images/logos/books_logo.gif" alt="" /></a>
+</div>
+<table border="0" cellspacing="0" cellpadding="2" width="95%">
+<tr>
+<td width="132" valign="top"><p><font size="-1"><b>About Google Books</b><br />
+      &bull; <a href="about.html">Overview</a><br />
+      &bull; <a href="http://booksearch.blogspot.com/?utm_source=gbssite&amp;utm_campaign=gbsblog&amp;utm_medium=et">Blog</a><br />
+      &bull; <a href="userstories.html">User Stories</a><br />
+      &bull; <a href="http://books.google.com/support">General Help</a><br />
+</font></p>
+<p><font size="-1"><b>Partner Program</b><br />
+          &bull; <a href="publishers.html">For Publishers &amp; Authors</a><br />
+          &bull; <a href="https://books.google.com/partner/signon?apply=Click+Here+to+Apply">Join Now</a><br />
+          &bull; <a href="https://books.google.com/support/partner/">Partner Help</a></font></p>
+<p><font size="-1"><b>Library Project</b><br />
+        &bull; <a href="/googlebooks/library.html">Overview</a><br />
+        &bull; <a href="/googlebooks/partners.html">Library Partners</a><br />
+        &bull; <a href="http://books.google.com/support/bin/topic.py?topic=9082">Librarian Help</a></font></p>
+<p><font size="-1"><b>Perspectives</b><br />
+        &bull; <a href="/googlebooks/issue.html">What's the Issue?</a><br />
+        &bull; <a href="/googlebooks/facts.html">Facts &amp; Fiction</a><br />
+        &bull; <a href="/googlebooks/legal.html">Legal Analysis</a></font></p>
+<p><font size="-1"><img src="http://books.google.com/googlebooks/sidedivider_sm.gif" width="130" height="17" alt="divider" /><br />
+<a href="https://services.google.com/inquiry/books_email?hl=en">Add Book Search to your site</a></font><br />
+<img src="http://books.google.com/googlebooks/sidedivider_sm.gif" width="130" height="17" alt="divider" /> </p></td>
+<td style="background-color: #ffffff" valign="top"><img alt="" width="1" height="1" /></td>
+<td background="/images/dot2.gif" valign="bottom"><img src="/images/dot2.gif" width="1" height="1" /></td>
+<td style="background-color: #ffffff" valign="top"><img alt="" width="1" height="1" /></td>
+<td><h3><b>Partner Success Stories</b></h3><b>Serambi sees increased traffic and online sales after Google Books Integration</b> <table width="100" align="right" cellpadding="8" cellspacing="1">
+<tr>
+<td><img src="images/serambi.gif" width="150" height="76" alt="Serambi" /></td>
+</tr>
+</table>
+<p><font size="-1"><b>Background
+      </b></font></p>
+<p><font size="-1">With a catalog of over 500 books in print and a distribution network of over 300 bookstores,
+  Serambi is one of the largest book publishers and distributors in Indonesia. Serambi's sales
+  have grown by an average 35% in the past ten years, leading it to become one of the 15
+  largest book resellers in Indonesia.</font></p>
+<p><font size="-1"> Serambi was one of the first publishers from Southeast Asia to join the Google Books
+  Partner Program, a decision that Abdul Aziez Bahalwan, CEO of Serambi, took after seeing a
+  Google Books presentation at a book fair in Jakarta. &quot;We thought that Google Books would
+  be a natural fit in Serambi's digital strategy which already included 2 blogs, a YouTube
+  channel, a Facebook page, an RSS feed, and email and text message mailing lists to keep
+  our customers informed of our newest offerings&quot;, explains Mr. Bahalwan.</font></p>
+<p><font size="-1"> <b>Results</b></font></p>
+<p><font size="-1">Since joining the Partner program in early 2008, Serambi has submitted nearly 60% of their
+  books for inclusion in Google Books, with near-immediate effects on traffic to Serambi's site. &quot;We have seen a 15-20% growth in traffic to our site generated by the integration with
+Google Books&quot;, explains Mr. Bahalwan.</font></p>
+<p><font size="-1"> Serambi also implemented the Google Books API on their site, allowing users to search the
+  full text and preview up to 20% of a book before making a purchase decision. According to
+  Serambi's estimates, 10% of users who preview a book then make an online purchase. The
+  search and preview experience on Serambi's site combined with traffic from Google Books
+  generated a notable increase in online sales, which currently account for 7-10% of total
+  sales (up from 3-6% prior to joining the program).</font></p>
+<p><font size="-1"> Inclusion in Google Books has also given Serambi's books international exposure beyond the
+  Indonesian market, generating orders from unexpected places including Holland and the
+  Phillipines. </font></p>
+<p><font size="-1"> Mr. Bahalwan says that Google Books is now “a core part of Serambi's digital strategy and
+  the overall experience we offer our users.” Serambi plans to submit more titles for inclusion
+  in the partner program and to continue to explore new ways to further it's partnership with
+  Google.</font></p>
+<p><font size="-1"><b>About Google Books</b>
+</font>
+</p><p><font size="-1">Google Books enables publishers to promote their books on Google. Google scans the full 
+  text of participating publishers' titles so that Google users can see books that match the
+  topics they are searching on. When users click on a book search result, they're taken to a
+  Google-hosted web page displaying a scanned image of the relevant page from the book.</font></p>
+<p><font size="-1">  Each page also contains multiple &quot;Buy this Book&quot; links, which enable users to purchase the
+  book from online retailers. Users may also see contextually targeted Google AdWords ads
+  on these pages. Publishers will receive a share of the revenue generated from ads appearing
+  on their content.</font></p></td>
+</tr>
+</table>
+<p align="center"><font size="-1">&copy;2010 Google - <a href="/">Home</a> - <a href="/about.html">About Google</a> - <a href="/privacy.html">Privacy Policy</a> </font></p>
+</body>
+</html>

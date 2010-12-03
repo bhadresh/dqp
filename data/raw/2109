@@ -1,0 +1,584 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Google Gadgets:&nbsp;
+Wikipedia Search</title>
+<link href="/desktop/styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+a.selected {
+  font-weight: bold;
+  color: #666;
+  text-decoration: none;
+}
+
+p#nav {
+  line-height: 1.4em;
+}
+
+table.gadget {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+table.gadget td img {
+  border: 1px solid #000;
+  margin: 4px 0px;
+}
+
+body {
+  margin-top: 0px;
+}
+
+table.gadget td input {
+  font-size: 11px;
+  width: 82px;
+}
+
+table.header {
+  margin-bottom: 10px;
+}
+
+table.header h3 {
+  margin-bottom: 0px;
+}
+
+table.header hr {
+  color: #ccc;
+  background-color: #ccc;
+  border-bottom: 1px solid #ccc;
+  height: 1px;
+  margin-top: 0px;
+}
+
+.disclaimer {
+  color: #999;
+}
+
+div.errorheader {
+  color: red;
+  font-weight: bold;
+}
+
+div.errormsg {
+  color: red;
+}
+
+td.button-left {
+  width: 6px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-left_sm.gif');
+  background-repeat: none;
+}
+
+td.button-center {
+  padding-left: 10px;
+  padding-right: 14px;
+  padding-bottom: 3px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-center_sm.gif')
+    ;
+  background-repeat: repeat-x;
+}
+
+td.button-center a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: arial;
+  padding-bottom: 6px;
+}
+
+td.button-right {
+  width: 9px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-right_sm.gif');
+  background-repeat: none;
+}
+
+.linkon {
+  color: #0000cc;
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: normal
+}
+
+.linkoff {
+  font-weight: bold
+}
+
+.review_author {
+  font-weight: bold
+}
+
+td.download-button-left {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_left.gif');
+  background-repeat: none;
+}
+
+td.download-button-center {
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  height: 22px;
+  background: url('/images/add_button_middle.gif');
+  background-repeat: repeat-x;
+}
+
+td.download-button-center a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
+
+td.download-button-right {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_right.gif');
+  background-repeat: none;
+}
+
+.similar-gadget {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.screenshot-image {
+  border: 1px solid #bbcced;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+pre.terms {
+  height:200;
+  width:600;
+  overflow: auto;
+  border-style:inset;
+  border-color:graytext;
+  border-width: thin;
+  text-wrap: unrestricted;
+  white-space: -moz-pre-wrap; /* Moz */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  white-space: pre-wrap; /* CSS3  */
+  word-wrap: break-word; /* IE 5.5+ */
+}
+
+table.confirmation-table td {
+  vertical-align: top;
+}
+
+.gadgetError {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FBE3E4;
+  color: #D12F19;
+  border-color: #FBC2C4;
+}
+
+.gadgetWarning {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FFF6BF;
+  color: #817134;
+  border-color: #FFD324;
+}
+
+</style>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+<script type="text/javascript">
+    _uacct="UA-18007-1";
+    _uanchor=1;
+    urchinTracker();
+  </script></head>
+<body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><a href="/?hl=en"><img src="/en/images/logo3.gif" border="0" height="55" vspace="12" width="150" alt="Google Desktop"></a></td>
+<td width="100%" style="padding-left:12px;padding-top:12px;" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="right" nowrap><font face="Arial, sans-serif" size="-1"><a href="https://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/gd_WikipediaSearch.html">Sign In</a></font></td></tr>
+<tr><td><img alt="" width="1" height="1"></td></tr></table>
+<table cellpadding="0" cellspacing="0" width="100%"><tr><td bgcolor="#3399cc"><img alt="" height="1" width="1"></td></tr></table>
+<table cellspacing="0" cellpadding="2" border="0" width="100%"><tr><td bgcolor="#e8f4f7">&nbsp;
+<font size="3"><b>Google Gadgets</b></font></td></tr></table></td></tr></table>
+<table cellspacing="0" width="100%"><tr valign="top"><td><td nowrap valign="top" width="160"><p id="nav"><font size="-1">Google Gadgets
+<br>
+
+&nbsp;&nbsp;&bull;
+<a href='/plugins/?hl=en'>All</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/news.html?hl=en'>News</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/tools.html?hl=en'>Tools</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/communication.html?hl=en'>Communication</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/finance.html?hl=en'>Finance</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/fun_games.html?hl=en'>Fun & Games</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/google.html?hl=en'>Google</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/sports.html?hl=en'>Sports</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/lifestyle.html?hl=en'>Lifestyle</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/technology.html?hl=en'>Technology</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href="/plugins/c/sidebar/holiday.html?hl=en"><b><font color="red">Holidays</font></b></a>
+<br>
+<br>
+<a href='/plugins/c/index/all.html?hl=en'>Indexing Plugins</a>
+<br>
+<br>
+<br>
+<a href="http://groups.google.com/group/Google-Desktop">Desktop Search Forum</a></font></p>
+<p><font size="-1"><b>For Developers</b>
+<br>
+
+&nbsp;&nbsp;
+<a href='/downloadsdksubmit?hl=en'>Download SDK</a><br>
+&nbsp;&nbsp;
+<a href="/dev/index.html">Developer Guide</a><br>
+&nbsp;&nbsp;
+<a href="/dev/kb.html">FAQ</a><br>
+&nbsp;&nbsp;
+<a href='/pluginsubmit?hl=en'>Submit Software</a><br>
+
+&nbsp;&nbsp;
+<a href="http://groups.google.com/group/Google-Desktop-Developer">Developer Forum</a><br>
+&nbsp;&nbsp;
+<a href='/authors?hl=en'>Hall of Fame</a><br>
+&nbsp;&nbsp;
+<a href='/ambassadors?hl=en'>Ambassadors</a> <br>
+<br>
+<br>
+<br>
+<img src="/images/rss_small.gif" alt="RSS Feed for Latest Gadgets">
+<a href="/feeds/gadgets.xml?hl=en&amp;type=rss" type="application/rss+xml">Latest Gadgets</a>
+<br>
+<br>
+<br>
+<br></font></p></td>
+<td id="dots" width="10"></td></td>
+<td><table><tr style="height:10px;"></tr>
+<tr id="gadgetDetails"><td id="gadgetImage" valign="top" align="center"><img alt="Wikipedia Search" src="/plugins/images/wikipedia_lg.gif" class="screenshot-image"></td>
+<td id="gadgetDetails" valign="top"><h3>Wikipedia Search</h3>
+Search Wikipedia from your desktop.
+<br>
+<p><a href="http://desktop.google.com/plugins/i/gd_WikipediaSearch.html">Learn more</a>
+-
+<a href="http://groups.google.com/group/Google-Desktop-Plugin-WikipediaSearch">Discuss this gadget</a></p>
+<table cellpadding="2" cellspacing="2"><tr><td><strong>Author:</strong></td>
+<td>Google</td></tr>
+<tr><td><strong>Size:</strong></td>
+<td>66KB</td></tr>
+<tr><td><strong>Version:</strong></td>
+<td>1.0.0.0</td></tr>
+<tr><td><strong>Date:</strong></td>
+<td>November 13, 2006</td></tr></table>
+<p><b>This gadget requires  <a href="http://desktop.google.com?hl=en"> Google Desktop  5  or above. </a></b></p>
+<div style="width: 250;"><table cellpadding="0" cellspacing="0"><tr><td class="button-left"></td>
+<td class="button-center"><a href="/url?id=gd_WikipediaSearch">Download gadget</a></td>
+<td class="button-right"></td></tr></table></div>
+<br>
+<a href="http://www.google.com/ig/add?moduleurl=http://desktop.google.com/gow/gadgets/gd_WikipediaSearch.xml">Add this gadget to your iGoogle page</a></td></tr>
+<tr id="reviewsAndComments"><td valign="top" colspan="2"><script type="text/javascript" src="/gadgetComments.js">
+</script>
+<div style="min-width: 600; max-width: 800"><table width="100%"><tr><td><span id="commentsSpan" class="linkoff">Reviews</span></td>
+<td align="right">
+
+<a href="http://desktop.google.com/plugins/i/gd_WikipediaSearch.html?start=20">Next &raquo;</a></td></tr></table>
+<hr size="1" noshade>
+<a href="http://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/gd_WikipediaSearch.html">Sign in</a> to write a comment
+<br><br>
+<div id="comments">
+
+<table id="review 1" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>trece</b>
+&nbsp;</td>
+<td><div id="abuse1" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=j0T1WOQ4D5AbpmRuDeUntRMFi6rdkzk_VwAAAOAyuFNT2P6KAo0ccYSJq1GmeNlyJuiHiSwj3z2ngzZM67_aJSET2D9-ckwoWBTQ3X7XtYMkMwz2pro20L1c8qp503-5kwlxcFjhNuIuRyQqjzOM5YJEcinvPFRbLtZynw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+My 7 years old son, ask me&quot;what is Wikipedia?&quot; and i told him &quot;is the best Dictionary...what you wanna now, say a word...&quot;
+-&quot;ave&quot; (bird).
+(then i wrote: &quot;ave&quot; in the application)...and Ave is just a salutation in Latin...and...that&#39;s it! (no comments, i&#39;m so dissapointed, cause I consider myself a great fan of the wikipedia, but the world is not just English... my son is learning, i am helping him, but is not enough... i m sorry, i will discard the application.
+<br>
+<br> <table id="review 2" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>Vin&iacute;cius</b>
+&nbsp;</td>
+<td><div id="abuse2" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=JwPIzflXmLXWqs4kjrAXji-CNK_dkzk_WAAAAKmxl-h-SBY4m9r8OaURH5uvxTOQWDuuJuYXg9qs1ZJSk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajMXN4fP296VV1AfAbbTObTC1kduqrwfZDKANCT39Gilw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Listen, KIDS.
+
+OK, English is the Universal language... &#39;cos of the World&#39;s history and stuff. BUT there are people that just didn&#39;t have the CHANCE of learning English (for the lazy and the proud: bug off). I&#39;m Brazilian and I know what I&#39;m talking about. So... RED BLOODED A-N-O-N-I-M-O-U-S BUTT-HEAD, take it easy you weak-brain &quot;patriot&quot;. THIS IS ABOUT WORLD HISTORY. And I hope you come to Brazil... or Japan... or German... or Italy... speaking all those languages very well. Man... you suck. It almost feels like you enjoy FUCKING WARS.
+
+<br>
+<br> <table id="review 3" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse3" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=SMubjv3K_fqYocc7IDj6J-P1cSfdkzk_WAAAAFn_SY6VxzqAHus-iV1unpaOq3zmagqWPcpDiRTteNO0k2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajMXN4fP296VV1AfAbbTObT7nvVOv4LKdStRV1lC7BsqA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Si no est&aacute; en espa&ntilde;ol
+No es bueno
+<br>
+<br> <table id="review 4" cellpadding="0" cellspacing="0"><tr>
+<td><b>Jire&#269;ice</b>
+&nbsp;</td>
+<td><div id="abuse4" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=aEtPCDZSFlB2rIzoPD73aJ_YaMLdkzk_WAAAAFSVCDgzLrMih2pjbAsJVJ1TZESWifZY50DKgXdIvVz_k2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajMXN4fP296VV1AfAbbTObT-1Y-GDWcKip-9NVwIYK0aw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+It&#39;s only in english!!!! This app sucks!
+<br>
+<br> <table id="review 5" cellpadding="0" cellspacing="0"><tr>
+<td><b>MTSprankle</b>
+&nbsp;</td>
+<td><div id="abuse5" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=kaFR-pf-V1redZ7ir9WkimOYn6jdkzk_WAAAADByBjHmSTQl5Er2xPnD0hQtkDZV8QpHvYA_rgfsnip7k2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajMXN4fP296VV1AfAbbTObTKKcZklF-emWe5d-dfy34aQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Displays in plain text, could use the backspace function.
+<br>
+<br> <table id="review 6" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse6" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=-MXAakpQylgtlZOruR6WSAuawJ7dkzk_WAAAAJh402dLYBjdVwP8PYjBFt6tYSOZTyu-4NNDZMQPh2nbk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajMXN4fP296VV1AfAbbTObTiVOzI4toL_o43evS_QB0vg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+If u cant understand english u dont fit in this world
+<br>
+<br> <table id="review 7" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>jieka</b>
+&nbsp;</td>
+<td><div id="abuse7" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=eotnzd4rmm41WIREs1R1JkmgFh_dkzk_WAAAADByBjHmSTQl5Er2xPnD0hQrTZrgY0HzuE2S6gdezByBk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajMXN4fP296VV1AfAbbTObT368hlgzvA9nFUybgZ5Dx6A&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+the title of the gadget WIKIPEDIA is always black while if the wallpaper is also in a black color, the title would be difficult to find. if the color of the title can be changed by the wallpaper, that&#39;ll be better. 
+<br>
+<br> <table id="review 8" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse8" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=amU8f3T2FXR6hCTtu9Z5A4hicUTdkzk_WAAAAFn_SY6VxzqAHus-iV1unpaWnsa__k7fW10VNtnTif9Dk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajMXN4fP296VV1AfAbbTObT5cG_qyjHIVfBLXQdm6973A&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Only in english? I dont like it. 
++1
+<br>
+<br> <table id="review 9" cellpadding="0" cellspacing="0"><tr>
+<td><b>Jean-Philippe</b>
+&nbsp;</td>
+<td><div id="abuse9" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=3KF71EDvOzNCe61dzJ3BZPJQ3Mndkzk_WAAAAESVgvbp8sIyq4PbPijD4hbeC88pEtZ0RihAT6V3fuApk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajMXN4fP296VV1AfAbbTObToJSPeU82VVf9Eut8XV9bTw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Pas de traduction Fran&ccedil;aise,dommage..!:(   Donc inutile pour moi..!
+
+<br>
+<br> <table id="review 10" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Martin</b>
+&nbsp;</td>
+<td><div id="abuse10" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=P3VnnJkmMSzrV0tDmTHD2LHZMVDdkzk_WAAAANikjPRBRdP3Ln2R1TjG54ak5cPB6ixluVwRLisib_w3k2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajMXN4fP296VV1AfAbbTObT7wwNny9BwlxsoedSjrdDww&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Only in english?
+I dont like it.
+<br>
+<br> <table id="review 11" cellpadding="0" cellspacing="0"><tr>
+<td><b>pwd1993</b>
+&nbsp;</td>
+<td><div id="abuse11" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=wxC47hvIcWQIGmFZCJ9eULQjb6_dkzk_WAAAADByBjHmSTQl5Er2xPnD0hQ7aiCRiVMaKCpM8oWk1by3k2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajMXN4fP296VV1AfAbbTObTAK1vCtx70X92IWEy_MFlZA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+As a student this tool is awesome. I have it installed on the study computer and its so easy to use!
+<br>
+<br> <table id="review 12" cellpadding="0" cellspacing="0"><tr>
+<td><b>rosa Cancer</b>
+&nbsp;</td>
+<td><div id="abuse12" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=d5OBLO1sxIRyD0YFd8eKkH_zUcbdkzk_WAAAAESVgvbp8sIyq4PbPijD4hY7SW-7ev1IiWsbUnF1gak3k2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajMXN4fP296VV1AfAbbTObTzXozQZu-oJab2AwIjE0gmA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Choice of languages, please.
+Elecci&oacute;n de la lengua por favor
+Choix des langues, s&#39;il vous pla&icirc;t
+<br>
+<br> <table id="review 13" cellpadding="0" cellspacing="0"><tr>
+<td><b>tsucha</b>
+&nbsp;</td>
+<td><div id="abuse13" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=Uj-sheU2_Mw8rAsF3RmCzoGG5TLdkzk_WAAAACnSFIIFldgmpJDeIw5gjypg6aXgY69ic9U9ZLiP1SKAk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajMXN4fP296VV1AfAbbTObTn1HBKM4jW3U74DCEIx6tVQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+It is not switched to a Japanese site of Wikipedia. 
+This is fatal.
+Cannot you set it to the languages other than English?
+ 
+<br>
+<br> <table id="review 14" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse14" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=InzVAjwjAaMcU-FSpULxBcCtpjrdkzk_WAAAAKmxl-h-SBY4m9r8OaURH5v3ro5-DwJ0xZFgbGTsAO8zk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajMXN4fP296VV1AfAbbTObT9tbYnq4HNPE4tOCBez26Ig&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+A premi&egrave;re vue c&#39;est tr&egrave;s int&eacute;ressant. Mais finalement, aucun int&eacute;r&ecirc;t &agrave; l&#39;utilisation car il n&#39;y a pas d&#39;acc&egrave;s au site en fran&ccedil;ais
+<br>
+<br> <table id="review 15" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse15" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=wnsEs2UFKcOpwF5_LslexIfxmxrdkzk_WAAAAG5q8TcNm0rPrbcTIGEuiRvKu-oizo-YALu8ujsWnVRok2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajMXN4fP296VV1AfAbbTObTPnv_a0oUR-VeRfGm6VrOKQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+parfait si l&#39;on pouvait choisir la langue...
+<br>
+<br> <table id="review 16" cellpadding="0" cellspacing="0"><tr>
+<td><b>Roy</b>
+&nbsp;</td>
+<td><div id="abuse16" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=wcV7Ma919AB7aogBb6ZyknuEJ0fdkzk_WAAAADByBjHmSTQl5Er2xPnD0hSsC4udU0uzLIFekZQZGQRDk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajMXN4fP296VV1AfAbbTObTrimYyv2JKVM8701c2Yj2DQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+A very useful gadget but: No facility to paste to the search box;  Updater reports a new update every few days;  Would be nice to pin gadget to the bottom of the sidebar.
+<br>
+<br> <table id="review 17" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse17" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=avN0wD8FTT4nA8K3OgJsHEpQtQ_dkzk_WAAAALp9HUZoOi-qjdjNBEm2jv979_jlsixXRTvxah_iSkhKk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajMXN4fP296VV1AfAbbTObTyt2PUSd3Kt6ShfJ2fZD2nA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+make korean wikipedia plz...(http://ko.wikipedia.org/)
+<br>
+<br> <table id="review 18" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse18" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=sear8SahaFWIWdP3eWDNM-tuzvjdkzk_WAAAADHPi3Q4aF_Vcy5gVczZfqAyxgg2ajSSdsQyMsiqOUOTk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajMXN4fP296VV1AfAbbTObTGpiWJ-PlR6NfafX-7lPDKg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Well this is the U.S.A .....Get a interpetor or
+Move back to China or where ever your FROM .....I can&#39;t stand people that complain about our Free Country and Complain about the littlist Thing&#39;s Ya know ....If Ya dont like it , it&#39;s simple....I think ya know     what to do my little Asin friend !!!!!!! This is about American History not Asin history ...so dont get the app. I think you&#39;ll do us all(RED BLOODED AMERICAN&#39;s) a BIG FAVOR, I dont mean to RUDE, But I&#39;ve been through about a Hundred download&#39;s APP&#39;s and the only Complain&#39;s were about none of them being in &quot;Freakin&quot; Asian... I think the 1st thing when you come to the STATES...Ya&#39; got to learn  the language or you should&#39;nt be over here until you learn.. Cause with my Experance with...Alot of Asian&#39;s that they dont want to learn the language, They think it&#39;s a JOKE or a disgrace to there language...Sincerly a concerned RED BLOODED AMERICAN... P.S Please buy American other wise we all are going ton be out of JOB&#39;S... Just Think about it My Fellow Soldier&#39;s... I hope I did&#39;nt hurt anybody&#39;s feeling&#39;s cause I did&#39;nt really mean toooo...I&#39;m just speaking from the Heart........Later Gator&#39;s 
+<br>
+<br> <table id="review 19" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>&#26133;</b>
+&nbsp;</td>
+<td><div id="abuse19" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=oW8dKNPemsNGKWELaZgcOkIjg1Hdkzk_WAAAAFSVCDgzLrMih2pjbAsJVJ1gMx-BSBPzOFmZVjdi_RY9k2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajMXN4fP296VV1AfAbbTObTLyzrW58R1PhEK0wmUOfg2A&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+why I couldn&#39;t find any date if I enter the Chinese or Japanese&#65311; 
+<br>
+<br> <table id="review 20" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>ddc</b>
+&nbsp;</td>
+<td><div id="abuse20" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=rst3fBADyQx-WSll7ZThCxexEGjdkzk_WAAAANajb4KtUE4sd3cNPx5_w85yaxDkeLiuaREewp_4L6PTk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajMXN4fP296VV1AfAbbTObTrbESyCdeZQyDE8XPoPxh5g&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+This gadget is really very cool,this is must have gadget, and i like its layout,really appreciable 
+<br>
+<br>
+<div align="right">
+
+<a href="http://desktop.google.com/plugins/i/gd_WikipediaSearch.html?start=20">Next &raquo;</a></div></div>
+<form action="/submitcomment" method="POST" name="commentForm" id="commentForm"><div id="writeComment" style="display:none"><table><tr><td valign="top">Rate gadget:</td>
+<td><table cellspacing="0" cellpadding="0"><tr><td><img alt="" src="/images/rateStarsLeft.gif"></td>
+<td><img alt="" id="star1" src="/images/rateStarOff.gif" onclick="setStars(1)" onmouseover="showStars(1)" onmouseout="showStars()"></td>
+<td><img alt="" id="star2" src="/images/rateStarOff.gif" onclick="setStars(2)" onmouseover="showStars(2)" onmouseout="showStars()"></td>
+<td><img alt="" id="star3" src="/images/rateStarOff.gif" onclick="setStars(3)" onmouseover="showStars(3)" onmouseout="showStars()"></td>
+<td><img alt="" id="star4" src="/images/rateStarOff.gif" onclick="setStars(4)" onmouseover="showStars(4)" onmouseout="showStars()"></td>
+<td><img alt="" id="star5" src="/images/rateStarOff.gif" onclick="setStars(5)" onmouseover="showStars(5)" onmouseout="showStars()"></td>
+<td><img alt="" src="/images/rateStarsRight.gif"></td></tr></table></td></tr>
+<tr><td valign="top">Your name:</td>
+<td><b></b>
+&nbsp;
+<input type="checkbox" name="anonymous" value="true" id="anonymous">
+Anonymous</td></tr>
+<tr><td valign="top">Comments:</td>
+<td><textarea name="reviewText" rows="4" cols="25" id="reviewText" style="border: 1px solid #bbcced"></textarea></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="rating" value="0" id="rating" style="display:none;">
+<input type="hidden" name="pluginId" value="gd_WikipediaSearch" id="pluginId">
+<input type="submit" value="Post Comment">
+<input type="reset" value="Discard" onclick="showComments()"></td></tr>
+<tr style="height:20px;"></tr></table></div></form>
+<div id="abuseLinkDiv"></div></div></td></tr></table></td>
+<td id="recommendations"><b>You might also like...</b>
+<hr noshade size="1">
+<table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/ebaydesktopau_inbox.html?hl=en"><img alt="Ebay.com.au Search" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/ebaydesktopau_inbox_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/ebaydesktopau_inbox.html?hl=en">Ebay.com.au Search</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=ebaydesktopau_inbox">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/ebayuk_inbox.html?hl=en"><img alt="Ebay UK Search" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/ebayuk_inbox_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/ebayuk_inbox.html?hl=en">Ebay UK Search</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=ebayuk_inbox">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/google_video.html?hl=en"><img alt="Google Video" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/googlevideo_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/google_video.html?hl=en">Google Video</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=google_video">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/youtubevideo.html?hl=en"><img alt="YOU TUBE GADGET" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/youtubevideo_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/youtubevideo.html?hl=en">YOU TUBE GADGET</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=youtubevideo">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/finditfast_bagienski.html?hl=en"><img alt="Find it Fast!" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/finditfast_bagienski_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/finditfast_bagienski.html?hl=en">Find it Fast!</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=finditfast_bagienski">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/egg_2788.html?hl=en"><img alt="everydaySALE Voucher Search" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/egg_2788_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/egg_2788.html?hl=en">everydaySALE Voucher Search</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=egg_2788">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table>
+<br>
+<br></td></tr>
+<tr><td colspan="5" align="center" id="footer">&copy;  2010  Google
+-
+<a href="/privacypolicy.html">Privacy Policy</a>
+-
+<a href="http://www.google.com/accounts/TOS?hl=en">Terms of Service</a>
+-
+<a href="/copyrights.html">Copyright Notices</a></td></tr></table></body></html>

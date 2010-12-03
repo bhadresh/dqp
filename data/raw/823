@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="utf-8">
+  <title>Privacy FAQ – Google Privacy Center</title>
+  <link rel="stylesheet" href="//www.google.com/css/privacy.css">
+  <h1><a href="/"><img src="//www.google.com/intl/en/images/logo_sm.gif" alt="Google"></a> Privacy Center</h1>
+  <ul id="nav">
+    <li>
+      <a href="privacy.html">Privacy Center</a>
+      <ul>
+        <li><a href="privacypolicy.html">Privacy Policy</a>
+        <li>FAQ
+        <li><a href="privacy_blogs.html">Blog posts</a>
+        <li><a href="/intl/en/corporate/privacy_principles.html">Principles</a>
+        <li><a href="http://www.youtube.com/user/googleprivacy">Videos</a>
+      </ul>
+    <li>
+      <a href="privacy_tools.html">Privacy tools</a>
+      <ul>
+        <li><a href="https://www.google.com/dashboard/?hl=en">Dashboard</a>
+        <li><a href="/ads/preferences/?hl=en">Ads Preferences Manager</a>
+        <li><a href="http://tools.google.com/dlpage/gaoptout?hl=en">Analytics Opt-out</a>
+      </ul>
+    <li id="products">
+      Product information
+      <ul>
+        <li><a href="privacy_ads.html">Advertising</a>
+        <li><a href="/chrome/intl/en/more/privacy.html">Chrome</a>
+        <li><a href="http://maps.google.com/intl/en_us/help/maps/streetview/privacy.html">Street View</a>
+        <li><a href="/history/intl/en/privacyfaq.html">Web History</a>
+      </ul>
+    <li><a href="/accounts/TOS">Terms of Service</a>
+  </ul>
+  <div id="aux">
+    <h2>Privacy FAQ</h2>
+    <ol>
+      <li><a href="#toc-protect">How does Google protect my privacy?</a>
+      <li><a href="#toc-store">Why does Google store search engine logs data?</a>
+      <li><a href="#toc-anonymize">Why are search engine logs kept before being anonymized?</a>
+      <li><a href="#toc-remove">How can I remove information about myself from Google’s search results?</a>
+      <li><a href="#toc-cookies">Does Google use cookies?</a>
+      <li><a href="#toc-privacy-laws">What happens when different privacy laws in different countries conflict?</a>
+      <li><a href="#toc-requests">How often are you asked by governments to provide data on users?</a>
+      <li><a href="#toc-contact">How can I contact Google if I have a privacy question or complaint?</a>
+      <li>
+        <a href="#toc-terms">Key terms</a>
+        <ol>
+          <li><a href="#toc-terms-personal-info">Personal information</a>
+          <li><a href="#toc-terms-account">Google Account</a>
+          <li><a href="#toc-terms-cookie">Cookie</a>
+          <li><a href="#toc-terms-ip">IP address</a>
+          <li><a href="#toc-terms-server-logs">Server logs</a>
+          <li><a href="#toc-terms-sensitive-info">Sensitive information</a>
+          <li><a href="#toc-terms-info">Non-personal information</a>
+          <li><a href="#toc-terms-urls">URLs and embedded information</a>
+        </ol>
+    </ol>
+    <h3 id="toc-protect">How does Google protect my privacy?</h3>
+    <p>At Google, we are keenly aware of the trust our users place in us, and our responsibility to protect their privacy. We believe transparency and choice are the foundations of privacy. To help you make informed decisions about your own privacy, we work to let you know what information we collect when you use our products and services and how we use that information to improve your service. We also work to give you meaningful choices when possible about the information you provide to Google and to others. We encourage you to watch our videos, read our privacy policies and consult our service Help Centers to find out more about privacy at Google.
+    <h3 id="toc-store">Why does Google store search engine logs data?</h3>
+    <p>We store <a href="#toc-terms-server-logs">this data</a> for a number of reasons. Most importantly, we store data to improve our search results and to maintain the security of our systems. Analyzing logs data helps our engineers both improve your search quality and build helpful innovative services. Take the example of Google Spell Checker. Google’s spell checking software automatically looks at a user’s query and checks to see if that user is using the most common version of the word’s spelling. If we calculate a user is likely to get more relevant search results with an alternative spelling, we’ll ask “Did you mean: (more common spelling)?” In order to provide this service, we study the data in our logs. Logs data also helps us improve our search results. If we know that users are clicking on the #1 result, we know we’re probably doing something right, and if they’re hitting next page or reformulating their query, we’re probably doing something wrong. In addition, logs data helps us prevent against fraud and other abuses, like phishing, scripting attacks, and spam, including query click spam and ads click spam.
+    <h3 id="toc-anonymize">Why are search engine logs kept before being anonymized?</h3>
+    <p>We strike a reasonable balance between the competing pressures we face, such as the privacy of our users, the security of our systems and the need for innovation. We believe anonymizing IP addresses after 9 months and cookies in our search engine logs after 18 months strikes the right balance.
+    <h3 id="toc-remove">How can I remove information about myself from Google’s search results?</h3>
+    <p>Like all search engines, Google is a reflection of the content and information publicly available on the Internet. Search engines do not have the ability to remove content directly from the Internet, so removing content from Google or another search engine would still leave the original content that exists on the Web. If you want to remove something from the Internet, your best bet is to <a href="/support/webmasters/bin/answer.py?answer=9109&amp;hl=en">contact the webmaster</a> of the site and ask him or her to make a change. Once the content has been removed and Google’s search engine crawl has visited the page again, the information will no longer appear in Google’s search results. If you have an urgent removal request, you can also visit our help page for <a href="/support/webmasters/bin/answer.py?answer=156094&amp;hl=en">more information</a>.
+    <h3 id="toc-cookies">Does Google use cookies?</h3>
+    <p>Yes, like most web sites and search engines, Google uses <a href="#toc-terms-cookie">cookies</a> to improve your experience and to provide services and advertising. Cookies help us keep keep a record of your preferences, like whether you want your search results in English or French, or if you use our SafeSearch filter. Without cookies, Google wouldn’t be able to remember what different people like. We also use cookies to provide advertising more relevant to your interests.
+    <p>We’ve been told most users don’t want to re-set their computers every time they log on. If you don’t want to receive cookies you can change your browsers to notify you when cookies are sent and then refuse cookies from certain web sites (or altogether). You can also delete cookies from your browser. Google’s search engine does work without cookies, but you will lose some functionality if you choose to disable cookies.
+    <h3 id="toc-privacy-laws">What happens when different privacy laws in different countries conflict?</h3>
+    <p>Our privacy policies are drafted to comply with the privacy laws in all the countries where we do business.
+    <h3 id="toc-requests">How often are you asked by governments to provide data on users?</h3>
+    <p>Like other technology and communications companies, we receive requests from government agencies around the world to provide information about users of our services and products. To help increase transparency about these requests we have created the <a href="/governmentrequests/">Government Requests Tool</a>, which shows the number of requests that we have received that relate primarily to criminal investigations. For more information about the tool and the nature of these requests, please check the <a href="/governmentrequests/faq.html">Government Requests Tool FAQ</a>.
+    <h3 id="toc-contact">How can I contact Google if I have a privacy question or complaint?</h3>
+    <p>You can contact us any time through our <a href="/support/websearch/bin/request.py?contact_type=privacy&amp;hl=en">privacy contact form</a>. If you prefer, you can also write to:
+    <address>Privacy Matters<br>c/o Google Inc.<br>1600 Amphitheatre Parkway<br>Mountain View, California, 94043<br>USA</address>
+    <h3 id="toc-terms">Key terms</h3>
+    <h4 id="toc-terms-personal-info">Personal information</h4>
+    <p>“Personal information” is information that you provide to us which personally identifies you, such as your name, email address or billing information, or other data which can be reasonably linked to such information by Google.
+    <h4 id="toc-terms-account">Google Account</h4>
+    <p>You may access some of our services by signing up for a <a href="/accounts/">Google Account</a> and providing us with some personal information (typically your name, email address and a password). This account information will be used to authenticate you when you access Google services and protect your account from unauthorized access by others. We may share personal information among our various services in order to customize content and enhance our services for you. No account information is shared with anyone other than Google except as specified in the Privacy Policy or with your consent.
+    <p>You can edit or terminate your account at any time through your Google Account settings.
+    <h4 id="toc-terms-cookie">Cookie</h4>
+    <p>A “cookie” is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies.
+    <h4 id="toc-terms-ip">IP address</h4>
+    <p>Every computer connected to the Internet is assigned a unique number known as an Internet protocol (IP) address. Since these numbers are usually assigned in country-based blocks, an IP address can often be used to identify the country from which a computer is connecting to the Internet.
+    <h4 id="toc-terms-server-logs">Server logs</h4>
+    <p>Like most Web sites, our servers automatically record the page requests made when you visit our sites. These “server logs” typically include your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+    <p>Here is an example of a typical log entry where the search is for “cars”, followed by a breakdown of its parts:
+    <pre>123.45.67.89 - 25/Mar/2003 10:15:32 -
+http://www.google.com/search?q=cars -
+Firefox 1.0.7; Windows NT 5.1 - 740674ce2123e969</pre>
+    <ul>
+      <li><code>123.45.67.89</code> is the Internet Protocol address assigned to the user by the user’s ISP; depending on the user’s service, a different address may be assigned to the user by their service provider each time they connect to the Internet;
+      <li><code>25/Mar/2003 10:15:32</code> is the date and time of the query;
+      <li><a href="http://www.google.com/search?q=cars"><code>http://www.google.com/search?q=cars</code></a> is the requested URL, including the search query;
+      <li><code>Firefox 1.0.7; Windows NT 5.1</code> is the browser and operating system being used; and
+      <li><code>740674ce2123a969</code> is the unique cookie ID assigned to this particular computer the first time it visited Google. (Cookies can be deleted by users. If the user has deleted the cookie from the computer since the last time s/he visited Google, then it will be the unique cookie ID assigned to the user the next time s/he visits Google from that particular computer).
+    </ul>
+    <h4 id="toc-terms-sensitive-info">Sensitive information</h4>
+    <p>“Sensitive personal information” includes information we know to be related to confidential medical information, racial or ethnic origins, political or religious beliefs or sexuality and tied to personal information.
+    <h4 id="toc-terms-info">Non-personal information</h4>
+    <p>“Non-personal information” is information that is recorded about users so that it no longer reflects or references an individually identifiable user.
+    <h4 id="toc-terms-urls">URLs and embedded information</h4>
+    <p>Some of our services, including Google Toolbar and Google Web Accelerator, send the uniform resource locators (“URLs”) of web pages that you request to Google. When you use these services, Google will receive and store the URL sent by the web sites you visit, including any personal information inserted into those URLs by the web site operator. Some Google services (such as Google Toolbar) enable you to opt-in or opt-out of sending URLs to Google, while for others (such as Google Web Accelerator) the sending of URLs to Google is intrinsic to the service. When you sign up for any such service, you will be informed clearly that the service sends URLs to Google, and whether and how you can opt-in or opt-out.
+    <p>For example, when you submit information to a web page (such as a user login ID or registration information), the operator of that web site may “embed” that information – including personal information – into its URL (typically, after a question mark (“?”) in the URL). When the URL is transmitted to Google, our servers automatically store the URL, including any personal information that has been embedded after the question mark. Google does not exercise any control over these web sites or whether they embed personal information into URLs.
+    <div id="about">&copy;2010 Google - <a href="/intl/en/about.html">About Google</a> - <a href="/support/websearch/bin/answer.py?answer=151265&amp;hl=en">Feedback</a></div>
+  </div>
+  <script src="//www.google-analytics.com/ga.js"></script>
+  <script>
+    try {
+      var pageTracker = _gat._getTracker('UA-5062883-2');
+      pageTracker._setCookiePath('/intl/en/');
+      pageTracker._trackPageview();
+    } catch(err) {}
+  </script>

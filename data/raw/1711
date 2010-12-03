@@ -1,0 +1,404 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>United States Dollar: CURRENCY:USDJPY quotes & news - Google Finance</title>
+<meta name="Description" content="Get detailed financial information on United States Dollar (CURRENCY:USDJPY) including real-time stock quotes, historical charts & financial news, all for free!"><meta name="robots" content="noindex">
+<link rel="stylesheet" type="text/css" href="/finance/s/i3gpPu9Jou8/styles/finance_us.css">
+<style>#gbar,#guser{font-size:13px;padding-right:8px;padding-top:4px !important}#gbar{padding-left:8px;float:left;height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}#gbs,.gbm{background:#fff;left:0;position:absolute;text-align:left;visibility:hidden;z-index:1000}.gbm{border:1px solid;border-color:#c9d7f1 #36c #36c #a2bae7;z-index:1001}.gb1{margin-right:.5em}.gb1,.gb3{zoom:1}.gb2{display:block;padding:.2em .5em}.gb2,.gb3{text-decoration:none;border-bottom:none}a.gb1,a.gb2,a.gb3,a.gb4{color:#00c !important}.gbi .gb3,.gbi .gb2,.gbi .gb4{color:#dd8e27 !important}.gbf .gb3,.gbf .gb2,.gbf .gb4{color:#900 !important}a.gb2:hover{background:#36c;color:#fff !important}div#gbar{padding-left:0}</style>
+<script>(function(){function i(a,b,d){var c="on"+b;if(a.addEventListener)a.addEventListener(b,d,false);else if(a.attachEvent)a.attachEvent(c,d);else{var f=a[c];a[c]=function(){var g=f.apply(this,arguments),e=d.apply(this,arguments);return g==undefined?e:e==undefined?g:e&&g}}};var j,k,l,m=window.gbar={},n={};function _tvs(a,b){return a||b}function _tvn(a,b){var d=parseInt(a,10);return isNaN(d)?b:d}function _tvf(a,b){var d=parseFloat(a);return isNaN(d)?b:d}function _tvb(a,b){return a=="true"?true:a=="false"?false:b}var o,p,q;function r(a){var b=window.b&&(document.forms[0].f||"").value;if(b)a.href=a.href.replace(/([?&])q=[^&]*|$/,function(d,c){return(c||"&")+"q="+encodeURIComponent(b)})}l=r;
+function s(a,b,d,c,f,g){var e=document.getElementById(a);if(e){var h=e.style;h.left=c?"auto":b+"px";h.right=c?b+"px":"auto";h.top=d+"px";h.visibility=p?"hidden":"visible";if(f&&g){h.width=f+"px";h.height=g+"px"}else{s(o,b,d,c,e.offsetWidth,e.offsetHeight);p=p?"":a}}}
+var w=function(a){a=a||window.event;var b,d=a.target||a.srcElement;a.cancelBubble=true;if(o!=null)t(d);else{b=document.createElement(Array.every||window.createPopup?"iframe":"div");b.frameBorder="0";o=b.id="gbs";b.src="javascript:''";d.parentNode.appendChild(b);i(document,"click",u);t(d);n.a&&n.a(function(){var c=document.getElementById("gbli");if(c){var f=c.parentNode;v(f,c);var g=c.e;f.removeChild(c);n.g(f,g);b.style.height=f.offsetHeight+"px"}})}};
+function t(a){var b=0;if(a.className!="gb3")a=a.parentNode;var d=a.getAttribute("aria-owns")||"gbi",c=a.offsetWidth,f=a.offsetTop>20?46:24;if(document.getElementById("tphdr"))f-=3;var g=false;do b+=a.offsetLeft||0;while(a=a.offsetParent);a=(document.documentElement.clientWidth||document.body.clientWidth)-b-c;var e;c=document.body;var h=document.defaultView;if(h&&h.getComputedStyle){if(c=h.getComputedStyle(c,""))e=c.direction}else e=c.currentStyle?c.currentStyle.direction:c.style.direction;e=e=="rtl";
+if(d=="gbi"){c=document.getElementById("gbi");v(c,document.getElementById("gbli")||c.firstChild);if(e){b=a;g=true}}else if(!e){b=a;g=true}p!=d&&u();s(d,b,f,g)}var u=function(){p&&s(p,0,0)};function v(a,b){for(var d,c=window.d;c&&(d=c.pop());){var f=a,g=d,e=b;if(!q){q="gb2";if(n.a){var h=n.c(f);if(h)q=h}}f.insertBefore(g,e).className=q}}
+var x=function(a,b,d){if((b=document.getElementById(b))&&a){a.className="gb4";var c=document.createElement("span");c.appendChild(a);c.appendChild(document.createTextNode(" | "));c.id=d;b.appendChild(c)}};m.qs=l;m.setContinueCb=k;m.pc=j;m.tg=w;m.close=u;m.addLink=x;})();
+</script>
+<link rel="icon"
+        type="image/vnd.microsoft.icon" href="/finance/favicon.ico">
+<script>(function(){function a(c){this.t={};this.tick=function(e,f,b){b=b?b:(new Date).getTime();this.t[e]=[b,f]};this.tick("start",null,c)}var d=new a;window.jstiming={Timer:a,load:d};try{var g=null;if(window.chrome&&window.chrome.csi)g=Math.floor(window.chrome.csi().pageT);if(g==null)if(window.gtbExternal)g=window.gtbExternal.pageT();if(g==null)if(window.external)g=window.external.pageT;if(g)window.jstiming.pt=g}catch(h){};function i(c){window.jstiming&&window.jstiming.load.tick(c)}window._tck=i;})();
+</script>
+<script type="text/javascript">var google=google||{};var _cleardot = '/finance/s/m4C5KaofCbA/images/cleardot.gif';</script>
+<script type="text/javascript" src="/finance/s/HctJl7DXpjg/js/finance-opt.js?hl=en&gl=us"></script>
+<script type="text/javascript">
+(function(){var d=navigator.userAgent.toLowerCase().indexOf("msie")!=-1;function e(){for(var a=document.styleSheets,b=a.length-1;b>=0;--b){var c=a[b].href;if(c)if(c.indexOf("styles/finance_")!=-1||c.indexOf("styles_")!=-1)return a[b]}return null}function f(){var a=e();if(a){a=a.rules;return a.length>0&&a[a.length-1].selectorText==".lastFinanceRule"}return false}
+function g(){if(document.scripts)for(var a=0;a<document.scripts.length;++a){var b=document.scripts[a];if(b&&b.src.indexOf("/js/gen_finance.js")!=-1)return b}return null}function _chkCssJs(){if(d){if(typeof _lastFinanceFn!="function"){var a=g();if(a&&a.src){var b=a.src.indexOf("?")!=-1?"&":"?";a.src+=b+"zx="+Math.random()}}if(!f())if((a=e())&&a.href){b=a.href.indexOf("?")!=-1?"&":"?";a.href+=b+"zx="+Math.random()}}};_chkCssJs();})();
+  
+    _setStickyUrlParams("");
+  </script>
+<style>
+html {
+min-height: 100%; margin-bottom: 0.01em;
+}
+.blogref a:link,.blogref a:active,.blogref a:visited,.blogref {color:#7777CC}
+.lac {text-decoration:underline; color:#00C; cursor:pointer;}
+.lnac {text-decoration:none; color:#A1A1A1; cursor:text;}
+.imgac {cursor:pointer; border:0px;}
+.imgnac {cursor:none; border:0px;}
+.r {
+margin-top:-2px; margin-left:30px; margin-bottom:0px; margin-right:5px;
+padding:7px 10px 10px 10px; line-height:1.3em; position:absolute; display:none; z-index:10;
+border:2px solid #9DDF99; background-color:#FFF;
+}
+</style>
+</head>
+<body>
+<div class=g-doc id=outer-wrapper>
+<div id=body-wrapper>
+<div id=gbar><nobr><a href="http://www.google.com/search?q=USDJPY&sa=N&hl=en&tab=ew" onclick=gbar.qs(this) class=gb1>Web</a> <a href="http://www.google.com/images?q=USDJPY&source=og&sa=N&hl=en&tab=ei" onclick=gbar.qs(this) class=gb1>Images</a> <a href="http://www.google.com/search?q=USDJPY&tbo=u&tbs=vid:1&source=og&sa=N&hl=en&tab=ev" onclick=gbar.qs(this) class=gb1>Videos</a> <a href="http://maps.google.com/maps?q=USDJPY&sa=N&hl=en&tab=el" onclick=gbar.qs(this) class=gb1>Maps</a> <a href="http://www.google.com/search?q=USDJPY&tbo=u&tbs=nws:1&source=og&sa=N&hl=en&tab=en" onclick=gbar.qs(this) class=gb1>News</a> <a href="http://www.google.com/search?q=USDJPY&tbo=u&tbs=shop:1&source=og&sa=N&hl=en&tab=ef" onclick=gbar.qs(this) class=gb1>Shopping</a> <a href="http://mail.google.com/mail/?hl=en&tab=em" class=gb1>Gmail</a> <a href="http://www.google.com/intl/en/options/" onclick="this.blur();gbar.tg(event);return !1" aria-haspopup=true class=gb3><u>more</u> <small>&#9660;</small></a><div class=gbm id=gbi><a href="http://www.google.com/search?q=USDJPY&tbo=u&tbs=bks:1&source=og&sa=N&hl=en&tab=ep" onclick=gbar.qs(this) class=gb2>Books</a> <b class=gb2>Finance</b> <a href="http://translate.google.com/translate_t?q=USDJPY&sa=N&hl=en&tab=eT" onclick=gbar.qs(this) class=gb2>Translate</a> <a href="http://scholar.google.com/scholar?q=USDJPY&sa=N&hl=en&tab=es" onclick=gbar.qs(this) class=gb2>Scholar</a> <a href="http://www.google.com/search?q=USDJPY&tbo=u&tbs=blg:1&source=og&sa=N&hl=en&tab=eb" onclick=gbar.qs(this) class=gb2>Blogs</a> <a href="http://www.google.com/search?q=USDJPY&tbo=u&tbs=mbl:1&source=og&sa=N&hl=en&tab=eY" onclick=gbar.qs(this) class=gb2>Updates</a> <div class=gb2><div class=gbd></div></div><a href="http://www.youtube.com/results?q=USDJPY&sa=N&hl=en&tab=e1" onclick=gbar.qs(this) class=gb2>YouTube</a> <a href="http://www.google.com/calendar/render?hl=en&tab=ec" class=gb2>Calendar</a> <a href="http://picasaweb.google.com/lh/view?q=USDJPY&sa=N&hl=en&tab=eq" onclick=gbar.qs(this) class=gb2>Photos</a> <a href="http://docs.google.com/?hl=en&tab=eo" class=gb2>Documents</a> <a href="http://www.google.com/reader/view/?hl=en&tab=ey" class=gb2>Reader</a> <a href="http://sites.google.com/?hl=en&tab=e3" class=gb2>Sites</a> <a href="http://groups.google.com/groups?q=USDJPY&sa=N&hl=en&tab=eg" onclick=gbar.qs(this) class=gb2>Groups</a> <div class=gb2><div class=gbd></div></div><a href="http://www.google.com/intl/en/options/" class=gb2>even more &raquo;</a> </div></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.com/support/finance?hl=en-US" class=gb4>Help</a> | <a href="https://www.google.com/accounts/Login?hl=en&continue=http://www.google.com/finance%3Fq%3DUSDJPY&service=finance" class=gb4>Sign in</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div>
+<script>window.locale={hl:'en',gl:'us',locale:'en-US'};</script>
+<div class="g-section g-tpl-75-25 g-split search-header">
+<div class="g-unit g-first">
+<div class=sfe-logo>
+<a href="/finance">
+<img src="/finance/s/M4XFgDr56u4/images/logo_us.gif" alt="Google Finance.">
+</a>
+</div>
+<div class=sfe-search>
+<form method=GET action="/finance" name=f>
+<input name=q id=searchbox autocomplete=off size=40 maxlength=2048
+             type=text tabindex=1 title="Quote search input"
+             value="USDJPY">
+<input type=submit value="Get quotes" >
+<br>
+<span class="searchExample">
+Example: "CSCO" or "Google"</span>
+</form>
+</div>
+</div>
+<div class="g-unit promo">
+</div>
+</div>
+<div class="g-section g-tpl-nav-main">
+<div class="g-unit g-first" id="left-nav">
+<ul id=navmenu>
+<li class="nav-selected nav-expanded">Currency
+<li class=navsub>
+<div>Summary
+</div>
+<li class=navsub>
+<a id="nav-crn" 
+  href="/finance/company_news?q=USDJPY">News
+</a>
+<li class=nav-item>
+<a id="nav-m" 
+  href="/finance">
+<div>Markets</div></a>
+<li class=nav-item>
+<a id="nav-n" 
+  href="/finance/market_news">
+<div>News</div></a>
+<li class=nav-item>
+<a href="https://www.google.com/accounts/ServiceLogin?hl=en&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com%3A80%2Ffinance%2Fportfolio%3Faction%3Dview" >
+<div>Portfolios</div></a>
+<li class=nav-item>
+<a id="nav-s" 
+  href="/finance/stockscreener">
+<div>Stock screener</div></a>
+<li class=nav-item>
+<a id="nav-q" 
+  href="/finance/domestic_trends">
+<div>Google Domestic Trends</div></a>
+</ul>
+<div id=rq-box>
+<h4>Recent quotes</h4>
+<div id=rq-toggle></div>
+<div id=rq-table></div>
+<a id=rq-create href="https://www.google.com/accounts/ServiceLogin?hl=en&service=finance&nui=1&continue=http%3A%2F%2Fwww.google.com%2Ffinance%3Fq%3DUSDJPY" >Sign in to create portfolio</a>
+</div>
+<script>
+setTimeout(
+function() {try{google.finance.renderRecentQuotes();}catch(e){}}, 200);
+</script>
+<form id=new_pform_nav
+      action=/finance/portfolio/create?hash= method=post>
+<input id=new_pform_name type=hidden name=pname />
+<input id=new_pform_cids type=hidden name=pcids />
+<input id=is_logged_in type=hidden name=is_logged_in
+           value=0 />
+</form>
+<div id=ra-target></div>
+</div>
+<div class="g-unit sfe-break-left" id="rt-content">
+<!-- a -->
+<script>
+(function() {
+if (_finance_chart) {
+var el = document.getElementById('chart_anchor');
+if (el) {
+el.innerHTML = '';
+}
+_finance_chart = null;
+}
+})();
+var _ticker = 'CURRENCY:USDJPY';
+var _slHeight = 221;
+var _companyName = 'United States Dollar';
+var _displayVolume = false;
+var _companyId = 8460793;
+_s_Store._numToDisplay = 5;
+_comparison_charts_Store._numToDisplay = 8;
+function onCompanyLoad() {
+_external_target = "";
+_emitFlashChartOnLoad(
+"/finance/s/OFspRxwQDQg/chart9.swf?hl=en&gl=us",
+_ticker, "chart_anchor", "market-data-div",
+_chartConfigObject);
+google.finance.onCurrencyLoad();
+_initAutoFocus();
+if (google.finance.initTechnicals) {
+google.finance.initTechnicals(true);
+}
+}
+</script>
+<div class=g-wrap>
+<div class="g-section sfe-break-bottom-8">
+<div class="g-tpl-67-33 g-split hdg top" id=companyheader>
+<div class="g-unit g-first"><h3>United States Dollar&nbsp;(USD) in Japanese Yen (JPY)</h3>&nbsp;&nbsp;
+<a id=currency_reverse class=norm href="/finance?q=JPYUSD"  >View JPY in USD</a>
+</div><div class="g-unit norm"></div>
+</div>
+</div>
+
+<div id=ra-src class=hide>
+<div id=ra-target></div>
+</div>
+<script>
+_eventid = 'huT2TLi4CIf6qwP0uYTaCA';
+var google = google || {};
+google.finance = google.finance || {};
+google.finance.data = {common:{rq:{ct:""},up:"chg",down:"chr",linktargetInternal:"",hash:"",dfp:"http://ad-g.doubleclick.net/adi/com.gf.company/default;fe=currency;ft=usdjpy;sz=300x250;dcopt=ist;myd=ad"},company:{news:{clusters:[{nrel:4,imp:1,idx:0,id:17593824254451,ed:"18 hours ago",tt:1291180899,lead_story_url:"http://www.bloomberg.com/news/2010-12-01/u-s-dollar-bonds-draw-potash-amid-record-sales-canada-credit.html",a:[{t:"U.S. Dollar Bonds Draw Potash Amid Record Sales: Canada Credit",u:"http://www.bloomberg.com/news/2010-12-01/u-s-dollar-bonds-draw-potash-amid-record-sales-canada-credit.html",s:"Bloomberg",d:"18 hours ago",tt:1291180899,fid:76155457},{t:"Dollar Bonds Draw Potash as Sales Accelerate to Record Pace",u:"http://resourceinvestingnews.com/10274-dollar-bonds-draw-potash-as-sales-accelerate-to-record-pace.html",s:"Resource Investing News"}],score:19.446252822875977},{nrel:14,imp:2,idx:1,id:17593825226337,ed:"Nov 29, 2010",tt:1291059333,lead_story_url:"http://www.bloomberg.com/news/2010-12-01/dollar-proves-best-returning-asset-in-november-defying-bernanke-skeptics.html",a:[{t:"Dollar Proves Best-Returning Asset in November, Defying Bernanke Skeptics",u:"http://www.bloomberg.com/news/2010-12-01/dollar-proves-best-returning-asset-in-november-defying-bernanke-skeptics.html",s:"Bloomberg",d:"Nov 29, 2010",tt:1291059333,fid:76141457},{t:"Dollar Defying Skeptics as Best-Returning Asset",u:"http://www.businessweek.com/news/2010-12-01/dollar-defying-skeptics-as-best-returning-asset.html",s:"BusinessWeek"},{t:"Dollar Defies Skeptics as Best-Returning Asset in November",u:"http://articles.moneycentral.msn.com/news/article.aspx?feed=BLOOM\x26date=20101201\x26id=12467573",s:"MSN Money"},{t:"Dollar\x26#39;s Rally on Euro Jitters Could Be Short-Lived: Pros",u:"http://m.cnbc.com/us_news/40418574/1",s:"CNBC"},{t:"Brent oil trading near $86 as ICE Dollar Index peaks",u:"http://www.liveoilprices.co.uk/oil/oil_prices/12/2010/brent-oil-trading-near-86-as-ice-dollar-index-peaks.html",s:"Live Oil Prices"},{t:"Asia, Europe, U.S. Dollar, and QE-2 Make The World Go Around (NYSE:FXE) (NYSE:CLF) (NYSE:X)",u:"http://www.inthemoneystocks.com/n_rant_and_rave_blog_single.php?id=10920",s:"Inthemoneystocks.com"}],score:17.512319564819336},{nrel:0,imp:2,idx:2,id:17593825196801,ed:"Nov 28, 2010",tt:1290937564,lead_story_url:"http://www.reuters.com/article/idUSN0113333220101201",a:[{t:"US dollar falls vs euro, trims gains vs yen after US data",u:"http://www.reuters.com/article/idUSN0113333220101201",s:"Reuters",d:"Nov 28, 2010",tt:1290937564,fid:76231457},{t:"Euro remains weak vs US dollar",u:"http://www.businessweek.com/ap/financialnews/D9JQB9202.htm",s:"BusinessWeek"},{t:"Forex - Dollar mixed vs. rivals after US manufacturing, jobs data",u:"http://www.stockmarketsreview.com/news/64899/",s:"Stock Markets Review"},{t:"Forex � GBP/USD Hits Fresh Daily High After UK Manufacturing Data",u:"http://www.dailymarkets.com/forex/2010/12/01/forex-gbpusd-hits-fresh-daily-high-after-u-k-manufacturing-data/",s:"Daily Markets"},{t:"Daily Outlook - Irish Bailout Approved by EU",u:"http://www.easy-forex.com/news/daily-reports-asia-pacific/daily-outlook-irish-bailout-approved-by-eu-201011291525.html",s:"Easy-Forex"},{t:"Daily Forex Summary on USD, Euro, GBP, JPY, AUD, CAD and NZD",u:"http://hken.ibtimes.com/articles/87714/20101201/daily-forex-summary-on-usd-euro-gbp-jpy-aud-cad-and-nzd.htm",s:"IBTimes Hong Kong"}],score:17.141122817993164},{nrel:0,imp:2,idx:3,id:17593822175354,ed:"Nov 23, 2010",tt:1290471639,lead_story_url:"http://www.bloomberg.com/news/2010-11-23/euro-weakens-for-second-day-asia-stocks-decline-on-ireland-debt-concerns.html",a:[{t:"Stocks Drop, Dollar Gains on Korea Clash, Europe Debt",u:"http://www.bloomberg.com/news/2010-11-23/euro-weakens-for-second-day-asia-stocks-decline-on-ireland-debt-concerns.html",s:"Bloomberg",d:"Nov 23, 2010",tt:1290471639,fid:75349457},{t:"GLOBAL MARKETS-Korea tensions, Irish jitters knock stocks lower",u:"http://www.reuters.com/article/idUSN2317181220101123",s:"Reuters"},{t:"Dollar Jumps, Stocks Fall on Korea Clash",u:"http://online.wsj.com/article/SB10001424052748704369304575631931330491858.html",s:"Wall Street Journal"},{t:"Dollar Gains on Korea Skirmish, Euro Zone Debt Worries",u:"http://www.cnbc.com/id/40324194",s:"CNBC"},{t:"Stocks, U.S. Futures Slump as Dollar Advances on Korea Shelling",u:"http://www.sfgate.com/cgi-bin/article.cgi?f=%2Fg%2Fa%2F2010%2F11%2F22%2Fbloomberg1376-LCBHA10YHQ0X01-6TCDJPFFULH2P33JINUHKN8LGN.DTL",s:"San Francisco Chronicle"},{t:"US dollar off highs as China, South Korea plead peace; had hit 6-week high vs yen on news of shelling",u:"http://www.ibtimes.com/articles/84751/20101123/north-korea-south-korea-china-dollar-shelling-australian-dollar-japanese-yen-aud-usd-euro-pound-peac.htm",s:"International Business Times"}],score:17.230743408203125},{nrel:0,imp:2,idx:4,id:17593823973203,ed:"Nov 22, 2010",tt:1290455580,lead_story_url:"http://online.wsj.com/article/BT-CO-20101125-704846.html",a:[{t:"WORLD FOREX: Dollar Up Vs Swiss Franc In Thin Trading",u:"http://online.wsj.com/article/BT-CO-20101125-704846.html",s:"Wall Street Journal",d:"Nov 22, 2010",tt:1290455580,fid:75655457},{t:"Dollar supported as investors seek havens",u:"http://www.ft.com/cms/s/8c404194-f6ee-11df-8feb-00144feab49a.html",s:"Financial Times"},{t:"Euro stable, but debt worries persist",u:"http://www.marketwatch.com/story/euro-stable-but-debt-worries-persist-2010-11-25",s:"MarketWatch"},{t:"Dollar Pares Big Gains Vs Euro After Mixed US Data",u:"http://www.thestreet.com/story/10931560/1/dollar-pares-big-gains-vs-euro-after-mixed-us-data.html",s:"TheStreet.com"},{t:"Euro drops to 2-month low against US dollar",u:"http://moneycentral.msn.com/inc/news/providerredir.asp?feed=AP\x26date=20101124\x26id=12448446",s:"MSN Money"},{t:"Dollar, Yen Decline as Evidence of US Recovery Reduces Demand for Refuge",u:"http://www.bloomberg.com/news/2010-11-24/dollar-extends-gain-versus-yen-as-jobless-claims-drop-more-than-forecast.html",s:"Bloomberg"}],score:17.693634033203125},{nrel:0,imp:2,idx:5,id:17593822710012,ed:"Nov 22, 2010",tt:1290399977,lead_story_url:"http://www.financialexpress.com/news/rupee-slips-to-45.59-against-dollar/716346/",a:[{t:"Rupee slips to 45.59 against dollar",u:"http://www.financialexpress.com/news/rupee-slips-to-45.59-against-dollar/716346/",s:"Financial Express",d:"Nov 22, 2010",tt:1290399977,fid:75295457},{t:"Derivatives Signal Rupee Rate Premium Over Dollar to Narrow: India Credit",u:"http://www.bloomberg.com/news/2010-11-22/derivatives-signal-rupee-rate-premium-over-dollar-to-narrow-india-credit.html",s:"Bloomberg"},{t:"Derivatives Signal Rupee Rate Premium to Narrow: India Credit",u:"http://www.businessweek.com/news/2010-11-23/derivatives-signal-rupee-rate-premium-to-narrow-india-credit.html",s:"BusinessWeek"},{t:"Rupee opens 4 paise lower against dollar in morning trade",u:"http://timesofindia.indiatimes.com/business/india-business/Rupee-opens-4-paise-lower-against-dollar-in-morning-trade/articleshow/6986555.cms",s:"Times of India"},{t:"Dollar ends sharply dearer against Rupee",u:"http://www.thehindu.com/business/markets/article914902.ece",s:"The Hindu"},{t:"Rupee Gains 18 Paise Against Dollar",u:"http://news.outlookindia.com/item.aspx?702444",s:"Outlook"}],score:17.623725891113281},{nrel:0,imp:2,idx:6,id:17593819504717,ed:"Nov 15, 2010",tt:1289864524,lead_story_url:"http://www.bloomberg.com/news/2010-11-15/japanese-stock-futures-australia-shares-gain-on-u-s-retail-sales-dollar.html",a:[{t:"Japanese Stock Futures, Australia Shares Gain on US Retail Sales, Dollar",u:"http://www.bloomberg.com/news/2010-11-15/japanese-stock-futures-australia-shares-gain-on-u-s-retail-sales-dollar.html",s:"Bloomberg",d:"Nov 15, 2010",tt:1289864524,fid:74646457},{t:"Earnings breathe new life into Tokyo stocks",u:"http://www.marketwatch.com/story/earnings-breathe-new-life-into-tokyo-stocks-2010-11-15",s:"MarketWatch"},{t:"Japan Shares Slip; Resource, Trading Firms Weaken",u:"http://markets.m.foxbusiness.com/quickPage.html?page=19610\x26content=44728547",s:"FOX Business"},{t:"Roundup: Nikkei adds 0.15 pct as weak yen lifts exporters",u:"http://www.istockanalyst.com/article/viewiStockNews/articleid/4675312",s:"istockAnalyst.com"}],score:18.386920928955078},{nrel:0,imp:1,idx:7,id:17593819755781,ed:"Nov 15, 2010",tt:1289829163,lead_story_url:"http://online.wsj.com/article/BT-CO-20101116-713655.html",a:[{t:"Canada Dollar Plunges As Investors Shun Riskier Assets",u:"http://online.wsj.com/article/BT-CO-20101116-713655.html",s:"Wall Street Journal",d:"Nov 15, 2010",tt:1289829163,fid:74808457},{t:"Canada\x26#39;s Dollar Falls to Two-Week Low as Stocks, Price of Crude Oil Drop",u:"http://www.bloomberg.com/news/2010-11-16/canada-s-dollar-falls-to-two-week-low-on-drop-in-stocks-crude-oil-prices.html",s:"Bloomberg"},{t:"Canada\x26#39;s Dollar Drops to Two-Week Low as Stocks, Crude Oil Fall",u:"http://www.businessweek.com/news/2010-11-16/canada-s-dollar-drops-to-two-week-low-as-stocks-crude-oil-fall.html",s:"BusinessWeek"},{t:"Dollar sags as commodity prices fall",u:"http://news4mobile.ca/cpe/db_11527/contentdetail.htm?contentguid=bE1GDWK7\x26detailindex=6",s:"Canadian Press"},{t:"Canada\x26#39;s Dollar Falls to Two-Week Low on Drop in Stocks, Oil",u:"http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2010/11/15/bloomberg1376-LBZ9UQ07SXKX01-28EKJADGGKKGP2U1PDPGFRTQI0.DTL",s:"San Francisco Chronicle"},{t:"Loonie drops, commodities slide amid stronger greenback, Chinese rate concerns",u:"http://www.winnipegfreepress.com/breakingnews/canadian-dollar-lower-commodities-decline-amid-chinese-interest-rate-concerns-108405694.html",s:"Winnipeg Free Press"}],score:20.492616653442383},{nrel:0,imp:1,idx:8,id:17593820923438,ed:"Nov 14, 2010",tt:1289767155,lead_story_url:"http://www.reuters.com/article/idUSN1921900020101119",a:[{t:"FX OUTLOOK-Euro likely to hold gains vs dollar in busy week",u:"http://www.reuters.com/article/idUSN1921900020101119",s:"Reuters",d:"Nov 14, 2010",tt:1289767155,fid:75102457},{t:"Dollar rises to six-week high",u:"http://www.ft.com/cms/s/6a838cd6-f0a0-11df-8cc5-00144feab49a.html",s:"Financial Times"},{t:"Canada Dollar Rises Amid Ireland Rescue Hopes, Better US Data",u:"http://online.wsj.com/article/BT-CO-20101118-713627.html",s:"Wall Street Journal"},{t:"Yen, Dollar Strengthen as China\x26#39;s Inflation Steps Curb Appetite for Risk",u:"http://www.bloomberg.com/news/2010-11-19/yen-dollar-strengthen-as-china-s-inflation-steps-curb-appetite-for-risk.html",s:"Bloomberg"},{t:"Yen, Dollar Gain as China\x26#39;s Inflation Steps Curb Risk Appetite",u:"http://www.businessweek.com/news/2010-11-19/yen-dollar-gain-as-china-s-inflation-steps-curb-risk-appetite.html",s:"BusinessWeek"},{t:"Dollar adds to gains after Ireland denies aid",u:"http://www.marketwatch.com/story/dollar-up-on-yen-pound-as-euro-recovers-2010-11-16",s:"MarketWatch"}],score:22.621841430664062},{nrel:0,imp:2,idx:9,id:17593820595176,ed:"Nov 14, 2010",tt:1289703610,lead_story_url:"http://online.wsj.com/article/BT-CO-20101118-713087.html",a:[{t:"PRECIOUS METALS: Comex Gold Rises On Dollar Weakness, Ireland",u:"http://online.wsj.com/article/BT-CO-20101118-713087.html",s:"Wall Street Journal",d:"Nov 14, 2010",tt:1289703610,fid:74960457},{t:"Gold Advances Most in Two Weeks as Dollar Drop Boosts Demand",u:"http://www.bloomberg.com/news/2010-11-18/gold-advances-for-first-day-in-five-on-increased-investment-indian-demand.html",s:"Bloomberg"},{t:"USA crude oil stocks dropped 3.3 million barrels to 364.9 mill.barrels,although current level are 27mill.barrels above last year",u:"http://www.crudestation.com/20101311/usa-crude-oil-stocks-dropped-33-million-barrels-3649-millbarrelsalthough-current-level-are-",s:"Crude Station"},{t:"Forex - Dollar down vs. rivals after US data disappoints",u:"http://www.forexpros.com/news/forex-news/forex---dollar-down-vs.-rivals-after-u.s.-data-disappoints-175148",s:"Forex Pros"},{t:"Crude Oil Buoyed By Bargain Buying, Gold Rises And Silver Surges As Dollar Fumbles",u:"http://www.dailymarkets.com/forex/2010/11/19/crude-oil-buoyed-by-bargain-buying-gold-rises-and-silver-surges-as-dollar-fumbles/",s:"Daily Markets"},{t:"EUR/USD Outlook - November 15-19",u:"http://www.forexcrunch.com/eurusd-outlook-november-15-19/",s:"Forex Crunch"}],score:17.085411071777344},{idx:10,id:-1}],result_start_num:1,result_end_num:0,result_total_articles:49},related_str:"-1,-2,-3,-4,-5,-6"},stickyUrlArgs:"",chart:{related_items:[{ticker:"CURRENCY:USDGBP",name:"USDGBP",timezone_offset:0,is_index:false},{ticker:"CURRENCY:USDEUR",name:"USDEUR",timezone_offset:0,is_index:false},{ticker:"CURRENCY:USDCHF",name:"USDCHF",timezone_offset:0,is_index:false},{ticker:"CURRENCY:USDAUD",name:"USDAUD",timezone_offset:0,is_index:false},{ticker:"CURRENCY:USDCAD",name:"USDCAD",timezone_offset:0,is_index:false},{ticker:"CURRENCY:USDINR",name:"USDINR",timezone_offset:0,is_index:false}]}};
+google.finance.data.numberFormat = [{'threshold':1000000, 'symbol':'M'}, {'threshold':1000000000,'symbol':'B'}, {'threshold':1000000000000,'symbol':'T'}] ;
+if (_s_Store) {
+_s_Store._allowMatchAdvancedSearch = true;
+var _fieldToDisplayNameMap = {GrossMargin:"Gross margin&nbsp;(%)",Return1Week:"1w return",Return156Week:"156w return",NextYearEPS:"Next year EPS",LTDebtToAssetsYear:"LT debt/assets (Recent&nbsp;yr)&nbsp;(%)",RevenueGrowthRate5Years:"5y revenue growth rate",EarningsAfterTaxes:"Earnings after taxes",DividendPerShare:"Div per share",MarketCap:"Market cap",NetProfitMarginPercent:"Net profit margin&nbsp;(%)",Float:"Float",EarningsBeforeTaxes:"Earnings before taxes",QuotePercChange:"Quote change&nbsp;(%)",TotalDebtToEquityYear:"Total debt/equity (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToCapitalQuarter:"Total debt/capital (Recent&nbsp;qtr)&nbsp;(%)",LTDebtToCapitalQuarter:"LT debt/capital (Recent&nbsp;qtr)&nbsp;(%)",EPSGrowthRate10Years:"10y EPS growth rate",Beta:"Beta",ReturnOnAssetsPTM:"Return on assets (PTM)&nbsp;(%)",CapitalGain:"Capital gain",BetaDown:"Beta down from RAS",IncomeDividend:"Income dividend",RevenueGrowthRate10Years:"10y revenue growth rate",MarketCapShareBasis:"Market cap share basis",IAD:"Div rate indicated annual",Return4Week:"4w return",Price150DayAverage:"150d avg price",EPSGrowthRate5Years:"5y EPS growth rate",ReturnOnAssetsTTM:"Return on assets (TTM)&nbsp;(%)",TotalDebtToAssetsYear:"Total debt/assets (Recent&nbsp;yr)&nbsp;(%)",Volume:"Volume",DividendRecentQuarter:"Div recent quarter",CurrentRatioYear:"Current ratio",Low52Week:"52w low",ExpenseRatio:"Expense ratio",Price13WeekPercChange:"13w&nbsp;price change&nbsp;(%)",Price1DayPercChange:"1d&nbsp;price change&nbsp;(%)",ReturnOnEquity5Years:"Return on equity (5&nbsp;yr&nbsp;avg)&nbsp;(%)",TotalDebtToCapitalYear:"Total debt/capital (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToAssetsQuarter:"Total debt/assets (Recent&nbsp;qtr)&nbsp;(%)",NavChange:"Nav change",OperatingMargin:"Operating margin&nbsp;(%)",DPSRecentYear:"Div per share (Recent&nbsp;yr)",ANI:"Earnings after taxes (Recent&nbsp;yr)",AverageVolume:"Average volume",High52Week:"52w high",Return13Week:"13w return",PriceToCashFlowPerShare:"Price to cash flow per share",ATAXRATE:"Tax rate (Recent&nbsp;yr)",Price26WeekPercChange:"26w&nbsp;price change&nbsp;(%)",QuoteChange:"Quote change",NetIncomeChangePerc:"Net income change&nbsp;(%)",ReturnOnInvestment5Years:"Return on investment (5&nbsp;yr&nbsp;avg)&nbsp;(%)",PE:"P/E ratio",ReturnOnInvestmentYear:"Return on investment (Recent&nbsp;yr)&nbsp;(%)",Price200DayAverage:"200d avg price",DividendNextQuarter:"Div next quarter",EBITD:"EBITDA",PriceYTDPercChange:"YTD&nbsp;price change&nbsp;(%)",ReturnOnInvestmentTTM:"Return on investment (TTM)&nbsp;(%)",NavChangePercent:"Nav change&nbsp;(%)",EBITDMargin:"EBITDA margin&nbsp;(%)",LTDebtToEquityQuarter:"LT debt/equity (Recent&nbsp;qtr)&nbsp;(%)",BetaRAS:"Beta from RAS",PriceSales:"Price to sales",NetAssets:"Net assets",ReturnOnEquityTTM:"Return on equity (TTM)&nbsp;(%)",CashPerShareYear:"Cash/share",ReturnOnAssets5Years:"Return on assets (5&nbsp;yr&nbsp;avg)&nbsp;(%)",ReturnDay:"1d return",Return52Week:"52w return",ForwardPE1Year:"1y fwd P/E",NetIncomeGrowthRate5Years:"5y net income growth rate",DividendYield:"Div yield&nbsp;(%)",Dividend:"Div from cash flow",BetaUp:"Beta up from RAS",LTDebtToCapitalYear:"LT debt/capital (Recent&nbsp;yr)&nbsp;(%)",nprice:"Price from RAS",Return260Week:"260w return",ReturnOnEquityQuarter:"Return on equity (Recent&nbsp;qtr)&nbsp;(%)",ACOGS:"Cost of goods sold",LTDebtToAssetsQuarter:"LT debt/assets (Recent&nbsp;qtr)&nbsp;(%)",PriceToBook:"Price to book",LTDebtToEquityYear:"LT debt/equity (Recent&nbsp;yr)&nbsp;(%)",ReturnYTD:"Return YTD",ReturnOnEquityYear:"Return on equity (Recent&nbsp;yr)&nbsp;(%)",ReturnOnAssetsQuarter:"Return on assets (Recent&nbsp;qtr)&nbsp;(%)",TotalDebtToEquityQuarter:"Total debt/equity (Recent&nbsp;qtr)&nbsp;(%)",NavPrior:"Nav prior",AINTCOV:"Interest coverage",EPS:"EPS",ReturnOnInvestmentQuarter:"Return on investment (Recent&nbsp;qtr)&nbsp;(%)",QuoteLast:"Last price",Price50DayAverage:"50d avg price",Price4WeekPercChange:"4w&nbsp;price change&nbsp;(%)",ReturnOnAssetsYear:"Return on assets (Recent&nbsp;yr)&nbsp;(%)",MarketCapRAS:"Mkt cap from RAS",Price52WeekPercChange:"52w&nbsp;price change&nbsp;(%)",ShortInterestRatioPercent:"Short interest ratio&nbsp;(%)",InstitutionalPercentHeld:"Institutional percent held",BookValuePerShareYear:"Book value/share",ReturnOnEquityPTM:"Return on equity (PTM)&nbsp;(%)"};
+_s_Store._asStore._addStrings(_fieldToDisplayNameMap);
+}
+if (_s_Store) {
+_s_Store._allowMultipleInBox = true;
+}
+_regOnLoad(onCompanyLoad);
+var _prefs=_prefs||{};_prefs.hash="";
+_prefs.cur=_prefs.cur||{};
+google.finance.renderRecentActivities();
+_ac_register(function (input, event) {
+if (input.id == 'add_comparison_symbol') {
+_comparison_charts_Store.baseTicker = "CURRENCY:USDJPY";
+return _comparison_charts_Store;
+}
+});
+</script>
+<div class="g-section g-tpl-right-1">
+<div class="g-unit g-first">
+<div class=g-c>
+<div class="sfe-break-bottom sfe-break-top">
+<div id=newstabsgroup>
+<div id=news-tabs class=hide>
+<div class="goog-tab goog-tab-selected"><a id=news_tab_title class=t>
+<b class=t><b class=t>News</b></b></a></div>
+<div class=goog-tab><a id=blogs_tab_title class=t>
+<b class=t><b class=t>Blogs</b></b></a></div>
+<div class=goog-tab><a id=plot_feeds_title class=t>
+<b class=t><b class=t>Feeds</b></b></a></div>
+</div>
+<div id=tabs-clear class=goog-tab-bar-clear class=hide></div>
+<div id=news_div_cont style="display:none"></div>
+<div id=blogs_div_cont style="display:none"></div>
+<div id=plot_feed_div_cont style="display:none"></div>
+</div>
+<div class="sfe-section clf" id=news-footer>
+<div id=news-sidebar-footer class="g-section g-tpl-67-33 g-split">
+<div class="g-unit g-first">
+<a href="/finance/company_news?q=CURRENCY:USD" >All news for USDJPY &raquo;</a>
+</div><div class=g-unit>
+<a href="/finance/company_news?q=CURRENCY:USD&output=rss">Subscribe</a>
+<a href="/finance/company_news?q=CURRENCY:USD&output=rss"><img class=SP_subscribe src="/finance/s/m4C5KaofCbA/images/cleardot.gif" alt="Subscribe." id=rss
+        width=15 height=15 /></a>
+</div>
+</div>
+</div>
+</div>
+<div class=sfe-break-bottom>
+<div id=ad-label class=invisible>Advertisement</div>
+<div id=ad-target class=ads-300-250></div>
+</div>
+<div class=hdg><h3>Currency converter</h3></div>
+<iframe width="100%" height=250px frameborder=0 src="/finance/converter?from=USD&to=JPY&auto=1&">
+</iframe>
+</div>
+</div>
+<div class=g-unit>
+<div id=top-section class="g-c sfe-break-right">
+<div id=currency_value class=sfe-section>
+<div class=sfe-break-bottom-4>
+<span class=pr>
+1 USD = <span class=bld>84.1900 JPY</span>
+</span>
+<span class=nwp>
+<span class="ch chg bld" id=ref_8460793_c>+0.37000</span>
+<span class="ch chg" id=ref_8460793_cp>(0.441%)</span>
+</span>
+</div>
+<div class=time id=ref_8460793_ldt>Dec 1, 10:45PM</div>
+</div>
+<div id=chart-section>
+<div>
+<div id=compare-bar-wrapper>
+<div id=compare-bar class="id-compare-bar g-section">
+</div>
+</div>
+<div id=chart_anchor class=id-chart_anchor>
+<script>
+var _minZoomDays = 20;
+var _timeZoneOffset = '0';
+_chartConfigObject.hasVolume = _displayVolume;
+_chartConfigObject.hasNews = true;
+_chartConfigObject.hasExtendedHours = false;
+_chartConfigObject.hasDefaultZoomSetting = true;
+_chartConfigObject.hasVerticalScaleSetting = true;
+_chartConfigObject.displayVolume = 'true';
+_chartConfigObject.displayNewsPins = 'true';
+_chartConfigObject.displayDividends = 'true';
+_chartConfigObject.displaySplits = 'true';
+_chartConfigObject.displayExtendedHours = 'false';
+_chartConfigObject.enableCustomDateEntry = true
+_chartConfigObject.defaultZoomDays = '20';
+_chartConfigObject.snapping = false;
+_chartConfigObject.verticalScaling = 'Linear';
+_chartConfigObject.sparklineType = 'dynamic';
+// set _minZoomDays and _minZoomDaysNoIntraDay in each page before emit the
+// chart to passing the value to chart, otherwise default value will be use.
+_chartConfigObject.minZoomDaysNormal = _minZoomDays;
+_chartConfigObject.minZoomDaysNoIntraDay = _minZoomDaysNoIntraDay;
+_chartConfigObject.enableIndicator = true;
+_chartConfigObject.companyId = '8460793';
+_chartConfigObject.enableRealtimeChart = true;
+_chartConfigObject.isMarketOpenState = 1;
+_chartConfigObject.stateRemainingMinutes = 1426;
+_chartConfigObject.delayedMinutes = 0;
+_chartConfigObject.companyCurrency = '';
+_chartConfigObject.displayDividendsUnits = 'false';
+var configStringFromCookie = '{}';
+var configString = unescape(configStringFromCookie);
+var obj = eval('(' + configString + ')');
+for (var attribute in obj) {
+_chartConfigObject[attribute] = obj[attribute];
+}
+_chartConfigObject.intradayInterval = 3600;
+_emitFlashChart("/finance/s/OFspRxwQDQg/chart9.swf?hl=en&gl=us",
+_ticker, _chartConfigObject,'http:\x2F\x2Fwww.google.com:80', 'chart_anchor', true);
+</script>
+<noscript>
+<div id=image_chart style="display:block;">
+<table>
+<tr><td class=itxt align=left>
+</td></tr>
+<tr><td>
+<img alt="Chart." src="/finance/getchart?q=USDJPY&x=CURRENCY&p=5d&i=86400" width="500" height="322">
+</td></tr>
+</table>
+</div>
+</noscript>
+</div>
+<div class="g-section g-tpl-67-33 g-split sfe-break-bottom-8"
+      style="padding-top:1px">
+<div id="chart-footer-links" class="g-unit g-first id-chart-footer-links">
+<span style="white-space:nowrap;">
+<img width="16" hight="9" alt="Link to chart icon."
+            id="link-to-chart-img" class="SP_link"
+            src="/finance/s/m4C5KaofCbA/images/cleardot.gif" />
+<a id="link-to-chart-link" class="chart-footer-link"
+            href="javascript:google.finance.clickLinkToChartLink();">
+Link&nbsp;to&nbsp;this&nbsp;chart</a>
+</span>
+</div>
+<div class="g-unit">
+<span class="chart-dis">
+<a href="http://www.google.com/intl/en-US/help/currency_disclaimer.html"
+ class=dis>Disclaimer</a>
+</span>
+</div>
+</div>
+<div id=settings-panel-wrapper>
+<div id=settings-panel class=sfe-section style="display:none"></div>
+</div>
+<div style="height:1em;"></div>
+</div>
+</div>
+</div>
+<div class="g-c sfe-break-right">
+<div class=hdg><h3>1 USD in other currencies:</h3></div>
+<div class=sfe-section>
+<table class=currencies>
+<tr>
+<td><a href="/finance?q=USDGBP" >USD/GBP</a>
+<td class=rgt>UK� 0.6403
+<td style="width:3em">
+<td class=rgt><span class=chr>-0.00309 (-0.480%)</span>
+<tr>
+<td><a href="/finance?q=USDEUR" >USD/EUR</a>
+<td class=rgt>� 0.7617
+<td style="width:3em">
+<td class=rgt><span class=chr>-0.00549 (-0.716%)</span>
+<tr>
+<td><a href="/finance?q=USDCHF" >USD/CHF</a>
+<td class=rgt>CHF 1.0030
+<td style="width:3em">
+<td class=rgt><span class=chg>+0.00410 (0.410%)</span>
+<tr>
+<td><a href="/finance?q=USDAUD" >USD/AUD</a>
+<td class=rgt>A$ 1.0339
+<td style="width:3em">
+<td class=rgt><span class=chr>-0.00559 (-0.538%)</span>
+<tr>
+<td><a href="/finance?q=USDCAD" >USD/CAD</a>
+<td class=rgt>CA$ 1.0184
+<td style="width:3em">
+<td class=rgt><span class=chr>-0.00150 (-0.147%)</span>
+<tr>
+<td><a href="/finance?q=USDINR" >USD/INR</a>
+<td class=rgt>Rs. 45.3700
+<td style="width:3em">
+<td class=rgt><span class=chr>-0.59500 (-1.294%)</span>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- b -->
+</div>
+</div>
+<div id=footer>
+<center>
+<div class=footerBorder>
+<div class=editions>Google Finance Beta available in:
+<a href="http://www.google.com.hk/finance?hl=zh-TW" >&#39321;&#28207;&#29256; (Hong Kong)</a>&nbsp;-
+<a href="http://www.google.ca/finance" >Canada</a>&nbsp;-
+<a href="http://www.google.com/finance" >U.S.</a>&nbsp;-
+<a href="http://www.google.com/finance?gl=cn&amp;hl=zh-CN" >&#31616;&#20307;&#20013;&#25991; (China)</a>&nbsp;-
+<a href="http://www.google.co.uk/finance" >U.K.</a>
+</div>
+<div class=footerDisclaimer>
+Information is provided 'as is' and solely for informational purposes, not
+for trading purposes or advice, and may be delayed.<br/>
+To see all exchange delays, please
+<a href="http://www.google.com/intl/en-US/help/currency_disclaimer.html"
+  style="color:#7777cc">see disclaimer</a>.
+<br><br>
+</div>
+<div class=footerLinks>
+&copy;2010 Google &nbsp;&nbsp;
+<a href="http://www.google.com" class=q>Google Home</a>
+- <a href="http://googlefinanceblog.blogspot.com/">Blog</a>
+- <a href=
+  "http://www.google.com/support/finance?hl=en-US"
+ class=q>Help</a>
+- <a href="http://www.google.com/intl/en-US/privacy.html" class=q>Privacy Policy</a>
+- <a href="http://www.google.com/accounts/TOS?loc=us" class=q>Terms of Service</a><br><br><br>
+</div>
+</div>
+</center>
+</div>
+</div>
+</div>
+</body>
+</html>
