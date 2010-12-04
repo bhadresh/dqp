@@ -1,33 +1,17 @@
 """Node Server"""
 import os
+import sys
 import user
 import Pyro.core
 import ip
 import time
+sys.path.append(os.path.realpath(os.path.join(os.path.dirname(__file__), '..', 'rm')))
+from retrieval import RetrievalModel
 
 __version__ = "1.0"
 __authors__ = "Bhadresh Patel <bhadresh@wsu.edu>"
 __date__ = "Nov 26, 2010"
-
-class Search(Pyro.core.ObjBase):
-    def __init__(self):
-        Pyro.core.ObjBase.__init__(self)
-
-    def search(self, q):
-        """Search documents for the given query q"""
-        log(q)
-        import random
-        return [{
-            'docid': '%d' % random.randint(100, 1000),
-            'url': 'http://example.com/page.htm',
-            'pagerank': '%5.3f' % random.random(),
-            'score': '%4.2f' % random.random()
-        }, {
-            'docid': '%d' % random.randint(100, 1000),
-            'url': 'http://example2.com/page.htm',
-            'pagerank': '%5.3f' % random.random(),
-            'score': '%4.2f' % random.random()
-        }]
+_datadir = os.path.realpath(os.path.join(os.path.dirname(__file__), '..', 'data'))
 
 def log(msg):
     if _verbose:
@@ -39,10 +23,16 @@ if __name__=="__main__":
                                    usage="usage: %prog [options]",
                                    version=__version__)
     parser.add_option('-v', '--verbose', help="Verbose Output [default: %default]", action="count", default=False)
+    parser.add_option('-d', '--data', help="Data Storage location [default: %default]", action="store", default=_datadir)
+    parser.add_option('-c', '--compressed_index', help="Use Compressed Index [default: %default]", action="store_true", default=False)
 
     (options, args) = parser.parse_args()
     _index = None
     _verbose = options.verbose
+    _datadir = options.data
+    if not os.path.isdir(_datadir):
+        print "Data dir: %s NOT found" % (_datadir)
+        raise SystemExit        
     
     nodeip = None
     nodeport = None
@@ -61,13 +51,22 @@ if __name__=="__main__":
         print "Detected Lan IP (%s) for this system is NOT in %s" % (myip, nodesfile)
         raise SystemExit
         
-    Pyro.core.initServer()
-    daemon = Pyro.core.Daemon(host=nodeip, port=nodeport)
-    uri = daemon.connect(Search(), "dqp")
+    if options.compressed_index:
+        indexfile = os.path.join(_datadir, 'compressed_index', 'index-%d' % (_index))
+    else:
+        indexfile = os.path.join(_datadir, 'index', 'index-%d' % (_index))
+        
+    if os.path.exists(indexfile):
+        Pyro.core.initServer()
+        daemon = Pyro.core.Daemon(host=nodeip, port=nodeport)
+        uri = daemon.connect(RetrievalModel(datadir=_datadir, indexfile=indexfile, verbose=_verbose), "dqp")
 
-    log("Server started: %s" % uri)
-    try:
-        daemon.requestLoop()
-    finally:
-        daemon.shutdown(True)
-
+        log("Server started")
+        log("Location: %s" % uri)
+        log("Indexfile: %s" % indexfile)
+        try:
+            daemon.requestLoop()
+        finally:
+            daemon.shutdown(True)
+    else:
+        print "Index file: %s NOT found" % (indexfile)

@@ -1,75 +1,41 @@
 from math import log10
+import index
 
 LAMBDA = .1
 DOC_COUNT = 2500
 
+def calcQLScores(termCount, myindex, query):
+    """Query Likelihood Retrieval Model"""
+    notTerms = query.get('NOT', [])
+    andTerms = query.get('AND', [])
+    orTerms = query.get('OR', [])
 
-def checkExclusions(docID, notTerms, index):
+    termIndex = {}
+    docids = []
+    # Select all docs from OR and AND terms
+    terms = orTerms[:]
+    terms.extend(andTerms)
+    for term in terms:
+        tc = index.getTermContent(myindex, term)
+        termIndex[term] = tc
+        docids.extend(tc.get('docs', []).keys())
+    
+    # Remove docs from NOT    
+    exdocids = []
     for term in notTerms:
-        #{"term": {"count": 18, "docs": {0:5, 23:6}}, ...}
-        for doc in index[term]['docs']:
-            if doc == docID:
-                return True
-    return False
-
-def checkInclusions(docID, andTerms, index):
-    for term in andTerms:
-        #{"term": {"count": 18, "docs": {0:5, 23:6}}, ...}
-        for doc in index[term]['docs']:
-            if doc == docID:
-                return True
-    return False
-
-
-def calcQLScores(termCount, index, query):
-    
-    # format terms
-    termMap = parseQuery(query)
-    
-    notTerms = termMap['NOT']
-    andTerms = termMap['AND']
-    orTerms = termMap['OR']
+        tc = index.getTermContent(myindex, term)
+        exdocids.extend(tc.get('docs', []).keys())
     
     scores = []
-    for docID in range(1, DOC_COUNT+1):
-        exFound = checkExclusions(docID, notTerms, index)
-        
-        if exFound:
+    for docID in docids:
+        if docID in exdocids:
             continue
 
-        inFound = checkInclusions(docID, andTerms, index)
-        
-        if not inFound:
-            continue
-        
         docScore = 0.0
-        for term in andTerms:
-            
-            if docID in index[term]['docs']:
-                tf = index[term]['docs'][docID]
-            else:
-                tf = 0.0
-            
-            docScore = docScore + log10((1 - LAMBDA) * (tf/termCount[docID]) + 
-                                        LAMBDA * (index[term]['count']/termCount['total']))
-        
-        scores.append([docID, docScore])
-	
+        for term in terms:
+            tf = termIndex[term]['docs'].get(docID, 0.0)
+            docScore = docScore + log10((1 - LAMBDA) * (tf * 1.0 / termCount[docID]) + 
+                                        LAMBDA * (termIndex[term]['count'] * 1.0 / termCount['total']))        
+        scores.append([docID, docScore])	
     return scores
 
-        
-'''
-def parseQuery(query):
-    termMap = {}
-    termMap['include'] = set([])
-    termMap['exclude'] = set([])
-    terms = query.split(' ')
-    
-    for term in terms:
-        if term[0] == '-':
-            termMap['exclude'].add(term[1:])
-        else:
-            termMap['include'].add(term)
-    
-    return termMap
-'''
