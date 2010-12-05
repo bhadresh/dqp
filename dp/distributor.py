@@ -4,6 +4,7 @@ import user
 import Pyro.core
 from multiprocessing import Pool
 import json
+import operator
 
 __version__ = "1.0"
 __authors__ = "Bhadresh Patel <bhadresh@wsu.edu>"
@@ -23,10 +24,19 @@ def dqp(q, p=1, m='QL'):
 
     pool = Pool(processes=len(nodes))
     result = pool.map(do_search, args)
-    combined_result = []
+    
+    # Merge results
+    rdict = {}
     for r in result:
-        combined_result.extend(r)
-    return combined_result
+        for rec in r:
+            if rec['docid'] in rdict:
+                rdict[rec['docid']]['score'] = rdict[rec['docid']]['score'] + rec['score']
+            else:
+                rdict[rec['docid']] = rec
+
+    results = rdict.values()
+    combined_result = sorted(results, key=operator.itemgetter('score'), reverse=True)    
+    return combined_result[(p - 1) * 10:(p * 10)]
 
 def do_search(arg):
     """Call Remote Node and execute Search"""
