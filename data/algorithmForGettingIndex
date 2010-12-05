@@ -8,5 +8,5 @@ index-4: þªï
 def findIndex(queryWord):
     vec=['dareclickher','hushion','nitem','someoneâ','þªï']
     for i in range(0,len(vec)):
-    	if(queryWord<vec[i]):
+    	if(queryWord<=vec[i]):
 		return i
