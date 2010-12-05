@@ -80,7 +80,7 @@ class RetrievalModel(Pyro.core.ObjBase):
             if(model=='BM25'):
                 newScore=entry[1]*self.pageRanks[entry[0]]
             else:
-                newScore=entry[1]+math.log(self.pageRanks[entry[0]]
+                newScore=entry[1]+math.log(self.pageRanks[entry[0]])
             results.append({
                 'docid': entry[0],
                 'score': newScore,
