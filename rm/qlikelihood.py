@@ -2,7 +2,7 @@ from math import log10
 import index
 
 LAMBDA = .1
-DOC_COUNT = 2500
+
 
 def calcQLScores(termCount, myindex, query, coder):
     """Query Likelihood Retrieval Model"""

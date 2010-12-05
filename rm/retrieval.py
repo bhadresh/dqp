@@ -1,5 +1,6 @@
 """Retrieval Model"""
 from qlikelihood import calcQLScores
+from bm25 import calcBM25Scores
 import Pyro.core
 import index
 import os
@@ -34,12 +35,16 @@ def getTermCounts(termCountsFile):
     doc = f.readlines()
     f.close()
     
+    totalNumDocs = 0
     termCounts = {}
     for line in doc[0: -1]:
         line = line.strip().split(' ')
         termCounts[int(line[0])] = int(line[1])
-
-    termCounts['total'] = int(doc[-1])    
+        totalNumDocs = totalNumDocs + 1
+    
+    termCounts['average'] = int(doc[-1]) / totalNumDocs
+    termCounts['total'] = int(doc[-1])
+    termCounts['totalDocs'] = totalNumDocs
     return termCounts
         
 class RetrievalModel(Pyro.core.ObjBase):
@@ -62,10 +67,10 @@ class RetrievalModel(Pyro.core.ObjBase):
         if model == 'QL':
             scores = calcQLScores(self.termCount, self.index, query,self.coder)
         elif model == 'BM25':
-            scores = [] #not implemented yet
+            scores = calcBM25Scores(self.termCount, self.index, query)
         return scores
 
-    def search(self, query, K=10, model='QL'):
+    def search(self, query, K=10, model='BM25'):
         """Perform Search"""
         self.log(query)
         scores = self.getRanks(query, model)
