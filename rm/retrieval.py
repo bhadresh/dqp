@@ -78,7 +78,7 @@ class RetrievalModel(Pyro.core.ObjBase):
         for entry in scores[:K]: # Returning TOP K results
             results.append({
                 'docid': entry[0],
-                'score': entry[1] * self.pageRanks[entry[0]],
+                'score': (entry[1] * self.pageRanks[entry[0]]),
                 'url': self.pidMap[entry[0]],
                 'pagerank': self.pageRanks[entry[0]]
             })

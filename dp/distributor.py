@@ -44,7 +44,7 @@ def dqp(q, p=1, m='QL'):
 
 def do_search(arg):
     """Call Remote Node and execute Search"""
-    result = []
+    result = {'count': 0, 'time': 0, 'records': []}
     try:
         uri, q, k, m = arg
         dqp = Pyro.core.getProxyForURI(uri)
