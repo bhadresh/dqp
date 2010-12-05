@@ -1,0 +1,12 @@
+# this file contains the last words in each index
+index-0: dareclickher
+index-1: hushion
+index-2: nitem
+index-3: someoneâ
+index-4: þªï
+
+def findIndex(queryWord):
+    vec=['dareclickher','hushion','nitem','someoneâ','þªï']
+    for i in range(0,len(vec)):
+    	if(queryWord<vec[i]):
+		return i
