@@ -1,11 +1,14 @@
 from math import log10
 import index
 
-LAMBDA = .1
+k1 = 1.2
+k2 = 100
+b = 0.75
 
 
-def calcQLScores(termCount, myindex, query):
-    """Query Likelihood Retrieval Model"""
+def calcBM25Scores(termCount, myindex, query):
+    """BM25 Retrieval Model"""
+    
     notTerms = query.get('NOT', [])
     andTerms = query.get('AND', [])
     orTerms = query.get('OR', [])
@@ -26,16 +29,25 @@ def calcQLScores(termCount, myindex, query):
         tc = index.getTermContent(myindex, term)
         exdocids.extend(tc.get('docs', []).keys())
     
+    # Calc term frequency in query
+    qFreq = {}
+    for term in terms:
+        qFreq[term] = qFreq.setdefault(term, 0) + 1
+        
     scores = []
     for docID in docids:
         if docID in exdocids:
             continue
 
+        K = k1 * ((1 - b) + (b * termCount.get(docID) / termCount.get('average')))
         docScore = 0.0
         for term in terms:
-            tf = termIndex[term]['docs'].get(docID, 0.0)
-            docScore = docScore + log10((1 - LAMBDA) * (tf * 1.0 / termCount[docID]) + 
-                                        LAMBDA * (termIndex[term]['count'] * 1.0 / termCount['total']))        
+            docScore = log10((termCount['totalDocs'] - termIndex[term].get('count', 0) + 0.5)
+                             / (termIndex[term].get('count', 0) + 0.5))
+            
+            docScore = docScore * ((k1 + 1) * termIndex[term]['docs'].get(docID, 0.0)) / (K + termIndex[term]['docs'].get(docID, 0.0))
+            
+            docScore = docScore * (((k2 + 1) * qFreq[term]) / (k2 + qFreq[term]))
+            
         scores.append([docID, docScore])	
     return scores
-
