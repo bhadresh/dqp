@@ -27,7 +27,7 @@
 				<tr>
 					<td>
 						<div align="left">
-							<input id="q" name="q" type="text"  style="width:600px; height:32px;">
+							<input id="q" name="q" type="text" value="<?=(isset($_GET['q']) ? $_GET['q'] : '')?>" style="width:600px; height:32px;">
 						</div>
 					</td>
 					<td>
@@ -53,15 +53,13 @@
         if (!empty($json_result)) {
             echo "<p>Retrieved in: " . ($et - $st) . " seconds </p>";
             $result = json_decode(str_replace("'", '"', $json_result), true);
-            var_export($result);
 			echo "<table id=\"tableStyle\">";
-			foreach ($result['records'] as $r)
-			{
-				echo "<tr><td id=\"linksDisplayed\">";
-				echo '"<a href=  "' .$r['url'] . '" > '. $r['docid'] .'</a> <br/>"';
-				echo '"Page Rank: ' . $r['pagerank'] . '<br/>"';
-				echo '"Score: ' . $r['score'] . '"';
-				echo "<br /><br /></td> </tr>";
+			foreach ($result['records'] as $rec) {
+				echo '<tr><td id="linksDisplayed">';
+				echo '<a href="' . $rec['url'] . '">' . $rec['docid'] . '</a><br/>';
+				echo 'Page Rank: ' . $rec['pagerank'] . '<br/>';
+				echo 'Score: ' . $rec['score'] '<br/>';
+				echo '</td></tr>';
 			}
 			echo "</table>";
         }
