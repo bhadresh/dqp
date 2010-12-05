@@ -5,7 +5,7 @@ def parseCountString(countString):
     countString=countString.strip().replace(' ','').split(':')
     countMap={'count':int(line[1]),'docs':{}}
     counts=line[2].replace('(','')[:-1].split(')')
-    for count in coutns:
+    for count in counts:
         count=count.split(',')
         countMap['docs'][int(count[0])]=int(count[1])
     return countMap
