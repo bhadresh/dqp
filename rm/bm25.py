@@ -6,7 +6,7 @@ k2 = 100
 b = 0.75
 
 
-def calcBM25Scores(termCount, myindex, query):
+def calcBM25Scores(termCount, myindex, query, coder):
     """BM25 Retrieval Model"""
     
     notTerms = query.get('NOT', [])
@@ -19,14 +19,14 @@ def calcBM25Scores(termCount, myindex, query):
     terms = orTerms[:]
     terms.extend(andTerms)
     for term in terms:
-        tc = index.getTermContent(myindex, term)
+        tc = index.getTermContent(myindex, term, coder)
         termIndex[term] = tc
         docids.extend(tc.get('docs', []).keys())
     
     # Remove docs from NOT    
     exdocids = []
     for term in notTerms:
-        tc = index.getTermContent(myindex, term)
+        tc = index.getTermContent(myindex, term, coder)
         exdocids.extend(tc.get('docs', []).keys())
     
     # Calc term frequency in query

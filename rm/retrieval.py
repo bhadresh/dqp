@@ -67,7 +67,7 @@ class RetrievalModel(Pyro.core.ObjBase):
         if model == 'QL':
             scores = calcQLScores(self.termCount, self.index, query,self.coder)
         elif model == 'BM25':
-            scores = calcBM25Scores(self.termCount, self.index, query)
+            scores = calcBM25Scores(self.termCount, self.index, query,self.coder)
         return scores
 
     def search(self, query, K=10, model='BM25'):
