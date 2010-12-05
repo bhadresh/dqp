@@ -4,7 +4,7 @@ import index
 LAMBDA = .1
 DOC_COUNT = 2500
 
-def calcQLScores(termCount, myindex, query):
+def calcQLScores(termCount, myindex, query, coder):
     """Query Likelihood Retrieval Model"""
     notTerms = query.get('NOT', [])
     andTerms = query.get('AND', [])
@@ -16,14 +16,14 @@ def calcQLScores(termCount, myindex, query):
     terms = orTerms[:]
     terms.extend(andTerms)
     for term in terms:
-        tc = index.getTermContent(myindex, term)
+        tc = index.getTermContent(myindex, term, coder)
         termIndex[term] = tc
         docids.extend(tc.get('docs', []).keys())
     
     # Remove docs from NOT    
     exdocids = []
     for term in notTerms:
-        tc = index.getTermContent(myindex, term)
+        tc = index.getTermContent(myindex, term, coder)
         exdocids.extend(tc.get('docs', []).keys())
     
     scores = []

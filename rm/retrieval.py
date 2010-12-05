@@ -55,11 +55,12 @@ class RetrievalModel(Pyro.core.ObjBase):
         self.pidMap = getPidMap(os.path.join(datadir, "pid_map.dat"))
         self.pageRanks = getPageRanks(os.path.join(datadir, "pagerank.dat"))
         self.termCount = getTermCounts(os.path.join(datadir, "term_counts.dat"))
+        self.coder = index.getCoder(os.path.join(datadir,'huffmanCode'))
 
     def getRanks(self, query, model):
         """Calculate Score"""
         if model == 'QL':
-            scores = calcQLScores(self.termCount, self.index, query)
+            scores = calcQLScores(self.termCount, self.index, query,self.coder)
         elif model == 'BM25':
             scores = [] #not implemented yet
         return scores

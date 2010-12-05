@@ -1,6 +1,16 @@
 """Index Processing"""
+import pickle
 
-def getIndex(indexFile):
+def parseCountString(countString):
+    countString=countString.strip().replace(' ','').split(':')
+    countMap={'count':int(line[1]),'docs':{}}
+    counts=line[2].replace('(','')[:-1].split(')')
+    for count in coutns:
+        count=count.split(',')
+        countMap['docs'][int(count[0])]=int(count[1])
+    return countMap
+'''
+def getIndex(indexFile,isCompressed):
     """Load Index"""
     f = open(indexFile, 'r')
     doc = f.readlines()
@@ -18,8 +28,39 @@ def getIndex(indexFile):
             count = count.split(',')
             index[term]['docs'][int(count[0])] = int(count[1])
     return index
+'''
 
-def getTermContent(indx, term):
+def getIndex(indexFile):
+    """Load Index"""
+    f = open(indexFile, 'r')
+    index=pickle.load(f)
+    f.close()
+
+    
+    #if it isn't compressed parse the index into a map
+    if(index['type']=='uncompressed'):
+        for term in index['data'].keys():
+            # assumes terms do not have spaces (such as noun phrases)
+            #{"term": {"count": 18, "docs": {0:5, 23:6}}, ...}
+            countString=index['data'][term]
+            index['data'][term]=parseCountString(countString)
+    return index
+
+def getTermContent(index, term, coder):
     """Get Documents for given term"""
-    return indx.get(term, {'count':0, 'docs':{}})
+    default={'count':0,'docs':{}}
+    if(index['type']=='uncompressed'):
+        return index['data'].get(term,default)
+    else:
+        compressedCounts=index['data'].get(term,'')
+        if(compressedCounts==''):
+            return default
+        else:
+            return parseCountString(coder.decodeBinary(compressedCounts))
 
+def getCoder(codeFilename):
+    """Load huffman code"""
+    codeFile=open(codeFilename,'r')
+    coder=pickle.load(codeFile)
+    codeFile.close()
+    return coder
