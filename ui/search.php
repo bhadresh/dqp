@@ -70,11 +70,17 @@
         else {
             echo "Sorry no pages were found for: " . $_GET['q'];
         }
-		echo '<div id="navcontainer"><ul id="navlist">';
-		//<li id="active"><a href="#" id="current">Item one</a></li>
-		//<li><a href="#">Item two</a></li>
+		$pagecount = $result['count'] / 10;
+		if( $pagecount < 1 )
+		{
+			echo '<div id="navcontainer"><ul id="navlist">';
+			for ($index = 1; $index <= $pagecount; $index++) 
+			{ 
+				echo '<li' . ($index == $_GET['p'] ? ' id="active"' : '') . '><a href="' . $_SERVER['PHP_SELF'] . '?q=' . urlencode($_GET['q']) . (isset($_GET['m'] ? '&m=' . $_GET['m'] : '') . '&p=' . $index . '">' . $index . '</a></li>';
+			}
 
-		echo '</ul></div>';
+			echo '</ul></div>';
+		}
     }
 ?>
 
