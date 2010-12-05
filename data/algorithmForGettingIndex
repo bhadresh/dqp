@@ -10,3 +10,4 @@ def findIndex(queryWord):
     for i in range(0,len(vec)):
     	if(queryWord<=vec[i]):
 		return i
+    return -1
