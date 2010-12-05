@@ -25,6 +25,7 @@ if __name__=="__main__":
     parser.add_option('-v', '--verbose', help="Verbose Output [default: %default]", action="count", default=False)
     parser.add_option('-d', '--data', help="Data Storage location [default: %default]", action="store", default=_datadir)
     parser.add_option('-c', '--compressed_index', help="Use Compressed Index [default: %default]", action="store_true", default=False)
+    parser.add_option('-i', '--index', help="Index Server Number", action="store", type='int')
 
     (options, args) = parser.parse_args()
     _index = None
@@ -39,13 +40,18 @@ if __name__=="__main__":
     myip = ip.get_ip()
     nodesfile = os.path.realpath(os.path.join(os.path.dirname(__file__), getattr(user, "dqp_nodes_file", "local.nodes")))
     nodes = open(nodesfile).read().strip().splitlines()
-    for i, node in enumerate(nodes):
-        ip, port = node.split(':')
-        if ip == myip:
-            _index = i
-            nodeip = ip
-            nodeport = int(port)
-            break
+    if options.index:
+        _index = options.index
+        nodeip, port = nodes[_index].split(':')
+        nodeport = int(port)
+    else:
+        for i, node in enumerate(nodes):
+            ip, port = node.split(':')
+            if ip == myip:
+                _index = i
+                nodeip = ip
+                nodeport = int(port)
+                break
 
     if nodeip is None or nodeport is None:
         print "Detected Lan IP (%s) for this system is NOT in %s" % (myip, nodesfile)
