@@ -58,9 +58,9 @@
 			foreach ($result['records'] as $r)
 			{
 				echo "<tr><td id=\"linksDisplayed\">";
-				echo "<a href=\"  $r['url'] \" > $r['docid'] </a> <br/>";
-				echo "Page Rank: $r['pagerank'] <br/>";
-				echo "Score: $r['score']";
+				echo '"<a href=  "' .$r['url'] . '" > '. $r['docid'] .'</a> <br/>"';
+				echo '"Page Rank: ' . $r['pagerank'] . '<br/>"';
+				echo '"Score: ' . $r['score'] . '"';
 				echo "<br /><br /></td> </tr>";
 			}
 			echo "</table>";
@@ -70,6 +70,8 @@
         }
     }
 ?>
+
+
 
 </div>
 </body>
