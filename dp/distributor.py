@@ -5,6 +5,7 @@ import Pyro.core
 from multiprocessing import Pool
 import json
 import operator
+import time
 
 __version__ = "1.0"
 __authors__ = "Bhadresh Patel <bhadresh@wsu.edu>"
@@ -16,6 +17,7 @@ def dqp(q, p=1, m='QL'):
     
     Run the given query on multiple nodes and return the combined result
     """
+    st = time.time()
     nodesfile = os.path.realpath(os.path.join(os.path.dirname(__file__), getattr(user, "dqp_nodes_file", "local.nodes")))
     nodes = open(nodesfile).read().strip().splitlines()
     args = []
@@ -27,7 +29,9 @@ def dqp(q, p=1, m='QL'):
     
     # Merge results
     rdict = {}
-    for r in result:
+    total = 0
+    for (rcount, r) in result:
+        total = total + rcount
         for rec in r:
             if rec['docid'] in rdict:
                 rdict[rec['docid']]['score'] = rdict[rec['docid']]['score'] + rec['score']
@@ -36,7 +40,7 @@ def dqp(q, p=1, m='QL'):
 
     results = rdict.values()
     combined_result = sorted(results, key=operator.itemgetter('score'), reverse=True)    
-    return combined_result[(p - 1) * 10:(p * 10)]
+    return {'count': total, 'time': (time.time() - st), 'records': combined_result[(p - 1) * 10:(p * 10)]}
 
 def do_search(arg):
     """Call Remote Node and execute Search"""
@@ -72,8 +76,8 @@ if __name__ == '__main__':
         query = {'AND': args[0].split()}
     
     result = dqp(query, options.page, options.model)
-    if _verbose:
-        for r, d in enumerate(result):
+    if _verbose:        
+        for r, d in enumerate(result['records']):
             print "%d. %s" % (r + 1, d)
     else:
         print result

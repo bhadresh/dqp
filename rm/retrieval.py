@@ -82,7 +82,7 @@ class RetrievalModel(Pyro.core.ObjBase):
                 'url': self.pidMap[entry[0]],
                 'pagerank': self.pageRanks[entry[0]]            
             })
-        return results
+        return (len(scores), results)
     
     def log(self, msg):
         if self.verbose:
