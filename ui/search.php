@@ -58,7 +58,7 @@
 				echo '<tr><td id="linksDisplayed">';
 				echo '<a href="' . $rec['url'] . '">' . $rec['docid'] . '</a><br/>';
 				echo 'Page Rank: ' . $rec['pagerank'] . '<br/>';
-				echo 'Score: ' . $rec['score'] '<br/>';
+				echo 'Score: ' . $rec['score'] . '<br/>';
 				echo '</td></tr>';
 			}
 			echo "</table>";
