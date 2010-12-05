@@ -45,7 +45,7 @@
         $json_result = shell_exec("python " . dirname(dirname(__file__)) . "/dp/distributor.py -p " . (isset($_GET['p']) ? $_GET['p'] : 1) . " -m " . (isset($_GET['m']) ? $_GET['m'] : 'QL') . " " . escapeshellarg($_GET['q']));
         $et = microtime(true);
         if (!empty($json_result)) {
-            echo "<p>Retrieved in: " . ($et - $st) . " seconds </p>";
+            echo "<p padding-left="145px">Retrieved in: " . ($et - $st) . " seconds </p>";
             $result = json_decode(str_replace("'", '"', $json_result), true);
 			echo "<table id=\"tableStyle\">";
 			foreach ($result['records'] as $rec) {
