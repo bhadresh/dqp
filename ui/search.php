@@ -71,6 +71,7 @@
             echo "Sorry no pages were found for: " . $_GET['q'];
         }
 		$pagecount = $result['count'] / 10;
+		echo $pagecount;
 		if( $pagecount < 1 )
 		{
 			echo '<div id="navcontainer"><ul id="navlist">';
