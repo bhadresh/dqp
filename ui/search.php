@@ -76,7 +76,7 @@
 			echo '<div id="navcontainer"><ul id="navlist">';
 			for ($index = 1; $index <= $pagecount; $index++) 
 			{ 
-				echo '<li' . ($index == $_GET['p'] ? ' id="active"' : '') . '><a href="' . $_SERVER['PHP_SELF'] . '?q=' . urlencode($_GET['q']) . isset($_GET['m']) ? '&m=' . $_GET['m'] : '') . '&p=' . $index . '">' . $index . '</a></li>';
+				echo '<li' . ($index == $_GET['p'] ? ' id="active"' : '') . '><a href="' . $_SERVER['PHP_SELF'] . '?q=' . urlencode($_GET['q']) . (isset($_GET['m']) ? '&m=' . $_GET['m'] : '') . '&p=' . $index . '">' . $index . '</a></li>';
 			}
 
 			echo '</ul></div>';
