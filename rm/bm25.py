@@ -42,12 +42,12 @@ def calcBM25Scores(termCount, myindex, query, coder):
         K = k1 * ((1 - b) + (b * termCount.get(docID) / termCount.get('average')))
         docScore = 0.0
         for term in terms:
-            docScore = log10((termCount['totalDocs'] - termIndex[term].get('count', 0) + 0.5)
+            tempScore = log10((termCount['totalDocs'] - termIndex[term].get('count', 0) + 0.5)
                              / (termIndex[term].get('count', 0) + 0.5))
             
-            docScore = docScore * ((k1 + 1) * termIndex[term]['docs'].get(docID, 0.0)) / (K + termIndex[term]['docs'].get(docID, 0.0))
+            tempScore = tempScore * ((k1 + 1) * termIndex[term]['docs'].get(docID, 0.0)) / (K + termIndex[term]['docs'].get(docID, 0.0))
             
-            docScore = docScore * (((k2 + 1) * qFreq[term]) / (k2 + qFreq[term]))
-            
+            tempScore = tempScore * (((k2 + 1) * qFreq[term]) / (k2 + qFreq[term]))
+            docScore = docScore + tempScore
         scores.append([docID, docScore])	
     return scores
