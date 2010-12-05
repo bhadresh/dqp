@@ -48,7 +48,7 @@
 <?php
     if (isset($_GET['q']) && !empty($_GET['q'])) {
         $st = microtime(true);
-        $json_result = shell_exec("python " . dirname(dirname(__file__)) . "/dp/distributor.py " . escapeshellarg($_GET['q']));
+        $json_result = shell_exec("python " . dirname(dirname(__file__)) . "../../dp/distributor.py " . escapeshellarg($_GET['q']));
         $et = microtime(true);
         if (!empty($json_result)) {
             echo "<p>Retrieved in: " . ($et - $st) . " seconds </p>";
