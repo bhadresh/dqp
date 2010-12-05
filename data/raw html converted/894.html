@@ -1,0 +1,513 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+  <style type=text/css>
+<!--
+  body {background-color: #FFFFFF; color: #000; margin: 10px; font-family:arial,sans-serif}
+  .keyword {font-family: 'Arial';  color: #B11E89 ; font-size: 20px;}
+  .bodyText {font-family: 'Arial'; color: rgb(0, 0, 0); font-size: 13px;}
+  bodyText:hover{color:rgb(0, 0, 0);}
+  body,td,div,p,a,font,span {font-family: arial,sans-serif}
+  body {margin-top:2}
+  .joinNow {background-color: #E8EEFA }
+  a {color:#0000FF}
+  a:visited {color: #0000FF}
+  table {border:0; border-collapse: collapse}
+  
+  .c {width: 4; height: 0}
+  
+  .bubble {background-color:#C3D9FF}
+  
+  .tl {padding: 0; width: 4; text-align: left; vertical-align: top}
+  .tr {padding: 0; width: 4; text-align: right; vertical-align: top}
+  .bl {padding: 0; width: 4; text-align: left; vertical-align: bottom}
+  .br {padding: 0; width: 4; text-align: right; vertical-align: bottom}
+  
+  .caption {color:#000000; white-space:nowrap; background:#E8EEFA; text-align:center}
+  
+  .form-noindent {background-color: #ffffff; border: #C3D9FF 1px solid; border-collapse: separate; padding: 2px}
+  .form-noindent form {margin: 7px}
+  
+  .feature-image {padding: 15 0 0 0; vertical-align: top; text-align: right; }
+  .feature-description {padding: 15 0 0 10; vertical-align: top; text-align: left; }
+  .reallife,.conversation,.havefun {padding-left: 70px; margin-bottom: 5px  }
+  .reallife {background: no-repeat url(https://static1.orkut.com/img/login/just_like_real_life_50.png) 0 0;}
+  .conversation {background: no-repeat url(https://static1.orkut.com/img/login/get_the_conversation_started_50.png) 0 0; padding-top: 5px}
+  .havefun {background: no-repeat url(https://static1.orkut.com/img/login/have_fun_50.png) 0 0; padding-top: 10px}
+  .blogLine {margin-top:80px}
+  #gaia_loginbox {margin-bottom: 17px}
+  
+  .signup_btn {cursor: pointer; margin: 10px 0 -20px 0; text-align: center; }
+  .signup_btn_link {color: #000 !important;  text-align: center; text-decoration: none; padding: 0 7px; font-weight: bold; font-size: 14px; white-space: nowrap; }
+  
+  .SPRITE_signup_button_grey_l { background:no-repeat url(https://mail.google.com/mail/help/images/greybtn.png) 0 0; width: 14px; height: 45px }
+  .SPRITE_signup_button_grey_m { background:no-repeat url(https://mail.google.com/mail/help/images/greybtn.png) -14px 0; height: 45px }
+  .SPRITE_signup_button_grey_r { background:no-repeat url(https://mail.google.com/mail/help/images/greybtn.png) -365px 0; width: 15px; height: 45px }
+  
+  .SPRITE_cell {background: no-repeat url(https://mail.google.com/mail/help/images/login_features_sprite.png) 0 -142px; width: 42px; height: 42px; float: right }
+  .SPRITE_search_new {background:no-repeat url(https://mail.google.com/mail/help/images/login_features_sprite.png) 0 -100px; width: 42px; height: 42px; float: right }
+  .SPRITE_spam_new {background:no-repeat url(https://mail.google.com/mail/help/images/login_features_sprite.png) 0 -58px; width: 42px; height: 42px; float: right }
+  .SPRITE_storage {background:no-repeat url(https://mail.google.com/mail/help/images/login_features_sprite.png) 0 0; width: 42px; height: 42px; float: right }
+  .SPRITE_feed_icon {background: no-repeat url(https://mail.google.com/mail/help/images/login_features_sprite.png) 0 -42px; width: 16px; height: 16px }
+  
+  .SPRITE_corner_bl {background:no-repeat url(https://mail.google.com/mail/help/images/login_corners_sprite.png) 0 0; width: 4px; height: 4px; font-size:2px }
+  .SPRITE_corner_br {background:no-repeat url(https://mail.google.com/mail/help/images/login_corners_sprite.png) -4px 0; width: 4px; height: 4px; font-size:2px }
+  .SPRITE_corner_tl {background:no-repeat url(https://mail.google.com/mail/help/images/login_corners_sprite.png) 0 -4px; width: 4px; height: 4px; font-size:2x }
+  .SPRITE_corner_tr {background:no-repeat url(https://mail.google.com/mail/help/images/login_corners_sprite.png) -4px -4px; width: 4px; height: 4px; font-size:2px }
+
+  .title {font-family:arial,sans-serif; color: rgb(0, 0, 0); font-size: 15px; bold}
+  div.errormsg,font.errormsg { color: red; font-size: smaller; font-family:arial,sans-serif; }
+  .videothumb { float: left; }
+  .videotext { margin-left: 140px; }
+  .videolink { margin-top: 6px; }
+  .videolink a, .videolink a:visited { color: rgb(54, 102, 190); font-size: 13px;}
+-->
+</style>
+<style type="text/css"><!--
+.gaia.le.lbl { font-family: Arial, Helvetica, sans-serif; font-size: smaller; }
+.gaia.le.fpwd { font-family: Arial, Helvetica, sans-serif; font-size: 70%; }
+.gaia.le.chusr { font-family: Arial, Helvetica, sans-serif; font-size: 70%; }
+.gaia.le.val { font-family: Arial, Helvetica, sans-serif; font-size: smaller; }
+.gaia.le.button { font-family: Arial, Helvetica, sans-serif; font-size: smaller; }
+.gaia.le.rem { font-family: Arial, Helvetica, sans-serif; font-size: smaller; }
+
+.gaia.captchahtml.desc { font-family: arial, sans-serif; font-size: smaller; } 
+.gaia.captchahtml.cmt { font-family: arial, sans-serif; font-size: smaller; font-style: italic; }
+  
+--></style>
+<script type="text/javascript">
+blogFeedUrl = 'https://ajax.googleapis.com/ajax/services/feed/load?v=1.0&q=' +
+  'http://en.blog.orkut.com/atom.xml&num=1&callback=loadBlogFeed';
+function loadBlogFeed(r){
+  var container = document.getElementById('feed');
+  if (r.responseStatus == '200' && r.responseData.feed.entries.length > 0) {
+  var post = r.responseData.feed.entries[0];
+  var title = post.title;
+  var entry = cleanPostContent(post.content);
+  var link = post.link;
+  var date = post.publishedDate;
+  date = new Date(date).toDateString();
+  renderPost(title, entry, link, date);
+  } else {
+  renderNoPost();
+  }
+}
+function cleanPostContent(entry) {
+  entry = entry.replace(/<[^>]*>/g, '');
+  var snippet = entry.split(' ', 20);
+  snippet.pop();
+  return snippet.join(' ') + ' ...';
+}
+function renderPost(title, entry, link, date) {
+  var linkNode = document.createElement('a');
+  linkNode.href = link;
+  linkNode.appendChild(document.createTextNode(title));
+  var container = document.getElementById('feed');
+  container.appendChild(linkNode);
+  container.appendChild(document.createTextNode(" - " + date));
+}
+function renderNoPost(){
+  var container = document.getElementById('feed');
+  container.innerHTML = '<a href="http://gmailblog.blogspot.com">' +
+  'The Official orkut Blog</a>';
+}
+function importBlogJS() {
+  var scriptNode = document.createElement('script');
+  scriptNode.setAttribute('src', blogFeedUrl);
+  document.getElementsByTagName('head')[0].appendChild(scriptNode);
+}
+function gaia_onLoginSubmit() {
+  if (window.gaiacb_onLoginSubmit) {
+  return gaiacb_onLoginSubmit();
+  } else {
+  return true;
+  }
+}
+function stripParam(url, paramRegex) {
+  if (url.search(paramRegex) == -1) {
+  return url;
+  }
+  var firstParamRegExp = new RegExp('\\?' + paramRegex + '&');
+  var paramRegExp = new RegExp('(\\?|&)' + paramRegex);
+  url = url.replace(firstParamRegExp, '?');
+  url = url.replace(paramRegExp, '');
+  return url;
+}
+function GetForm() {
+  var f = null;
+  if (document.getElementById('gaia_loginform')) {
+  f = document.getElementById('gaia_loginform');
+  } else if (window.gaia_loginform) {
+  f = window.gaia_loginform;
+  }
+  return f;
+}
+function AddUrlParam(url, param, value) {
+  return url + ((url.search(/\?/) == -1) ? '?' : '&') + param + '=' + escape(value);
+}
+var focusTime;
+function gaiacb_onLoginSubmit() {
+  var CONTINUE = 'continue';
+  var f = GetForm();
+  if (f) {
+  var continueUrl = f[CONTINUE].value;
+  if (continueUrl != null && continueUrl != '') {
+  var lts = new Date().getTime();
+  continueUrl = stripParam(continueUrl, 'ts=[0-9]*:[0-9]*:[0-9]*');
+  var tsParam = startTime + ':' + focusTime + ':' + lts;
+  continueUrl = AddUrlParam(continueUrl, 'ts', tsParam);
+  f[CONTINUE].value = continueUrl;
+  }
+  }
+  return true;
+}
+function gaia_setFocus() {
+  var f = GetForm();
+  if (f) {
+  if (f.Email.value == null || f.Email.value == '') {
+  f.Email.focus();
+  } else if (f.Passwd) {
+  f.Passwd.focus();
+  }
+  focusTime = (new Date()).getTime();
+  }
+}
+function bodyLoad() {
+  importBlogJS();
+  gaia_setFocus();
+}
+var startTime = (new Date()).getTime();
+</script>
+  <title>orkut - login</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head>
+<body onload="bodyLoad()">
+  <table width="95%" cellspacing="0" cellpadding="0" border="0" align="center">
+  <tr valign="top">
+  <td><div style="height:100px;width:225px;overflow:hidden;">
+  <a href="">
+  <img src="https://static1.orkut.com/img/doodle/new_logo.gif"
+         alt="Who do you know?"
+         title="Who do you know?"
+         style="border: none;">
+  </a>
+  </div></td>
+  <td width="99%" valign="middle" bgcolor="#ffffff">
+  <table width="100%" cellpadding="1">
+  <tr valign="bottom">
+  <td><div align="right"></div></td>
+  </tr>
+  <tr>
+  <td nowrap="nowrap">
+  <table width="100%" cellspacing="0" cellpadding="0" bgcolor="#c3d9ff" align="center" style="margin-bottom: 5px;">
+  <tr>
+  <td valign="top" align="left" class="bubble tl"><div class="SPRITE_corner_tl"/></td>
+  <td style="padding: 5px 0pt; text-align: left; font-weight: bold;" rowspan="2" class="bubble">
+  <b>Welcome to Orkut</b></td>
+  <td valign="top" align="right" class="bubble tr" width="4"><div class="SPRITE_corner_tr"/></td>
+  </tr>
+  <tr>
+  <td valign="bottom" align="left" class="bubble bl"><div class="SPRITE_corner_bl"/></td>
+  <td valign="bottom" align="right" class="bubble br" width="4" ><div class="SPRITE_corner_br"/></td>
+  </tr>
+  </table>
+  </td>
+  </tr>
+  </table>
+  </td>
+  </tr>
+  </table>
+  <table width="94%" align="center" border="0">
+  <tr>
+  <td valign="top" width="70%" style="padding-top: 40px;">
+  <div class="reallife">
+  <span class="title"><b>Just like real life </b></span> <br>
+  <span style="color: rgb(0, 0, 0); font-size: 13px;">Share with all or separated groups of friends, controlling who sees what. <br>
+  Connect with your best friend, your boss and your grandma with confidence.</span><br/><br/>
+  </div>
+  <div class="conversation">
+  <span class="title"><b>Get the conversation started </b></span><br>
+  <span style="color: rgb(0, 0, 0); font-size: 13px;">Chat, comment and talk with each group of your friends for a conversation you control. </span><br/><br/>
+  </div>
+  <div class="havefun">
+  <span class="title"><b>Have fun! </b></span> <br>
+  <span style="color: rgb(0, 0, 0); font-size: 13px;">Easily share photos, videos and news. Join communities to discuss topics of your interest.</span><br/><br/>
+  </div>
+  <div class="bodyText blogLine" >
+  <div style="float: left; margin-right: 5px">
+  <a href="http://feeds.feedburner.com/OrkutBlog">
+  <div style="background: no-repeat url(https://www.google.com/images/feed-icon.gif); width: 16px; height: 16px; float: left; margin-right: 5px" />
+  </div>
+  </a>
+  <b>orkut blog&nbsp;</b>
+  <span id="feed" class="bodyText"></span>
+  <span class="bodyText"> - <a href="http://en.blog.orkut.com/">more posts »</a></span>
+  </div>
+  </td>
+  <td valign="top" width="300px">
+  <table width=100% border="0">
+  <tr><td>
+  <div id="login" style="overflow: visible;">
+<script><!--
+
+function gaia_onLoginSubmit() {
+
+  if (window.gaiacb_onLoginSubmit) {
+    return gaiacb_onLoginSubmit();
+  } else {
+    return true;
+  }
+
+}
+
+
+function StripParam(url, param) {
+  if (url.search(param) == -1) {
+    return url;
+  }
+  var firstParamRegExp = new RegExp('\\?' + param + '&');
+  var paramRegExp = new RegExp('(\\?|&)' + param);
+  url = url.replace(firstParamRegExp, '?');
+  url = url.replace(paramRegExp, '');
+  return url;
+}
+
+
+function GetForm() {
+  var f = null;
+  if (document.getElementById) {
+    f = document.getElementById('gaia_loginform');
+  } else if (window.gaia_loginform) {
+    f = window.gaia_loginform;
+  }
+  return f;
+}
+
+function AddUrlParam(url, param, value) {
+  return url + ((url.search(/\?/) == -1) ? '?' : '&') + param + '=' + value;
+}
+
+var focusTime;
+function gaiacb_onLoginSubmit() {
+  var CONTINUE = 'continue';
+  var f = GetForm();
+  if (f) {
+    var continueUrl = f[CONTINUE].value;
+    if (continueUrl != null &&  continueUrl != '') {
+      var lts = new Date().getTime();
+      continueUrl = StripParam(continueUrl, 'ts=[0-9]*:[0-9]*:[0-9]*');
+      var tsParam = startTime + ':' + focusTime + ':' + lts;
+      continueUrl = AddUrlParam(continueUrl, 'ts', tsParam);
+      f[CONTINUE].value = continueUrl;
+    }
+  }
+  return true;
+}
+
+function gaia_setFocus() {
+  var f = GetForm();
+  if (f) {
+    if (f.Email.value == null || f.Email.value == "") { 
+      f.Email.focus();
+    } else if (f.Passwd) {
+      f.Passwd.focus();
+    }
+    focusTime = (new Date()).getTime();
+  }
+}
+--></script>
+<style type="text/css"><!--
+  div.errormsg { color: red; font-size: smaller; font-family:arial,sans-serif; }
+  font.errormsg { color: red; font-size: smaller; font-family:arial,sans-serif; }  
+--></style>
+<style type="text/css"><!--
+.gaia.le.lbl { font-family: Arial, Helvetica, sans-serif; font-size: smaller; }
+.gaia.le.fpwd { font-family: Arial, Helvetica, sans-serif; font-size: 70%; }
+.gaia.le.chusr { font-family: Arial, Helvetica, sans-serif; font-size: 70%; }
+.gaia.le.val { font-family: Arial, Helvetica, sans-serif; font-size: smaller; }
+.gaia.le.button { font-family: Arial, Helvetica, sans-serif; font-size: smaller; }
+.gaia.le.rem { font-family: Arial, Helvetica, sans-serif; font-size: smaller; }
+
+.gaia.captchahtml.desc { font-family: arial, sans-serif; font-size: smaller; } 
+.gaia.captchahtml.cmt { font-family: arial, sans-serif; font-size: smaller; font-style: italic; }
+  
+--></style>
+<div id="gaia_loginbox">
+<table class="form-noindent" width="100%" border="0">
+  <tr>
+  <td valign="top" bgcolor="#E8EEFA">
+  <form id="gaia_loginform" action="https://www.google.com/accounts/ServiceLoginAuth" method="post"
+        onsubmit="return(gaia_onLoginSubmit());">
+  <table id="gaia_table" align="center" border="0" cellpadding="1" cellspacing="0">
+  <tr>
+<td colspan="2" align="center">
+  <font size="-1">
+  Sign in with your
+  </font>
+  <table>
+  <tr>
+  <td valign="top">
+  <img src="google_transparent.gif"
+           alt="Google">
+  </img>
+  </td>
+  <td valign="middle">
+  <font size="+0"><b>Account</b></font>
+  </td>
+  </tr>
+</table>
+</td>
+</tr>
+<tr>
+  <td colspan="2" align="center">
+  </td>
+</tr>
+<tr id="email-row">
+  <td nowrap="nowrap">
+  <div align="right">
+  <span class="gaia le lbl">
+  Email:
+  </span>
+  </div>
+  </td>
+  <td>
+  <input type="hidden" name="service" id="service"
+           value="orkut" />
+  <input type="hidden" name="dsh" id="dsh"
+           value="-4929656795996347847" />
+  <input type="hidden" name="timeStmp" id="timeStmp"
+       value=''/>
+<input type="hidden" name="secTok" id="secTok"
+       value=''/>
+  <input type="hidden"
+             name="GALX"
+             value="DvIQxbboRFI" />
+  <input type="text" name="Email"  id="Email"
+  size="18" value=""
+  
+  
+    class='gaia le val'
+  
+  />
+  </td>
+</tr>
+<tr>
+  <td></td>
+  <td align="left">
+  <div style="color: #666666; font-size: 75%;">
+  ex: pat@example.com
+  </div>
+  </td>
+</tr>
+<tr id="password-row" class="enabled">
+  <td align="right" nowrap="nowrap">
+  <span class="gaia le lbl">
+  Password:
+  </span>
+  </td>
+  <td>
+  <input type="password"
+   name="Passwd" id="Passwd"
+  size="18" 
+  
+  
+
+  
+    class="gaia le val" 
+  
+  />
+  </td>
+</tr>
+<tr>
+  <td> </td>
+  <td align="left">
+  </td>
+</tr>
+<tr id="rememberme-row" class="enabled">
+  <td colspan=2 align="center" valign="top"><div style="text-align:left;  margin-left:48px  ">&nbsp;
+  <input type="checkbox" name="PersistentCookie" id="PersistentCookie"
+    value="yes"
+  
+    checked='checked'
+  
+  />
+  <input type="hidden" name='rmShown' value="1" />
+  <label for="PersistentCookie" id="PersistentCookieLabel" class="gaia le rem">
+  Stay signed in
+  </label>
+  </div>
+  </td>
+</tr>
+<tr>
+  <td>
+  </td>
+  <td align="left">
+  <input type="submit" class="gaia le button" name="signIn" id="signIn"
+           value="Sign in"
+                  />
+  </td>
+</tr>
+<tr id="ga-fprow">
+  <td colspan="2" height="33.0" class="gaia le fpwd"
+    align="center" valign="bottom">
+  <a href="https://www.google.com/accounts/recovery?service=orkut"
+       target=_top>
+  Can&#39;t access your account?
+  </a>
+  </td>
+</tr>
+  </table>
+  </form>
+  </td>
+  </tr>
+</table>
+</div>
+  </div>
+  </td></tr>
+  <tr><td>
+  <div id="links_box">
+  <table width="100%" cellpadding="0" bgcolor="#e8eefa" id="links" class="form-noindent">
+  <tr bgcolor="#e8eefa">
+  <td valign="top">
+  <div align="center" class="bodyText" style="margin: 10px 0pt;">
+  Don't have a Google Account?
+  <table cellspacing="0" cellpadding="0" align="center" onclick="window.location='http://www.orkut.com/PreSignup';" class="signup_btn">
+  <tr>
+  <td class="SPRITE_signup_button_grey_l"/>
+  <td class="SPRITE_signup_button_grey_m"><a href="http://www.orkut.com/PreSignup" class="signup_btn_link">
+  Create an account &raquo;
+  </a></td>
+  <td class="SPRITE_signup_button_grey_r"/>
+  </tr></table>
+  <br />
+  </div>
+  </td>
+  </tr>
+  </table>
+  </div>
+  </td></tr>
+  </table>
+  </td></tr>
+  </table>
+  <br>
+  <table width="95%" cellspacing="0" cellpadding="3" bgcolor="#c3d9ff" align="center" style="margin-bottom: 5px;">
+  <tr>
+  <td valign="top" align="left" class="bubble tl"><div class="SPRITE_corner_tl"/></td>
+  <td style="text-align: left;" rowspan="2" class="bubble">
+  <div align="center" class="bodyText">
+  <font color="#676767">&copy;2010 Google -</font>
+  <a href="http://www.orkut.com/whatsnew">What's new</a> -
+  <a href="http://www.google.com/support/orkut/?hl=">Help</a> -
+  <a href="http://help.orkut.com/support/bin/answer.py?answer=48579&hl=">Safety Center</a> -
+  <a href="http://www.orkut.com/Privacy.aspx">Privacy</a> -
+  <a href="http://www.orkut.com/AdditionalTerms.aspx">Terms</a>
+  </div>
+  </td>
+  <td valign="top" align="right" class="bubble tr" width="4"><div class="SPRITE_corner_tr"/></td>
+  </tr>
+  <tr>
+  <td valign="bottom" align="left" class="bubble bl"><div class="SPRITE_corner_bl"/></td>
+  <td valign="bottom" align="right" class="bubble br"><div class="SPRITE_corner_br"/></td>
+  </tr>
+  </table>
+</body></html>

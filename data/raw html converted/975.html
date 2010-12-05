@@ -1,0 +1,157 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" >
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Google Transit</title>
+    
+<script type="text/javascript" charset="utf-8">
+  var tmap = window.tmap || {};
+  
+    tmap.US_FLAG = true;
+  
+  tmap.REGION_NAMES = { "AF-EG": "Egypt","AF-ZA": "South Africa","AF-TN": "Tunisia","AS-TW": "Taiwan","AS-JP": "Japan","AS-KR": "South Korea","AS-IN": "India","AS-CN": "China","CA-BC": "British Columbia","CA-NB": "New Brunswick","CA-ON": "Ontario","CA-QC": "Quebec","CA-AB": "Alberta","CA-NS": "Nova Scotia","EU-IT": "Italy","EU-RU": "Russia","EU-FR": "France","EU-CH": "Switzerland","EU-GB": "United Kingdom","EU-PL": "Poland","EU-PT": "Portugal","EU-DE": "Germany","EU-NO": "Norway","EU-FI": "Finland","EU-ES": "Spain","EU-CZ": "Czech Republic","EU-AT": "Austria","NA-MX": "Mexico","OC-AU": "Australia","SA-BR": "Brazil","SA-CO": "Colombia","SA-CL": "Chile","SA-VE": "Venezuela","US-WA": "Washington","US-VA": "Virginia","US-TX": "Texas","US-WI": "Wisconsin","US-WV": "West Virginia","US-CA": "California","US-CO": "Colorado","US-FL": "Florida","US-IL": "Illinois","US-KS": "Kansas","US-MA": "Massachusetts","US-GA": "Georgia","US-HI": "Hawaii","US-NY": "New York","US-NV": "Nevada","US-OH": "Ohio","US-OR": "Oregon","US-PA": "Pennsylvania","US-RI": "Rhode Island","US-OK": "Oklahoma","US-MI": "Michigan","US-MD": "Maryland","US-MO": "Missouri","US-MT": "Montana","US-NJ": "New Jersey","US-MN": "Minnesota","US-KY": "Kentucky","US-TN": "Tennessee","US-AZ": "Arizona","US-NC": "North Carolina","US-UT": "Utah","AS-TH": "Thailand","OC-NZ": "New Zealand","AS-AE": "United Arab Emirates","EU-BG": "Bulgaria","AS-SG": "Singapore","US-DC": "District of Columbia","EU-BE": "Belgium","EU-DK": "Denmark" };
+  tmap.MSG_LAYER = 'Transit layer only';
+
+  tmap.LANG = 'en';
+
+  tmap.SADDR = "Start address";
+  tmap.DADDR = "Destination address";
+</script>
+<script src="//www.google.com/jsapi?key=ABQIAAAApiPgWhPjr4meFmeqJIlvihTRERdeAiwZ9EeJWta3L_JZVS0bOBRTjdKq2eMGlcv0SmdG4lV1kOugyw" type="text/javascript" charset="utf-8"></script>
+<script src="js/transit.map.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" charset="utf-8">
+  var tmapLoader = new tmap.Loader();
+  tmapLoader.registerCallback(function() {
+    var tmapApp = new tmap.App(tmapLoader.getCoverageData());
+    tmapApp.init();
+  });
+</script>
+<script src="js/transit.form.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://spreadsheets.google.com/feeds/list/pcO-d8z1IPLoFyAVjrgVzBg/od6/public/values?alt=json-in-script&amp;callback=tmapLoader.coverageLoadHandler" type="text/javascript" charset="utf-8"></script>
+
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
+  </head>
+  <body>
+    
+<script type="text/javascript">
+  document.body.className = 'js';
+  tmapLoader.init();
+</script>
+
+    <div class="g-doc-800" id="map-page">
+      <div class="g-section header">
+        <a href="/maps"><img src="../../images/logos/maps_logo.gif" alt="Google Maps" /></a>
+      </div>
+      <div class="g-section">
+        <h1>Transit</h1>
+        <h2>Plan a trip using public transportation</h2>
+      </div>
+      <div class="g-section g-tpl-33-67" id="main">
+        <div class="g-unit g-first" id="sidebar">
+          <h3>Use Google Maps to</h3>
+          <ul class="bullets">
+            <li>Get step-by-step transit directions
+              <ul>
+                
+                  <li><a href="http://www.google.com/mobile/default/maps/transit.html#utm_campaign=en&amp;utm_medium=et&amp;utm_source=en-et-na-us-gns-trs&amp;utm_term=TransitHomepage&amp;dc=gmapspages">on your mobile phone</a></li>
+                
+              </ul>
+            </li>
+            <li>Find transit stops in your area</li>
+            <li>View station information and schedules</li>
+          </ul>
+          
+            <p>Join the <a href="http://www.google.com/transitpartners">transit partner program</a></p>
+          
+          <h3 id="form-header">Get transit directions</h3>
+          <form action="/maps" method="get" id="transitForm" class="box">
+            <p>
+              <input type="hidden" name="ie" value="UTF8" />
+              <input type="hidden" name="f" value="d" />
+              <input type="hidden" name="dirflg" value="r" />
+              
+                <input type="hidden" name="hl" value="en" />
+              
+              <label for="saddr">
+                <img src="http://maps.google.com/intl/en_us/mapfiles/dd-icon-start.gif" alt="Start address" />
+                <input type="text" name="saddr" id="saddr" value="" maxlength="2048" title="Start address" />
+              </label>
+            </p>
+            <p>
+              <label for="daddr">
+                <img src="http://maps.google.com/intl/en_us/mapfiles/dd-icon-dest.gif" alt="Destination address" />
+                <input type="text" name="daddr" id="daddr" value="" maxlength="2048" title="Destination address" />
+              </label>
+            </p>
+            <p id="la">
+              <select name="ttype" id="ttype">
+                <option value="dep">Leave</option>
+                <option value="arr">Arrive</option>
+              </select>
+              <input type="text" name="date" id="fdate" value="" maxlength="100" title="Arrival/leaving date" />
+              <input type="text" name="time" id="ftime" value="" maxlength="100" title="Arrival/leaving time" />
+            </p>
+            <p id="submit">
+              <input type="submit" value="Get directions" />
+            </p>
+          </form>
+          
+        </div>
+        <div class="g-unit">
+          
+<div class="g-section g-tpl-67-33 g-split">
+  <div class="g-unit g-first">
+    <h3>See what cities are covered <span id="city-count">(more than {num})</span></h3>
+  </div>
+  <div class="g-unit"><a href="text.html" id="change-version">View text only version</a></div>
+</div>
+<div id="recent">Recent highlights:<span id="recent-cities"> &nbsp; </span></div>
+<div id="map">
+  <img id="static-map" src="http://maps.google.com/maps/api/staticmap?center=36.597889,0.703125&amp;zoom=1&amp;markers=26.820553,30.802498|-30.559482,22.937506|33.886917,9.537499|23.69781,120.960515|36.204824,138.252924|35.907757,127.766922|20.593684,78.96288|35.86166,104.195397|53.7266683,-127.6476206|40.4862157,-74.4518188|51.253775,-85.3232139|52.9399159,-73.5491361|53.9332706,-116.5765035|44.6922613,-62.6571885|41.87194,12.56738|61.52401,105.318756|46.227638,2.213749|46.818188,8.227512|55.378051,-3.435973|51.919438,19.145136|47.516231,14.550072|39.399872,-8.224454|56.26392,9.501785|51.165691,10.451526|60.472024,8.468946|61.92411,25.748151|40.463667,-3.74922|49.817492,15.472962|23.634501,-102.552784|-25.274398,133.775136|-14.235004,-51.92528|4.570868,-74.297333|-35.675147,-71.542969|6.42375,-66.58973|38.8951118,-77.0363658|37.4315734,-78.6568942|31.9685988,-99.9018131|43.7844397,-88.7878678|38.5976262,-80.4549026|36.778261,-119.4179324|39.5500507,-105.7820674|27.6648274,-81.5157535|40.6331249,-89.3985283|39.011902,-98.4842465|42.4072107,-71.3824374|32.1574351,-82.907123|19.8986819,-155.6658568|40.7142691,-74.0059729|38.8026097,-116.419389|40.4172871,-82.907123|43.8041334,-120.5542012|41.2033216,-77.1945247|41.5800945,-71.4774291|35.0077519,-97.092877|44.3148443,-85.6023643|39.0457549,-76.6412712|37.9642529,-91.8318334|46.8796822,-110.3625658|40.0583238,-74.4056612|46.729553,-94.6858998|37.8393332,-84.2700179|35.5174913,-86.5804473|34.0489281,-111.0937311|35.7595731,-79.0192997|39.3209801,-111.0937311|15.870032,100.992541|-40.900557,174.885971|23.424076,53.847818|42.733883,25.48583|1.352083,103.819836&amp;size=500x287&amp;sensor=true">
+</div>
+
+        </div>
+      </div>
+      
+  <div id="featured">
+  <h3>Featured searches</h3>
+  <ul class="g-section g-tpl-nest">
+
+    <li class="g-unit g-first">
+      <a href="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=San+Diego+Amtrak+Station&amp;daddr=Seaworld+%4032.763903,-117.229457&amp;hl=en&amp;geocode=%3BFf_v8wEdbzgD-Q&amp;mra=pe&amp;mrcr=0&amp;dirflg=r&amp;ttype=dep&amp;noexp=0&amp;noal=0&amp;sort=time&amp;sll=32.740617,-117.19969&amp;sspn=0.074649,0.11055&amp;ie=UTF8&amp;z=13&amp;start=0&amp;utm_campaign=en_ALL&amp;utm_medium=ha&amp;utm_source=en-ha-na-us-gns-trs&amp;utm_term=photo1"> <img src="http://maps.google.com/help/maps/transit/images/sandiego.jpg" alt="San Diego Amtrak Station to SeaWorld" width="238" height="133" />San Diego Amtrak Station to SeaWorld</a>
+    </li>
+
+
+    <li class="g-unit">
+      <a href="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Stanley+Park+Causeway,+Vancouver,+BC+V6B+3X8,+Canada+(Stanley+Park+Virtual+Tour)&amp;daddr=SFU&amp;hl=en&amp;geocode=FfhK8AIdJ_-o-CG9LRtsNUZImw%3BCdYmmUsaZFJ7Fcbp7wIdY2us-CG8BBXvjBLuGw&amp;mra=pe&amp;mrcr=0&amp;dirflg=r&amp;ttype=dep&amp;noexp=0&amp;noal=0&amp;sort=time&amp;sll=49.279453,-123.026962&amp;sspn=0.231588,0.4422&amp;ie=UTF8&amp;ll=49.270493,-123.015289&amp;spn=0.23163,0.4422&amp;z=11&amp;start=0&amp;utm_campaign=en_ALL&amp;utm_medium=ha&amp;utm_source=en-ha-na-us-gns-trs&amp;utm_term=photo2"> <img src="http://maps.google.com/help/maps/transit/images/stanley.jpg" alt="Stanley Park, BC to Simon Fraser University" width="238" height="133" />Stanley Park, BC to Simon Fraser University</a>
+    </li>
+
+
+    <li class="g-unit">
+      <a href="http://maps.google.com/maps?f=d&amp;hl=en&amp;saddr=325+5th+Ave+N,+Seattle,+WA+98109+(Experience+Music+Project)&amp;daddr=1560+1st+Ave+S,+Seattle,+WA+98134+(Safeco+Field)&amp;dirflg=r&amp;utm_campaign=en_ALL&amp;utm_medium=ha&amp;utm_source=en-ha-na-us-gns-trs&amp;utm_term=photo3"> <img src="http://maps.google.com/help/maps/transit/images/seattle.jpg" alt="San Diego Amtrak Station to SeaWorld" width="236" height="133" />Space Needle to Safeco Field</a>
+    </li>
+
+  </ul>
+</div>
+
+      <div class="g-section footer">
+        <p>&copy;2010 Google - <a href="/accounts/tos?hl=en">Terms of Service</a> - <a href="/privacy.html">Privacy Policy</a></p>
+      </div>
+    </div>
+    
+<script type="text/javascript">
+  tmapLoader.domLoadHandler();
+  window.onload = transitLandingPageOnloadHandler;
+</script>
+
+    <script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      try {
+        var pageTracker = _gat._getTracker('UA-7317040-1');
+        pageTracker._setCookiePath(/^(.*\/)/.exec(window.location.pathname)[1]);
+        pageTracker._setVar('en');
+        pageTracker._trackPageview();
+      } catch(err) {}
+    </script>
+  </body>
+</html>

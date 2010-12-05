@@ -1,0 +1,281 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="prev" href="/node/783" />
+<link rel="up" href="/node/783" />
+<link rel="next" href="/version2/comment-digg" />
+<link rel="shortcut icon" href="/files/favicon.ico" type="image/x-icon" />
+    <title>comment.bury | Digg Developers</title>
+    <link type="text/css" rel="stylesheet" media="all" href="http://developers.diggstatic.com/sites/developers.digg.com/files/css/css_e417561bd2a1362fe6837f3c8732bf72.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="http://developers.diggstatic.com/sites/developers.digg.com/files/css/css_a2a0a33b81c9ebc5e9b3804fe88613c2.css" />
+    <script type="text/javascript"> </script>
+  </head>
+  <body class="not-front not-logged-in page-node node-type-book one-sidebar sidebar-right">
+
+    <div id="page-top" class="group">
+                  <div id='header-wrapper'>
+            <div id="header">
+              <ul class="float-left primary-links"><li class="header-logo first"><a href="/" title="Digg Developers">Digg Developers</a></li>
+<li class="menu-341"><a href="/documentation" title="" class="active-trail">Documentation</a></li>
+<li class="menu-342 last"><a href="http://groups.google.com/group/diggapi" title="">Forum</a></li>
+</ul>              <ul class="float-right item-list"><li class="first"><a href="http://digg.com/login">Login</a></li>
+<li class="first"><div class="container-inline"><form action="/version2/comment-bury"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div>
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="Search Documentation" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit btn btn-secondary" />
+<input type="hidden" name="form_build_id" id="form-38f90ff93eddbde3986804582cf96c97" value="form-38f90ff93eddbde3986804582cf96c97"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+</div></li>
+</ul>            </div>
+          </div>
+        
+        
+        <div class="page-title">
+            <h1 class="clear"><a href="/documentation">Documentation</a></h1>
+        </div>
+    </div>
+
+    <div id="main-content">
+
+      <div class="section group without-tabs" id="detailed-docs">
+
+       
+        <div class='column column-large'>
+                       <h3 class="method-title">comment.bury</h3>
+          
+                    <div class="documentation">
+  <div>
+    <div class="field-type-number-integer field-field-api-login-required section">
+    <ul class="field-api-login-required">
+            <li>
+          This method requires authentication. You need to <a href="http://digg.com/api/myapps">Create an App</a> to use authentication with the Digg API.        </li>
+        </ul>
+</div>
+<div class="field-type-text field-field-api-endpoint section">
+    <ul class="field-api-endpoint">
+            <li>
+          <p class="code-snippet">http://services.digg.com/2.0/comment.bury</p>        </li>
+        </ul>
+</div>
+<div class="field-type-text field-field-api-description section">
+      <h2>Description</h2>
+    <ul class="field-api-description">
+            <li>
+          Bury a comment for authenticated user.        </li>
+        </ul>
+</div>
+<div class="fieldgroup group-api-arguments">
+
+      <h2>Arguments</h2>
+
+    
+  
+  <div class="content"><table class="content-multigroup-group-api-arguments content-multigroup-display-table-multiple-columns sticky-enabled">
+ <thead><tr><th class="content-multigroup-cell-field-api-arguments">Name</th><th class="content-multigroup-cell-field-api-arguments">Type</th><th class="content-multigroup-cell-field-api-arguments">Description</th> </tr></thead>
+<tbody>
+ <tr class="odd"><td class="content-multigroup-wrapper content-multigroup-0 content-multigroup-cell-field-api-arguments"><a href="/documentation/arguments#comment_id">comment_id</a></td><td class="content-multigroup-wrapper content-multigroup-0 content-multigroup-cell-field-api-arguments">int</td><td class="content-multigroup-wrapper content-multigroup-0 content-multigroup-cell-field-api-arguments">Comment's id <span class="requirement">(required)</span></td> </tr>
+</tbody>
+</table>
+</div>
+
+</div>
+<div class="field-type-number-integer field-field-api-method section">
+      <h2>HTTP Method</h2>
+    <ul class="field-api-method">
+            <li>
+          GET        </li>
+        </ul>
+</div>
+<div class="section field-type-text field-field-api-snippets">
+      <h2 class="samples-menu">Examples</h2>
+    <ul class="samples-menu group"><li class="0 first last"><a href="/#field-api-snippets-0" class="active">PHP</a></li>
+</ul>  <div class="field-items">
+            <div class="field-item odd field-api-snippets-0">
+          <div class="geshifilter"><pre class="php geshifilter-php" style="font-family:monospace;"><span style="color: #b1b100;">require_once</span> <span style="color: #0000ff;">'HTTP/OAuth/Consumer.php'</span><span style="color: #339933;">;</span>
+<span style="color: #b1b100;">require_once</span> <span style="color: #0000ff;">'Services/Digg2.php'</span><span style="color: #339933;">;</span>
+&nbsp;
+<span style="color: #000088;">$hoc</span> <span style="color: #339933;">=</span> <span style="color: #000000; font-weight: bold;">new</span> HTTP_OAuth_Consumer<span style="color: #009900;">&#40;</span>
+    <span style="color: #0000ff;">'key'</span><span style="color: #339933;">,</span>
+    <span style="color: #0000ff;">'secret'</span><span style="color: #339933;">,</span>
+    <span style="color: #0000ff;">'access_token'</span><span style="color: #339933;">,</span>
+    <span style="color: #0000ff;">'access_token_secret'</span>
+<span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span>
+&nbsp;
+<span style="color: #000088;">$sd</span> <span style="color: #339933;">=</span> <span style="color: #000000; font-weight: bold;">new</span> Services_Digg2<span style="color: #339933;">;</span>
+<span style="color: #000088;">$sd</span><span style="color: #339933;">-&gt;</span><span style="color: #004000;">setVersion</span><span style="color: #009900;">&#40;</span><span style="color: #0000ff;">'2.0'</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span>
+<span style="color: #000088;">$sd</span><span style="color: #339933;">-&gt;</span><span style="color: #004000;">accept</span><span style="color: #009900;">&#40;</span><span style="color: #000088;">$hoc</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span>
+&nbsp;
+<span style="color: #000088;">$result</span> <span style="color: #339933;">=</span> <span style="color: #000088;">$sd</span><span style="color: #339933;">-&gt;</span><span style="color: #004000;">comment</span><span style="color: #339933;">-&gt;</span><span style="color: #004000;">bury</span><span style="color: #009900;">&#40;</span><a href="http://www.php.net/array"><span style="color: #990000;">array</span></a><span style="color: #009900;">&#40;</span>
+    <span style="color: #0000ff;">'comment_id'</span> <span style="color: #339933;">=&gt;</span> <span style="color: #0000ff;">'20100729223726:4fef610331ee46a3b5cbd740bf71313e'</span>
+<span style="color: #009900;">&#41;</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span>
+&nbsp;
+<span style="color: #b1b100;">echo</span> <span style="color: #0000ff;">&quot;Comment now has <span style="color: #006699; font-weight: bold;">{$result-&gt;comment-&gt;diggs}</span> diggs<span style="color: #000099; font-weight: bold;">\n</span>&quot;</span><span style="color: #339933;">;</span></pre></div>        </div>
+        </div>
+</div>
+  </div>
+  <ul class="links inline"><li class="comment_forbidden first last"><span><a href="http://digg.com/login?destination=node%2F823%23comment-form">Login</a> to post comments</span></li>
+</ul></div>        </div>
+        <div class='column column-small'>
+          
+<div id="right">
+  <div class="sidebar-section group">
+    <h2>Digg API</h2>
+    <div>
+    <div>
+  <ul class="menu"><li class="expanded first last dhtml-menu  collapsed start-collapsed "><a href="/node/780" id="dhtml_menu-577">Version 1.0</a><ul class="menu"><li class="expanded first dhtml-menu  collapsed start-collapsed "><a href="/node/1" id="dhtml_menu-374">comment</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/version1/comment-bury" id="dhtml_menu-378">comment.bury</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/comment-digg" id="dhtml_menu-502">comment.digg</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/comment-getall" id="dhtml_menu-503">comment.getAll</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/comment-getinfo" id="dhtml_menu-504">comment.getInfo</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/comment-getpopular" id="dhtml_menu-505">comment.getPopular</a></li>
+<li class="leaf last dhtml-menu "><a href="/version1/comment-post" id="dhtml_menu-506">comment.post</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/node/752" id="dhtml_menu-507">container</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/version1/container-getall" id="dhtml_menu-508">container.getAll</a></li>
+<li class="leaf last dhtml-menu "><a href="/version1/container-getinfo" id="dhtml_menu-509">container.getInfo</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/node/755" id="dhtml_menu-510">dialogg</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/version1/dialogg-getall" id="dhtml_menu-511">dialogg.getAll</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/dialogg-getcomments" id="dhtml_menu-512">dialogg.getComments</a></li>
+<li class="leaf last dhtml-menu "><a href="/version1/dialogg-getinfo" id="dhtml_menu-513">dialogg.getInfo</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/node/759" id="dhtml_menu-514">digg</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/version1/digg-getall" id="dhtml_menu-515">digg.getAll</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/digg-getinfo" id="dhtml_menu-516">digg.getInfo</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/getpopular" id="dhtml_menu-517">digg.getPopular</a></li>
+<li class="leaf last dhtml-menu "><a href="/version1/digg-getupcoming" id="dhtml_menu-518">digg.getUpcoming</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/node/764" id="dhtml_menu-519">fan</a><ul class="menu"><li class="leaf first last dhtml-menu "><a href="/version1/fan-getall" id="dhtml_menu-520">fan.getAll</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/node/766" id="dhtml_menu-521">friend</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/version1/friend-getall" id="dhtml_menu-522">friend.getAll</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/friend-getcommented" id="dhtml_menu-523">friend.getCommented</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/friend-getdugg" id="dhtml_menu-524">friend.getDugg</a></li>
+<li class="leaf last dhtml-menu "><a href="/version1/friend-getsubmissions" id="dhtml_menu-525">friend.getSubmissions</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/node/771" id="dhtml_menu-526">media</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/version1/media-getall" id="dhtml_menu-527">media.getAll</a></li>
+<li class="leaf last dhtml-menu "><a href="/version1/media-getinfo" id="dhtml_menu-528">media.getInfo</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/node/774" id="dhtml_menu-529">oauth</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/version1/oauth-getaccesstoken" id="dhtml_menu-530">oauth.getAccessToken</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/oauth-getrequesttoken" id="dhtml_menu-531">oauth.getRequestToken</a></li>
+<li class="leaf last dhtml-menu "><a href="/version1/oauth-verify" id="dhtml_menu-532">oauth.verify</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/node/784" id="dhtml_menu-581">reflection</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/version1/reflection-getarguments" id="dhtml_menu-582">reflection.getArguments</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/reflection-geterrors" id="dhtml_menu-583">reflection.getErrors</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/reflection-getgroup" id="dhtml_menu-584">reflection.getGroup</a></li>
+<li class="leaf last dhtml-menu "><a href="/version1/reflection-getgroups" id="dhtml_menu-585">reflection.getGroups</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/node/789" id="dhtml_menu-586">search</a><ul class="menu"><li class="leaf first last dhtml-menu "><a href="/version1/search-stories" id="dhtml_menu-587">search.stories</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/node/778" id="dhtml_menu-561">story</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/version1/story-bury" id="dhtml_menu-588">story.bury</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/story-digg" id="dhtml_menu-562">story.digg</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/story-getall" id="dhtml_menu-589">story.getAll</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/story-getcomments" id="dhtml_menu-590">story.getComments</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/story-getdiggs" id="dhtml_menu-591">story.getDiggs</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/story-gethot" id="dhtml_menu-592">story.getHot</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/story-getinfo" id="dhtml_menu-593">story.getInfo</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/story-getpopular" id="dhtml_menu-594">story.getPopular</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/story-getrelated" id="dhtml_menu-595">story.getRelated</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/story-gettop" id="dhtml_menu-596">story.getTop</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/story-getupcoming" id="dhtml_menu-597">story.getUpcoming</a></li>
+<li class="leaf last dhtml-menu "><a href="/version1/story-undigg" id="dhtml_menu-598">story.undigg</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/node/802" id="dhtml_menu-599">topic</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/version1/topic-getall" id="dhtml_menu-600">topic.getAll</a></li>
+<li class="leaf last dhtml-menu "><a href="/version1/topic-getinfo" id="dhtml_menu-601">topic.getInfo</a></li>
+</ul></li>
+<li class="expanded last dhtml-menu  collapsed start-collapsed "><a href="/node/805" id="dhtml_menu-602">user</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/version1/user-getall" id="dhtml_menu-603">user.getAll</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/user-getcomments" id="dhtml_menu-604">user.getComments</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/user-getdiggs" id="dhtml_menu-605">user.getDiggs</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/user-getdugg" id="dhtml_menu-606">user.getDugg</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/user-getfavorites" id="dhtml_menu-607">user.getFavorites</a></li>
+<li class="leaf  dhtml-menu "><a href="/version1/user-getinfo" id="dhtml_menu-608">user.getInfo</a></li>
+<li class="leaf last dhtml-menu "><a href="/version1/user-getsubmissions" id="dhtml_menu-609">user.getSubmissions</a></li>
+</ul></li>
+</ul></li>
+</ul></div>
+<div>
+  <ul class="menu"><li class="expanded first last dhtml-menu  active-trail"><a href="/node/781" id="dhtml_menu-578">Version 2.0</a><ul class="menu"><li class="expanded first dhtml-menu  active-trail"><a href="/node/783" id="dhtml_menu-580">comment</a><ul class="menu"><li class="leaf first dhtml-menu  active-trail"><a href="/version2/comment-bury" id="dhtml_menu-621" class="active">comment.bury</a></li>
+<li class="leaf  dhtml-menu "><a href="/version2/comment-digg" id="dhtml_menu-620">comment.digg</a></li>
+<li class="leaf  dhtml-menu "><a href="/version2/comment-getinfo" id="dhtml_menu-622">comment.getInfo</a></li>
+<li class="leaf  dhtml-menu "><a href="/version2/comment-getrecent" id="dhtml_menu-624">comment.getRecent</a></li>
+<li class="leaf  dhtml-menu "><a href="/version2/comment-getreplies" id="dhtml_menu-623">comment.getReplies</a></li>
+<li class="leaf last dhtml-menu "><a href="/version2/comment-post" id="dhtml_menu-619">comment.post</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/node/815" id="dhtml_menu-613">digg</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/version2/digg-getall" id="dhtml_menu-625">digg.getAll</a></li>
+<li class="leaf last dhtml-menu "><a href="/version2/digg-hasdugg" id="dhtml_menu-675">digg.hasDugg</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/node/844" id="dhtml_menu-654">oauth</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/oauth-access-token" id="dhtml_menu-656">access_token</a></li>
+<li class="leaf last dhtml-menu "><a href="/oauth-request-token" id="dhtml_menu-655">request_token</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/node/814" id="dhtml_menu-612">search</a><ul class="menu"><li class="leaf first last dhtml-menu "><a href="/version2/search-search" id="dhtml_menu-618">search.search</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/node/818" id="dhtml_menu-616">story</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/version2/story-digg" id="dhtml_menu-630">story.digg</a></li>
+<li class="leaf  dhtml-menu "><a href="/version2/story-getcomments" id="dhtml_menu-628">story.getComments</a></li>
+<li class="leaf  dhtml-menu "><a href="/version2/story-getdiggs" id="dhtml_menu-627">story.getDiggs</a></li>
+<li class="leaf  dhtml-menu "><a href="/version2/story-getinfo" id="dhtml_menu-626">story.getInfo</a></li>
+<li class="leaf  dhtml-menu "><a href="/story-gettopnews" id="dhtml_menu-629">story.getTopNews</a></li>
+<li class="leaf  dhtml-menu "><a href="/version2/story-getupcomingnews" id="dhtml_menu-674">story.getUpcomingNews</a></li>
+<li class="leaf last dhtml-menu "><a href="/version2/story-hide" id="dhtml_menu-631">story.hide</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/node/851" id="dhtml_menu-672">stream</a><ul class="menu"><li class="leaf first last dhtml-menu "><a href="/version2/stream" id="dhtml_menu-673">stream</a></li>
+</ul></li>
+<li class="expanded  dhtml-menu  collapsed start-collapsed "><a href="/node/819" id="dhtml_menu-617">topic</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/version2/topic-getall" id="dhtml_menu-633">topic.getAll</a></li>
+<li class="leaf last dhtml-menu "><a href="/version2/topic-getinfo" id="dhtml_menu-634">topic.getInfo</a></li>
+</ul></li>
+<li class="expanded last dhtml-menu  collapsed start-collapsed "><a href="/node/817" id="dhtml_menu-615">user</a><ul class="menu"><li class="leaf first dhtml-menu "><a href="/version2/user-follow" id="dhtml_menu-657">user.follow</a></li>
+<li class="leaf  dhtml-menu "><a href="/version2/user-getcomments" id="dhtml_menu-638">user.getComments</a></li>
+<li class="leaf  dhtml-menu "><a href="/version2/user-getinfo" id="dhtml_menu-639">user.getInfo</a></li>
+<li class="leaf  dhtml-menu "><a href="/version2/user-getmynews" id="dhtml_menu-640">user.getMyNews</a></li>
+<li class="leaf  dhtml-menu "><a href="/version2/user-getsavedstories" id="dhtml_menu-637">user.getSavedStories</a></li>
+<li class="leaf  dhtml-menu "><a href="/version2/user-removestory" id="dhtml_menu-635">user.removeStory</a></li>
+<li class="leaf  dhtml-menu "><a href="/version2/user-savestory" id="dhtml_menu-636">user.saveStory</a></li>
+<li class="leaf last dhtml-menu "><a href="/version2/user-unfollow" id="dhtml_menu-658">user.unfollow</a></li>
+</ul></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+<div class="sidebar-section group">
+    <h2>Forums & Discussion</h2>
+    <div>
+    
+Need help?  Feel free to ask questions on our <a href="http://groups.google.com/group/diggapi">support forum</a> below.  If you think you have found a bug, please report it in our <a href="http://github.com/digg">issue tracker</a>!
+
+<ul class="support-links">
+  <li class="support-forum"><a href="http://groups.google.com/group/diggapi"><span class="sprite support"></span><strong>Support Forum</strong></a></li>
+  <li class="issue-tracker"><a href="http://github.com/digg"><span class="sprite issues"></span><strong>Issue Tracker</strong></a></li>
+</ul>  </div>
+</div>
+<div class="sidebar-section group">
+    <h2>Toolkits</h2>
+    <div>
+    <img src="http://developers.diggstatic.com/sites/developers.digg.com/themes/developer/img/icons/briefcase.png" alt="Briefcase" title="Briefcase" width="56" height="47" class="float-right graphic" />
+<p><a href="http://pear.php.net/Services_Digg2">Services_Digg2</a> is a <a href="http://pear.php.net">PEAR</a> package created by the developers at Digg that allows developers to quickly consume and interface with the Digg API.</p>
+
+<p>Have a toolkit of your own?</p>
+<p><a href="http://groups.google.com/group/diggapi">Submit your own</a>.</p>  </div>
+</div>
+</div>
+        </div>
+
+      </div>
+      <ul class="footer group"><li class="footer-item-738 first"><a href="/concepts">Basic Concepts</a></li>
+<li class="footer-item-739"><a href="/authentication">Authentication</a></li>
+<li class="footer-item-740"><a href="/response">Response Types</a></li>
+<li class="footer-item-742"><a href="/agreement">License Agreement</a></li>
+<li class="footer-item-743"><a href="/trademark">Digg Trademark</a></li>
+<li class="float-right last"><span><a href="http://jobs.digg.com/" class="highlight">We&#039;re Hiring!</a> &copy; Digg Inc 2010</span></li>
+</ul>    </div>
+    <div class='clear'>
+          </div>
+    <script type="text/javascript" src="http://developers.diggstatic.com/sites/developers.digg.com/files/js/js_e3628c4cafe0c6a1c93de57dd78c4fd4.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide", "siblings": 0, "relativity": 0, "children": 0, "clone": 0, "doubleclick": 0 }, "extlink": { "extTarget": 0, "extClass": "ext", "extSubdomains": 1, "extExclude": "", "extInclude": "", "extAlert": 0, "extAlertText": "This link will take you to an external web site. We are not responsible for their content.", "mailtoClass": "mailto" }, "cleardefault": { "edit-search-theme-form-1": "Search Documentation" } });
+//--><!]]>
+</script>
+      </body>
+</html>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Life at Google - US jobs - Google</title>
+<link charset="utf-8" href="http://www.google.com/jobs/css/styles.css" media="all" rel="stylesheet">
+<script charset="utf-8">
+document.onload = setCookies();
+function setCookies() {
+  var cookieValue = getQuery('src');
+  if (cookieValue){
+    var today = new Date();
+    var expire = new Date();
+    expire.setTime(today.getTime() + 3600000 * 24 * 14);
+    document.cookie = 'JobsSrc' + '=' + escape(cookieValue) +
+    ';expires=' + expire.toGMTString() + ';path=/';
+  }
+}
+function getCookie(cookieName) {
+  if (document.cookie.length > 0) {
+    cookieStart = document.cookie.indexOf(cookieName + '=');
+    if (cookieStart != -1) {
+      cookieStart += cookieName.length + 1;
+      cookieEnd = document.cookie.indexOf(';', cookieStart);
+      if (cookieEnd == -1) cookieEnd = document.cookie.length;
+      return document.cookie.substring(cookieStart, cookieEnd);
+    }
+  } else return '';
+}
+function getQuery(queryName) {
+  var queryString = window.location.hash.substring(1);
+  if (queryString.length > 0) {
+    queryStart = queryString.indexOf(queryName + '=');
+    if (queryStart != -1) {
+      queryStart += queryName.length + 1;
+      queryEnd = queryString.indexOf('&', queryStart);
+      if (queryEnd == -1) queryEnd = queryString.length;
+      return queryString.substring(queryStart, queryEnd);
+    }
+  } else return '';
+}
+</script>
+<script>
+function searchQuery() {
+  var query = document.getElementById('q').value
+  if (query){
+    window.location.href = '/intl/en/jobs/search/index.html#q=' + encodeURI(query);
+  } else {
+  alert('To search jobs, please enter a keyword or phrase.');
+  }
+    }
+</script>
+<style>
+ h3.c1 {clear:both;}
+</style>
+</head>
+<body>
+<h1><a href="/" title="Google"><img alt="Google" id="logo" name="logo" src="http://www.google.com/images/logo_sm.gif"></a>US jobs</h1>
+<p id="x-breadcrumb"><a href="../index.html">Jobs</a> &gt; <strong>Life at Google</strong></p>
+<ul id="nav">
+<li><a href="/intl/en/jobs/">US jobs</a></li>
+<li>Life at Google</li>
+<li><a href="/intl/en/jobs/locations/">Office locations</a></li>
+<li><a href="/intl/en/jobs/joininggoogle/">Joining Google</a></li>
+<li><a href="http://www.google.com/jobs/students">Student jobs</a></li>
+</ul>
+<form id="x-search" method="post" name="x-search" onsubmit="searchQuery(); return false"><label for="q">Search US openings</label> <input id="q" maxlength="80" name="q" size="15" type="text" value=""><input type="submit" value="Search"></form>
+<div id="aux">
+<h2>Life at Google</h2>
+<p>Google is not a conventional company, and we don&rsquo;t intend to become one. True, we share attributes with the world&rsquo;s most successful organizations &ndash; a focus on innovation and smart business practices comes to mind &ndash; but even as we continue to grow, we&rsquo;re committed to retaining a small-company feel. At Google, we know that every employee has something important to say, and that every employee is integral to our success. We provide individually-tailored compensation packages that can be comprised of competitive salary, bonus, and equity components, along with the opportunity to earn further financial bonuses and rewards.</p>
+<p>Google has offices around the globe, from Bangalore to Zurich, but regardless of where we are, we nurture an invigorating, positive environment by hiring talented, local people who share our commitment to creating search perfection and want to have a great time doing it. Googlers thrive in small, focused teams and high-energy environments, believe in the ability of technology to change the world, and are as passionate about their lives as they are about their work.</p>
+<p>We&rsquo;re always on the look-out for new Googlers. <a href="http://www.youtube.com/lifeatgoogle">Take a look inside</a>.</p>
+<h3>Why work at Google?</h3>
+<div class="column">
+<ul>
+<li>We are one of FORTUNE's <a href="fortune/index.html">Best Companies to Work For!</a></li>
+<li><a href="toptenreasons/index.html">Top 10 reasons</a> to work at Google</li>
+<li><a href="http://www.youtube.com/lifeatgoogle">Watch our videos</a> for an inside look at Google</li>
+<li><a href="meet/index.html">Meet some Googlers</a></li>
+</ul>
+</div>
+<div class="column">
+<ul>
+<li><a href="benefits/index.html">Benefits</a> of working at Google</li>
+<li>Google celebrates <a href="http://www.google.com/corporate/diversity/">diversity</a></li>
+<li>The <a href="englife/index.html">engineer’s life</a> at Google</li>
+</ul>
+</div>
+<hr>
+<h3 class="c1">Photos</h3>
+<ul class="photos">
+<li><a href="http://www.google.com/jobs/images/accent_foosball-o.jpg"><img alt="Foosball action." src="http://www.google.com/jobs/images/accent_foosball.jpg"></a></li>
+<li><a href="http://www.google.com/jobs/images/accent_googlerdog_bg.jpg"><img alt="Googler feeding a dog." src="http://www.google.com/jobs/images/accent_googlerdog_sm.jpg"></a></li>
+<li><a href="http://www.google.com/jobs/images/accent_engatwork-o.jpg"><img alt="Google engineers at work." src="http://www.google.com/jobs/images/accent_engatwork.jpg"></a></li>
+</ul>
+<div id="about">&copy;2010 Google - <a href="http://www.google.com/">Home</a> - <a href="http://www.google.com/intl/en/about.html">About Google</a> - <a href="http://www.google.com/intl/en/jobs/privacy/">Privacy Policy</a></div>
+</div>
+<script>
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script>
+  try {
+    var pageTracker = _gat._getTracker("UA-18025-1");
+    pageTracker._setAllowAnchor(true);
+    pageTracker._setCookiePath("/intl/en/jobs/");
+    pageTracker._trackPageview();
+  } catch(err) {}
+</script>
+</body>
+</html>
