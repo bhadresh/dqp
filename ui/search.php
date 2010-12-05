@@ -7,6 +7,12 @@
 		<style type="text/css">
             #linksDisplayed {font-family:'Lucida Casual', 'Verdana';}
             #tableStyle {padding-left:145px;}
+			#navlist li
+			{
+				display: inline;
+				list-style-type: none;
+				padding-right: 20px;
+			}
 		</style>
 </head>
 <body bgcolor="#FFFFFF" text="#000000">
@@ -69,10 +75,14 @@
         else {
             echo "Sorry no pages were found for: " . $_GET['q'];
         }
+		echo '<div id="navcontainer">
+<ul id="navlist">';
+		//<li id="active"><a href="#" id="current">Item one</a></li>
+		//<li><a href="#">Item two</a></li>
+
+		echo '</ul></div>';
     }
 ?>
-
-
 
 </div>
 </body>
