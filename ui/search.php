@@ -59,7 +59,7 @@
 					$title="no title";
 				}
 				echo '<tr><td id="linksDisplayed">';
-				echo '<a href="' . $rec['url'] . '"> $title </a><br/>';
+				echo '<a href="' . $rec['url'] . '">' . $title . '</a><br/>';
 				echo 'Page Rank: ' . $rec['pagerank'] . '<br/>';
 				echo 'Score: ' . $rec['score'] . '<br/>';
 				echo '</td></tr>';
