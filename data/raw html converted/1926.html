@@ -1,0 +1,593 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Google Gadgets:&nbsp;
+Calculator gadget</title>
+<link href="/desktop/styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+a.selected {
+  font-weight: bold;
+  color: #666;
+  text-decoration: none;
+}
+
+p#nav {
+  line-height: 1.4em;
+}
+
+table.gadget {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+table.gadget td img {
+  border: 1px solid #000;
+  margin: 4px 0px;
+}
+
+body {
+  margin-top: 0px;
+}
+
+table.gadget td input {
+  font-size: 11px;
+  width: 82px;
+}
+
+table.header {
+  margin-bottom: 10px;
+}
+
+table.header h3 {
+  margin-bottom: 0px;
+}
+
+table.header hr {
+  color: #ccc;
+  background-color: #ccc;
+  border-bottom: 1px solid #ccc;
+  height: 1px;
+  margin-top: 0px;
+}
+
+.disclaimer {
+  color: #999;
+}
+
+div.errorheader {
+  color: red;
+  font-weight: bold;
+}
+
+div.errormsg {
+  color: red;
+}
+
+td.button-left {
+  width: 6px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-left_sm.gif');
+  background-repeat: none;
+}
+
+td.button-center {
+  padding-left: 10px;
+  padding-right: 14px;
+  padding-bottom: 3px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-center_sm.gif')
+    ;
+  background-repeat: repeat-x;
+}
+
+td.button-center a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: arial;
+  padding-bottom: 6px;
+}
+
+td.button-right {
+  width: 9px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-right_sm.gif');
+  background-repeat: none;
+}
+
+.linkon {
+  color: #0000cc;
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: normal
+}
+
+.linkoff {
+  font-weight: bold
+}
+
+.review_author {
+  font-weight: bold
+}
+
+td.download-button-left {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_left.gif');
+  background-repeat: none;
+}
+
+td.download-button-center {
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  height: 22px;
+  background: url('/images/add_button_middle.gif');
+  background-repeat: repeat-x;
+}
+
+td.download-button-center a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
+
+td.download-button-right {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_right.gif');
+  background-repeat: none;
+}
+
+.similar-gadget {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.screenshot-image {
+  border: 1px solid #bbcced;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+pre.terms {
+  height:200;
+  width:600;
+  overflow: auto;
+  border-style:inset;
+  border-color:graytext;
+  border-width: thin;
+  text-wrap: unrestricted;
+  white-space: -moz-pre-wrap; /* Moz */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  white-space: pre-wrap; /* CSS3  */
+  word-wrap: break-word; /* IE 5.5+ */
+}
+
+table.confirmation-table td {
+  vertical-align: top;
+}
+
+.gadgetError {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FBE3E4;
+  color: #D12F19;
+  border-color: #FBC2C4;
+}
+
+.gadgetWarning {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FFF6BF;
+  color: #817134;
+  border-color: #FFD324;
+}
+
+</style>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+<script type="text/javascript">
+    _uacct="UA-18007-1";
+    _uanchor=1;
+    urchinTracker();
+  </script></head>
+<body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><a href="/?hl=en"><img src="/en/images/logo3.gif" border="0" height="55" vspace="12" width="150" alt="Google Desktop"></a></td>
+<td width="100%" style="padding-left:12px;padding-top:12px;" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="right" nowrap><font face="Arial, sans-serif" size="-1"><a href="https://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/googlecalculator.html">Sign In</a></font></td></tr>
+<tr><td><img alt="" width="1" height="1"></td></tr></table>
+<table cellpadding="0" cellspacing="0" width="100%"><tr><td bgcolor="#3399cc"><img alt="" height="1" width="1"></td></tr></table>
+<table cellspacing="0" cellpadding="2" border="0" width="100%"><tr><td bgcolor="#e8f4f7">&nbsp;
+<font size="3"><b>Google Gadgets</b></font></td></tr></table></td></tr></table>
+<table cellspacing="0" width="100%"><tr valign="top"><td><td nowrap valign="top" width="160"><p id="nav"><font size="-1">Google Gadgets
+<br>
+
+&nbsp;&nbsp;&bull;
+<a href='/plugins/?hl=en'>All</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/news.html?hl=en'>News</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/tools.html?hl=en'>Tools</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/communication.html?hl=en'>Communication</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/finance.html?hl=en'>Finance</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/fun_games.html?hl=en'>Fun & Games</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/google.html?hl=en'>Google</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/sports.html?hl=en'>Sports</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/lifestyle.html?hl=en'>Lifestyle</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/technology.html?hl=en'>Technology</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href="/plugins/c/sidebar/holiday.html?hl=en"><b><font color="red">Holidays</font></b></a>
+<br>
+<br>
+<a href='/plugins/c/index/all.html?hl=en'>Indexing Plugins</a>
+<br>
+<br>
+<br>
+<a href="http://groups.google.com/group/Google-Desktop">Desktop Search Forum</a></font></p>
+<p><font size="-1"><b>For Developers</b>
+<br>
+
+&nbsp;&nbsp;
+<a href='/downloadsdksubmit?hl=en'>Download SDK</a><br>
+&nbsp;&nbsp;
+<a href="/dev/index.html">Developer Guide</a><br>
+&nbsp;&nbsp;
+<a href="/dev/kb.html">FAQ</a><br>
+&nbsp;&nbsp;
+<a href='/pluginsubmit?hl=en'>Submit Software</a><br>
+
+&nbsp;&nbsp;
+<a href="http://groups.google.com/group/Google-Desktop-Developer">Developer Forum</a><br>
+&nbsp;&nbsp;
+<a href='/authors?hl=en'>Hall of Fame</a><br>
+&nbsp;&nbsp;
+<a href='/ambassadors?hl=en'>Ambassadors</a> <br>
+<br>
+<br>
+<br>
+<img src="/images/rss_small.gif" alt="RSS Feed for Latest Gadgets">
+<a href="/feeds/gadgets.xml?hl=en&amp;type=rss" type="application/rss+xml">Latest Gadgets</a>
+<br>
+<br>
+<br>
+<br></font></p></td>
+<td id="dots" width="10"></td></td>
+<td><table><tr style="height:10px;"></tr>
+<tr id="gadgetDetails"><td id="gadgetImage" valign="top" align="center"><img alt="Calculator gadget" src="/plugins/images/gdcalculator.gif" class="screenshot-image"></td>
+<td id="gadgetDetails" valign="top"><h3>Calculator gadget</h3>
+Our calculator is never too far from your desktop
+<br>
+<p><a href="http://desktop.google.com/plugins.html">Learn more</a>
+-
+<a href="http://groups.google.com/group/Google-Desktop-Plugin-GoogleCalculator">Discuss this gadget</a></p>
+<table cellpadding="2" cellspacing="2"><tr><td><strong>Author:</strong></td>
+<td>Google</td></tr>
+<tr><td><strong>Size:</strong></td>
+<td>278KB</td></tr>
+<tr><td><strong>Version:</strong></td>
+<td>1.0.0.0</td></tr>
+<tr><td><strong>Date:</strong></td>
+<td>June 7, 2006</td></tr></table>
+<p><b>This gadget requires  <a href="http://desktop.google.com?hl=en"> Google Desktop  5  or above. </a></b></p>
+<div style="width: 250;"><table cellpadding="0" cellspacing="0"><tr><td class="button-left"></td>
+<td class="button-center"><a href="/url?id=googlecalculator">Download gadget</a></td>
+<td class="button-right"></td></tr></table></div>
+<br>
+<a href="http://www.google.com/ig/add?moduleurl=http://desktop.google.com/gow/gadgets/googlecalculator.xml">Add this gadget to your iGoogle page</a></td></tr>
+<tr id="reviewsAndComments"><td valign="top" colspan="2"><script type="text/javascript" src="/gadgetComments.js">
+</script>
+<div style="min-width: 600; max-width: 800"><table width="100%"><tr><td><span id="commentsSpan" class="linkoff">Reviews</span></td>
+<td align="right">
+
+<a href="http://desktop.google.com/plugins/i/googlecalculator.html?start=20">Next &raquo;</a></td></tr></table>
+<hr size="1" noshade>
+<a href="http://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/googlecalculator.html">Sign in</a> to write a comment
+<br><br>
+<div id="comments">
+
+<table id="review 1" cellpadding="0" cellspacing="0"><tr>
+<td><b>Professor_Mad</b>
+&nbsp;</td>
+<td><div id="abuse1" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=09nKzT2cPEru9ICQxjn2njgAmu7dkzk_UwAAAFn_SY6VxzqAHus-iV1unpYZ99L12AweUHC2NTXksoDCk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmaiwF6kYFy78bzI64Mfr5cvsfYnZj8WiDFmhdLpeJgntQg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Nice, but would be more useful if it stayed larger size ready to use on the sidebar. Always have to un-dock it to use!
+<br>
+<br> <table id="review 2" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Scott</b>
+&nbsp;</td>
+<td><div id="abuse2" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=c1XZwuIRjjss2MUe07N6-c6Ea3fdkzk_UwAAAKiQLmg0EiBsEOWPCHwSUvumziTwZ0wHCFsZTHrykwJvk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajffpIp3uKoYjW1wZTHSa18prKw8yGJ2CG9ZS8VVME_6A&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Pretty good, like that I can enlarge it to see, wish it would stay size I make it though. Always resizes itself to a small size in my sidebar or desktop.
+Font size is too small on &quot;lcd result&quot; window.
+Copy &amp; Paste function IS NEEDED
+<br>
+<br> <table id="review 3" cellpadding="0" cellspacing="0"><tr>
+<td><b>Jonas</b>
+&nbsp;</td>
+<td><div id="abuse3" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=hbAF1CaJHxDqYiMraI36K6dPOtndkzk_UwAAAIBdwH5vsurIJVJLt11S1ZztPnP-AspN7uEGvbUf6-QKk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagvD-ok5wW6dQ90naNEqF2uJXOfqwo8uZKo-Ecq4SWtKw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Worst piece of crap calculator. 
+Try to solve this 
+
+invcos (6/(sqrt 5*sqrt 17)
+
+don&#39;t even TRY to use this for advanced math
+<br>
+<br> <table id="review 4" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse4" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=tP89PM6DvoWg34eX-HLQzstZcF3dkzk_UwAAAHQgj7eUbk5riWPJ-M3OLdOVEoX8ko184PpZY0iQAbgpk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmaiCB_GRSJxpO9B1gAruWj3vmd10gjrHJFtaJSIYWSyYMw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+It&#39;s the best free calculator I&#39;ve seen yet.  It also looks nice which is great when I&#39;m gonna be looking at it all the time.  Thanks to the creator for this awesome app, I use it all the time.
+<br>
+<br> <table id="review 5" cellpadding="0" cellspacing="0"><tr>
+<td><b>John</b>
+&nbsp;</td>
+<td><div id="abuse5" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=xm0PNI1JS521K3V7QygH35cgzwfdkzk_UwAAANajb4KtUE4sd3cNPx5_w85WYgkkAcy9rmbxv3Yt0ISok2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajwYbTRq_QffLqHx9SWqiPtLTOFRbP2PRrQbEh3h4vaJg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Better if the characters are enlarged.
+<br>
+<br> <table id="review 6" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>&#36713;&#36203;</b>
+&nbsp;</td>
+<td><div id="abuse6" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=MH3NbaLHi7KthNiAe_hFoifRCcvdkzk_UwAAAMxdVxoX6pu1FzOop8PhDF_gnK3l4CIRL3r2lN09slSTk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmaiJewAk53qKPsZTmXzqh20pQJocRv22Tv2okqvaQ2JN7A&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+this calculator is wonderful, but there is a bug that the &#39;E&#39; button can&#39;t be double clicked in &quot;Hex Mode&quot; , such as can not input &#39;EE&#39;!!
+
+<br>
+<br> <table id="review 7" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse7" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=CN6K5w6AzK29IuAzYp_euE86yFbdkzk_UwAAAOohhwyh2Fe4COmrUNkiAbV1qlHReylmU2IOvUUmQsQik2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagIhTdfABRY9RL0BEGHxXXe8IjNVS6bxZwI7ovWLcZ1Rw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+A good calculator but needs to be able to launch it with a single key stroke. my google desktop runs on the background - so for getting to the calculator I need to close some windows.
+<br>
+<br> <table id="review 8" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>&#1044;&#1084;&#1080;&#1090;&#1088;&#1080;&#1081;</b>
+&nbsp;</td>
+<td><div id="abuse8" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=aNqcnqfFnSiL84f1J9REblKWv5vdkzk_UwAAADCgaHsqbzOTvWZidN35I5IWt9pcCzJdR941XQ_0Vyi8k2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmaiH1pS1XYhfm4wCKJkBqN-0NeewYVswJY4Y2uoUwvzMMw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Rob +1
+<br>
+<br> <table id="review 9" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>michael</b>
+&nbsp;</td>
+<td><div id="abuse9" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=T3j9fWLZurT1ZYclgmWQGkFAC2bdkzk_UwAAAEIeuPk8YnFKjwHZLJkyZxcUwMnamzAfLIpIJrAi4VOjk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagvD-ok5wW6dQ90naNEqF2uqTbEVj_dEDYi8afxu2j84w&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Great tool, but I wish it would ...
+- ... not resize itself on boot
+- ... have Copy &amp; Paste functionality 
+
+BR
+<br>
+<br> <table id="review 10" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Hameed</b>
+&nbsp;</td>
+<td><div id="abuse10" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=UpPmsNgNnhzW6dMnGsVHO1P3j9rdkzk_UwAAANikjPRBRdP3Ln2R1TjG54Z4QC4oL1X6BSZyRmGV1y6ck2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajwYbTRq_QffLqHx9SWqiPtWbNd18iZwmHhMdQuz_NmUg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+2.01 - 2 = 0.01 not (9.99999999999979E-03)
+
+This error also occurs in all the android based phones i have look at so far. As well as being present in a number of non google calculator gadgets.
+<br>
+<br> <table id="review 11" cellpadding="0" cellspacing="0"><tr>
+<td><b>Schaum&#39;s</b>
+&nbsp;</td>
+<td><div id="abuse11" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=EPPXMIXfpN0sdelX_LnT0KB_mnzdkzk_UgAAADHat_2Mg6XychQMH-bFpyDro3ue7Wo23gOU2jrOOHJtdMNA4Gj4aAEtwM81PGOiQqvEXjnNgJGbm8MLxB8_h29pONBmNvAofMlhgO0UeWPRaZJi-UaMR0PehUgJF-Y3jg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Brian is a super idiot.
+<br>
+<br> <table id="review 12" cellpadding="0" cellspacing="0"><tr>
+<td><b>Rob</b>
+&nbsp;</td>
+<td><div id="abuse12" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=qB-H0BKXoXHqaY7mIi1uXYRDZ8Tdkzk_UgAAAKmxl-h-SBY4m9r8OaURH5td9AYW6rsrxnbCmz6tCsXz67_aJSET2D9-ckwoWBTQ3XaFJAXsH8UIuZhjFM_lVm3_KUmDKRttH4A-tOOw5iadM-5jDC1zIQ8WPJq0GI0vuw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Nice calculator!  The only problem I have is that it always resizes itself to a small size in my sizebar.  I&#39;d like it to stay the size that I set.  Regardless, a very handy and useful tool!
+<br>
+<br> <table id="review 13" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse13" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=TMj4jbSGFTKK2WBwgizY8OS-WQXdkzk_UwAAANikjPRBRdP3Ln2R1TjG54ZoyMh5K1B-h8Oxswxr9Ezjk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmaiZ3QjvPKIKpT9HUg1xokWBce8PdmQy9PHXPfIg2cPsgw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+http://kratosellas.blogspot.com   online tv,videos,gossip,news,photo,sport    http://kratosellas.blogspot.com   
+<br>
+<br> <table id="review 14" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse14" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=2n-0YZc1JgqFKT5_JA94mwvEoufdkzk_UwAAALB3huRIFem81kRXB8QiVV8aaACUWDCxgRpqVEYkVlkWk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmagIhTdfABRY9RL0BEGHxXXeopCD54Yfaic5CcVThI_Y8A&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Why is the &quot;LCD&quot; large but the digits so small? It just doesn&#39;t make sense.
+<br>
+<br> <table id="review 15" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse15" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=Jxe_O9cQ0hayLoWeAT_Jl0AAYtjdkzk_UwAAAAcjft8iChUtd_f2XAhpLcoJEgboEBrI63_QGvVc9MBYk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajffpIp3uKoYjW1wZTHSa18M6mE-TIy84JEhGPmPcWmJw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Hey Brian, are you an idiot? 
+<br>
+<br> <table id="review 16" cellpadding="0" cellspacing="0"><tr>
+<td><b>Funky Unky</b>
+&nbsp;</td>
+<td><div id="abuse16" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=r5AqoR9Z8rWQf1qfjPgtaiN3SHfdkzk_UwAAALB3huRIFem81kRXB8QiVV_kxqJILrZeOWMbnHYIG66bk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmaiwF6kYFy78bzI64Mfr5cvsUApxnsScOLG2xGhonGkxog&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Too small. Can&#39;t read characters.
+<br>
+<br> <table id="review 17" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse17" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=5QbQyzFzpFFpDshnWvyQUfeU0Lfdkzk_UwAAAEIeuPk8YnFKjwHZLJkyZxcbnIG7jacBICr8NqP_eQEfk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaiv2XFnn83RMUO5Bb_HNYFaBkonkdGQQC9NbZBk0-kM0A&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I like the gadget. I also know how to enlarge it,but it doesn&#39;t keep the size I want it to be when I restart or turn on my laptop.
+<br>
+<br> <table id="review 18" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse18" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=rLU2IyMIKkbQV25MloPXOiqwoyDdkzk_UwAAAFSVCDgzLrMih2pjbAsJVJ022Xfkv1Lxz3wGC0lIvio-k2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmajwYbTRq_QffLqHx9SWqiPtCES0qTel40YkiOUMBaPhrQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+sarebbe utile poter ingrandire 
+<br>
+<br> <table id="review 19" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse19" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=DyT-5GKkYnT6bLaTs95WEqDaBFLdkzk_UwAAAOAyuFNT2P6KAo0ccYSJq1FGLomv6XVs94-4-ygSgvDDk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4Qrmaiv2XFnn83RMUO5Bb_HNYFaJmzvrNoa0kjK65mESBWzUw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I would really, really like  it to stay in scientific after restarting my computer.
+<br>
+<br> <table id="review 20" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>J</b>
+&nbsp;</td>
+<td><div id="abuse20" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=3e56N0Fa0K9dxPBXre7h7ySjoLbdkzk_UwAAAKiQLmg0EiBsEOWPCHwSUvuAqIYdDFSwerQ2iguxwaggk2BEXPj4ljxQGsjyhIJZcK_EQjDVCq6k2aP3F4QrmahfonaQaFx3Vv0JL3CIrSeKoXGpYQY0c7oG4VvhZAM1cA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I prefer this one of those available...it works, and I can see it fine....Note - the scientific is small...but I don&#39;t use that...I would like basic financial capability - PV/FV/PMT/INT....Good Job!
+<br>
+<br>
+<div align="right">
+
+<a href="http://desktop.google.com/plugins/i/googlecalculator.html?start=20">Next &raquo;</a></div></div>
+<form action="/submitcomment" method="POST" name="commentForm" id="commentForm"><div id="writeComment" style="display:none"><table><tr><td valign="top">Rate gadget:</td>
+<td><table cellspacing="0" cellpadding="0"><tr><td><img alt="" src="/images/rateStarsLeft.gif"></td>
+<td><img alt="" id="star1" src="/images/rateStarOff.gif" onclick="setStars(1)" onmouseover="showStars(1)" onmouseout="showStars()"></td>
+<td><img alt="" id="star2" src="/images/rateStarOff.gif" onclick="setStars(2)" onmouseover="showStars(2)" onmouseout="showStars()"></td>
+<td><img alt="" id="star3" src="/images/rateStarOff.gif" onclick="setStars(3)" onmouseover="showStars(3)" onmouseout="showStars()"></td>
+<td><img alt="" id="star4" src="/images/rateStarOff.gif" onclick="setStars(4)" onmouseover="showStars(4)" onmouseout="showStars()"></td>
+<td><img alt="" id="star5" src="/images/rateStarOff.gif" onclick="setStars(5)" onmouseover="showStars(5)" onmouseout="showStars()"></td>
+<td><img alt="" src="/images/rateStarsRight.gif"></td></tr></table></td></tr>
+<tr><td valign="top">Your name:</td>
+<td><b></b>
+&nbsp;
+<input type="checkbox" name="anonymous" value="true" id="anonymous">
+Anonymous</td></tr>
+<tr><td valign="top">Comments:</td>
+<td><textarea name="reviewText" rows="4" cols="25" id="reviewText" style="border: 1px solid #bbcced"></textarea></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="rating" value="0" id="rating" style="display:none;">
+<input type="hidden" name="pluginId" value="googlecalculator" id="pluginId">
+<input type="submit" value="Post Comment">
+<input type="reset" value="Discard" onclick="showComments()"></td></tr>
+<tr style="height:20px;"></tr></table></div></form>
+<div id="abuseLinkDiv"></div></div></td></tr></table></td>
+<td id="recommendations"><b>You might also like...</b>
+<hr noshade size="1">
+<table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/calc_5644.html?hl=en"><img alt="Calculator(for Desktop)" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/calc_5644_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/calc_5644.html?hl=en">Calculator(for Desktop)</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=calc_5644">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/milk_battery_meter.html?hl=en"><img alt="Battery Meter" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/battery_meter_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/milk_battery_meter.html?hl=en">Battery Meter</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=milk_battery_meter">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/gforce.html?hl=en"><img alt="G-Force Music Visualizer" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/gforce_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/gforce.html?hl=en">G-Force Music Visualizer</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=gforce">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/healthy_6123.html?hl=en"><img alt="Healthy Eating and Living" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/healthy_6123_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/healthy_6123.html?hl=en">Healthy Eating and Living</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=healthy_6123">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/gd_WikipediaSearch.html?hl=en"><img alt="Wikipedia Search" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/wikipedia_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/gd_WikipediaSearch.html?hl=en">Wikipedia Search</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=gd_WikipediaSearch">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/2487_warren.html?hl=en"><img alt="Happiness and Prosperity Tips" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/2487_warren_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/2487_warren.html?hl=en">Happiness and Prosperity Tips</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=2487_warren">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table>
+<br>
+<br></td></tr>
+<tr><td colspan="5" align="center" id="footer">&copy;  2010  Google
+-
+<a href="/privacypolicy.html">Privacy Policy</a>
+-
+<a href="http://www.google.com/accounts/TOS?hl=en">Terms of Service</a>
+-
+<a href="/copyrights.html">Copyright Notices</a></td></tr></table></body></html>

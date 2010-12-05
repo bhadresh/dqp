@@ -1,0 +1,446 @@
+<html><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<head><title>Submit Software</title>
+<link href="/desktop/styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+a.selected {
+  font-weight: bold;
+  color: #666;
+  text-decoration: none;
+}
+
+p#nav {
+  line-height: 1.4em;
+}
+
+table.gadget {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+table.gadget td img {
+  border: 1px solid #000;
+  margin: 4px 0px;
+}
+
+body {
+  margin-top: 0px;
+}
+
+table.gadget td input {
+  font-size: 11px;
+  width: 82px;
+}
+
+table.header {
+  margin-bottom: 10px;
+}
+
+table.header h3 {
+  margin-bottom: 0px;
+}
+
+table.header hr {
+  color: #ccc;
+  background-color: #ccc;
+  border-bottom: 1px solid #ccc;
+  height: 1px;
+  margin-top: 0px;
+}
+
+.disclaimer {
+  color: #999;
+}
+
+div.errorheader {
+  color: red;
+  font-weight: bold;
+}
+
+div.errormsg {
+  color: red;
+}
+
+td.button-left {
+  width: 6px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-left_sm.gif');
+  background-repeat: none;
+}
+
+td.button-center {
+  padding-left: 10px;
+  padding-right: 14px;
+  padding-bottom: 3px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-center_sm.gif')
+    ;
+  background-repeat: repeat-x;
+}
+
+td.button-center a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: arial;
+  padding-bottom: 6px;
+}
+
+td.button-right {
+  width: 9px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-right_sm.gif');
+  background-repeat: none;
+}
+
+.linkon {
+  color: #0000cc;
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: normal
+}
+
+.linkoff {
+  font-weight: bold
+}
+
+.review_author {
+  font-weight: bold
+}
+
+td.download-button-left {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_left.gif');
+  background-repeat: none;
+}
+
+td.download-button-center {
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  height: 22px;
+  background: url('/images/add_button_middle.gif');
+  background-repeat: repeat-x;
+}
+
+td.download-button-center a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
+
+td.download-button-right {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_right.gif');
+  background-repeat: none;
+}
+
+.similar-gadget {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.screenshot-image {
+  border: 1px solid #bbcced;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+pre.terms {
+  height:200;
+  width:600;
+  overflow: auto;
+  border-style:inset;
+  border-color:graytext;
+  border-width: thin;
+  text-wrap: unrestricted;
+  white-space: -moz-pre-wrap; /* Moz */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  white-space: pre-wrap; /* CSS3  */
+  word-wrap: break-word; /* IE 5.5+ */
+}
+
+table.confirmation-table td {
+  vertical-align: top;
+}
+
+.gadgetError {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FBE3E4;
+  color: #D12F19;
+  border-color: #FBC2C4;
+}
+
+.gadgetWarning {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FFF6BF;
+  color: #817134;
+  border-color: #FFD324;
+}
+
+</style>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+<script type="text/javascript">
+    _uacct="UA-18007-1";
+    _uanchor=1;
+    urchinTracker();
+  </script>
+<script type="text/javascript">
+        function validateLicense(thisForm){
+        if (!thisForm.userAgreed.checked) {
+        alert(
+        "To download the Desktop SDK you must agree to the license terms by checking the box."
+        );
+        return false;
+        } else {
+        top.location = "GD_SDK.zip";
+        return true;
+        }
+        }
+
+        function limitTextArea(field, max) {
+        if (field.value.length > max) {
+        field.value = field.value.substring(0, max);
+        }
+        }
+
+        function chooseCategory(type) {
+          switch(type) {
+          case 'gadget':
+            setDisplay('none');
+            break;
+          case 'index':
+            setDisplay('');
+            break;
+          case 'separate':
+            setDisplay('');
+            break;
+          }
+        }
+
+        function setDisplay(status) {
+          document.getElementById('nameRow').style.display = status;
+          document.getElementById('versionRow').style.display = status;
+          document.getElementById('summaryRow').style.display = status;
+          document.getElementById('languagesRow').style.display = status;
+          document.getElementById('screenshotsRow').style.display = status;
+          document.getElementById('largeScreenshotRow').style.display = status;
+          document.getElementById('smallScreenshotRow').style.display = status;
+          document.getElementById('contactDetailsRow').style.display = status;
+          document.getElementById('contactNameRow').style.display = status;
+          document.getElementById('contactEmailRow').style.display = status;
+          document.getElementById('moreInfoRow').style.display = status;
+          document.getElementById('downloadInfoRow').style.display = status;
+        }
+      </script></head>
+<body text="#000000" vlink="#800080" alink="#ff0000" link="#0000cc" bgcolor="#ffffff" onload="chooseCategory(document.gadgetSubmitForm.type.options[document.gadgetSubmitForm.type.selectedIndex].value)"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><a href="/?hl=en"><img src="/en/images/logo3.gif" border="0" height="55" vspace="12" width="150" alt="Google Desktop"></a></td>
+<td width="100%" style="padding-left:12px;padding-top:12px;" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="right" nowrap><font face="Arial, sans-serif" size="-1"><a href="https://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/pluginsubmit">Sign In</a></font></td></tr>
+<tr><td><img alt="" width="1" height="1"></td></tr></table>
+<table cellpadding="0" cellspacing="0" width="100%"><tr><td bgcolor="#3399cc"><img alt="" height="1" width="1"></td></tr></table>
+<table cellspacing="0" cellpadding="2" border="0" width="100%"><tr><td bgcolor="#e8f4f7">&nbsp;
+<font size="3"><b>Submit Software</b></font></td></tr></table></td></tr></table>
+<table cellspacing="0" width="99%" border="0"><tr valign="top"><td nowrap valign="top" width="160"><p id="nav"><font size="-1">Google Gadgets
+<br>
+
+&nbsp;&nbsp;&bull;
+<a href='/plugins/?hl=en'>All</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/news.html?hl=en'>News</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/tools.html?hl=en'>Tools</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/communication.html?hl=en'>Communication</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/finance.html?hl=en'>Finance</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/fun_games.html?hl=en'>Fun & Games</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/google.html?hl=en'>Google</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/sports.html?hl=en'>Sports</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/lifestyle.html?hl=en'>Lifestyle</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/technology.html?hl=en'>Technology</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href="/plugins/c/sidebar/holiday.html?hl=en"><b><font color="red">Holidays</font></b></a>
+<br>
+<br>
+<a href='/plugins/c/index/all.html?hl=en'>Indexing Plugins</a>
+<br>
+<br>
+<br>
+<a href="http://groups.google.com/group/Google-Desktop">Desktop Search Forum</a></font></p>
+<p><font size="-1"><b>For Developers</b>
+<br>
+
+&nbsp;&nbsp;
+<a href='/downloadsdksubmit?hl=en'>Download SDK</a><br>
+&nbsp;&nbsp;
+<a href="/dev/index.html">Developer Guide</a><br>
+&nbsp;&nbsp;
+<a href="/dev/kb.html">FAQ</a><br>
+&nbsp;&nbsp;
+Submit Software<br>
+
+&nbsp;&nbsp;
+<a href="http://groups.google.com/group/Google-Desktop-Developer">Developer Forum</a><br>
+&nbsp;&nbsp;
+<a href='/authors?hl=en'>Hall of Fame</a><br>
+&nbsp;&nbsp;
+<a href='/ambassadors?hl=en'>Ambassadors</a> <br>
+<br>
+<br>
+<br>
+<img src="/images/rss_small.gif" alt="RSS Feed for Latest Gadgets">
+<a href="/feeds/gadgets.xml?hl=en&amp;type=rss" type="application/rss+xml">Latest Gadgets</a>
+<br>
+<br>
+<br>
+<br></font></p></td>
+<td id="dots" width="10"></td>
+<td><b>Submission Guidelines</b>
+<p><font size="-1">Thank you for creating software to help improve Google Desktop. As a convenience to users, we maintain a list of gadgets, indexing plug-ins, and applications that integrate with Google Desktop through the Google Desktop APIs. To submit your software for this list, simply complete the form below. When you do so, please keep the following in mind:</font></p>
+<ul><li><font size="-1">Your software should have a complete feature set (stable releases, demos, and betas are welcome).</font></li>
+<li><font size="-1">Your software should not use high amounts of CPU or memory.</font></li>
+<li><font size="-1">Your software should be well-tested and include all required DLLs as needed.</font></li>
+
+<li><font size="-1">You should follow these <a href="./dev/gadget_guidelines-test.html">Gadget Design and Testing Guidelines.</a></font></li>
+<li><font size="-1">You must be the author of or have the author&#39;s authorization to submit the software.</font></li>
+<li><font size="-1">Your software must not violate any applicable laws or the rights of third parties (e.g., copyrights, trademarks).</font></li></ul>
+<p><font size="-1">Finally, please note that we reserve the right not to list your software and to make modifications to the information submitted.</font></p>
+<form action="/pluginsubmit" method="POST" name="gadgetSubmitForm" id="gadgetSubmitForm">
+
+
+<table cellpadding="5" cellspacing="0" border="0"><tr><td colspan="3"><font size="-1"><b>Software Information</b></font></td></tr>
+<tr><td valign="top">&nbsp;</td>
+<td><font size="-1">Type:</font></td>
+<td align="left" valign="top"><font size="-1"><div class="errorbox-good"><select name="type" size="1" onchange="chooseCategory(this.options[this.selectedIndex].value);"><option value="gadget" selected>Desktop Gadget</option>
+<option value="index">Indexing Plug-in</option>
+<option value="separate">Separate application that integrates with GD</option></select>
+</div></font></td></tr>
+<tr id="nameRow" style="display:none;"><td valign="top">&nbsp;</td>
+<td><font size="-1">Software Name: <br></font></td>
+<td align="left" valign="top"><font size="-1"><div class="errorbox-good"><input type="text" name="productName" value="" maxlength="220" size="30"> <br> <i>e.g. &quot;Flower Pot&quot; or &quot;Eudora email plug-in&quot;</i>
+</div></font></td></tr>
+<tr id="versionRow" style="display:none;"><td valign="top">&nbsp;</td>
+<td><font size="-1">Version:</font></td>
+<td width="386" align="left" valign="top"><font size="-1"><div class="errorbox-good"><input type="text" name="version" value="" maxlength="220" size="15">
+<br> <i>e.g. 1.0.0.0</i>
+</div></font></td></tr>
+<tr id="summaryRow" style="display:none;"><td valign="top">&nbsp;</td>
+<td valign="top"><font size="-1">Software Summary:</font></td>
+<td align="left" valign="top"><font size="-1"><div class="errorbox-good"><textarea name="productSummary" rows="3" cols="30" onkeydown="limitTextArea(this, 200)"></textarea>
+<br>
+<i>No longer than 200 characters. This summary will appear in the Add/Remove panel of Google Desktop.</i>
+</div></font></td></tr>
+<tr id="languagesRow" style="display:none;"><td>&nbsp;</td>
+<td valign="top"><font size="-1">Languages supported:</font></td>
+<td><div class="errorbox-good"><table><tr><td valign="top"><input type="checkbox" name="language" value="en"> English (US)<br>
+<input type="checkbox" name="language" value="en-GB"> English (UK)<br>
+<input type="checkbox" name="language" value="bg"> Bulgarian<br>
+<input type="checkbox" name="language" value="ca"> Catalan<br>
+<input type="checkbox" name="language" value="zh-CN"> Chinese (Simplified)<br>
+<input type="checkbox" name="language" value="zh-TW"> Chinese (Traditional)<br>
+<input type="checkbox" name="language" value="hr"> Croatian<br></td>
+<td valign="top"><input type="checkbox" name="language" value="cs"> Czech<br>
+<input type="checkbox" name="language" value="da"> Danish<br>
+<input type="checkbox" name="language" value="nl"> Dutch<br>
+<input type="checkbox" name="language" value="fi"> Finnish<br>
+<input type="checkbox" name="language" value="fr"> French<br>
+<input type="checkbox" name="language" value="de"> German<br>
+<input type="checkbox" name="language" value="el"> Greek<br></td>
+<td valign="top"><input type="checkbox" name="language" value="hu"> Hungarian<br>
+<input type="checkbox" name="language" value="it"> Italian<br>
+<input type="checkbox" name="language" value="ja"> Japanese<br>
+<input type="checkbox" name="language" value="ko"> Korean<br>
+<input type="checkbox" name="language" value="no"> Norwegian<br>
+<input type="checkbox" name="language" value="ro"> Romanian<br>
+<input type="checkbox" name="language" value="ru"> Russian<br></td>
+<td></td>
+<td valign="top"><input type="checkbox" name="language" value="pl"> Polish<br>
+<input type="checkbox" name="language" value="pt-BR"> Portuguese<br>
+<input type="checkbox" name="language" value="sk"> Slovak<br>
+<input type="checkbox" name="language" value="sl"> Slovenian<br>
+<input type="checkbox" name="language" value="es"> Spanish<br>
+<input type="checkbox" name="language" value="sv"> Swedish<br>
+<input type="checkbox" name="language" value="tr"> Turkish<br></td></tr></table>
+</div></td></tr>
+<tr id="downloadInfoRow" style="display:none"><td colspan="3"><font size="-1"><b>Download Information</b></font></td></tr>
+<tr><td valign="top">&nbsp;</td>
+<td valign="top"><font size="-1">Download File: <br></font></td>
+<td align="left" valign="top"><font size="-1"><div class="errorbox-good"><input type="text" name="downloadUrl" value="" maxlength="220" size="60">
+<br>
+<i>Direct URL to the gadget&#39;s .gg file.</i>
+The gadget should have a valid strings.xml file for each language supported.
+</div></font></td></tr>
+<tr id="moreInfoRow" style="display:none;"><td valign="top">&nbsp;</td>
+<td valign="top"><font size="-1">More Information: <br></font></td>
+<td align="left" valign="top"><font size="-1"><div class="errorbox-good"><input type="text" name="infoUrl" value="" maxlength="220" size="30"> <br>
+<i>URL where users can find additional info about your software, such as documentation or discussion groups</i>
+</div></font></td></tr>
+<tr id="screenshotsRow" style="display:none;"><td colspan="3"><font size="-1"><b>Screenshots</b></font>
+<br></td></tr>
+<tr id="largeScreenshotRow" style="display:none;"><td valign="top">&nbsp;</td>
+<td valign="top"><font size="-1">Large Screenshot:</font></td>
+<td align="left" valign="top"><font size="-1"><div class="errorbox-good"><input type="text" name="screenshotUrl" value="" maxlength="220" size="60">
+<br> <i>URL of a 300x225 pixel screenshot that represents your software</i>
+</div></font></td></tr>
+<tr id="smallScreenshotRow" style="display:none;"><td valign="top">&nbsp;</td>
+<td valign="top"><font size="-1">Small Screenshot:</font></td>
+<td align="left" valign="top"><font size="-1"><div class="errorbox-good"><input type="text" name="thumbnailUrl" value="" maxlength="220" size="60">
+<br> <i>URL of a 80x60 pixel screenshot that represents your software</i>
+</div></font></td></tr>
+<tr id="contactDetailsRow" style="display:none;"><td colspan="3" valign="top"><font size="-1"><b>Contact Information</b></font></td></tr>
+<tr id="contactNameRow" style="display:none;"><td valign="top">&nbsp;</td>
+<td><font size="-1">Contact Name: <br></font></td>
+<td align="left" valign="top"><font size="-1"><div class="errorbox-good"><input type="text" name="contactName" value="" maxlength="220" size="30">
+</div></font></td></tr>
+<tr id="contactEmailRow" style="display:none;"><td valign="top">&nbsp;</td>
+<td valign="top"><font size="-1">Email Address: <br></font></td>
+<td align="left" valign="top"><font size="-1"><div class="errorbox-good"><input type="text" name="email" value="" maxlength="220" size="30">
+<br><i>This email address will be publicly visible. See the documentation for help on <a href="http://desktop.google.com/dev/script.html#email">choosing an address</a>.</i>
+</div></font></td></tr>
+<tr><td valign="top">&nbsp;</td>
+<td colspan="3" align="left" valign="top"><div class="errorbox-good"><input type="checkbox" name="receiveEmail" value="true"> <font size="-1">I would like to receive email about Google Developer news</font>
+</div></td>
+<td align="left" valign="top"><font size="-1">&nbsp;</font></td></tr>
+<tr><td valign="top">&nbsp;</td>
+<td colspan="3" align="left" valign="top"><div class="errorbox-good"><input type="checkbox" name="agreeTerms" value="true"> <font size="-1">I have read and agree to the <a href="apiterms.html">API Terms and Conditions</a></font>
+</div></td>
+<td align="left" valign="top"><font size="-1">&nbsp;</font></td></tr>
+<tr><td valign="top">&nbsp;</td>
+<td colspan="3" align="left" valign="top"><font size="-1"><br>
+<input type="hidden" name="hl" value="en">
+<input type="submit" value="Submit Software"> <br></font></td>
+<td align="left" valign="top"><font size="-1">&nbsp;</font></td></tr></table></form>
+<br></td></tr>
+<tr valign="top"><td colspan="5" align="center" id="footer">&copy;  2010  Google
+-
+<a href="/privacypolicy.html">Privacy Policy</a>
+-
+<a href="http://www.google.com/accounts/TOS?hl=en">Terms of Service</a>
+-
+<a href="/copyrights.html">Copyright Notices</a></td></tr></table></body></html>

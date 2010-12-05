@@ -1,0 +1,569 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Google Gadgets:&nbsp;
+Tetramino Game</title>
+<link href="/desktop/styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+a.selected {
+  font-weight: bold;
+  color: #666;
+  text-decoration: none;
+}
+
+p#nav {
+  line-height: 1.4em;
+}
+
+table.gadget {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+table.gadget td img {
+  border: 1px solid #000;
+  margin: 4px 0px;
+}
+
+body {
+  margin-top: 0px;
+}
+
+table.gadget td input {
+  font-size: 11px;
+  width: 82px;
+}
+
+table.header {
+  margin-bottom: 10px;
+}
+
+table.header h3 {
+  margin-bottom: 0px;
+}
+
+table.header hr {
+  color: #ccc;
+  background-color: #ccc;
+  border-bottom: 1px solid #ccc;
+  height: 1px;
+  margin-top: 0px;
+}
+
+.disclaimer {
+  color: #999;
+}
+
+div.errorheader {
+  color: red;
+  font-weight: bold;
+}
+
+div.errormsg {
+  color: red;
+}
+
+td.button-left {
+  width: 6px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-left_sm.gif');
+  background-repeat: none;
+}
+
+td.button-center {
+  padding-left: 10px;
+  padding-right: 14px;
+  padding-bottom: 3px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-center_sm.gif')
+    ;
+  background-repeat: repeat-x;
+}
+
+td.button-center a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: arial;
+  padding-bottom: 6px;
+}
+
+td.button-right {
+  width: 9px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-right_sm.gif');
+  background-repeat: none;
+}
+
+.linkon {
+  color: #0000cc;
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: normal
+}
+
+.linkoff {
+  font-weight: bold
+}
+
+.review_author {
+  font-weight: bold
+}
+
+td.download-button-left {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_left.gif');
+  background-repeat: none;
+}
+
+td.download-button-center {
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  height: 22px;
+  background: url('/images/add_button_middle.gif');
+  background-repeat: repeat-x;
+}
+
+td.download-button-center a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
+
+td.download-button-right {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_right.gif');
+  background-repeat: none;
+}
+
+.similar-gadget {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.screenshot-image {
+  border: 1px solid #bbcced;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+pre.terms {
+  height:200;
+  width:600;
+  overflow: auto;
+  border-style:inset;
+  border-color:graytext;
+  border-width: thin;
+  text-wrap: unrestricted;
+  white-space: -moz-pre-wrap; /* Moz */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  white-space: pre-wrap; /* CSS3  */
+  word-wrap: break-word; /* IE 5.5+ */
+}
+
+table.confirmation-table td {
+  vertical-align: top;
+}
+
+.gadgetError {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FBE3E4;
+  color: #D12F19;
+  border-color: #FBC2C4;
+}
+
+.gadgetWarning {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FFF6BF;
+  color: #817134;
+  border-color: #FFD324;
+}
+
+</style>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+<script type="text/javascript">
+    _uacct="UA-18007-1";
+    _uanchor=1;
+    urchinTracker();
+  </script></head>
+<body><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><a href="/?hl=en"><img src="/en/images/logo3.gif" border="0" height="55" vspace="12" width="150" alt="Google Desktop"></a></td>
+<td width="100%" style="padding-left:12px;padding-top:12px;" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="right" nowrap><font face="Arial, sans-serif" size="-1"><a href="https://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/tetrisgadget_codenam.html">Sign In</a></font></td></tr>
+<tr><td><img alt="" width="1" height="1"></td></tr></table>
+<table cellpadding="0" cellspacing="0" width="100%"><tr><td bgcolor="#3399cc"><img alt="" height="1" width="1"></td></tr></table>
+<table cellspacing="0" cellpadding="2" border="0" width="100%"><tr><td bgcolor="#e8f4f7">&nbsp;
+<font size="3"><b>Google Gadgets</b></font></td></tr></table></td></tr></table>
+<table cellspacing="0" width="100%"><tr valign="top"><td><td nowrap valign="top" width="160"><p id="nav"><font size="-1">Google Gadgets
+<br>
+
+&nbsp;&nbsp;&bull;
+<a href='/plugins/?hl=en'>All</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/news.html?hl=en'>News</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/tools.html?hl=en'>Tools</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/communication.html?hl=en'>Communication</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/finance.html?hl=en'>Finance</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/fun_games.html?hl=en'>Fun & Games</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/google.html?hl=en'>Google</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/sports.html?hl=en'>Sports</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/lifestyle.html?hl=en'>Lifestyle</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/technology.html?hl=en'>Technology</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href="/plugins/c/sidebar/holiday.html?hl=en"><b><font color="red">Holidays</font></b></a>
+<br>
+<br>
+<a href='/plugins/c/index/all.html?hl=en'>Indexing Plugins</a>
+<br>
+<br>
+<br>
+<a href="http://groups.google.com/group/Google-Desktop">Desktop Search Forum</a></font></p>
+<p><font size="-1"><b>For Developers</b>
+<br>
+
+&nbsp;&nbsp;
+<a href='/downloadsdksubmit?hl=en'>Download SDK</a><br>
+&nbsp;&nbsp;
+<a href="/dev/index.html">Developer Guide</a><br>
+&nbsp;&nbsp;
+<a href="/dev/kb.html">FAQ</a><br>
+&nbsp;&nbsp;
+<a href='/pluginsubmit?hl=en'>Submit Software</a><br>
+
+&nbsp;&nbsp;
+<a href="http://groups.google.com/group/Google-Desktop-Developer">Developer Forum</a><br>
+&nbsp;&nbsp;
+<a href='/authors?hl=en'>Hall of Fame</a><br>
+&nbsp;&nbsp;
+<a href='/ambassadors?hl=en'>Ambassadors</a> <br>
+<br>
+<br>
+<br>
+<img src="/images/rss_small.gif" alt="RSS Feed for Latest Gadgets">
+<a href="/feeds/gadgets.xml?hl=en&amp;type=rss" type="application/rss+xml">Latest Gadgets</a>
+<br>
+<br>
+<br>
+<br></font></p></td>
+<td id="dots" width="10"></td></td>
+<td><table><tr style="height:10px;"></tr>
+<tr id="gadgetDetails"><td id="gadgetImage" valign="top" align="center"><img alt="Tetramino Game" src="/plugins/images/tetrisgadget_codenam.gif" class="screenshot-image"></td>
+<td id="gadgetDetails" valign="top"><h3>Tetramino Game</h3>
+Play Tetramino Game in your sidebar or on your desktop
+<br>
+<p><a href="http://www.desktop-gadgets.net/tetris/">Learn more</a>
+-
+<a href="http://groups.google.com/group/Google-Desktop">Discuss this gadget</a></p>
+<table cellpadding="2" cellspacing="2"><tr><td><strong>Author:</strong></td>
+<td>Benjamin Schirmer</td></tr>
+<tr><td><strong>Size:</strong></td>
+<td>31KB</td></tr>
+<tr><td><strong>Version:</strong></td>
+<td>1.4.0.0</td></tr>
+<tr><td><strong>Date:</strong></td>
+<td>September 26, 2007</td></tr></table>
+<p><b>This gadget requires  <a href="http://desktop.google.com?hl=en"> Google Desktop  5  or above. </a></b></p>
+<div style="width: 250;"><table cellpadding="0" cellspacing="0"><tr><td class="button-left"></td>
+<td class="button-center"><a href="/url?id=tetrisgadget_codenam">Download gadget</a></td>
+<td class="button-right"></td></tr></table></div>
+<br>
+<a href="http://www.google.com/ig/add?moduleurl=http://desktop.google.com/gow/gadgets/tetrisgadget_codenam.xml">Add this gadget to your iGoogle page</a></td></tr>
+<tr id="reviewsAndComments"><td valign="top" colspan="2"><script type="text/javascript" src="/gadgetComments.js">
+</script>
+<div style="min-width: 600; max-width: 800"><table width="100%"><tr><td><span id="commentsSpan" class="linkoff">Reviews</span></td>
+<td align="right">
+
+<a href="http://desktop.google.com/plugins/i/tetrisgadget_codenam.html?start=20">Next &raquo;</a></td></tr></table>
+<hr size="1" noshade>
+<a href="http://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/plugins/i/tetrisgadget_codenam.html">Sign in</a> to write a comment
+<br><br>
+<div id="comments">
+
+<table id="review 1" cellpadding="0" cellspacing="0"><tr>
+<td><b>Michael</b>
+&nbsp;</td>
+<td><div id="abuse1" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=kfOPBLhN4tteR7r3q83juhhv7YXdkzk_VQAAAMLwaBbiBvh1MS9ZsilXo2Uf_0VMucvgBBH2iplHlY6hQp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPBXFsjcSiX9l1BUS0HSHkUwA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Speed does not reset on new games.  Besides that great game!
+<br>
+<br> <table id="review 2" cellpadding="0" cellspacing="0"><tr>
+<td><b>toh99</b>
+&nbsp;</td>
+<td><div id="abuse2" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=fhBNc5n2mXDgfvk_JPCjzg1RBO_dkzk_VQAAADByBjHmSTQl5Er2xPnD0hQ1PH4eaWV5puW50QfaG2aUQp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPBAi1pq9IVPtj3Ddx3qSiJTQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Show de jogo!
+<br>
+<br> <table id="review 3" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse3" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=oc4qSciu-u5mm6plG_6GbtR3IUndkzk_VQAAAPzzZLzpHKo_635_PaRQVxQoTKGUzLQhIaq3i5ltm6LNQp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPBDxSJnmHnsD9GG0AhSvTXlQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+i bought a similar zune to this one at www.fashionappliance.com its a good site if you like gadgets
+<br>
+<br> <table id="review 4" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse4" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=S7gGaXKFLkXdUdxickWOUkIzPXrdkzk_VQAAAMxdVxoX6pu1FzOop8PhDF_s5irFcdVl1oU6wu7C9IiSQp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPBJDz4I0H3U3edDdcOJn7Zqw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#38899;&#12434;&#28040;&#12379;&#12427;&#27231;&#33021;&#12364;&#27442;&#12375;&#12356;&#12290;
+<br>
+<br> <table id="review 5" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse5" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=OYymmvaYZufjHB1Sg2VmyP6il4Hdkzk_VQAAAOAyuFNT2P6KAo0ccYSJq1FiezmOKeZc8we5c9kCBCNUQp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPB0GO11Jlx89Z4xXlnp61uHA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+It&#39;s a good game.
+<br>
+<br> <table id="review 6" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Dami&aacute;n</b>
+&nbsp;</td>
+<td><div id="abuse6" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=j7wmSUjK4UsFsdZadxoZYqRSXezdkzk_VQAAALB3huRIFem81kRXB8QiVV-xPC9kcfeHteyX7UCvLSHIQp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPBt5D9KVZpiVyBQo0nW40pRQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+When it starts again at the same fast speed, you only need to fill one line and the speed returns to normal.
+Is good not showing the next piece. but after level 53 is impossible do not to lose.
+dami&aacute;n
+<br>
+<br> <table id="review 7" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>&Delta;&Eta;&Mu;&Eta;&Tau;&Rho;&Iota;&Omicron;&Sigma;</b>
+&nbsp;</td>
+<td><div id="abuse7" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=lm6zUBWcHPI-x5F0hh2lT3MaQGXdkzk_VQAAAL1-dX7y1w6pYjgG0yBqzpuuk4bv9nZZezXi2SR43Q6nQp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPBHVKYxVzLVLf-3jIkIrresQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&gamma;&iota;&alpha;&nu;&nu;&alpha;&kappa;&omicron;&sigmaf; 6 &epsilon;&tau;&omega;&nu;
+<br>
+<br> <table id="review 8" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Ujwal</b>
+&nbsp;</td>
+<td><div id="abuse8" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=7wxKl_j71UGeykWqQHCnRFHQjgjdkzk_VQAAAMgcMkEIudNMoRCRGsMXKfM0y-iVILrW2SgwTccU_9MdQp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPBEjcElTT-T8sG0E9G9-OXaw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+I cannot stop bacground music that is bothersome and distracting.please help me. Otherwise a good &#39;tetris&#39;
+<br>
+<br> <table id="review 9" cellpadding="0" cellspacing="0"><tr>
+<td><b>ray</b>
+&nbsp;</td>
+<td><div id="abuse9" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=_NJW_jo8sXn1Vcgf85sJrSowU8Tdkzk_VQAAAL1-dX7y1w6pYjgG0yBqzpsWVRz64PoBYcHMyJCIiqROQp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPBMf4Np3ddM0buE8u8PfEjKQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#24456;&#22909;&#30340;&#21019;&#24847;&#65292;&#19981;&#36807;&#26159;&#21542;&#21487;&#20197;&#22686;&#21152;&#19968;&#20010;&#32972;&#26223;&#38899;&#20048;&#30340;&#24320;&#20851;&#36873;&#39033;&#21602;&#65311;&#35874;&#35874;&#65281;
+<br>
+<br> <table id="review 10" cellpadding="0" cellspacing="0"><tr>
+<td><b>zionce</b>
+&nbsp;</td>
+<td><div id="abuse10" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=BpZc4sfIe0offJ2jgc3EyXuUWLfdkzk_VQAAALH0D_uX7cjWl4XGUyKVpn0WSybn0M9y7-cOm23YFaQBQp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPBJvT02Z8TdPqNu4d7xU0J-A&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#33021;&#21542;&#25552;&#21069;&#39044;&#35272;&#19979;&#19968;&#20010;&#20986;&#26469;&#30340;&#26041;&#22359;&#24418;&#29366;&#21602;&#65311;
+<br>
+<br> <table id="review 11" cellpadding="0" cellspacing="0"><tr>
+<td><b>princepop</b>
+&nbsp;</td>
+<td><div id="abuse11" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=CH9DctS_OUc_WNhc4DkgvR-PqyXdkzk_VQAAAKiQLmg0EiBsEOWPCHwSUvuC7-rTPKpk-jq4bxi58SvqQp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPBDfVR7sAhhEmUCGTss84yWg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+prince
+<br>
+<br> <table id="review 12" cellpadding="0" cellspacing="0"><tr>
+<td><b>Kyle</b>
+&nbsp;</td>
+<td><div id="abuse12" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=SHYTrhN0VZJF17TK9sX5GC6xI9Ddkzk_VQAAAKiQLmg0EiBsEOWPCHwSUvuBiVEJYQFgxpdirCcF88sPQp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPBNXJGRBXTTlqZDYHdp1UO_Q&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+There&#39;s no way to turn the sound off.. I went into options, and unchecked the &#39;Play tetris music&#39; box and no change whatsoever...
+<br>
+<br> <table id="review 13" cellpadding="0" cellspacing="0"><tr>
+<td><b>Parand</b>
+&nbsp;</td>
+<td><div id="abuse13" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=l0hzWShfXGzd5wrj-uafw1x0Dgvdkzk_VQAAALH0D_uX7cjWl4XGUyKVpn25HxgOrHOtjroYj7jIqITEQp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPBHdp2AeQ2Gh4PZbJz7DD67g&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+
+<br>
+<br> <table id="review 14" cellpadding="0" cellspacing="0"><tr>
+<td><b>K7</b>
+&nbsp;</td>
+<td><div id="abuse14" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=mzTWuje349_8RaMgULaxfc_7mfXdkzk_VQAAAOAyuFNT2P6KAo0ccYSJq1G1hETQ2yRxjAk3k1iOS4HUQp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPBI45ReKgqvZ2lWqUJPG1sjw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Speed never changes and cant play after 10th level..
+<br>
+<br> <table id="review 15" cellpadding="0" cellspacing="0"><tr>
+<td><b>francoiskim</b>
+&nbsp;</td>
+<td><div id="abuse15" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=loqv442hBC-aK_iZFn_i1qSgaxPdkzk_VQAAADByBjHmSTQl5Er2xPnD0hQIaeyXoXU-XL2NpB5phsJQQp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPBEJjvjEegbfxZQWaCMOoJyQ&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+Tr&egrave;s bon jeu. Amusant et ne prenant pas trop de m&eacute;moire. Un tableau des meilleurs scores m&eacute;moris&eacute;s sur le gadget serait super. Et pourquoi pas en ligne pour se mesurer aux autres utilisateurs ?
+<br>
+<br> <table id="review 16" cellpadding="0" cellspacing="0"><tr>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse16" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=n5L27eCs3L-0OdNsPr1OClJ3fVbdkzk_VQAAAHQgj7eUbk5riWPJ-M3OLdMiT6awt8-k5OQ8HgUkMTWiQp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPBZLiKMarAyEET0uoZwr-xJA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+
+<br>
+<br> <table id="review 17" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>Anonymous</b>
+&nbsp;</td>
+<td><div id="abuse17" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=cXMwxM73xyZVDImCjB-jNBkrrX7dkzk_VQAAAMxdVxoX6pu1FzOop8PhDF-T0dlKrgFb19dNybnFQ7-PQp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPBSl1BxvorTQB6GV8ACEcZrA&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+The speed doesn&#39;t change when you start a new game, sometimes &quot;paused&quot; remains up while playing, sometimes sound doesn&#39;t work, and doesn&#39;t show the next block. Other than that, good.
+<br>
+<br> <table id="review 18" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td style="width:10;"></td>
+<td><b>ilk</b>
+&nbsp;</td>
+<td><div id="abuse18" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=gs2L-E-UcaZVnDyf4c5D_3ryyZTdkzk_VQAAAFn_SY6VxzqAHus-iV1unpa-Jj0_B04WFf_OFZKU3Uh2Qp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPBIy6zibHktEgGg-WBVc-sUw&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+
+http://www.youtubeje.com/
+
+<br>
+<br> <table id="review 19" cellpadding="0" cellspacing="0"><tr>
+<td><b>jorge somers</b>
+&nbsp;</td>
+<td><div id="abuse19" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=4wBlG8-ZmnZZt73Y0PF5PUjtbY3dkzk_VQAAAKmxl-h-SBY4m9r8OaURH5uGW8FXdD0kWDJ7ooIrtXj-Qp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPBPMeStV9eRaja1V_rRVrx6w&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+error - translation at options window in portuguese is written outono and should be queda rapida as it is at about window
+<br>
+<br> <table id="review 20" cellpadding="0" cellspacing="0"><tr><td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBig.gif"></td>
+<td><img alt="" src="/images/starBigEmpty.gif"></td>
+<td style="width:10;"></td>
+<td><b>&#19968;&#37070;</b>
+&nbsp;</td>
+<td><div id="abuse20" style="display:none;"><a href="http://www.google.com/support/contact/bin/request.py?aid=-SaE6PvxLfh9ZyrMzB1An0JulfHdkzk_VQAAAMxdVxoX6pu1FzOop8PhDF9OWEjgSt-dPP7m-c9LBzxgQp-3YeFFrxnlSXAupwKyYNNUlGaFiu_pjq5bMLT5JbZfIGr4459iwbsuSf044kPBZn_7yrhEU8xKhMfr4elXBg&amp;contact_type=annotation&amp;source=gd&amp;hl=en">Report this comment</a></div></td></tr>
+<tr style="height:5px;"></tr></table>
+&#12392;&#12387;&#12390;&#12418;Goooooooood!
+&#12487;&#12451;&#12473;&#12463;&#12527;&#12540;&#12463;&#12398;&#24687;&#25244;&#12365;&#12395;&#9678;
+<br>
+<br>
+<div align="right">
+
+<a href="http://desktop.google.com/plugins/i/tetrisgadget_codenam.html?start=20">Next &raquo;</a></div></div>
+<form action="/submitcomment" method="POST" name="commentForm" id="commentForm"><div id="writeComment" style="display:none"><table><tr><td valign="top">Rate gadget:</td>
+<td><table cellspacing="0" cellpadding="0"><tr><td><img alt="" src="/images/rateStarsLeft.gif"></td>
+<td><img alt="" id="star1" src="/images/rateStarOff.gif" onclick="setStars(1)" onmouseover="showStars(1)" onmouseout="showStars()"></td>
+<td><img alt="" id="star2" src="/images/rateStarOff.gif" onclick="setStars(2)" onmouseover="showStars(2)" onmouseout="showStars()"></td>
+<td><img alt="" id="star3" src="/images/rateStarOff.gif" onclick="setStars(3)" onmouseover="showStars(3)" onmouseout="showStars()"></td>
+<td><img alt="" id="star4" src="/images/rateStarOff.gif" onclick="setStars(4)" onmouseover="showStars(4)" onmouseout="showStars()"></td>
+<td><img alt="" id="star5" src="/images/rateStarOff.gif" onclick="setStars(5)" onmouseover="showStars(5)" onmouseout="showStars()"></td>
+<td><img alt="" src="/images/rateStarsRight.gif"></td></tr></table></td></tr>
+<tr><td valign="top">Your name:</td>
+<td><b></b>
+&nbsp;
+<input type="checkbox" name="anonymous" value="true" id="anonymous">
+Anonymous</td></tr>
+<tr><td valign="top">Comments:</td>
+<td><textarea name="reviewText" rows="4" cols="25" id="reviewText" style="border: 1px solid #bbcced"></textarea></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="rating" value="0" id="rating" style="display:none;">
+<input type="hidden" name="pluginId" value="tetrisgadget_codenam" id="pluginId">
+<input type="submit" value="Post Comment">
+<input type="reset" value="Discard" onclick="showComments()"></td></tr>
+<tr style="height:20px;"></tr></table></div></form>
+<div id="abuseLinkDiv"></div></div></td></tr></table></td>
+<td id="recommendations"><b>You might also like...</b>
+<hr noshade size="1">
+<table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/vistagamesgadget.html?hl=en"><img alt="VistaGames Gadget" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/vistagamesgadget_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/vistagamesgadget.html?hl=en">VistaGames Gadget</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=vistagamesgadget">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/weatherbug.html?hl=en"><img alt="WeatherBug Sidebar Gadget" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/weatherbug_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/weatherbug.html?hl=en">WeatherBug Sidebar Gadget</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=weatherbug">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/gdmusic.html?hl=en"><img alt="Music Player" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/gdmusic_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/gdmusic.html?hl=en">Music Player</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=gdmusic">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/amilucky_506.html?hl=en"><img alt="Am I Lucky" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/amilucky_506_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/amilucky_506.html?hl=en">Am I Lucky</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=amilucky_506">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/glass_media_player.html?hl=en"><img alt="Media Player Remote" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/media_player_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/glass_media_player.html?hl=en">Media Player Remote</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=glass_media_player">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table class="similar-gadget"><tr><td valign="top"><a href="/plugins/i/Sudoku.html?hl=en"><img alt="Sudoku" width="80" height="60" border="1" style="border-color: blue;" src="/plugins/images/Sudoku1_sm.gif"></a></td>
+<td valign="top"><a href="/plugins/i/Sudoku.html?hl=en">Sudoku</a>
+<br>
+<br>
+<table cellpadding="0" cellspacing="0"><tr><td class="download-button-left"></td>
+<td class="download-button-center"><a href="/url?id=Sudoku">Download</a></td>
+<td class="download-button-right"></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table>
+<br>
+<br></td></tr>
+<tr><td colspan="5" align="center" id="footer">&copy;  2010  Google
+-
+<a href="/privacypolicy.html">Privacy Policy</a>
+-
+<a href="http://www.google.com/accounts/TOS?hl=en">Terms of Service</a>
+-
+<a href="/copyrights.html">Copyright Notices</a></td></tr></table></body></html>

@@ -1,0 +1,461 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Google Desktop Developers</title>
+<link href="/desktop/styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+a.selected {
+  font-weight: bold;
+  color: #666;
+  text-decoration: none;
+}
+
+p#nav {
+  line-height: 1.4em;
+}
+
+table.gadget {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+table.gadget td img {
+  border: 1px solid #000;
+  margin: 4px 0px;
+}
+
+body {
+  margin-top: 0px;
+}
+
+table.gadget td input {
+  font-size: 11px;
+  width: 82px;
+}
+
+table.header {
+  margin-bottom: 10px;
+}
+
+table.header h3 {
+  margin-bottom: 0px;
+}
+
+table.header hr {
+  color: #ccc;
+  background-color: #ccc;
+  border-bottom: 1px solid #ccc;
+  height: 1px;
+  margin-top: 0px;
+}
+
+.disclaimer {
+  color: #999;
+}
+
+div.errorheader {
+  color: red;
+  font-weight: bold;
+}
+
+div.errormsg {
+  color: red;
+}
+
+td.button-left {
+  width: 6px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-left_sm.gif');
+  background-repeat: none;
+}
+
+td.button-center {
+  padding-left: 10px;
+  padding-right: 14px;
+  padding-bottom: 3px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-center_sm.gif')
+    ;
+  background-repeat: repeat-x;
+}
+
+td.button-center a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: arial;
+  padding-bottom: 6px;
+}
+
+td.button-right {
+  width: 9px;
+  height: 34px;
+  background: url('http://desktop.google.com/images/button-right_sm.gif');
+  background-repeat: none;
+}
+
+.linkon {
+  color: #0000cc;
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: normal
+}
+
+.linkoff {
+  font-weight: bold
+}
+
+.review_author {
+  font-weight: bold
+}
+
+td.download-button-left {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_left.gif');
+  background-repeat: none;
+}
+
+td.download-button-center {
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  height: 22px;
+  background: url('/images/add_button_middle.gif');
+  background-repeat: repeat-x;
+}
+
+td.download-button-center a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
+
+td.download-button-right {
+  width: 6px;
+  height: 22px;
+  background: url('/images/add_button_right.gif');
+  background-repeat: none;
+}
+
+.similar-gadget {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.screenshot-image {
+  border: 1px solid #bbcced;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+pre.terms {
+  height:200;
+  width:600;
+  overflow: auto;
+  border-style:inset;
+  border-color:graytext;
+  border-width: thin;
+  text-wrap: unrestricted;
+  white-space: -moz-pre-wrap; /* Moz */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  white-space: pre-wrap; /* CSS3  */
+  word-wrap: break-word; /* IE 5.5+ */
+}
+
+table.confirmation-table td {
+  vertical-align: top;
+}
+
+.gadgetError {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FBE3E4;
+  color: #D12F19;
+  border-color: #FBC2C4;
+}
+
+.gadgetWarning {
+  padding: .8em;
+  margin-bottom: 1em;
+  border: 2px solid #ddd;
+  background: #FFF6BF;
+  color: #817134;
+  border-color: #FFD324;
+}
+
+</style>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+  </script>
+<script type="text/javascript">
+    _uacct="UA-18007-1";
+    _uanchor=1;
+    urchinTracker();
+  </script></head>
+<body alink="#ff0000" bgcolor="#ffffff" link="#0000cc" text="#000000" vlink="#800080"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td><a href="/?hl=en"><img src="/en/images/logo3.gif" border="0" height="55" vspace="12" width="150" alt="Google Desktop"></a></td>
+<td width="100%" style="padding-left:12px;padding-top:12px;" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td align="right" nowrap><font face="Arial, sans-serif" size="-1"><a href="https://www.google.com/accounts/ServiceLogin?service=gd&amp;continue=http://desktop.google.com/ambassadors">Sign In</a></font></td></tr>
+<tr><td><img alt="" width="1" height="1"></td></tr></table>
+<table cellpadding="0" cellspacing="0" width="100%"><tr><td bgcolor="#3399cc"><img alt="" height="1" width="1"></td></tr></table>
+<table cellspacing="0" cellpadding="2" border="0" width="100%"><tr><td bgcolor="#e8f4f7">&nbsp;
+<font size="3"><b>Google Desktop Developers</b></font></td></tr></table></td></tr></table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td nowrap valign="top" width="160"><p id="nav"><font size="-1">Google Gadgets
+<br>
+
+&nbsp;&nbsp;&bull;
+<a href='/plugins/?hl=en'>All</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/news.html?hl=en'>News</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/tools.html?hl=en'>Tools</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/communication.html?hl=en'>Communication</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/finance.html?hl=en'>Finance</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/fun_games.html?hl=en'>Fun & Games</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/google.html?hl=en'>Google</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/sports.html?hl=en'>Sports</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/lifestyle.html?hl=en'>Lifestyle</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href='/plugins/c/sidebar/technology.html?hl=en'>Technology</a>
+<br>
+&nbsp;&nbsp;&bull;
+<a href="/plugins/c/sidebar/holiday.html?hl=en"><b><font color="red">Holidays</font></b></a>
+<br>
+<br>
+<a href='/plugins/c/index/all.html?hl=en'>Indexing Plugins</a>
+<br>
+<br>
+<br>
+<a href="http://groups.google.com/group/Google-Desktop">Desktop Search Forum</a></font></p>
+<p><font size="-1"><b>For Developers</b>
+<br>
+
+&nbsp;&nbsp;
+<a href='/downloadsdksubmit?hl=en'>Download SDK</a><br>
+&nbsp;&nbsp;
+<a href="/dev/index.html">Developer Guide</a><br>
+&nbsp;&nbsp;
+<a href="/dev/kb.html">FAQ</a><br>
+&nbsp;&nbsp;
+<a href='/pluginsubmit?hl=en'>Submit Software</a><br>
+
+&nbsp;&nbsp;
+<a href="http://groups.google.com/group/Google-Desktop-Developer">Developer Forum</a><br>
+&nbsp;&nbsp;
+<a href='/authors?hl=en'>Hall of Fame</a><br>
+&nbsp;&nbsp;
+Ambassadors <br>
+<br>
+<br>
+<br>
+<img src="/images/rss_small.gif" alt="RSS Feed for Latest Gadgets">
+<a href="/feeds/gadgets.xml?hl=en&amp;type=rss" type="application/rss+xml">Latest Gadgets</a>
+<br>
+<br>
+<br>
+<br></font></p></td>
+<td id="dots" width="10"></td>
+<td id="content">Search all sites linked from this page
+<br>
+<form name="cse" id="author_search" action="http://www.google.com/cse"><input type="hidden" name="cref" value="">
+<input name="q" type="text" size="30">
+<input type="submit" name="sa" value="Search"></form>
+<script type="text/javascript" src="http://www.google.com/cse/tools/onthefly?form=author_search">
+           </script>
+<table width="100%" class="header"><tr><td colspan="2"><h3>Google Desktop Student Ambassadors</h3></td></tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr><td colspan="2" align="right"></td></tr></table>
+<table align="top"><tr><td align="center" valign="top" width="180"><a href="http://www.hs-albsig.de"><img src="/images/schools/hs_albsig_de.gif" alt="Albstadt-Sigmaringen University" border="0"></a></td>
+<td>&nbsp;&nbsp;</td>
+<td width="220" valign="top"><a href="http://www.hs-albsig.de"><font size="+0">Albstadt-Sigmaringen University</font></a>
+<br>
+<br>
+<a href="http://wiki.hs-albsig.de/index.php/Google_Desktop_Student_Ambassador">Chapter website</a>
+<br>
+<br>
+<a href="/author/5.html?hl=en">Benjamin Schirmer</a>
+<br>
+Masters,
+Computer Science
+<br>
+<br></td>
+<td>&nbsp;&nbsp;</td>
+<td valign="top"><table align="top"><tr><td></td></tr>
+<tr><td><br>
+<br></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table align="top"><tr><td align="center" valign="top" width="180"><a href="http://www.apiit.edu.my"><img src="/images/schools/apiit_edu_my.jpg" alt="Asia Pacific Institute for Technology, Malaysia" border="0"></a></td>
+<td>&nbsp;&nbsp;</td>
+<td width="220" valign="top"><a href="http://www.apiit.edu.my"><font size="+0">Asia Pacific Institute for Technology, Malaysia</font></a>
+<br>
+<br>
+
+<a href="/author/382.html?hl=en">Jinah Adam</a>
+<br>
+2nd year,
+Software Engineering
+<br>
+<br></td>
+<td>&nbsp;&nbsp;</td>
+<td valign="top"><table align="top"><tr><td></td></tr>
+<tr><td><br>
+<br></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table align="top"><tr><td align="center" valign="top" width="180"><a href="http://www.itb.ac.id/"><img src="/images/schools/itb.png" alt="Bandung Institute of Technology" border="0"></a></td>
+<td>&nbsp;&nbsp;</td>
+<td width="220" valign="top"><a href="http://www.itb.ac.id/"><font size="+0">Bandung Institute of Technology</font></a>
+<br>
+<br>
+
+<a href="/author/225.html?hl=en">Muhammad Hakim A</a>
+<br>
+
+Informatics Engineering
+<br>
+<br></td>
+<td>&nbsp;&nbsp;</td>
+<td valign="top"><table align="top"><tr><td>In Harmonia Progresssio &quot;Progress In Harmony&quot;</td></tr>
+<tr><td><br>
+<br></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table align="top"><tr><td align="center" valign="top" width="180"><a href="http://www.iit.ac.lk/"><img src="/images/schools/iit_ac_lk.gif" alt="Informatics Institute of Technology, Wallawatta, Sri             Lanka" border="0"></a></td>
+<td>&nbsp;&nbsp;</td>
+<td width="220" valign="top"><a href="http://www.iit.ac.lk/"><font size="+0">Informatics Institute of Technology, Wallawatta, Sri             Lanka</font></a>
+<br>
+<br>
+<a href="http://groups.google.com/group/google-desktop-developers-iit-lk">Chapter website</a>
+<br>
+<br>
+<a href="/author/1.html?hl=en">Lahiru Lakmal Priyadarshana</a>
+<br>
+Sophomore,
+Software Engineering
+<br>
+<br></td>
+<td>&nbsp;&nbsp;</td>
+<td valign="top"><table align="top"><tr><td>To produce a new generation of qualified IT             professionals</td></tr>
+<tr><td><br>
+<br></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table align="top"><tr><td align="center" valign="top" width="180"><a href="http://www.csku.edu.pk/"><img src="/images/schools/csku_edu_pk.png" alt="Karachi University" border="0"></a></td>
+<td>&nbsp;&nbsp;</td>
+<td width="220" valign="top"><a href="http://www.csku.edu.pk/"><font size="+0">Karachi University</font></a>
+<br>
+<br>
+<a href="http://groups.google.com/group/kudcs">Chapter website</a>
+<br>
+<br>
+<a href="/author/344.html?hl=en">Rizwan</a>
+<br>
+
+Computer Science
+<br>
+<br></td>
+<td>&nbsp;&nbsp;</td>
+<td valign="top"><table align="top"><tr><td></td></tr>
+<tr><td><br>
+<br></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table align="top"><tr><td align="center" valign="top" width="180"><a href="http://www.upt.ro/english/index.php"><img src="/images/schools/upt_ro.jpg" alt="Politehnica University of Timisoara, Romania" border="0"></a></td>
+<td>&nbsp;&nbsp;</td>
+<td width="220" valign="top"><a href="http://www.upt.ro/english/index.php"><font size="+0">Politehnica University of Timisoara, Romania</font></a>
+<br>
+<br>
+<a href="http://www.gdsa.ro">Chapter website</a>
+<br>
+<br>
+<a href="/author/6.html?hl=en">Teodor Mihai Filimon</a>
+<br>
+Junior,
+Computer Science
+<br>
+<br> <a href="/author/44.html?hl=en">Catalin AVRAM</a>
+<br>
+Junior,
+Computer Science
+<br>
+<br></td>
+<td>&nbsp;&nbsp;</td>
+<td valign="top"><table align="top"><tr><td>&quot;The important thing is not to stop questioning.             Curiosity has its own reason for existing.&quot; - Albert Einstein</td></tr>
+<tr><td><br>
+<br></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table align="top"><tr><td align="center" valign="top" width="180"><a href="http://ucsc.cmb.ac.lk/"><img src="/images/schools/ucsc_cmb_ac_lk.jpg" alt="University of Colombo" border="0"></a></td>
+<td>&nbsp;&nbsp;</td>
+<td width="220" valign="top"><a href="http://ucsc.cmb.ac.lk/"><font size="+0">University of Colombo</font></a>
+<br>
+<br>
+
+<a href="/author/338.html?hl=en">Ishan Liyanage</a>
+<br>
+
+Computer Science
+<br>
+<br></td>
+<td>&nbsp;&nbsp;</td>
+<td valign="top"><table align="top"><tr><td></td></tr>
+<tr><td><br>
+<br></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table align="top"><tr><td align="center" valign="top" width="180"><a href="http://www.umd.edu/"><img src="/images/schools/umd.gif" alt="University of Maryland" border="0"></a></td>
+<td>&nbsp;&nbsp;</td>
+<td width="220" valign="top"><a href="http://www.umd.edu/"><font size="+0">University of Maryland</font></a>
+<br>
+<br>
+
+<a href="/author/92.html?hl=en">Jonathan Speiser</a>
+<br>
+Sophomore,
+Software Engineering
+<br>
+<br></td>
+<td>&nbsp;&nbsp;</td>
+<td valign="top"><table align="top"><tr><td></td></tr>
+<tr><td><br>
+<br></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table> <table align="top"><tr><td align="center" valign="top" width="180"><a href="http://www.vit.ac.in"><img src="/images/schools/vit.gif" alt="Vellore Institute of Technology" border="0"></a></td>
+<td>&nbsp;&nbsp;</td>
+<td width="220" valign="top"><a href="http://www.vit.ac.in"><font size="+0">Vellore Institute of Technology</font></a>
+<br>
+<br>
+<a href="http://www.orkut.co.in/Community.aspx?cmm=41271859">Chapter website</a>
+<br>
+<br>
+<a href="/author/287.html?hl=en">Vishnu.S</a>
+<br>
+First Year,
+MS Software Engineering
+<br>
+<br> <a href="/author/378.html?hl=en">Ajay Amritraj R</a>
+<br>
+First year,
+Information Technology
+<br>
+<br></td>
+<td>&nbsp;&nbsp;</td>
+<td valign="top"><table align="top"><tr><td></td></tr>
+<tr><td><br>
+<br></td></tr></table></td>
+<tr style="height:10px;"></tr></tr></table>
+<br style="clear:both;">
+<table width="100%" class="header"><tr><td colspan="2" align="right"></td></tr>
+<tr><td colspan="2"><hr style="margin-top:10px;"></td></tr></table>
+<br></td></tr>
+<tr valign="top"><td colspan="5" align="center" id="footer">&copy;  2010  Google
+-
+<a href="/privacypolicy.html">Privacy Policy</a>
+-
+<a href="http://www.google.com/accounts/TOS?hl=en">Terms of Service</a>
+-
+<a href="/copyrights.html">Copyright Notices</a></td></tr></table></body></html>

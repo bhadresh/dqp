@@ -1,0 +1,432 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Google Calendar</title>
+<style type="text/css">
+<!--
+body,td,div,p,a,font,span {font-family:arial,sans-serif}
+body {margin:18; padding:0}
+a, a:visited {color: #00c}
+.c {width:4; height:4}
+.header {font-size:120%}
+li {list-style:none}
+.bubble {background-color:#c3d9ff}
+
+.tl {padding:0; width:4; text-align:left; vertical-align:top}
+.tr {padding:0; width:4; text-align:right; vertical-align:top}
+.bl {padding:0; width:4; text-align:left; vertical-align:bottom}
+.br {padding:0; width:4; text-align:right; vertical-align:bottom}
+
+.caption {
+  font-weight:bold;
+  color:black;
+  white-space:nowrap;
+  background:#e8eefa;
+  text-align:center;
+  margin-bottom:5
+}
+
+.hrule {
+  border-top:1px solid rgb(204, 204, 204);
+  margin:0pt 3;
+  padding:4
+}
+
+.form-noindent {background-color:white; border:#c3d9ff 1px solid}
+
+.btn_l {background:url(calendar/signup_button_blue_l.gif) no-repeat}
+.btn_m {
+  background:url(calendar/signup_button_blue_m.gif) repeat-x;
+  padding-right:10;
+  padding-left:10;
+  font-size:14;
+  font-weight:bold;
+  color:white;
+  white-space:nowrap;
+  text-align:center
+}
+.btn_r {background:url(calendar/signup_button_blue_r.gif) no-repeat}
+
+.icon-table {border-spacing:0;border-collapse:collapse}
+td table.icon-table {padding:2px}
+
+div.header img.logo {border:0}
+
+ -->
+</style>
+<style type="text/css"><!--
+.gaia.le.lbl { font-family: Arial, Helvetica, sans-serif; font-size: smaller; }
+.gaia.le.fpwd { font-family: Arial, Helvetica, sans-serif; font-size: 70%; }
+.gaia.le.chusr { font-family: Arial, Helvetica, sans-serif; font-size: 70%; }
+.gaia.le.val { font-family: Arial, Helvetica, sans-serif; font-size: smaller; }
+.gaia.le.button { font-family: Arial, Helvetica, sans-serif; font-size: smaller; }
+.gaia.le.rem { font-family: Arial, Helvetica, sans-serif; font-size: smaller; }
+
+.gaia.captchahtml.desc { font-family: arial, sans-serif; font-size: smaller; } 
+.gaia.captchahtml.cmt { font-family: arial, sans-serif; font-size: smaller; font-style: italic; }
+  
+--></style>
+<script type=text/javascript>
+<!--
+
+function el(id) {
+  try {
+    if (document.getElementById) {
+      return document.getElementById(id);
+    } else if (document.all) {
+      return document.all[id];
+    }
+  } catch (e) {
+  }
+  return null;
+}
+
+function GetLoginForm() {
+  try {
+    var f = el('gaia_loginform');
+    if (f) {
+      return f;
+    }
+    if (document.forms && document.forms[0]) {
+      return document.forms[0];
+    }
+  } catch (e) {
+  }
+  return null;
+}
+
+function MaybePreloadUser() {
+  try {
+    var f = GetLoginForm();
+    if (f && f['Email'] && f['Email'].value) {
+      new Image().src =
+        '//www.google.com/calendar/preload?uname=' +
+        encodeURIComponent(f['Email'].value) + '&fanout=true';
+    }
+  } catch (e) {
+  }
+}
+
+function newAccount() {
+  var oldLocation = document.location.toString();
+  top.location = oldLocation.replace("/ServiceLogin?", "/NewAccount?");
+}
+
+// -->
+</script>
+</head>
+  <body bgcolor="white" link="blue" vlink="blue"
+        dir="ltr" >
+  <div id="main">
+<div class=header>
+  <img class=logo
+       src='https://www.google.com/intl/en/images/logos/calendar_logo.gif'
+       alt="Google Accounts" />
+  </img>
+</div>
+  <table width=100% align=center cellpadding=5 cellspacing=1 border=0>
+  <tr>
+  <td width=75% valign=top>
+  <table width=100% align=center cellpadding=5 cellspacing=1>
+  <tr>
+  <td width=75% valign=top>
+  <h2 style="font-size:19px;margin:0">
+  Organize your schedule and share events with friends
+  </h2>
+  <div style="font-size:13px">With Google's free online calendar, it's easy to keep track of life's important events all in one place.</div>
+  <table border=0 cellpadding=10 cellspacing=0 style="font-size:13px;padding:10px 0 0 10px;">
+  <tr>
+  <td><img src="//www.google.com/intl/en/images/icons/product/calendar-42.png" alt="Calendar Icon"></td>
+  <td>
+  <b>Share your schedule</b><br>
+  Let your family and friends see your calendar, and view schedules that others have shared with you.
+  </td>
+  </tr>
+  <tr>
+  <td><img src="//www.google.com/intl/en/images/icons/feature/mobile_phone-42.gif" alt="Mobile Icon"></td>
+  <td>
+  <b>Get your calendar on the go</b><br>
+  Access your calendar from your phone using its built-in calendar or mobile browser.
+  </td>
+  </tr>
+  <tr>
+  <td><img src="//www.google.com/intl/en/images/icons/feature/alert-b42.png" alt="Alerts Icon"></td>
+  <td>
+  <b>Never forget another event</b><br>
+  Get event reminders via email or have text messages sent right to your mobile phone.
+  </td>
+  </tr>
+  <tr>
+  <td></td>
+  <td><a href="http://www.google.com/intl/en/googlecalendar/about.html" style="font-weight:bold;">Learn more about Google Calendar &raquo;</a></td>
+  </tr>
+  </table>
+  </td>
+  </tr>
+</table>
+<br>
+  </td>
+  <td style="padding-left: 10px;" valign=top align=center>
+<script><!--
+
+function gaia_onLoginSubmit() {
+  
+  if (window.gaiacb_onLoginSubmit) {
+    return gaiacb_onLoginSubmit();
+  } else {
+    return true;
+  }
+}
+
+--></script>
+<style type="text/css"><!--
+  div.errormsg { color: red; font-size: smaller; font-family:arial,sans-serif; }
+  font.errormsg { color: red; font-size: smaller; font-family:arial,sans-serif; }  
+--></style>
+<style type="text/css"><!--
+.gaia.le.lbl { font-family: Arial, Helvetica, sans-serif; font-size: smaller; }
+.gaia.le.fpwd { font-family: Arial, Helvetica, sans-serif; font-size: 70%; }
+.gaia.le.chusr { font-family: Arial, Helvetica, sans-serif; font-size: 70%; }
+.gaia.le.val { font-family: Arial, Helvetica, sans-serif; font-size: smaller; }
+.gaia.le.button { font-family: Arial, Helvetica, sans-serif; font-size: smaller; }
+.gaia.le.rem { font-family: Arial, Helvetica, sans-serif; font-size: smaller; }
+
+.gaia.captchahtml.desc { font-family: arial, sans-serif; font-size: smaller; } 
+.gaia.captchahtml.cmt { font-family: arial, sans-serif; font-size: smaller; font-style: italic; }
+  
+--></style>
+<form id="gaia_loginform"
+      
+        action="https://www.google.com/accounts/ServiceLoginAuth" method="post"
+      
+      onsubmit=
+                 "return(gaia_onLoginSubmit());"
+                >
+<div id="gaia_loginbox">
+<table class="form-noindent" cellspacing="3" cellpadding="5" width="100%" border="0">
+  <tr>
+  <td valign="top" style="text-align:center" nowrap="nowrap"
+        bgcolor="#e8eefa">
+  <div class="loginBox">
+  <table id="gaia_table" align="center" border="0" cellpadding="1" cellspacing="0">
+  <tr>
+<td colspan="2" align="center">
+  <font size="-1">
+  Sign in with your
+  </font>
+  <table>
+  <tr>
+  <td valign="top">
+  <img src="https://www.google.com/accounts/google_transparent.gif"
+           alt="Google">
+  </img>
+  </td>
+  <td valign="middle">
+  <font size="+0"><b>Account</b></font>
+  </td>
+  </tr>
+</table>
+</td>
+</tr>
+<tr>
+  <td colspan="2" align="center">
+  </td>
+</tr>
+<tr id="email-row">
+  <td nowrap="nowrap">
+  <div align="right">
+  <span class="gaia le lbl">
+  Email:
+  </span>
+  </div>
+  </td>
+  <td>
+  <input type="hidden" name="service" id="service"
+           value="cl" />
+  <input type="hidden" name="dsh" id="dsh"
+           value="5726021513362471121" />
+  <input type="hidden" name="timeStmp" id="timeStmp"
+       value=''/>
+<input type="hidden" name="secTok" id="secTok"
+       value=''/>
+  <input type="hidden"
+             name="GALX"
+             value="WofqtIOKbog" />
+  <input type="text" name="Email"  id="Email"
+  size="18" value=""
+  
+  
+    class='gaia le val'
+  
+  />
+  </td>
+</tr>
+<tr>
+  <td></td>
+  <td align="left">
+  <div style="color: #666666; font-size: 75%;">
+  ex: pat@example.com
+  </div>
+  </td>
+</tr>
+<tr id="password-row" class="enabled">
+  <td align="right" nowrap="nowrap">
+  <span class="gaia le lbl">
+  Password:
+  </span>
+  </td>
+  <td>
+  <input type="password"
+   name="Passwd" id="Passwd"
+  size="18" 
+  
+  
+
+  
+    class="gaia le val" 
+  
+  />
+  </td>
+</tr>
+<tr>
+  <td> </td>
+  <td align="left">
+  </td>
+</tr>
+  <tr id="rememberme-row" class="enabled">
+  <td align="right" valign="top">
+  <input type="checkbox" name="PersistentCookie" id="PersistentCookie"
+    value="yes"
+  
+    checked='checked'
+  
+  />
+  <input type="hidden" name='rmShown' value="1" />
+  </td>
+  <td>
+  <label for="PersistentCookie" id="PersistentCookieLabel" class="gaia le rem">
+  Stay signed in
+  </label>
+  </td>
+</tr>
+<tr>
+  <td>
+  </td>
+  <td align="left">
+  <input type="submit" class="gaia le button" name="signIn" id="signIn"
+           value="Sign in"
+                  />
+  </td>
+</tr>
+<tr id="ga-fprow">
+  <td colspan="2" height="33.0" class="gaia le fpwd"
+    align="center" valign="bottom">
+  <a href="https://www.google.com/accounts/recovery?service=cl"
+       target=_top>
+  Can&#39;t access your account?
+  </a>
+  </td>
+</tr>
+  </table>
+  </div>
+  </td>
+  </tr>
+</table>
+</div>
+<input type="hidden" name="asts"
+       id="asts"
+       value="">
+</form>
+<script><!--
+var gaia_loginForm;
+if (document.getElementById) {
+  gaia_loginForm = document.getElementById("gaia_loginform");
+} else if (window.gaia_loginform) {
+  gaia_loginForm = window.gaia_loginform;
+}
+
+var gaia_emailHasKeypress = false;
+if (gaia_loginForm && gaia_loginForm.Email) {
+  gaia_loginForm.Email.onkeypress = function() {
+    gaia_emailHasKeypress = true;
+  }
+}
+
+function gaia_setFocus() {
+  if (gaia_loginForm) {
+    if (gaia_loginForm.Email && !gaia_loginForm.Email.value) {
+      gaia_loginForm.Email.focus();
+    } else if (gaia_loginForm.Passwd && !gaia_emailHasKeypress) {
+      gaia_loginForm.Passwd.focus();
+    }
+    
+  }
+}
+
+gaia_setFocus();
+--></script>
+<form id="gaia_universallogin"
+      action="https://www.google.com/accounts/ServiceLoginAuth" method="post"
+      onsubmit="return(gaia_onLoginSubmit());">
+  <input type="hidden" name="service" id="service"
+           value="cl" />
+  <input type="hidden" name="dsh" id="dsh"
+           value="5726021513362471121" />
+</form>
+  <script type=text/javascript>
+<!--
+try {
+  gaia_setFocus();
+  var f = GetLoginForm();
+  if (f && f['Passwd']) {
+    f['Passwd'].onfocus = MaybePreloadUser;
+  }
+} catch (e) {
+}
+//-->
+  </script>
+  <br/>
+  <table class=form-noindent cellpadding=8 width=100% bgcolor=#e8eefa>
+ <tr bgcolor=#e8eefa>
+  <td valign=top align=center>
+  <font size=-1>
+  <b>New to Google Calendar?<br>It's easy to start.</b>
+  </font>
+  <p/>
+  <table style="cursor:pointer"
+   cellspacing=0 cellpadding=0 border=0
+   onclick="newAccount(); return false;">
+  <tr>
+  <td class="btn_l">
+  <img height=40 width=8 src="calendar/cleardot.gif"></td>
+  <td class=btn_m><span onlick="newAccount(); return false;">
+  <b>Create an account &raquo;</b></span></td>
+  <td class="btn_r">
+  <img height=40 width=8 src="calendar/cleardot.gif"></td>
+  </tr>
+  </table>
+  </td>
+ </tr>
+</table>
+  </td>
+  </tr>
+  </table>
+  <div class=hrule>
+  <center>
+  <font color=#676767 size=-1>
+  &copy;2010 Google
+  -
+  <a href="http://www.google.com/apps/intl/en/business/calendar.html#utm_medium=et&utm_source=calendar-signin-en&utm_campaign=crossnav">
+Google Calendar for business</a> -
+  <a href="http://www.google.com/intl/en/googlecalendar/privacy_policy.html">
+Privacy Policy</a> -
+  <a href="http://www.google.com/intl/en/googlecalendar/program_policies.html">
+Program Policies</a> -
+  <a href="http://www.google.com/intl/en/googlecalendar/terms_of_use.html">
+Terms of Use</a>
+  </font>
+  </center>
+</div>
+  </div>
+  </body>
+</html>

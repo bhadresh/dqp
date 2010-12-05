@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head >
+ <title>Support - Mailing Lists</title>
+ <link rel="shortcut icon" href="/gifs/favicon.ico" />
+ <link rel="stylesheet" type="text/css" href="/css/reset-fonts.css" />
+ <link rel="stylesheet" type="text/css" href="/css/style.css" />
+ <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/css/IE7styles.css" /><![endif]-->
+ <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/css/IE6styles.css" /><![endif]-->
+ <link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+ <link rel="alternate" type="application/rss+xml" title="RSS feed" href="http://pear.php.net/feeds/latest.rss" />
+ <!-- compliance patch for microsoft browsers -->
+<!--[if lt IE 8]>
+ <script type="text/javascript" src="/javascript/IE8.js"></script>
+<![endif]-->
+ <link rel="search" type="application/opensearchdescription+xml" title="PEAR Search Plugin" href="http://pear.php.net/osd.xml" />
+</head>
+
+<body>
+<div>
+<a id="TOP"></a>
+</div>
+
+<div id="doc3">
+<!-- START HEADER -->
+ <div id="user">
+  <ul>
+   <li><a href="/account-request.php">Register</a></li>
+   <li class="last"><a href="/login.php?redirect=/support/lists.php">Login</a></li>
+  </ul>
+ </div>
+
+ <div id="search">
+  <form method="get" action="/search.php">
+   <p style="margin: 0px;">
+    <span class="accesskey">S</span>earch for
+    <input type="text" name="q" value="" size="20" accesskey="s" />
+    in the
+    <select name="in">
+        <option value="packages">Packages</option>
+        <option value="site">This site (using Yahoo!)</option>
+        <option value="users">Developers</option>
+        <option value="pear-dev">Developer mailing list</option>
+        <option value="pear-general">General mailing list</option>
+        <option value="pear-cvs">SVN commits mailing list</option>
+    </select>
+    <input type="image" src="/gifs/small_submit_white.gif" alt="search" style="vertical-align: middle;" />
+   </p>
+  </form>
+ </div>
+
+  <div id="header">
+   <a href="/"><img src="/gifs/pearsmall.gif" style="border: 0;" width="104" height="50" alt="PEAR"  /></a><br />
+  </div>
+
+<div id="menubar">
+
+<ul id="menu">
+ <li class="menu-item"><a href="/index.php">Main</a></li>
+ <li class="menu-item current"><a href="/support/">Support</a></li>
+ <li class="menu-item"><a href="/manual/">Documentation</a></li>
+ <li class="menu-item"><a href="/packages.php">Packages</a></li>
+ <li class="menu-item"><a href="/pepr/">Package Proposals</a></li>
+ <li class="menu-item"><a href="/accounts.php">Developers</a></li>
+ <li class="menu-item menu-item-last"><a href="/bugs/">Bugs</a></li>
+</ul>
+
+</div>
+
+
+<ul id="submenu">
+ <li class="menu-item"><a href="/support/">Overview</a></li>
+ <li class="menu-item current"><a href="/support/lists.php">Mailing Lists</a></li>
+ <li class="menu-item"><a href="/support/books.php">Books</a></li>
+ <li class="menu-item"><a href="/support/tutorials.php">Tutorials</a></li>
+ <li class="menu-item"><a href="/support/slides.php">Presentation Slides</a></li>
+ <li class="menu-item"><a href="/support/icons.php">Icons</a></li>
+ <li class="menu-item menu-item-last"><a href="/support/forums.php">Forums</a></li>
+</ul>
+
+<!-- END HEADER -->
+<!-- START MIDDLE -->
+
+<!-- START MAIN CONTENT -->
+
+  <div id="body">
+
+<h1>Support</h1>
+<h2>&raquo; Mailing Lists</h2>
+
+<p>
+ There are 8 PEAR-related mailing
+ lists available. Most of them have archives available, and they are
+ also available as newsgroups on our
+ <a href="news://news.php.net">news server</a>. The archives are
+ searchable. The lists are described in more detail in the
+ <a href="/manual/en/support.php">manual</a>.
+</p>
+
+<form method="post" action="/support/lists.php">
+<table class="form-holder" cellpadding="5" cellspacing="1">
+
+ <tr>
+  <th class="form-label_top_center">PEAR Mailing Lists</th>
+  <th class="form-label_top_center">Moderated</th>
+  <th class="form-label_top_center">Archive</th>
+  <th class="form-label_top_center">Newsgroup</th>
+  <th class="form-label_top_center">Normal</th>
+  <th class="form-label_top_center">Digest</th>
+ </tr>
+ <tr>
+  <td class="form-input"><strong>PEAR general list</strong><br /><small>A list for people with questions on how to use PEAR</small></td>
+  <td class="form-input_center">no</td>
+  <td class="form-input_center"><a href="http://news.gmane.org/gmane.comp.php.pear.general">yes</a></td>
+  <td class="form-input_center"><a href="news://news.php.net/php.pear.general">yes</a> <a href="http://news.php.net/group.php?group=php.pear.general">http</a></td>
+  <td class="form-input_center"><input name="maillist[pear-general]" type="radio" value="normal" /></td>  <td class="form-input_center"><input name="maillist[pear-general]" type="radio" value="digest" /></td>
+ </tr>
+ <tr>
+  <td class="form-input"><strong>PEAR developers list</strong><br /><small>A list for the people who make PEAR packages</small></td>
+  <td class="form-input_center">no</td>
+  <td class="form-input_center"><a href="http://news.gmane.org/gmane.comp.php.pear.devel">yes</a></td>
+  <td class="form-input_center"><a href="news://news.php.net/php.pear.dev">yes</a> <a href="http://news.php.net/group.php?group=php.pear.dev">http</a></td>
+  <td class="form-input_center"><input name="maillist[pear-dev]" type="radio" value="normal" /></td>  <td class="form-input_center"><input name="maillist[pear-dev]" type="radio" value="digest" /></td>
+ </tr>
+ <tr>
+  <td class="form-input"><strong>PEAR SVN list</strong><br /><small>All commits to PEAR's SVN repository get automatically posted to this list</small></td>
+  <td class="form-input_center">no</td>
+  <td class="form-input_center"><a href="http://news.gmane.org/gmane.comp.php.cvs.pear">yes</a></td>
+  <td class="form-input_center"><a href="news://news.php.net/php.pear.cvs">yes</a> <a href="http://news.php.net/group.php?group=php.pear.cvs">http</a></td>
+  <td class="form-input_center"><input name="maillist[pear-cvs]" type="radio" value="normal" /></td>  <td class="form-input_center"><input name="maillist[pear-cvs]" type="radio" value="digest" /></td>
+ </tr>
+ <tr>
+  <td class="form-input"><strong>PEAR documentation list</strong><br /><small>A list for discussing topics related to the PEAR documentation.</small></td>
+  <td class="form-input_center">no</td>
+  <td class="form-input_center"><a href="http://news.gmane.org/gmane.comp.php.pear.documentation">yes</a></td>
+  <td class="form-input_center"><a href="news://news.php.net/php.pear.doc">yes</a> <a href="http://news.php.net/group.php?group=php.pear.doc">http</a></td>
+  <td class="form-input_center"><input name="maillist[pear-doc]" type="radio" value="normal" /></td>  <td class="form-input_center"><input name="maillist[pear-doc]" type="radio" value="digest" /></td>
+ </tr>
+ <tr>
+  <td class="form-input"><strong>PEAR QA list</strong><br /><small>A list for managing PEAR's Quality Assurance process</small></td>
+  <td class="form-input_center">no</td>
+  <td class="form-input_center"><a href="http://news.gmane.org/gmane.comp.php.pear.qa">yes</a></td>
+  <td class="form-input_center"><a href="news://news.php.net/php.pear.qa">yes</a> <a href="http://news.php.net/group.php?group=php.pear.qa">http</a></td>
+  <td class="form-input_center"><input name="maillist[pear-qa]" type="radio" value="normal" /></td>  <td class="form-input_center"><input name="maillist[pear-qa]" type="radio" value="digest" /></td>
+ </tr>
+ <tr>
+  <td class="form-input"><strong>PEAR Core development list</strong><br /><small>A list for the people who make PEAR's core infrastructure</small></td>
+  <td class="form-input_center">no</td>
+  <td class="form-input_center"><a href="http://news.gmane.org/gmane.comp.php.pear.core">yes</a></td>
+  <td class="form-input_center"><a href="news://news.php.net/php.pear.core">yes</a> <a href="http://news.php.net/group.php?group=php.pear.core">http</a></td>
+  <td class="form-input_center"><input name="maillist[pear-core]" type="radio" value="normal" /></td>  <td class="form-input_center"><input name="maillist[pear-core]" type="radio" value="digest" /></td>
+ </tr>
+ <tr>
+  <td class="form-input"><strong>PEAR webmaster list</strong><br /><small>A list for the people managing PEAR's website</small></td>
+  <td class="form-input_center">no</td>
+  <td class="form-input_center"><a href="http://news.gmane.org/gmane.comp.php.pear.website">yes</a></td>
+  <td class="form-input_center"><a href="news://news.php.net/php.pear.webmaster">yes</a> <a href="http://news.php.net/group.php?group=php.pear.webmaster">http</a></td>
+  <td class="form-input_center"><input name="maillist[pear-webmaster]" type="radio" value="normal" /></td>  <td class="form-input_center"><input name="maillist[pear-webmaster]" type="radio" value="digest" /></td>
+ </tr>
+ <tr>
+  <td class="form-input"><strong>PEAR bugs list</strong><br /><small>A list for people that want to monitor every single bug and comments/changes on those bugs</small></td>
+  <td class="form-input_center">no</td>
+  <td class="form-input_center">n/a</td>
+  <td class="form-input_center"><a href="news://news.php.net/php.pear.bugs">yes</a> <a href="http://news.php.net/group.php?group=php.pear.bugs">http</a></td>
+  <td class="form-input_center"><input name="maillist[pear-bugs]" type="radio" value="normal" /></td>  <td class="form-input_center"><input name="maillist[pear-bugs]" type="radio" value="digest" /></td>
+ </tr>
+
+</table>
+
+<p style="text-align: center;">
+ <strong>Email:</strong>
+ <input type="text" name="email" size="30" value="user@example.com" />
+ <input type="submit" name="action" value="Subscribe" />
+ <input type="submit" name="action" value="Unsubscribe" />
+</p>
+
+</form>
+
+<p>
+ You will be sent a confirmation mail at the address you wish to
+ be subscribed or unsubscribed, and only added to the list after
+ following the directions in that mail.
+</p>
+
+<p>
+ There are a variety of commands you can use to modify your subscription.
+ Either send a message to pear-<tt>whatever</tt>@lists.php.net (as in,
+ pear-general@lists.php.net) or you can view the commands for
+ ezmlm <a href="http://www.ezmlm.org/ezman-0.32/ezman1.html">here</a>.
+</p>
+
+
+  </div>
+
+<!-- END MAIN CONTENT -->
+<!-- END MIDDLE -->
+
+<!-- START FOOTER -->
+<div id="footer">
+  <div id="foot-bar"><a href="/about/privacy.php">PRIVACY POLICY</a>&nbsp;|&nbsp;<a href="/about/credits.php">CREDITS</a></div>
+  <div id="foot-copy">
+    <a href="/copyright.php">Copyright &copy; 2001-2010 The PHP Group</a>    All rights reserved.
+  </div>
+
+  <div id="foot-source">
+    Bandwidth and hardware provided by:
+    <a href="http://www.eukhost.com/">eUKhost</a>
+  </div>
+</div>
+
+<!-- Onload focus to pear -->
+<!-- END FOOTER -->
+ </div>
+</body>
+</html>
