@@ -1,0 +1,8 @@
+#!/bin/bash
+for pid in `ps aux | grep 'server.py' | grep -v grep | cut -d' ' -f4`; do kill -9 ${pid}; done
+
+for ((a=0; a < 5 ; a++))
+do
+	python `dirname $0`/server.py -i ${a} $1 &
+done
+
