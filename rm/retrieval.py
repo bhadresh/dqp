@@ -5,6 +5,7 @@ import Pyro.core
 import index
 import os
 import time
+import math
 
 def getPidMap(pidMapFile):
     f = open(pidMapFile, 'r')
@@ -76,9 +77,13 @@ class RetrievalModel(Pyro.core.ObjBase):
         scores = self.getRanks(query, model)
         results = []
         for entry in scores[:K]: # Returning TOP K results
+            if(model=='BM25'):
+                newScore=entry[1]*self.pageRanks[entry[0]]
+            else:
+                newScore=entry[1]+math.log(self.pageRanks[entry[0]])
             results.append({
                 'docid': entry[0],
-                'score': (entry[1] * self.pageRanks[entry[0]]),
+                'score': newScore,
                 'url': self.pidMap[entry[0]],
                 'pagerank': self.pageRanks[entry[0]]
             })

@@ -5,6 +5,7 @@
 		<title>Web Search</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
 		<style type="text/css">
+
             #linksDisplayed {font-family:'Lucida Casual', 'Verdana';}
             #tableStyle {padding-left:145px;}
 			#navlist li
@@ -13,61 +14,55 @@
 				list-style-type: none;
 				padding-right: 20px;
 			}
+
+            body {font-family:Verdana;}            
+            .time {padding-left: 140px; font-size:11px;}
+            #results {margin-left:10px; margin-top:10px;}
+
 		</style>
 </head>
-<body bgcolor="#FFFFFF" text="#000000">
-		<br />
-		<div align="middle">
-			<a href="search.htm"> <img src="backsmall.jpg" align="left" border="none"/> </a>
-		</div>
-		<p>
-		<form action="search.php" method="get" >
-			
-			<table cellspacing="0" cellpadding="0" align="left" >
-				<tr>
-					<td>
-						<div align="left">
-							<input id="q" name="q" type="text" value="<?=(isset($_GET['q']) ? $_GET['q'] : '')?>" style="width:600px; height:32px;">
-						</div>
-					</td>
-					<td>
-						<div align="right">
-							<input type="image" src="searchsmall.png" style="height: 32px; width: 66px" name="Submit" value="Search" width="35px">
-						</div>
-					</td>
-				</tr>
-			</table>
-		</form>
-		</p>
-		<br />
-		<br />
-		<br />
-		<br />
-<div>
-
+<body>
+	<form action="search.php" method="get">		
+		<table cellspacing="0" cellpadding="0">
+			<tr>
+                <td>
+                	<a href="search.htm"><img src="backsmall.jpg" alt="" border="0" /></a>
+                </td>
+				<td>
+					<div align="left">
+						<input id="q" name="q" type="text" value="<?=(isset($_GET['q']) ? $_GET['q'] : '')?>" style="width:600px; height:26px;">
+					</div>
+				</td>
+				<td>
+					<div align="right">
+						<input type="submit" value="Search" style="height:34px;" />
+					</div>
+				</td>
+			</tr>
+		</table>
+	</form>
 <?php
     if (isset($_GET['q']) && !empty($_GET['q'])) {
         $st = microtime(true);
         $json_result = shell_exec("python " . dirname(dirname(__file__)) . "/dp/distributor.py -p " . (isset($_GET['p']) ? $_GET['p'] : 1) . " -m " . (isset($_GET['m']) ? $_GET['m'] : 'QL') . " " . escapeshellarg($_GET['q']));
         $et = microtime(true);
         if (!empty($json_result)) {
-            echo '<p><div id="tableStyle">Retrieved in: ' . ($et - $st) . ' seconds </div></p>';
             $result = json_decode(str_replace("'", '"', $json_result), true);
-			echo '<table id="tableStyle">';
+            echo '<div class="time">About ' . number_format($result['count']) . ' results (' . number_format($et - $st, 4) . ' seconds)</div>';
+			echo '<table id="results" cellpadding="2" cellspacing="2">';
 			foreach ($result['records'] as $rec) {
 				$data = file_get_contents(dirname(__FILE__) . "/../data/pages/" . $rec['docid'] . ".html");
-                                if(eregi("<title>(.+)</title>",$data,$m))
-				{
-					$title=$m["1"];
+                if(eregi("<title>(.+)</title>", $data, $m)) {
+					$title = strip_tags(preg_replace("#\s+#", " ", $m[1]));
 				}
-				else
-				{
-					$title="no title";
+				else {
+					$title = $rec['url'];
 				}
-				echo '<tr><td id="linksDisplayed">';
+				echo '<tr><td>';
 				echo '<a href="' . $rec['url'] . '">' . $title . '</a><br/>';
 				echo 'Page Rank: ' . $rec['pagerank'] . '<br/>';
 				echo 'Score: ' . $rec['score'] . '<br/>';
+				echo $rec['url'] . ' - <a href="../data/pages/' . $rec['docid'] . '.html">Cached</a>';
 				echo '</td></tr>';
 			}
 			echo "</table>";
@@ -75,8 +70,7 @@
         else {
             echo "Sorry no pages were found for: " . $_GET['q'];
         }
-		echo '<div id="navcontainer">
-<ul id="navlist">';
+		echo '<div id="navcontainer"><ul id="navlist">';
 		//<li id="active"><a href="#" id="current">Item one</a></li>
 		//<li><a href="#">Item two</a></li>
 
@@ -85,6 +79,8 @@
 ?>
 
 </div>
+
+
 </body>
 </html>
 
