@@ -50,7 +50,8 @@
 			echo "<table id=\"tableStyle\">";
 			foreach ($result['records'] as $rec) {
 				$data = file_get_contents(dirname(__FILE__) . "/data/pages/" . $rec['docid'] . ".html");
-				if(eregi("<title>(.+)</title>",$data,$m))
+				echo $data
+                                if(eregi("<title>(.+)</title>",$data,$m))
 				{
 					$title=$m["1"];
 				}
