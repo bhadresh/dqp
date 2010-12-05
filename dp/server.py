@@ -52,9 +52,9 @@ if __name__=="__main__":
         raise SystemExit
         
     if options.compressed_index:
-        indexfile = os.path.join(_datadir, 'compressed_index', 'index-%d' % (_index))
+        indexfile = os.path.join(_datadir, 'compressed_index', 'index-%d.compressed.pickled' % (_index))
     else:
-        indexfile = os.path.join(_datadir, 'index', 'index-%d' % (_index))
+        indexfile = os.path.join(_datadir, 'index', 'index-%d.pickled' % (_index))
         
     if os.path.exists(indexfile):
         Pyro.core.initServer()
