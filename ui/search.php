@@ -1,22 +1,16 @@
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 		<title>Web Search</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
-		<style>
-		#linksDisplayed 
-		{
-			font-family:'Lucida Casual', 'Verdana';
-		}
-
-		#tableStyle
-		{
-			padding-left:145px;
-		}
+		<style type="text/css">
+            #linksDisplayed {font-family:'Lucida Casual', 'Verdana';}
+            #tableStyle {padding-left:145px;}
 		</style>
 </head>
 <body bgcolor="#FFFFFF" text="#000000">
 		<br />
-		
 		<div align="middle">
 			<a href="search.htm"> <img src="backsmall.jpg" align="left" border="none"/> </a>
 		</div>
@@ -27,7 +21,7 @@
 				<tr>
 					<td>
 						<div align="left">
-							<input id="q" name="q" type="text"  style="width:600px; height:32px;">
+							<input id="q" name="q" type="text" value="<?=(isset($_GET['q']) ? $_GET['q'] : '')?>" style="width:600px; height:32px;">
 						</div>
 					</td>
 					<td>
@@ -48,20 +42,18 @@
 <?php
     if (isset($_GET['q']) && !empty($_GET['q'])) {
         $st = microtime(true);
-        $json_result = shell_exec("python " . dirname(dirname(__file__)) . "../../dp/distributor.py " . escapeshellarg($_GET['q']));
+        $json_result = shell_exec("python " . dirname(dirname(__file__)) . "/dp/distributor.py -p " . (isset($_GET['p']) ? $_GET['p'] : 1) . " -m " . (isset($_GET['m']) ? $_GET['m'] : 'QL') . " " . escapeshellarg($_GET['q']));
         $et = microtime(true);
         if (!empty($json_result)) {
             echo "<p>Retrieved in: " . ($et - $st) . " seconds </p>";
             $result = json_decode(str_replace("'", '"', $json_result), true);
-            var_export($result);
 			echo "<table id=\"tableStyle\">";
-			foreach ($result['records'] as $r)
-			{
-				echo "<tr><td id=\"linksDisplayed\">";
-				echo '"<a href=  "' .$r['url'] . '" > '. $r['docid'] .'</a> <br/>"';
-				echo '"Page Rank: ' . $r['pagerank'] . '<br/>"';
-				echo '"Score: ' . $r['score'] . '"';
-				echo "<br /><br /></td> </tr>";
+			foreach ($result['records'] as $rec) {
+				echo '<tr><td id="linksDisplayed">';
+				echo '<a href="' . $rec['url'] . '">' . $rec['url'] . '</a><br/>';
+				echo 'Page Rank: ' . $rec['pagerank'] . '<br/>';
+				echo 'Score: ' . $rec['score'] . '<br/>';
+				echo '</td></tr>';
 			}
 			echo "</table>";
         }
