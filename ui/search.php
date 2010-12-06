@@ -72,9 +72,10 @@
         }
 		$pagecount = $result['count'] / 10;
 		$pagebegin = ($_GET['p'] - 5);
-		if( $pagebegin < 1 )
+		if( $pagebegin < 5 )
 		{
 			$pagebegin = 1;
+			$pageend = 10;
 		}
 		$pageend = ($_GET['p'] + 5);
 		if( $pageend > $pagecount )
@@ -88,7 +89,6 @@
 			{ 
 				echo '<li' . ($index == $_GET['p'] ? ' id="active"' : '') . '><a href="' . $_SERVER['PHP_SELF'] . '?q=' . urlencode($_GET['q']) . (isset($_GET['m']) ? '&m=' . $_GET['m'] : '') . '&p=' . $index . '">' . $index . '</a></li>';
 			}
-
 			echo '</ul></div>';
 		}
     }
