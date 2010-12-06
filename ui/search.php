@@ -39,7 +39,7 @@
 				</td>
 				<td>
 					<div align="right">
-						<input type="image" src="searchsmall.png" style="height: 32px; width: 66px" name="Submit" value="Search">
+						<input type="image" src="searchsmall.png" style="height: 32px; width: 66px">
 					</div>
 				</td>
 			</tr>
