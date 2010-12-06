@@ -99,7 +99,7 @@ The results page may be accessed by entering in a query into the search box on t
 The pages use a style much like Google’s layout to create a similar feel for users familiar with the Google search pages. The results page displays the navigation links. There are ten links per pagination. There are only ten pagination links displayed at any given time. From the current pagination link five pagination links are displayed to the left and four are displayed to the right. Each retrieved entry has the following: Title of the page linked with its actual URL, Page Rank with its current page rank, Score with it current score and then the actual URL with a Cached link to our locally saved version of the file. The retrieval time and result count are displayed under the search textbox. To return back to the first page with just the search text box you may click on the small icon to the left of the search box on the results page. Some challenges with the UI were working with PHP and retrieving data sent back from the cloud. Being only moderately familiar with PHP there was a bit of a learning curve. Bhadresh had helped tremendously with the PHP code and validating my PHP code. 
 
 \section{Query Parser}
-The grammar listed in the project requirements deemed unfit by Lewis and I. We decided the grammar would be more usable/easier if spaces were set as OR and strictly used `+' as AND's, thus the grammar changed to this.
+The grammar listed in the project requirements deemed unfit by Lewis and Larry. We decided the grammar would be more usable/easier if spaces were set as OR and strictly used `+' as AND's, thus the grammar changed to this.
 \begin{align*}
 	Q &:: = expr \\
 	expr &:: = \epsilon \, | \, \tau \, expr \\
@@ -203,7 +203,7 @@ We chose to use the Query Likelihood model as the default model. However, the tw
   \item[Larry Bowers] Query parser
   \item[James Bradwell] User interface
   \item[Evan Dickinson] Huffman encoding/decoding 
-  \item[Bhadresh Patel] Distributed evaluation
+  \item[Bhadresh Patel] Distributed evaluation and Amazon EC2 nodes setup
   \item[Lewis Pearson] Retrieval model
 \end{description}
 
