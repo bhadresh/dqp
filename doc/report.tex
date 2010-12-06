@@ -74,9 +74,47 @@ In this project, our goal is to implement distributed query processing component
 
 \section{Interface}
 
-\subsection{Query Input}
+The projects UI was done with HTML, CSS and PHP script. The large and small search button and icon images were done in paint.net. There are two search pages as described in following sub sections. 
 
-\subsection{Result Output}
+\subsection{Home Page}
+The home page\footnote{http://ec2-174-129-159-24.compute-1.amazonaws.com/ui/} is very simple. It has a nice splash page image and the search textbox with the search button centered underneath. Figure~\ref{fig:home_page} shows the home page.
+
+\begin{figure}[htbp]
+ \centering
+ \includegraphics[trim=0.0in 5.35in 0.0in 0.0in, clip, page=2]{Architecture.pdf}
+ \caption{Home Page}
+ \label{fig:home_page}
+\end{figure}
+
+\subsection{Results Page} 
+The results page may be accessed by entering in a query into the search box on the home page. Figure~\ref{fig:result_page} shows the sample result page when the search is done for a query `test'.
+
+\begin{figure}[htbp]
+ \centering
+ \includegraphics[trim=0.0in 1.75in 0.0in 0.0in, clip, page=3]{Architecture.pdf}
+ \caption{Results Page}
+ \label{fig:result_page}
+\end{figure}
+
+The pages use a style much like Google’s layout to create a similar feel for users familiar with the Google search pages. The results page displays the navigation links. There are ten links per pagination. There are only ten pagination links displayed at any given time. From the current pagination link five pagination links are displayed to the left and four are displayed to the right. Each retrieved entry has the following: Title of the page linked with its actual URL, Page Rank with its current page rank, Score with it current score and then the actual URL with a Cached link to our locally saved version of the file. The retrieval time and result count are displayed under the search textbox. To return back to the first page with just the search text box you may click on the small icon to the left of the search box on the results page. Some challenges with the UI were working with PHP and retrieving data sent back from the cloud. Being only moderately familiar with PHP there was a bit of a learning curve. Bhadresh had helped tremendously with the PHP code and validating my PHP code. 
+
+\section{Query Parser}
+The grammar listed in the project requirements deemed unfit by Lewis and I. We decided the grammar would be more usable/easier if spaces were set as OR and strictly used `+' as AND's, thus the grammar changed to this.
+\begin{align*}
+	Q &:: = expr \\
+	expr &:: = \epsilon \, | \, \tau \, expr \\
+	\tau &:: = s[a-zA-Z0-9]\backslash w \\
+	s &:: = \epsilon \, | - | + | \backslash w
+\end{align*}
+These changes makes sure there is only one `term decider' (\textbackslash w,-,+) before each term and whitespace directly after each term, there is one exception with the query, the first term typically will not have a `term decider'. If one does not exist it will default to OR.  
+
+The new grammar rules require that the query be tested for terms directly following a `term decider'. A term must begin with an alpha character, for example a term `34jk' will be rejected and the query will not be valid.
+
+The Parser uses the same Stopper/Stemmer from project 2 of team1’s project solution. The stopping list is from onjava.com site\footnote{http://onjava.com/onjava/2003/01/15/examples/EnglishStopWords.txt}. The stemming code is based off the original paper Porter, 1980, An algorithm for suffix stripping, Program, Vol. 14, no. 3, pp 130-137\footnote{http://www.tartarus.org/~martin/PorterStemmer}. To ensure correctness of the 3rd party implementation I tested the algorithm’s input/output against a long dictionary of words found on the algorithm's site.
+
+\subsection{Challenges}
+Considering this is the second time using python I struggled with syntax mostly. Another challenge was making sure that the two porter stemmer algorithms (C\# version from project 2 and the python version) had the same output for any input. Other the coding issues the group seemed to work very well together and everyone completed their part of the project.
+
 
 \section{Distributed Evaluation}
 
@@ -133,14 +171,37 @@ Time-wise no significant time increase was noticed. To test the time taking by d
 
 \section{Retrieval Model}
 
+The retrieval model is responsible for determining relevance scores for use in page rankings. We have structured it by creating a module with a class that accepts a query, calls the appropriate retrieval model, and returns the results. We have implemented both the BM25 and Query Likelihood retrieval models.
+
+The retrieval.py module contains the RetrievalModel class which is used to accept a query and return the associated relevance scores and document information. In the process of calculating relevance scores and finding associated document information, it is necessary to have access to the PID map, pageRank scores, and document term counts for all documents in the collection. Therefore, files containing this information are created and stored on the server prior to running the server. Upon instantiation, the RetrievalModel object reads and stores this information into memory, and stays active for the duration of the node's operation. All information is stored in dictionaries to minimize access times.
+
 \subsection{Query Likelihood}
+The Query Likelihood model's score calculation contains the constant \(\lambda\). We chose a default value of 0.1, which is best for short queries. The formula we used is:
+\[
+log P(Q|D)=\sum_{i=1}^{n}log((1-\lambda)\frac{f_{qi,D}}{|D|}+\lambda\frac{c_{q_{i}}}{|C|})
+\]
+where \(|D|\) is the number of words in the document, \(f_{qi,D}\) is the number of times word qi occurs in the document, \(c_{q_{i}}\) is the number of times word \(q_{i}\) occurs in the collection of documents, and \(|C|\) is the total number of terms in the collection of documents.
 
 \subsection{BM25}
+The BM25 model's score calculation contains the constants \(k_{1}\), \(k_{2}\), and b. The default values we have chosen for them are based on the textbook's recommendations and example. The formula we used for the BM25 model is:
+\[
+BM25(Q,D)=\sum_{i \in Q}log\frac{N-n_{i}+0.5}{n_{i}+0.5}\cdot \frac{(k_{1}+1)f_{i}}{K+f_{i}}\cdot \frac{(k_{2}+1)qf_{i}}{k_{2}+qf_{i}}
+\]
+where N is the total number of documents in the collection, \(n_{i}\) is the number of documents containing term i, \(f_{i}\) is the frequency of term i in the document, and \(qf_{i}\) is the frequency of term i in the query. The constants \(k_{1}\) and \(k_{2}\) are set to 1.2 and 100, respectively. The remaining term K is calculated as:
+\[
+K=k_{1}((1-b)+b\cdot \frac{|D|}{avDL})
+\]
+where \(|D|\) is the number of terms in the document, avDL is the average number of terms per document in the collection, and the constant b is set to 0.75.
+
+\subsection{Summary}
+Once all scores have been calculated, the pageRank scores are incorporated. In the case of BM25 scores, the pageRank is simply multiplied against the score. For Query Likelihood scores, we take the log of the associated pageRank value and add the two scores together.
+
+We chose to use the Query Likelihood model as the default model. However, the two models actually return fairly similar results, and the textbook also mentions that the Query Likelihood model has been shown to be at least as effective as the BM25 algorithm. The choice was arbitrary. The use of BM25 is still available for any query.
 
 \section{Roles}
 \begin{description}
-  \item[Larry Bowers] User interface and query parser
-  \item[James Bradwell] User interface and query parser
+  \item[Larry Bowers] Query parser
+  \item[James Bradwell] User interface
   \item[Evan Dickinson] Huffman encoding/decoding 
   \item[Bhadresh Patel] Distributed evaluation
   \item[Lewis Pearson] Retrieval model
