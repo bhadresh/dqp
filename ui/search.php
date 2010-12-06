@@ -5,9 +5,20 @@
 		<title>Web Search</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
 		<style type="text/css">
+
+            #linksDisplayed {font-family:'Lucida Casual', 'Verdana';}
+            #tableStyle {padding-left:145px;}
+			#navlist li
+			{
+				display: inline;
+				list-style-type: none;
+				padding-right: 20px;
+			}
+
             body {font-family:Verdana;}            
             .time {padding-left: 140px; font-size:11px;}
             #results {margin-left:10px; margin-top:10px;}
+
 		</style>
 </head>
 <body>
@@ -59,8 +70,23 @@
         else {
             echo "Sorry no pages were found for: " . $_GET['q'];
         }
+		$pagecount = $result['count'] / 10;
+		if( $pagecount > 1 )
+		{
+			echo '<div id="navcontainer"><ul id="navlist">';
+			for ($index = 1; $index <= $pagecount; $index++) 
+			{ 
+				echo '<li' . ($index == $_GET['p'] ? ' id="active"' : '') . '><a href="' . $_SERVER['PHP_SELF'] . '?q=' . urlencode($_GET['q']) . (isset($_GET['m']) ? '&m=' . $_GET['m'] : '') . '&p=' . $index . '">' . $index . '</a></li>';
+			}
+
+			echo '</ul></div>';
+		}
     }
 ?>
+
+</div>
+
+
 </body>
 </html>
 
