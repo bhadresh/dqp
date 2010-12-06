@@ -14,7 +14,7 @@
 				list-style-type: none;
 				padding-right: 20px;
 			}
-			#navlist ul
+			#navcontainer
 			{
 				padding-left:270px;
 			}
@@ -30,7 +30,7 @@
 		<table cellspacing="0" cellpadding="0">
 			<tr>
                 <td>
-                	<a href="search.htm"><img src="backsmall.jpg" alt="" border="0" /></a>
+                	<a href="index.php"><img src="backsmall.jpg" alt="" border="0" /></a>
                 </td>
 				<td>
 					<div align="left">
