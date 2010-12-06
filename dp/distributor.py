@@ -6,6 +6,9 @@ from multiprocessing import Pool
 import json
 import operator
 import time
+import sys
+sys.path.append(os.path.realpath(os.path.join(os.path.dirname(__file__), '..', 'ui')))
+import queryparser
 
 __version__ = "1.0"
 __authors__ = "Bhadresh Patel <bhadresh@wsu.edu>"
@@ -71,11 +74,15 @@ if __name__ == '__main__':
     
     _verbose = options.verbose
     
-    try:
-        query = json.load(args[0])
-    except:
-        query = {'AND': args[0].split()}
+    query = args[0]
+    valid = queryparser.validate(query)
+    if valid:
+        query = queryparser.main(query.lower())
+    else:
+        print "Invalid Query"
+        raise SystemExit
     
+    print query
     result = dqp(query, options.page, options.model)
     if _verbose:        
         for r, d in enumerate(result['records']):

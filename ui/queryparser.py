@@ -1,8 +1,5 @@
-#!/Python27 python
 import fileinput
 import sys
-
-
 
 class PorterStemmer:
 
@@ -854,9 +851,9 @@ def main(input):
     expression = expression.replace ('-',' -')
     expression = "+" + expression
     expr(expression)
-    printAll()
-    #query = {"OR": orList, "AND": andList, "NOT": notList}
-    #return query
+    #printAll()
+    query = {"OR": orList, "AND": andList, "NOT": notList}
+    return query
 def expr(expression):
     stemObject = PorterStemmer()
     exprsplit = expression.split()
@@ -892,4 +889,23 @@ def printAll():
         print term,
 
 
-
+def validate(query):
+    notFlag = 0
+    andFlag = 0
+    orFlag = 0
+    for letter in query:
+        if notFlag or orFlag or andFlag:
+            notFlag = 0
+            orFlag = 0
+            andFlag = 0
+            if not letter.isalpha():
+                return 0
+        if letter == "+":
+            andFlag = 1
+        if letter == " ":
+            orFlag = 1
+        if letter == "-":
+            notFlag = 1
+    if notFlag or orFlag or andFlag:
+        return False
+    return True
