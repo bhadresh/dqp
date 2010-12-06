@@ -64,9 +64,11 @@
 				}
 				echo '<tr><td>';
 				echo '<a href="' . $rec['url'] . '">' . $title . '</a><br/>';
+				echo '<span class="time">';
 				echo 'Page Rank: ' . $rec['pagerank'] . '<br/>';
 				echo 'Score: ' . $rec['score'] . '<br/>';
 				echo $rec['url'] . ' - <a href="../data/pages/' . $rec['docid'] . '.html">Cached</a>';
+				echo '</span>';
 				echo '</td></tr>';
 			}
 			echo "</table>";
