@@ -35,7 +35,7 @@
 				</td>
 				<td>
 					<div align="right">
-						<input type="submit" value="Search" style="height:34px;" />
+						<input type="image" src="searchsmall.png" style="height: 32px; width: 132px" name="Submit" value="Search" width="66px" height="32px">
 					</div>
 				</td>
 			</tr>
