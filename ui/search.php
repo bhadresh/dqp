@@ -63,8 +63,7 @@
 					$title = $rec['url'];
 				}
 				echo '<tr><td>';
-				echo '<a href="' . $rec['url'] . '">' . $title . '</a><br/>';
-				echo '<span class="time">';
+				echo '<a href="' . $rec['url'] . '">' . $title . '</a><span class="time"><br/>';
 				echo 'Page Rank: ' . $rec['pagerank'] . '<br/>';
 				echo 'Score: ' . $rec['score'] . '<br/>';
 				echo $rec['url'] . ' - <a href="../data/pages/' . $rec['docid'] . '.html">Cached</a>';
