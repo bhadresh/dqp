@@ -25,12 +25,27 @@ def calcQLScores(termCount, myindex, query, coder):
     for term in notTerms:
         tc = index.getTermContent(myindex, term, coder)
         exdocids.extend(tc.get('docs', []).keys())
-    
+
+    # Get docs in AND    
+    indocids = []
+    for term in andTerms:
+        indocids.append(termIndex[term].get('docs', []).keys())
+        
     scores = []
     for docID in docids:
         if docID in exdocids:
             continue
+        
+        skip = False
+        if len(indocids) > 0:            
+            for entry in indocids:
+                if docID not in entry:
+                    skip = True
+                    break
 
+        if skip:
+            continue
+                    
         docScore = 0.0
         for term in terms:
             if termIndex[term]['count'] != 0:
