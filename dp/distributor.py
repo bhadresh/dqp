@@ -39,8 +39,9 @@ def dqp(q, p=1, m='QL'):
                 rdict[rec['docid']] = rec
 
     results = rdict.values()
-    combined_result = sorted(results, key=operator.itemgetter('score'), reverse=True)    
-    return {'count': total, 'time': (time.time() - st), 'records': combined_result[(p - 1) * 10:(p * 10)]}
+    combined_result = sorted(results, key=operator.itemgetter('score'), reverse=True)
+    combined_result = combined_result[(p - 1) * 10:(p * 10)]
+    return {'count': total, 'time': (time.time() - st), 'records': combined_result}
 
 def do_search(arg):
     """Call Remote Node and execute Search"""
