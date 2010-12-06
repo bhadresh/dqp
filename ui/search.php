@@ -72,7 +72,7 @@
         }
 		$pagecount = $result['count'] / 10;
 		echo $pagecount;
-		if( $pagecount < 1 )
+		if( $pagecount > 1 )
 		{
 			echo '<div id="navcontainer"><ul id="navlist">';
 			for ($index = 1; $index <= $pagecount; $index++) 
