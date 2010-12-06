@@ -82,7 +82,6 @@ if __name__ == '__main__':
         print "Invalid Query"
         raise SystemExit
     
-    print query
     result = dqp(query, options.page, options.model)
     if _verbose:        
         for r, d in enumerate(result['records']):
