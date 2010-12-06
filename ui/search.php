@@ -95,28 +95,6 @@
 				echo '<li' . ($index == $_GET['p'] ? ' id="active"' : '') . '><a href="' . $_SERVER['PHP_SELF'] . '?q=' . urlencode($_GET['q']) . (isset($_GET['m']) ? '&m=' . $_GET['m'] : '') . '&p=' . $index . '">' . $index . '</a></li>';
 			}
 			echo '</ul></div>';
-			
-			echo '
-			<form action="search.php" method="get">		
-		<table cellspacing="0" cellpadding="0">
-			<tr>
-                <td>
-                	<img src="backblank.jpg" alt="" border="0" />
-                </td>
-				<td>
-					<div align="left">
-						<input id="q" name="q" type="text" value="<?=(isset($_GET[\'q\']) ? $_GET[\'q\'] : '')?>" style="width:600px; height:26px;">
-					</div>
-				</td>
-				<td>
-					<div align="right">
-						<input type="image" src="searchsmall.png" style="height: 32px; width: 66px" name="Submit" value="Search">
-					</div>
-				</td>
-			</tr>
-		</table>
-	</form>
-			';
 		}
     }
 ?>
