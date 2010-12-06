@@ -7,7 +7,7 @@
 		<style type="text/css">
 
             #linksDisplayed {font-family:'Lucida Casual', 'Verdana';}
-            #tableStyle {padding-left:145px;}
+            #tableStyle {padding-left:136px;}
 			#navlist li
 			{
 				display: inline;
