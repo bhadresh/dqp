@@ -1,5 +1,5 @@
 #!/bin/bash
-for pid in `ps aux | grep 'server.py' | grep -v grep | cut -d' ' -f4`; do kill -9 ${pid}; done
+for pid in `ps aux | grep 'server.py' | grep -v grep | cut -d' ' -f2`; do kill -9 ${pid}; done
 
 for ((a=0; a < 5 ; a++))
 do
