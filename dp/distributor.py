@@ -14,6 +14,13 @@ __version__ = "1.0"
 __authors__ = "Bhadresh Patel <bhadresh@wsu.edu>"
 __date__ = "Nov 26, 2010"
 
+def findIndex(vec, term):
+    for i, line in enumerate(vec):
+        word = line.strip().split(': ')[1]
+        if term <= word:
+            return i
+    return -1
+
 def dqp(q, p=1, m='QL'):
     """
     Distributed Query Processing
@@ -23,27 +30,39 @@ def dqp(q, p=1, m='QL'):
     st = time.time()
     nodesfile = os.path.realpath(os.path.join(os.path.dirname(__file__), getattr(user, "dqp_nodes_file", "local.nodes")))
     nodes = open(nodesfile).read().strip().splitlines()
+
+    indexwords = open(os.path.realpath(os.path.join(os.path.dirname(__file__), '..', 'data', 'algorithmForGettingIndex'))).read().strip().splitlines()    
+    indexnodes = []
+    for ttype,terms in q.iteritems():
+        for term in terms:
+            ind = findIndex(indexwords, term)
+            if ind != -1 and ind not in indexnodes:
+                indexnodes.append(ind)
+                        
     args = []
-    for node in nodes:
-        args.append(('PYROLOC://' + node + '/dqp', q, (p * 10), m))
-
-    pool = Pool(processes=len(nodes))
-    result = pool.map(do_search, args)
+    for ind in indexnodes:
+        args.append(('PYROLOC://' + nodes[ind] + '/dqp', q, (p * 10), m))
     
-    # Merge results
-    rdict = {}
     total = 0
-    for (rcount, r) in result:
-        total = total + rcount
-        for rec in r:
-            if rec['docid'] in rdict:
-                rdict[rec['docid']]['score'] = rdict[rec['docid']]['score'] + rec['score']
-            else:
-                rdict[rec['docid']] = rec
+    combined_result = []
+    if len(args) > 0:
+        pool = Pool(processes=len(args))
+        result = pool.map(do_search, args)
+        
+        # Merge results
+        rdict = {}
+        for (rcount, r) in result:
+            total = total + rcount
+            for rec in r:
+                if rec['docid'] in rdict:
+                    rdict[rec['docid']]['score'] = rdict[rec['docid']]['score'] + rec['score']
+                else:
+                    rdict[rec['docid']] = rec
 
-    results = rdict.values()
-    combined_result = sorted(results, key=operator.itemgetter('score'), reverse=True)
-    combined_result = combined_result[(p - 1) * 10:(p * 10)]
+        results = rdict.values()
+        combined_result = sorted(results, key=operator.itemgetter('score'), reverse=True)
+        combined_result = combined_result[(p - 1) * 10:(p * 10)]
+        
     return {'count': total, 'time': (time.time() - st), 'records': combined_result}
 
 def do_search(arg):
