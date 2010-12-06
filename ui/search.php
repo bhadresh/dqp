@@ -14,7 +14,7 @@
 				list-style-type: none;
 				padding-right: 20px;
 			}
-			#navcontainer { align:center;}
+			#navlist ul { text-align:center;}
 
             body {font-family:Verdana;}            
             .time {padding-left: 140px; font-size:11px;}
