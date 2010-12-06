@@ -847,13 +847,14 @@ orList = []
 
 def main(input):
     expression = input
-    expression = expression.replace ('+',' +')
-    expression = expression.replace ('-',' -')
-    expression = "+" + expression
+    #expression = expression.replace ('+',' +')
+    #expression = expression.replace ('-',' -')
+    expression = " " + expression
     expr(expression)
     #printAll()
     query = {"OR": orList, "AND": andList, "NOT": notList}
     return query
+    
 def expr(expression):
     stemObject = PorterStemmer()
     exprsplit = expression.split()
