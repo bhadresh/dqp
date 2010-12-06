@@ -14,6 +14,7 @@
 				list-style-type: none;
 				padding-right: 20px;
 			}
+			#navcontainer { align:center;}
 
             body {font-family:Verdana;}            
             .time {padding-left: 140px; font-size:11px;}
