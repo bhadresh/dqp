@@ -77,7 +77,7 @@
         }
 		$pagecount = $result['count'] / 10;
 		$pagebegin = ($_GET['p'] - 5);
-		$pageend = ($_GET['p'] + 5);
+		$pageend = ($_GET['p'] + 4);
 		if( $pagebegin < 1 )
 		{
 			$pagebegin = 1;
