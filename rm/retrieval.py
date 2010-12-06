@@ -76,7 +76,7 @@ class RetrievalModel(Pyro.core.ObjBase):
         self.log(query)
         scores = self.getRanks(query, model)
         results = []
-        for entry in scores[:K]: # Returning TOP K results
+        for entry in scores: # Returning TOP K results
             if(model=='BM25'):
                 newScore=entry[1]*self.pageRanks[entry[0]]
             else:
