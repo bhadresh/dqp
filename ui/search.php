@@ -53,24 +53,29 @@
         if (!empty($json_result)) {
             $result = json_decode(str_replace("'", '"', $json_result), true);
             echo '<div class="time">About ' . number_format($result['count']) . ' results (' . number_format($et - $st, 4) . ' seconds)</div>';
-			echo '<table id="tableStyle" cellpadding="2" cellspacing="2">';
-			foreach ($result['records'] as $rec) {
-				$data = file_get_contents(dirname(__FILE__) . "/../data/pages/" . $rec['docid'] . ".html");
-                if(eregi("<title>(.+)</title>", $data, $m)) {
-					$title = strip_tags(preg_replace("#\s+#", " ", $m[1]));
-				}
-				else {
-					$title = $rec['url'];
-				}
-				echo '<tr><td>';
-				echo '<a href="' . $rec['url'] . '">' . $title . '</a><span class="time"><br/>';
-				echo 'Page Rank: ' . $rec['pagerank'] . '<br/>';
-				echo 'Score: ' . $rec['score'] . '<br/>';
-				echo $rec['url'] . ' - <a href="../data/pages/' . $rec['docid'] . '.html">Cached</a>';
-				echo '</span>';
-				echo '</td></tr>';
+			if (isset($result['error'])) {
+			    echo '<p>' . $result['error'] . '</p>';
 			}
-			echo "</table>";
+			else {
+			    echo '<table id="tableStyle" cellpadding="2" cellspacing="2">';
+			    foreach ($result['records'] as $rec) {
+				    $data = file_get_contents(dirname(__FILE__) . "/../data/pages/" . $rec['docid'] . ".html");
+                    if(eregi("<title>(.+)</title>", $data, $m)) {
+					    $title = strip_tags(preg_replace("#\s+#", " ", $m[1]));
+				    }
+				    else {
+					    $title = $rec['url'];
+				    }
+				    echo '<tr><td>';
+				    echo '<a href="' . $rec['url'] . '">' . $title . '</a><span class="time"><br/>';
+				    echo 'Page Rank: ' . $rec['pagerank'] . '<br/>';
+				    echo 'Score: ' . $rec['score'] . '<br/>';
+				    echo $rec['url'] . ' - <a href="../data/pages/' . $rec['docid'] . '.html">Cached</a>';
+				    echo '</span>';
+				    echo '</td></tr>';
+			    }
+			    echo "</table>";
+            }
         }
         else {
             echo "Sorry no pages were found for: " . $_GET['q'];

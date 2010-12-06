@@ -79,7 +79,7 @@ if __name__ == '__main__':
     if valid:
         query = queryparser.main(query.lower())
     else:
-        print "Invalid Query"
+        print {'count':0, 'records':[], 'error': 'Invalid Query'}
         raise SystemExit
     
     result = dqp(query, options.page, options.model)
