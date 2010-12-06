@@ -29,6 +29,12 @@ def calcBM25Scores(termCount, myindex, query, coder):
         tc = index.getTermContent(myindex, term, coder)
         exdocids.extend(tc.get('docs', []).keys())
     
+    # Get docs in AND    
+    indocids = []
+    for term in andTerms:
+        tc = index.getTermContent(myindex, term, coder)
+        indocids.extend(termIndex[term].get('docs', []).keys())
+        
     # Calc term frequency in query
     qFreq = {}
     for term in terms:
@@ -37,6 +43,9 @@ def calcBM25Scores(termCount, myindex, query, coder):
     scores = []
     for docID in docids:
         if docID in exdocids:
+            continue
+        
+        if docID not in indocids:
             continue
 
         K = k1 * ((1 - b) + (b * termCount.get(docID) / termCount.get('average')))
