@@ -7,12 +7,16 @@
 		<style type="text/css">
 
             #linksDisplayed {font-family:'Lucida Casual', 'Verdana';}
-            #tableStyle {padding-left:145px;}
+            #tableStyle {padding-left:136px;}
 			#navlist li
 			{
 				display: inline;
 				list-style-type: none;
 				padding-right: 20px;
+			}
+			#navcontainer
+			{
+				padding-left:270px;
 			}
 
             body {font-family:Verdana;}            
@@ -26,7 +30,7 @@
 		<table cellspacing="0" cellpadding="0">
 			<tr>
                 <td>
-                	<a href="search.htm"><img src="backsmall.jpg" alt="" border="0" /></a>
+                	<a href="index.php"><img src="backsmall.jpg" alt="" border="0" /></a>
                 </td>
 				<td>
 					<div align="left">
@@ -49,7 +53,7 @@
         if (!empty($json_result)) {
             $result = json_decode(str_replace("'", '"', $json_result), true);
             echo '<div class="time">About ' . number_format($result['count']) . ' results (' . number_format($et - $st, 4) . ' seconds)</div>';
-			echo '<table id="results" cellpadding="2" cellspacing="2">';
+			echo '<table id="tableStyle" cellpadding="2" cellspacing="2">';
 			foreach ($result['records'] as $rec) {
 				$data = file_get_contents(dirname(__FILE__) . "/../data/pages/" . $rec['docid'] . ".html");
                 if(eregi("<title>(.+)</title>", $data, $m)) {
@@ -59,10 +63,11 @@
 					$title = $rec['url'];
 				}
 				echo '<tr><td>';
-				echo '<a href="' . $rec['url'] . '">' . $title . '</a><br/>';
+				echo '<a href="' . $rec['url'] . '">' . $title . '</a><span class="time"><br/>';
 				echo 'Page Rank: ' . $rec['pagerank'] . '<br/>';
 				echo 'Score: ' . $rec['score'] . '<br/>';
 				echo $rec['url'] . ' - <a href="../data/pages/' . $rec['docid'] . '.html">Cached</a>';
+				echo '</span>';
 				echo '</td></tr>';
 			}
 			echo "</table>";
