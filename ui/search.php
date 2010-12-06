@@ -49,7 +49,7 @@
         if (!empty($json_result)) {
             $result = json_decode(str_replace("'", '"', $json_result), true);
             echo '<div class="time">About ' . number_format($result['count']) . ' results (' . number_format($et - $st, 4) . ' seconds)</div>';
-			echo '<table id="results" cellpadding="2" cellspacing="2">';
+			echo '<table id="tableStyle" cellpadding="2" cellspacing="2">';
 			foreach ($result['records'] as $rec) {
 				$data = file_get_contents(dirname(__FILE__) . "/../data/pages/" . $rec['docid'] . ".html");
                 if(eregi("<title>(.+)</title>", $data, $m)) {
