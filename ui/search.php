@@ -100,6 +100,25 @@
 ?>
 
 </div>
+<form action="search.php" method="get">		
+		<table cellspacing="0" cellpadding="0">
+			<tr>
+                <td>
+                	<a href="index.php"><img src="backsmall.jpg" alt="" border="0" /></a>
+                </td>
+				<td>
+					<div align="left">
+						<input id="q" name="q" type="text" value="<?=(isset($_GET['q']) ? $_GET['q'] : '')?>" style="width:600px; height:26px;">
+					</div>
+				</td>
+				<td>
+					<div align="right">
+						<input type="image" src="searchsmall.png" style="height: 32px; width: 66px" name="Submit" value="Search">
+					</div>
+				</td>
+			</tr>
+		</table>
+	</form>
 
 
 </body>
