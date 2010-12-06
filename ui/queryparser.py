@@ -889,17 +889,24 @@ def printAll():
     for term in notList:
         print term,
 
-
 def validate(query):
     notFlag = 0
     andFlag = 0
     orFlag = 0
     for letter in query:
-        if notFlag or orFlag or andFlag:
+        if notFlag or andFlag:
             notFlag = 0
-            orFlag = 0
             andFlag = 0
             if not letter.isalpha():
+                return 0
+        if orFlag:
+            
+            orFlag = 0
+            if letter == "+":
+                andFlag = 1
+            elif letter == "-":
+                notFlag = 1
+            elif not letter.isalpha():
                 return 0
         if letter == "+":
             andFlag = 1
@@ -910,3 +917,4 @@ def validate(query):
     if notFlag or orFlag or andFlag:
         return False
     return True
+    
