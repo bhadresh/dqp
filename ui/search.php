@@ -33,14 +33,13 @@
                 	<a href="index.php"><img src="backsmall.jpg" alt="" border="0" /></a>
                 </td>
 				<td>
-					<div align="left">
-						<input id="q" name="q" type="text" value="<?=(isset($_GET['q']) ? $_GET['q'] : '')?>" style="width:600px; height:26px;">
-					</div>
+					<input id="q" name="q" type="text" value="<?=(isset($_GET['q']) ? $_GET['q'] : '')?>" style="width:600px; height:26px;">
 				</td>
 				<td>
-					<div align="right">
-						<input type="image" src="searchsmall.png" style="height: 32px; width: 66px">
-					</div>
+					<input type="image" src="searchsmall.png" style="height: 32px; width: 66px">
+				</td>
+				<td style="padding-left:10px;">
+			        Model:&nbsp;<input type="radio" id="m_QL" name="m" value="QL"<?=(((isset($_GET['m']) && $_GET['m'] == 'QL') || !isset($_GET['m'])) ? ' checked="checked"' : '')?> />QL&nbsp;<input type="radio" id="m_BM25" name="m" value="BM25"<?=((isset($_GET['m']) && $_GET['m'] == 'BM25') ? ' checked="checked"' : '')?> />BM25
 				</td>
 			</tr>
 		</table>
