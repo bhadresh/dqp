@@ -54,8 +54,10 @@ def dqp(q, p=1, m='QL'):
         totalExDocs=set([])
         rdict = {}
         for (rcount,r,indocids,exdocids) in result:
-            totalInDocs.update(indocids)
             totalExDocs.update(exdocids)
+            for indocList in indocids:
+                if(len(indocList)!=0):
+                    totalInDocs.intersection_update(indocList)
             total = total + rcount
             for rec in r:
                 if rec['docid'] in rdict:
@@ -63,12 +65,12 @@ def dqp(q, p=1, m='QL'):
                 else:
                     rdict[rec['docid']] = rec
         
-        badDocs=[]
+        badDocs=set([])
         for docID in rdict.keys():
             if(docID in totalExDocs):
-                badDocs.append(docID)
+                badDocs.update([docID])
             if(len(totalInDocs)!=0 and docID not in totalInDocs):
-                badDocs.append(docID)
+                badDocs.update([docID])
         for docID in badDocs:
             del rdict[docID]
         results = rdict.values()
