@@ -82,18 +82,19 @@ if __name__ == '__main__':
                                    usage="usage: %prog [options] query",
                                    version=__version__)
     parser.add_option('-v', '--verbose', help="Verbose Output [default: %default]", action="count", default=False)
+    parser.add_option('-q', '--query', help="Query", action="store")
     parser.add_option('-p', '--page', help="Page Number [default: %default]", action="store", type='int', default=1)
     parser.add_option('-m', '--model', help="Retrieval Model [default: %default]", action="store", choices=['QL', 'BM25'], default='QL')
 
     (options, args) = parser.parse_args()
-    if not args:
+    if not args and not options.query:
         print "Please provide query"
         parser.print_help()
         raise SystemExit
     
     _verbose = options.verbose
     
-    query = args[0]
+    query = options.query if options.query else args[0]
     valid = queryparser.validate(query)
     if valid:
         query = queryparser.main(query.lower())
