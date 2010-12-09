@@ -55,15 +55,16 @@ def dqp(q, p=1, m='QL'):
         rdict = {}
         for (rcount,r,indocids,exdocids) in result:
             totalExDocs.update(exdocids)
-            for indocList in indocids:
-                if(len(indocList)!=0):
-                    totalInDocs.intersection_update(indocList)
+            if len(totalInDocs) == 0 and len(indocids) > 0:
+                totalInDocs = set(indocids)
+            elif len(indocids) > 0:
+                totalInDocs = totalInDocs.intersection(set(indocids))
             for rec in r:
                 if rec['docid'] in rdict:
                     rdict[rec['docid']]['score'] = rdict[rec['docid']]['score'] + rec['score']
                 else:
                     rdict[rec['docid']] = rec
-        
+
         badDocs=set([])
         for docID in rdict.keys():
             if(docID in totalExDocs):
@@ -118,8 +119,10 @@ if __name__ == '__main__':
         print {'count':0, 'records':[], 'error': 'Invalid Query'}
         raise SystemExit
     
+    if _verbose:
+        print query
     result = dqp(query, options.page, options.model)
-    if _verbose:        
+    if _verbose:
         for r, d in enumerate(result['records']):
             print "%d. %s" % (r + 1, d)
     else:
