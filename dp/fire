@@ -1,15 +1,14 @@
 #!/bin/bash
 if [[ $1 == "local" ]]; then
     for pid in `ps aux | grep 'server.py' | grep -v grep | cut -d' ' -f2`; do kill -9 ${pid}; done
-    python `dirname $0`/server.py -i $2 $3 &
+    python `dirname $0`/server.py $2 &
 else
     nodesfile=`dirname $0`/cloud.nodes
     a=0
     for ip in `cat ${nodesfile} | cut -d':' -f1`
     do
         echo "Restarting server on ${ip}"
-        a=`expr $a + 1` 
-        ssh -i ~/key.pem ${ip} -C "`dirname $0`/fire local ${a} ${1} &"
+        ssh -i ~/key.pem ${ip} -C "`dirname $0`/fire local ${1} &"
     done
 fi
 
