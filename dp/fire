@@ -1,6 +1,6 @@
 #!/bin/bash
 if [[ $1 == "local" ]]; then
-    for pid in `ps aux | grep 'server.py' | grep -v grep | cut -d' ' -f2`; do kill -9 ${pid}; done
+    for pid in `ps aux | grep 'server.py' | grep -v grep | cut -d' ' -f4`; do kill -9 ${pid}; done
     python `dirname $0`/server.py $2 &
 else
     nodesfile=`dirname $0`/cloud.nodes
