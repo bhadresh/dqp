@@ -50,15 +50,27 @@ def dqp(q, p=1, m='QL'):
         result = pool.map(do_search, args)
         
         # Merge results
+        totalInDocs=set([])
+        totalExDocs=set([])
         rdict = {}
-        for (rcount, r) in result:
+        for (rcount,r,indocids,exdocids) in result:
+            totalInDocs.update(indocids)
+            totalExDocs.update(exdocids)
             total = total + rcount
             for rec in r:
                 if rec['docid'] in rdict:
                     rdict[rec['docid']]['score'] = rdict[rec['docid']]['score'] + rec['score']
                 else:
                     rdict[rec['docid']] = rec
-
+        
+        badDocs=[]
+        for docID in rdict.keys():
+            if(docID in totalExDocs):
+                badDocs.append(docID)
+            if(len(totalInDocs)!=0 and docID not in totalInDocs):
+                badDocs.append(docID)
+        for docID in badDocs:
+            del rdict[docID]
         results = rdict.values()
         combined_result = sorted(results, key=operator.itemgetter('score'), reverse=True)
         combined_result = combined_result[(p - 1) * 10:(p * 10)]
@@ -71,7 +83,8 @@ def do_search(arg):
     try:
         uri, q, k, m = arg
         dqp = Pyro.core.getProxyForURI(uri)
-        result = dqp.search(q, k, m)
+        scoresLen,results,indocids,exdocids = dqp.search(q, k, m)
+        result=(scoresLen,results,indocids,exdocids)
     except Exception as e:
         print "Exception:", e
     return result

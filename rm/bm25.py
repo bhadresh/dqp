@@ -65,4 +65,4 @@ def calcBM25Scores(termCount, myindex, query, coder):
             tempScore = tempScore * (((k2 + 1) * qFreq[term]) / (k2 + qFreq[term]))
             docScore = docScore + tempScore
         scores.append([docID, docScore])	
-    return scores
+    return scores,indocids,exdocids

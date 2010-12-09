@@ -66,15 +66,15 @@ class RetrievalModel(Pyro.core.ObjBase):
     def getRanks(self, query, model):
         """Calculate Score"""
         if model == 'QL':
-            scores = calcQLScores(self.termCount, self.index, query,self.coder)
+            scores,indocids,exdocids = calcQLScores(self.termCount, self.index, query,self.coder)
         elif model == 'BM25':
-            scores = calcBM25Scores(self.termCount, self.index, query,self.coder)
-        return scores
+            scores,indocids,exdocids = calcBM25Scores(self.termCount, self.index, query,self.coder)
+        return scores,indocids,exdocids
 
     def search(self, query, K=10, model='BM25'):
         """Perform Search"""
         self.log(query)
-        scores = self.getRanks(query, model)
+        scores,indocids,exdocids = self.getRanks(query, model)
         results = []
         for entry in scores: # Returning TOP K results
             if(model=='BM25'):
@@ -87,7 +87,7 @@ class RetrievalModel(Pyro.core.ObjBase):
                 'url': self.pidMap[entry[0]],
                 'pagerank': self.pageRanks[entry[0]]
             })
-        return (len(scores), results)
+        return len(scores),results,indocids,exdocids
     
     def log(self, msg):
         if self.verbose:

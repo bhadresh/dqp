@@ -53,5 +53,5 @@ def calcQLScores(termCount, myindex, query, coder):
                 docScore = docScore + log10((1 - LAMBDA) * (tf * 1.0 / termCount[docID]) + 
                                             LAMBDA * (termIndex[term]['count'] * 1.0 / termCount['total']))        
         scores.append([docID, docScore])	
-    return scores
+    return scores,indocids,exdocids
 
