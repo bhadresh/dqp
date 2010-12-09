@@ -5,7 +5,7 @@
 	</head>
 	<body bgcolor="#FFFFFF" text="#000000">
 		
-		<div align="middle">
+		<div align="center">
 			<a href="http://dictionary.reference.com/browse/elucidate"><img src="back.jpg" border="none" align="middle"/></a>
 		</div>
 		<p>

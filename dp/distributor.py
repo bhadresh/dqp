@@ -58,7 +58,6 @@ def dqp(q, p=1, m='QL'):
             for indocList in indocids:
                 if(len(indocList)!=0):
                     totalInDocs.intersection_update(indocList)
-            total = total + rcount
             for rec in r:
                 if rec['docid'] in rdict:
                     rdict[rec['docid']]['score'] = rdict[rec['docid']]['score'] + rec['score']
@@ -73,9 +72,11 @@ def dqp(q, p=1, m='QL'):
                 badDocs.update([docID])
         for docID in badDocs:
             del rdict[docID]
+        
         results = rdict.values()
         combined_result = sorted(results, key=operator.itemgetter('score'), reverse=True)
         combined_result = combined_result[(p - 1) * 10:(p * 10)]
+        total = len(results)
         
     return {'count': total, 'time': (time.time() - st), 'records': combined_result}
 
